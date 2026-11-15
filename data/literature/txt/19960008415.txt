@@ -1,0 +1,483 @@
+                                                                                                                                                      N96- 15581
+
+                                            Low     Velocity           Opposed-Flow                   Flame         Spread       in a
+                                                       Transport-Controlled                         Environment
+                                                                       DARTFire
+
+
+
+                                        Jeff West, Pete Thomas, Ruian Chao, and Subrata Bhattachazjee
+                                                     Department  of Mechanical  Engineering
+                                             San Diego State University, San Diego, CA 92182-0191
+
+
+                                                       Lin Tang and Robert A. Altenkirch
+                Department            of Mechanical   Engineering   and NSF/ERC       for Computational                                  Field Simulation
+                                          Mississippi   State University, Mississippi     State, MS 39762
+
+                                                                              Sandra L. Olson
+                                                                   NASA       Lewis Research Center
+                                                                        Cleveland,          OH 44135
+
+
+
+Introduction
+
+
+Opposed-flow     flame spread over a solid fuel is a fundamental     combustion                                         problem   with applications  to fire
+safety. The forced or free convection   configuration   for the situation where                                         the opposing   oxidizer flow velocity,
+
+Vr , is large compared                to the flame      spread       rate,       , has been subjected               to substantial        investigation       (see for
+                                                                                                                                     ^       ^
+
+
+example       Refs. [1-3]).         Reasonable       agreement         exists    on the physics          of the process         for Vr / Vf>>l.        In this limit,      the
+flame    propagates          by transferring         heat by conduction                to the unburnt         fuel ahead        of it to raise the fuel
+                                A                                                           ^
+
+
+temperature         from        T= to the    vaporization           temperature             Tv . This produces        gas-phase      fuel to feed the          gas-phase
+flame    with species           diffusion    taking        place    in the presence             of the relatively      strong     convective        bulk   oxidizer      flow.
+
+                                                                                 ^      ^
+
+
+While     the physics        of the flame         spread     process         for Vr / V/>>        1 are reasonably         clear, such is not the case for
+
+Vr /       of unit order.           This situation      may        arise in the absence             of any externally        supplied        forced    flow   in the
+reduced-gravity            environment           of spacecraft       where       natural convection            is suppressed.            Consequently,        our focus     in
+the DARTFire project is on flame spread at reduced or microgravity        in an effort to delineate    those aspects of
+the physics of the problem that must be included    in flame spread modeling.      Modeling     efforts are important       to
+spacecraft fire safety issues because, unlike usual experimentation    in Earth-bound     laboratories,    it is difficult to
+obtain substantial    amounts  of experimental data under reduced-gravity      conditions  that have direct application
+to space      travel.
+
+
+As     Vr is made       close       to V/, radiation        cannot     be ignored           [4]. For flames     spreading         into a low-velocity          flow    or a
+quiescent   environment   that can be obtained  in microgravity,   we anticipate behavior   then that is different                                                       from
+that obtained at the higher velocities  where radiation   is unimportant    and transport is relatively fast.
+
+
+Objectives
+
+
+The overall objectives  of the DARTFire    project are to uncover    the underlying    physics   and increase
+understanding   of the mechanisms     that cause flames to propagate     over solid fuels against a low velocity       of
+oxidizer flow in a low-gravity   environment.     Specific objectives are 1) to analyze    experimentally     observed
+flame shapes, measured     gas-phase      field variables, spread rates, radiative characteristics,     and solid-phase
+regression  rates for comparison      with previously      developed    model prediction    capability that will be
+continually  extended,  and 2) to investigate       the transition  from ignition   to either flame propagation     or extinction
+in order to determine   the characteristics      of those environments     that lead to flame evolution.    To meet the
+objectives,       a series      of sounding        rocket     experiments            has been designed          to exercise       several        of the dimensional,
+
+                                                                                            189
+controllable    variables that affect the flame spread process over PMMA in microgravity,                        i.e, the opposing         flow
+velocity   (1-20 cm/s), the external radiant flux directed to the fuel surface (0-2 W/cm2),                     and the oxygen
+concentration       of the environment       (35- 70%). Because    radiative    heat transfer   is critical   to these   microgravity
+flame spread       experiments,  radiant heating is imposed,  and radiant heat loss will be measured.     These are the
+first attempts     at such an experimental    control and measurement    in microgravity. Other firsts associated  with
+the experiment   are 1) the control of the low velocity,      opposed flow, which is of the same order as diffusive
+velocities and Stefan flows; 2) state-of-the-art    quantitative     flame imaging for species-specific emissions (both
+infrared and ultraviolet)   in addition   to novel intensified    array imaging to obtain a color image of the very dim,
+low-gravity      flames.
+
+
+UV-Visible        Imaging
+
+
+As part of the DARTFire sounding             rocket experiment,    an intensified    array video camera is used to image the
+flame. This technique         has the advantage     of increased sensitivity    over film (equivalent    film ASA numbers       can be
+as high as 180,000 [5]) and therefore          can enable direct visualization      of radical species by incorporating
+appropriate      filters. It has the disadvantage,     however,  of imaging      only in black and white due to its operational
+characteristics.      Because    a color image is strongly desired, in part for comparison          with previous    film images,   a
+multispectral intensified  array camera was obtained              that could image      with red, green, and blue additive filters
+(RGB) as well as narrow-bandpass     filters for specific         excited species.      The RGB filtered images can be combined
+to obtain     a 24-bit     color composite   image   of the flame as part of the post-mission        image     processing.
+
+
+The intensified    array camera (Xybion ISG 240, 768 x 493 pixel array) includes    a filter wheel with 6 filters. The
+rotation rate of the filter wheel is 300 rpm, providing   5 frames per filter per second. Color filters include    a red
+additive   dichroic filter with 80% transmission  above 610 nm, a green additive     dichroic filter with 80%
+transmission    from 505-575 nm, and a blue additive    dichroic filter with 80 % transmission    below 480 nm. A
+neutral density filter with 70% transmission      is also used to obtain a total intensity  measure.    Chemiluminescent
+emissions   are imaged  through    20 nm bandwidth       OH and CH filters at 310 nm and 430 ran. The camera utilizes
+peak mode to avoid saturation       of the bright flames against the dark background       and optimizes   exposure    time
+for each filter image independently.
+
+
+Infrared      Imaging
+
+Infrared      emissions      from the combustion     products   will also be monitored      during     the DARTFire          experiment.          A
+multispectral      PtSi detector   camera (Inframetrics,    Inc. Model         Infra-Cam  PtSi FPA (256x256 pixel array)) was
+modified      to include a 6-filter internal  wheel. Filters include           1.87 pm (H20), 4.3 _m_ (CO2), 3.4 _m (MMA
+vapor),   4.8 _rn (CO), and two soot filters at 1.6 and 3.8 _m. The filter wheel rotates 1 rev/s,    providing    1 image
+per filter per second, which is recorded    for later image processing.   The gain is fixed for all filters, so each image
+must be balanced     to provide a similar brightness.
+
+
+Ground-Based              Experiments
+
+
+Laboratory    and low-gravity    tests aboard the NASA Learjet have been performed     using the cameras.  The UV-
+visible imaging   provides    very good color reproduction  provided the rate of change in the image is slow relative
+to the 5 Hz framing    rate so that proper overlap of the images can be obtained   upon recombination.    Fortunately,
+in low gravity,   most of the changes occur over significantly longer times. Images from the free radical
+chemiluminescence      show that the peak intensity zone from both excited CH and OH occurs at the same
+approximate   distance from the fuel surface. Excited OH is more evenly distributed   across the visible flame than
+excited CH, which is more localized,   and thus, presumably, gives a better idea of where the highest    reaction
+rate zones occur.
+
+
+Infrared imaging   has provided    a first glimpse into the species fields in the experiment.       Because the image is
+generated  due to the combined      influence   of the concentration    and temperature,    accurate modelling     of the gas-
+phase radiation  greatly helps interpretation      of the results. Results to date indicate    that MMA fuel vapor is
+indeed localized  near the surface.     CO appears over a fairly thick region in low gravity        whereas   it occurs over a
+
+
+                                                                      190
+thinregionin normalgravity.WaterandCO2extendinto the oxidizer                                                                     side of the flame,              but CO 2 extends
+farthest.   This could be due to condensation     of the water vapor as it moves into cooler regions, because
+stoichiometric    water concentrations  are at least six times the dew point at ambient temperatures.
+
+
+Imaging of the gaseous                                species is more straightforward                       than soot because            stoichiometry     dictates to a large
+degree the concentration                                ranges of the gaseous species.                      Soot concentration,            however,    is a very strong function
+of experimental      conditions (especially  gravity) and can span several orders of magnitude,    so determining    the
+right filters for the soot requires high quality ground-based      testing prior to the sounding rocket flights.
+DARTFire will be flying the sounding        rocket hardware   on the DC-9 this spring in order to finalize these filter
+choices.
+
+
+DARTFire                 Modeling
+
+
+The DARTfire experiment        is supported  by, and                                            results interpreted         in concert      with, a comprehensive                   modeling
+effort that is both analytical   and computational,                                             e.g., [6,7].
+
+
+Model Sweep: A model sweep is carried out in Fig. 1, where the computed                         spread rate corresponding          to
+various mathematical       models is presented       for a particular environmental        condition      for flame spread over a
+thick slab of PMMA in a fully developed            channel   flow configuration,     i.e., similar to the DARTFire
+configuration.   On the very left of the abscissa (model #1), the spread rate matches                   (within 99.9%) with the exact
+solution of de Ris [1], and on the extreme right (model #14) is the experimental                    result of Fernandez-Pello         et al.
+[2], with the intermediate     points being the computational           results with the assumptions           in the thermal    theory of
+de Ris, i.e., zero hang distance      (#2), approximate      velocity boundary      condition      (#3), Oseen flow (#4), constant
+gas density (#5), no wall blowing        (#6), infinite-rate   chemistry    (#7), known vaporization           temperature     (#8),
+constant transport    properties    (#9), no gas or surface radiation (#10-#12), no radiation feedback                  (#13), removed
+one by one. It is immediately      noticeable    that the Oseen flow assumption,           i.e., the assumption       of a slug flow for
+the opposing                flow         field,        is the crudest       of all assumptions                  at both high      and low            $)_.
+                                                                                                                                                     g
+
+
+
+
+EST: An Extended     Simplified Theory (EST) [6] has been developed                                                          that gives a closed form approximate
+solution for the spread rate and the flame structure corresponding                                                          to model # 6. In the simplified formulation,
+the conservation                     equations
+                                            areparabo d. -- isreplaced
+                                                                    withaneq valent
+                                                                                  velocity
+                                                                                         --%= Vh,
+                                                                                               degto
+overcome                 the drawbacks                  of the Oseen        approximation,                  and a new      boundary        condition            is introduced     for
+
+
+#2 = _2[YF                  - fl, (Yo - 1)], the second                     Schvab-Zeldovich                    coupling     function,      such         that   at the vaporizing        surface,
+            a    *¢
+
+
+
+
+¢2   "_--   Vlif't¢2,f      "-   "VI e    --_           where        Vie and    Vhy   d   are      unknown         coefficients    and      _1.'_6          are known      parameters
+                                            J    _t
+
+
+
+
+(Yo...             Ah_           Ah_            T_       Z,      _C_      ). Thisresultsinamodifiedexpressionforthespreadrate:
+     s                                          T..'Z,"
+fl, hick,eSr -- f16                             = r_,_ _F '2           where,     F' -                                                                                                              (1)
+                                 ^                                                               rs,ad,eS_ - f13,           T/,ad,F.S
+                                                                                                                                    r = 1+ fl_ f12                   ln(1 + B) )
+
+
+For Vhye = Vie                   = 1 the spread                 rate expression           of Eq. (1) reduces             to the de Ris formula,                 l)eq _ should   be the
+                                                                                                        ^
+
+
+
+velocity              at the flame          leading           edge    at a distance             Lg = ---& from the surface               [8,9]. Depending              on the geometry
+                                                                                                       V    g
+
+
+under consideration,                            )'hye for the fully developed                      channel       (FDC)     and fiat-plate            (FP) configuration         can be
+evaluated.
+
+
+
+
+                                                                                                             191
+                                                  1                                 I                                              I                                       1
+
+
+
+                                                                                                                                                                                                 (2)
+                                   t-v,j
+In order     to obtain            a functional             relationship between                  _'tif and the parameters                          of the problem,             we note      that       the
+flame stand-off             distance            depends        on this coefficient.              From the one-dimensional                                 solution,      it can be shown           [1]
+
+that the stand-off                distance        depends            on the parameter                 ln(1 + B). Therefore,                        we expect           _'zif to be a function                of
+
+
+ln(1 + B)
+                . The hydrodynamic                          constants,            Ch.PDc and          Ch.Fp as well          as the functional                  relationship           between          Ylif
+
+
+and the blowing                 paramaters            are obtained            through          a series      of numerical              case studies,             resulting       in:
+
+                                                ln(l+        B).     where,                 = 0.09,       and,                   =2.22,                       =0.57.                             (3)
+                    Ylif    =     1 "[- Cliff         _l                           Cliff                           Ch,FD     C                      Ch,FP
+
+
+
+
+To test the flame                 spread        expression          from      the EST thoroughly,                   computations                   were       carried     out for two        different
+
+flow configurations,                   different           oxygen      levels       (Yo...),    a wide          range      of opposing              velocity          (Vg), different       ambient
+
+pressures       (/3),           different       channel        heights        (]_), and different                plate     lengths        up to the leading                edge        ( Xd)" To
+present      the results            on the same plot, we note that                            Eq. (1) can be written                   as:
+                                                                                              ^ F '2
+
+                                                                     Vf,F_.,,_ =     _/hydVg     _--'_6     =    T_Teqvf(_i'Clif)                                                                (4)
+
+                                                                                                                                             ^
+
+
+
+The function f(_i, Qif) carrieswith itallthe chemical information,and Veq_ carriesthe hydrodynamic                                                                                                 effects.
+
+A plot of I_/,co_o
+                 / f(fli,Qif)vs. I_eq_in Fig.2 collapsesallthe computed                                                                      data onto a singlelinedescribed by
+Eq. (4).The spread ratedata [2]at differentoxygen levelsare similarlyplottedin Fig.3.Except for relatively
+
+high or low Vg, where the bounds of the thermal regime are crossed,the data agree well with the prediction of
+the EST.
+
+
+The Microgravity                    Regime:
+
+
+When       the opposing                flow velocity               is reduced,          radiation      plays       a more        important                role. This is evident           from         the
+
+model       sweep          of Fig. 1, where                at Vg=l       cm/s        the introduction               of radiation                 (model       #10 to model         #13) reduces               the
+
+spread       rate by almost                70%.
+
+The Pseudo-Steady                      Hypothesis:                 For a forced            opposing       flow over          a fiat plate,            the spreading            flame      encounters              a
+progressively      stronger flow due to the thinning of the boundary    layer. As a result, even after the ignition
+transients    subside, the flame behavior   changes  with time for all three regimes of flame spread: In the thermal
+regime,       Vf      increases           as rhyd increases;                in the blow-off             extinction          regime,              V/decreases             as the effective
+ residence         time decreases                [2,3]; and,         in the microgravity                  regime,          V/increases               as the radiative           effects     decline           [7].
+
+
+ In Fig. 4, we explore this unsteadiness    by comparing  a series                                                  of steady-state computations                             for the spread rate
+ with unsteady    computations   for an evolving  flame spreading                                                    over a thick fuel bed against                           an opposing   flow
+ velocity of I cm/s. In the steady computations        the fuel pyrolysis length and the flow development         lengths are
+ altered to match the instantaneous      values of the evolving    flame. After the ignition transients  subside,    the spread
+ rate decreases  because  of an increase    in the flame length resulting in a weakening     influence  of the flame trailing
+ edge      on the forward                heat conduction.                As the boundary                  layer effect           becomes            established,           Vf starts to increase                    as
+
+ expected.     It is evident from this figure                              that    the application               of a quasi        steady-state               model       is reasonable          after the
+ initial ignition transients    are over.
+
+
+                                                                                                          192
+SpreadRatePredictionsof theDARTfireMatrix:Thesteady-state       modelaswellasthepredictionsfromthe
+deRisformulaandthe EST are tabulated in Table I for the DARTFire experimental matrix. Because the flame
+spread      rate is dependent on the location of the flame leading edge, the values tabulated                                                                                                                                                                    correspond   to an
+instant     when the flame is at the leading edge of the sample, i.e., 4 cm from the entrance                                                                                                                                                                   of the tunnel and 2 cm
+
+from      the ignition                              source.            Note       that                 the EST predicts                                                    a spread rate very close                                               to the computations          for high        Vg
+while     the de Ris formula,                                          unable                 to capture                                      the hydrodynamic                                                                effects,    overpredicts      the spread     rate by almost           an
+
+order of magnitude.                                              The discrepancy                              between                               the EST and numerical                                                                 model     computations       grows     as {2g is
+reduced      and              radiation                           effect..; become                            dominant,                                  radiation                                        being                  absent    in the EST. With the external             radiative
+flux imposed,                          V/jumps                         as can be expected,                                                       the jump providing                                                              an indication       of the level    of importance        of
+radiation,        which                           can be directly                        compared                                       to experiment.
+
+
+Infra-red         Images:                               The radiation                     code                developed                                  that is incorporated                                                            in the computational     model is capable of
+                                                                                                                                                                                                                                              producing   a spectral view of the flame
+                                                                                                                                                                                                                                              from any given angle. An example      is
+                                                                                                            Spread                               Rate,               (mm/s)                                                                   given in Fig. 5 where the side-view
+  Ox.                I_g                              Radiative
+  Level                                               Power                                                                                                                                                                                   intensity contours in the 4.5/_ m band
+                                                                                                                                                                                                                                              are plotted for comparison     with future
+               ,oo .oo.,o.o,...,_.......,...,,.oo.........o..,                ,. °°°°°°°°o°°°°°..°°_,.,°,°.,,.°°,.°.°.°..°                               .........                  °°°oo°°°,°.°°°°°o..°.°°o...,°°
+
+
+                  cm/                                            (w)               de Ris                                              EST                              Steady-state                                                          IR images. Comparisons      at different
+                                                                                                                                                                        Computatio                                                            bands are expected    to provide
+                                                                                                                                                                        ItS                                                                   valuable insight into the species and
+                                                                              ..............,.....¢,                  ........................                   , ..............                  ,...   .................
+
+
+     35%              15                                          0                      3.84                                         0.32                                                     0.36                                           temperature   fields in the spreading
+                       5                                          0                      1.75                                         0.21                                                     0.17                                           flames.
+                       1                                          0                      0.43                                          0.1                                                     0.04
+                        1                                         1                        -                                                                                                   0.29                                           Conclusions
+                        1                                         2                        -                                                                                                   0.52
+     50%                1                                         0                      0.64                                         0.15                                                     0.09                                           The DARTFire      experiment     and the
+              w                                m                              m                                   n                                              n
+
+                                                                                                                                                                                                                                              supporting   modeling    effort, is
+  Table 1. Spread rate predicted                                                        by different                                             methods                              for the
+                                                                                                                                                                                                                                              designed   to take advantage      of recent
+  experimental   matrix.
+                                                                                                                                                                                                                                              developments     in imaging and the
+ability to model radiative        effects in flame spreading.    Comparison    of spread rate behavior  as the controllable
+variables,    including   the radiative field, are exercised,   and spectral images of the flame with model prediction
+will provide      insight into the important     physics of low-velocity,   opposed-flow  flame spread, the importance      of
+radiative and transport       effects, and delineate those conditions     under which ignition evolves    to flame spreading
+and/or     extinction.
+
+
+Acknowledgments:                                                 This work            was supported                                                by NASA                                          through                        Contract       NCC3-221.
+
+References
+1.        de Ris, J. N., Twelfth Symp. (Int) on Comb., The Comb. Inst., Pittsburgh,       (1969), pp. 241-252.
+2.        Fernandez-Pello,     A.C., Ray, S.R., and Glassman,    I., Eighteenth Symposium    (International)    on Combustion,
+          The Combustion       Institute, Pittsburgh, PA, p. 579, (1981).
+3.        Altenkirch,    R.A., Eichhron, tL, and Rizvi A.R, Combust. Sci. and Tech., Vol. 32, pp. 49-66, (1983).
+4.        Altenkirch,    R.A., Olson, S.L., and Bhattacharjee,   S., "Science Requirement  Document        for DARTFire',
+          NASA Lewis Research Center, May 1994.
+5.        Weiland,    K.J. AIAA-92-0240,     30th Aerospace  Sciences Meeting  & Exhibit, Jan. 6-9, 1992, Reno,.
+6.        Bhattacharjee,    S., West, J., and Dockter, S. "A Simplified Theory for de Ris Flame Spread over ThermaUy
+          thick and Thin Fuel", Combustion        and Flame, Accepted for Publication,   1995.
+7.        Bhattacharjee,                                    S., and Altenkirch,                                       ILA., Twenty-Third                                                                        (Int) Symp.                on Combustion,           pp. 1627-1633,    The
+          Combustion                                      Institute, Pittsburgh,                                       (1990).
+8.        Bejan, A., "Convection    Heat Transfer", John Wiley and Sons, Inc., 1982.
+9.        Williams,  F.A. Sixteenth   Syrup. (Int.) on Comb., The Comb. Inst., Pittsburgh,    (1976), pp. 1281-1294.
+10.       West, J., Bhattacharjee,  S., Thomas,    P., Ramirez, B., and Altenkirch, R.A. 1994, ASME Summer Conference,
+          Colorado   Springs, CO pp.29-36.
+
+
+                                                                                                                                                                                                 193
+            1.25
+
+
+                                                                                                                                                                      le+02
+            1.00
+
+
+
+
+                                      1
+                                                                  Vg=
+                                                                  Vg,       4C
+                                                                            1¢ cm/_;
+                                                                               n/s                       I            i                                                                      -   -   -       Extenclecl                  Simplified      Theor       7
+
+
+                                                                  Exl       :dr ent,       Vg=       40icm/.                                                                                     m           FOC, 30, 50, 70% 02
+                                                                                                                                                                                                 O           FP,         30,       50,     70%     O2
+     _"     0.75
+                                                                                                                                                                                                 +           FDC.            30,     50, 70%           O2.     H=I    0 ¢m           •."
+     ,,.z                                                                                                                                                                                                                                                                        s
+
+
+
+                                                                                                                                                                 o-   le+01
+     >- 0.5o                                                                                     I
+
+                                        i
+            0.25                                                                                                                                                >-
+                                                                                                                                                                                                                             .n.
+
+
+
+            0.00
+                                                .........
+                                                    !...,,...                                                                                                         le+O0              •
+                                                                                                                                                                                                                 s
+
+
+
+
+                                                                                                                                                                                                                                               .....             I
+
+                        2                   4     5           6         7     8        9     10         11        12          13             14                                  1e+O0                                                                       1 e+O1                                    1e+02
+
+                                                                        Model                                                                                                                                                                          Veqv'         cm/s
+
+
+               Fig. 1. Computed spread rates for different models.                                   Models
+               on the right are progressively more comprehensive.                                    FDC
+                                                                                                                                                                                 Fig. 2. Computed and EST-predicted spread rates for
+               configuration,         V_--40 cm/s,            1 cm/s,        Yo.- = 0.533,            _6 =1.0 aim.                                                               different flow configurations and ambient conditions.
+
+
+
+
+      le+03
+                                                                                                                                                                      0.15       -
+
+
+                                                                                                                .o'*"         •          •                                                                   m                                                                                        O0
+                                                                                                      .ooO-°m             •
+
+
+E     le+02                                                                                                                                                                                          o               o             oooo_oooo_o°°
+                                                                                                                                                                      0.10
+E
+
+                                                                                                                                                                 E
+                                                                                                                                                                 E
+                                                                                                                                                                                                                                                                                     []    Unsteady
+                                                                                                                                                                                                                                                                                      •    Steady
+       le+01                      /             ....-'"   _                 de Ris Theory                                                                                 0.05
+>-                                      .--i"             o.......          Extended Simplified                           Theory
+                            /...-_"        -                 []             F-P.,R,&G.,   1981
+
+
+                    /.-'_                                         ,Computation
+       le+00
+
+               1 -01                             1 e+O0                                le+01                                             le+02                                       0                                                           10                                        20                  30
+
+                                                              Yhyd Vg, cmts                                                                                                                                                                                          X,     mm
+
+
+
+
+                    Fig. 3. Experimental              data [2] vs. the prediction                    of EST.                                                                      Fig. 4 Spread rate predicted                                               by the steady and the unsteady
+
+                                                                                                                                                                                  codes for V =lcm/s,                                              Yo.-=0.533,                    P.:l.0aim.
+
+
+
+
+                                                   20
+
+
+
+                                                   2O
+
+
+
+                                                          0             ' 1''''              I''                ''1               ....             I''_'l                  '''           '       t       '    '          '
+
+                                                                        -40                -30                        -20                         -10                 0                      20
+
+                                                                                                                                             X,
+
+
+                                                                              Fig. 5. Intensity contours                      (W/m2.sr)             for the 4.5 micron band
+                                                                              for a particular          case of the experimental                            matrix.
+
+
+
+
+                                                                                                                                                   194
+

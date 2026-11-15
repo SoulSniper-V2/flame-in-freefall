@@ -1,0 +1,20 @@
+[
+  {
+    "paper": "20140004923",
+    "investigation": null,
+    "platform": "normal-gravity lab",
+    "gravity_g": 1,
+    "material": "PMMA",
+    "thickness_mm": 0.075,
+    "geometry": "thin sheet",
+    "flow_mode": "opposed",
+    "flow_cm_s": 7,
+    "o2_pct": 21,
+    "pressure_kpa": 101.325,
+    "quantity": "flame_spread_rate",
+    "value": 0.216,
+    "unit": "cm/s",
+    "outcome": null,
+    "quote": "rate of 0.216 cm/s, with an R-squared"
+  }
+]

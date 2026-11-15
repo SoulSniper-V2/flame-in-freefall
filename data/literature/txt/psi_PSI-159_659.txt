@@ -1,0 +1,645 @@
+          CFI-G Round 1, day 6 with 30% propane (C3H8)
+     Testing with 30% n-butane had earlier been planned for this test day,
+     but a labeling error instead led to the installation of the 30% propane
+              Chamber filled to 2 atm with ~21% O2 (balance N2)
+   Extinction detection effectively turned off so tests were ended ‘manually’
+
+Test 21130A1 (test 1 of 24, hot flame 1 of 15) – momentary hot flame, run as
+planned
+Console data wasn’t captured in time because personnel were working to set up
+video on the science console at the time
+After test: 951 on lowest valve safety timer, 1187 psia in oxidizer bottle, 152
+psia in fuel bottle
+
+
+
+
+                                       1
+Test 21130A2 (test 2 of 24, hot flame 2 of 15) – momentary hot flame, run with
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.173,
+nitrogenIgnitionFlowSlpm=0.591, fuelTestFlow1Slpm=0.173,
+nitrogenTestFlow1Slpm=0.591
+
+
+
+
+                                       2
+Test 21130A2, continued
+
+
+
+
+                          3
+Test 21130A2, continued
+
+
+
+
+After test: 905 on lowest valve safety timer, 1189 psia in oxidizer bottle, 150
+psia in fuel bottle
+
+
+
+
+                                         4
+Test 21130A3 (test 3 of 24) – no apparent ignition, run with
+igniterIgnitionPowerV=3.75, fuelFlowIgnitionDeltaMs=500,
+fuelIgnitionFlowSlpm=0.173, nitrogenIgnitionFlowSlpm=0.591,
+fuelTestFlow1Slpm=0.173, nitrogenTestFlow1Slpm=0.591
+
+
+
+
+                                      5
+Test 21130A3, continued
+
+
+
+
+                          6
+Test 21130A3, continued
+
+
+
+
+After test: 862 on lowest valve safety timer, 1190 psia in oxidizer bottle, 149
+psia in fuel bottle
+
+
+
+
+                                         7
+Test 21130A4 (test 4 of 24) – no-flame test (without fuel flow) of signal levels
+resulting from just the igniter, run with igniterIgnitionPowerV=3.75,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0,
+nitrogenIgnitionFlowSlpm=0.764, fuelTestFlow1Slpm=0,
+nitrogenTestFlow1Slpm=0.764
+
+
+
+
+                                         8
+Test 21130A4, continued
+
+
+
+
+                          9
+Test 21130A4, continued
+
+
+
+
+After test: 862 on lowest valve safety timer, 1190 psia in oxidizer bottle, 149
+psia in fuel bottle
+
+
+
+
+                                        10
+Test 21130A5 (test 5 of 24, hot flame 3 of 15) – momentary hot flame, ignition
+variant of A2, run with igniterIgnitionPowerV=3.85,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.173,
+nitrogenIgnitionFlowSlpm=0.591, fuelTestFlow1Slpm=0.173,
+nitrogenTestFlow1Slpm=0.591
+
+
+
+
+                                       11
+Test 21130A5, continued
+Console PMT data wasn’t captured in time
+
+
+
+
+After test: 811 on lowest valve safety timer, 1190 psia in oxidizer bottle, 149
+psia in fuel bottle
+
+
+
+
+                                        12
+Test 21130A6 (test 6 of 24) – no apparent ignition, run with
+igniterIgnitionPowerV=4, fuelFlowIgnitionDeltaMs=500,
+fuelIgnitionFlowSlpm=0.345, nitrogenIgnitionFlowSlpm=1.181,
+fuelTestFlow1Slpm=0.345, nitrogenTestFlow1Slpm=1.181
+
+
+
+
+                                     13
+Test 21130A6, continued
+
+
+
+
+                          14
+Test 21130A6, continued
+
+
+
+
+After test: 767 on lowest valve safety timer, 1190 psia in oxidizer bottle, 146
+psia in fuel bottle
+
+
+
+
+                                        15
+Test 21130A7 (test 7 of 24) – no apparent ignition, run with
+igniterIgnitionPowerV=4, fuelFlowIgnitionDeltaMs=500,
+fuelIgnitionFlowSlpm=0.432, nitrogenIgnitionFlowSlpm=1.477,
+fuelTestFlow1Slpm=0.432, nitrogenTestFlow1Slpm=1.477
+
+
+
+
+                                     16
+Test 21130A7, continued
+
+
+
+
+                          17
+Test 21130A7, continued
+
+
+
+
+After test: 725 on lowest valve safety timer, 1190 psia in oxidizer bottle, 145
+psia in fuel bottle
+
+
+
+
+                                        18
+Test 21130A8 (test 8 of 24) – no apparent ignition, run with
+igniterIgnitionPowerV=4, fuelFlowIgnitionDeltaMs=500,
+fuelIgnitionFlowSlpm=0.499, nitrogenIgnitionFlowSlpm=1.707,
+fuelTestFlow1Slpm=0.499, nitrogenTestFlow1Slpm=1.707
+
+
+
+
+                                     19
+Test 21130A8, continued
+
+
+
+
+                          20
+Test 21130A8, continued
+
+
+
+
+After test: 684 on lowest valve safety timer, 1190 psia in oxidizer bottle, 143
+psia in fuel bottle
+
+
+
+
+                                        21
+Test 21130A9 (test 9 of 24, hot flame 4 of 15) – momentary hot flame, run with
+igniterIgnitionPowerV=4, fuelFlowIgnitionDeltaMs=500,
+fuelIgnitionFlowSlpm=0.043, nitrogenIgnitionFlowSlpm=0.148,
+fuelTestFlow1Slpm=0.043, nitrogenTestFlow1Slpm=0.148
+
+
+
+
+                                      22
+Test 21130A9, continued
+
+
+
+
+                          23
+Test 21130A9, continued
+
+
+
+
+After test: 638 on lowest valve safety timer, 1190 psia in oxidizer bottle, 143
+psia in fuel bottle
+
+
+
+
+                                        24
+Test 21130M1 (test 10 of 24, hot flame 5 of 15) – sustained ignition, run with
+igniterPreheatDurationMs=1000, igniterIgnitionPowerV=4,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.173,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.173,
+nitrogenTestFlow1Slpm=0
+
+
+
+
+                                        25
+Test 21130M1, continued
+
+
+
+
+                          26
+Test 21130M1, continued
+
+
+
+
+After test: 601 on lowest valve safety timer, 1190 psia in oxidizer bottle, psia in
+fuel bottle
+
+
+
+
+                                         27
+Test 21130M2 (test 11 of 24, hot flame 6 of 15) – sustained ignition, run with
+igniterPreheatDurationMs=1000, igniterIgnitionPowerV=4, pmt2Gain=5.5,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.345,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.345,
+nitrogenTestFlow1Slpm=0
+
+
+
+
+                                        28
+Test 21130M2, continued
+
+
+
+
+                          29
+Test 21130M2, continued
+
+
+
+
+After test: 564 on lowest valve safety timer, 1190 psia in oxidizer bottle, 140
+psia in fuel bottle
+
+
+
+
+                                        30
+Test 21130M3 (test 12 of 24, hot flame 7 of 15) – sustained ignition, run with
+igniterPreheatDurationMs=1000, igniterIgnitionPowerV=4, pmt2Gain=5.5,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.086,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.086,
+nitrogenTestFlow1Slpm=0
+
+
+
+
+                                        31
+Test 21130M3, continued
+
+
+
+
+                          32
+Test 21130M3, continued
+
+
+
+
+After test: 528 on lowest valve safety timer, 1190 psia in oxidizer bottle, 140
+psia in fuel bottle
+
+
+
+
+                                        33
+         Chamber pressurized (with no venting) to ~3 atm at ~21% O2
+
+Test 21130G1 (test 13 of 24) – no apparent ignition, intended to be run as
+planned but not per note, run with igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=4, pmt2Gain=6.75, fuelFlowIgnitionDeltaMs=500,
+fuelIgnitionFlowSlpm=0.086, nitrogenIgnitionFlowSlpm=0 (entered as 0.295 but
+it ran as 0 due to some error), fuelTestFlow1Slpm=0.086,
+nitrogenTestFlow1Slpm=0.295
+
+
+
+
+                                     34
+Test 21130G1, continued
+
+
+
+
+                          35
+Test 21130G1, continued
+
+
+
+
+After test: 44.02 on lowest valve safety timer, 809 psia in oxidizer bottle, 140
+psia in fuel bottle
+
+
+
+
+                                         36
+Test 21130G2 (test 14 of 24, hot flame 8 of 15) – momentary hot flame, repeat
+of G1 but as intended, run with igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=4, pmt2Gain=6.75, fuelFlowIgnitionDeltaMs=500,
+fuelIgnitionFlowSlpm=0.086, nitrogenIgnitionFlowSlpm=0.295,
+fuelTestFlow1Slpm=0.086, nitrogenTestFlow1Slpm=0.295
+
+
+
+
+                                      37
+Test 21130G2, continued
+Console PMT data wasn’t captured in time
+
+
+
+
+After test: 446 on lowest valve safety timer, 813 psia in oxidizer bottle, 140 psia
+in fuel bottle
+
+
+
+
+                                         38
+Test 21130G3 (test 15 of 24, hot flame 9 of 15) – momentary hot flame, run with
+igniterPreheatDurationMs=10000, igniterIgnitionPowerV=4, pmt2Gain=6.75,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.173,
+nitrogenIgnitionFlowSlpm=0.591, fuelTestFlow1Slpm=0.173,
+nitrogenTestFlow1Slpm=0.591
+
+
+
+
+                                      39
+Test 21130G3, continued
+
+
+
+
+                          40
+Test 21130G3, continued
+
+
+
+
+After test: 406 on lowest valve safety timer, 813 psia in oxidizer bottle, 138 psia
+in fuel bottle
+
+
+
+
+                                         41
+Test 21130G4 (test 16 of 24) – no apparent ignition, run with
+igniterPreheatDurationMs=10000, igniterIgnitionPowerV=4, pmt2Gain=6.75,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.345,
+nitrogenIgnitionFlowSlpm=1.181, fuelTestFlow1Slpm=0.345,
+nitrogenTestFlow1Slpm=1.181
+
+
+
+
+                                    42
+Test 21130G4, continued
+
+
+
+
+                          43
+Test 21130G4, continued
+
+
+
+
+After test: 365 on lowest valve safety timer, 815 psia in oxidizer bottle, 137 psia
+in fuel bottle
+
+
+
+
+                                         44
+Test 21130G5 (test 17 of 24) – no apparent ignition, run with
+igniterPreheatDurationMs=10000, igniterIgnitionPowerV=4, pmt2Gain=6.75,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.499,
+nitrogenIgnitionFlowSlpm=1.707, fuelTestFlow1Slpm=0.499,
+nitrogenTestFlow1Slpm=1.707
+
+
+
+
+                                    45
+Test 21130G5, continued
+
+
+
+
+                          46
+Test 21130G5, continued
+
+
+
+
+After test: 324 on lowest valve safety timer, 813 psia in oxidizer bottle, 135 psia
+in fuel bottle
+
+
+
+
+                                         47
+Test 21130G6 (test 18 of 24, hot flame 10 of 15) – momentary hot flame, run
+with igniterPreheatDurationMs=10000, igniterIgnitionPowerV=4,
+pmt2Gain=6.75, fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.043,
+nitrogenIgnitionFlowSlpm=0.148, fuelTestFlow1Slpm=0.043,
+nitrogenTestFlow1Slpm=0.148
+
+
+
+
+                                      48
+Test 21130G6, continued
+
+
+
+
+                          49
+Test 21130G6, continued
+
+
+
+
+After test: 284 on lowest valve safety timer, 813 psia in oxidizer bottle, 135 psia
+in fuel bottle
+
+
+
+
+                                         50
+Test 21130G7 (test 19 of 24, hot flame 11 of 15) – momentary hot flame, run
+with igniterPreheatDurationMs=10000, igniterIgnitionPowerV=4,
+pmt2Gain=6.75, fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.022,
+nitrogenIgnitionFlowSlpm=0.074, fuelTestFlow1Slpm=0.022,
+nitrogenTestFlow1Slpm=0.074
+
+
+
+
+                                      51
+Test 21130G7, continued
+
+
+
+
+                          52
+Test 21130G7, continued
+
+
+
+
+After test: 243 on lowest valve safety timer, 813 psia in oxidizer bottle, 135 psia
+in fuel bottle
+
+
+
+
+                                         53
+Test 21130N1 (test 20 of 24, hot flame 12 of 15) – momentary hot flame, run
+with igniterPreheatDurationMs=1000, igniterIgnitionPowerV=4, pmt2Gain=5.5,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.173,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.173,
+nitrogenTestFlow1Slpm=0
+
+
+
+
+                                     54
+Test 21130N1, continued
+Console PMT data wasn’t captured in time
+
+
+
+
+After test: 210 on lowest valve safety timer, 813 psia in oxidizer bottle, 134 psia
+in fuel bottle
+
+
+
+
+                                         55
+Test 21130N2 (test 21 of 24, hot flame 13 of 15) – momentary hot flame, run
+with igniterPreheatDurationMs=1000, igniterIgnitionPowerV=4, pmt2Gain=5.5,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.345,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.345,
+nitrogenTestFlow1Slpm=0
+
+
+
+
+                                     56
+Test 21130N2, continued
+
+
+
+
+                          57
+Test 21130N2, continued
+
+
+
+
+After test: 178 on lowest valve safety timer, 813 psia in oxidizer bottle, 132 psia
+in fuel bottle
+
+
+
+
+                                         58
+Test 21130N3 (test 22 of 24, hot flame 14 of 15) – momentary hot flame, run
+with igniterPreheatDurationMs=10000, igniterIgnitionPowerV=3.7,
+pmt2Gain=5.5, fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.086,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.086,
+nitrogenTestFlow1Slpm=0
+
+
+
+
+                                      59
+Test 21130N3, continued
+
+
+
+
+                          60
+Test 21130N3, continued
+
+
+
+
+After test: 135 on lowest valve safety timer, 813 psia in oxidizer bottle, 132 psia
+in fuel bottle
+
+
+
+
+                                         61
+Test 21130N4 (test 23 of 24, hot flame 15 of 15) – imaging variant of N4, run
+with intensifierIgnitionGain=30000, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=3.7, pmt2Gain=5.5, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=0.086, nitrogenIgnitionFlowSlpm=0,
+fuelTestFlow1Slpm=0.086, nitrogenTestFlow1Slpm=0
+
+
+
+
+                                       62
+Test 21130N4, continued
+
+
+
+
+                          63
+Test 21130N4, continued
+
+
+
+
+After test: 88 on lowest valve safety timer, 813 psia in oxidizer bottle, 131 psia
+in fuel bottle
+
+
+
+
+                                         64
+Test 21130N5 (test 24 of 24, hot flame of ) – imaging variant of N4, run with
+intensifierIgnitionGain=20000, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=3.7, pmt2Gain=5.5, flowTimeoutSec=60,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.043,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.043,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=35
+
+
+
+
+                                       65
+Test 21130N5, continued
+
+
+
+
+                          66
+Test 21130N5, continued
+
+
+
+
+After test: 46 on lowest valve safety timer, 813 psia in oxidizer bottle, 131 psia
+in fuel bottle
+
+
+
+
+                                         67
+

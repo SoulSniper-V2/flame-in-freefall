@@ -1,0 +1,261 @@
+Test 19150A1 – successful test, run with bracketingExposureStartUsec=10000,
+bracketingExposureMultiplierTimes100=500,
+fiberIgnitionPosition=fiberTestPostition=0, fiberMoveDuringTest=FALSE,
+constantFlowTimeSec=5, useRampFlowToZero=FALSE
+dataCamera Focus=12700, dataCamera Zoom=35000, dataCamera gain=16 dB
+
+
+
+
+After test, 969 on lowest valve safety timer, 647 psia in oxidizer bottle
+
+
+                                         1
+Test 19150A2 – no ignition, just flash and igniter deactivation & retraction,
+run with bracketingExposureStartUsec=20000,
+bracketingExposureMultiplierTimes100=500, fiberIgnitionPosition=11000,
+fiberTestPostition=15300, fiberMoveDuringTest=TRUE, stabilizationTime2Sec=5,
+constantFlowTimeSec=10, useRampFlowToZero=FALSE
+dataCamera Focus=12700, dataCamera Zoom=35000, dataCamera gain=33 dB
+
+
+
+
+After test, ? on lowest valve safety timer, ? psia in oxidizer bottle
+
+                                          2
+Test 19150A3 – successful test, run with bracketingExposureStartUsec=20000,
+bracketingExposureMultiplierTimes100=500, fiberIgnitionPosition=11000,
+fiberTestPostition=15300, fiberMoveDuringTest=TRUE,
+fuelFlowIgnitionDeltaMs=1500, stabilizationTime2Sec=5,
+constantFlowTimeSec=10, useRampFlowToZero=FALSE
+dataCamera Focus=12700, dataCamera Zoom=35000, dataCamera gain=33 dB
+igniterOffDelayMs=1000 (instead of 500 default)
+
+
+
+
+After test, 911 on lowest valve safety timer, 647 psia in oxidizer bottle
+                                         3
+Test 19150A4 – successful ignition, but see underlined note about ‘accident.’
+Test run with bracketingExposureStartUsec=10000,
+bracketingExposureMultiplierTimes100=800, fiberIgnitionPosition=11000,
+fiberTestPostition=15300, fiberMoveDuringTest=TRUE,
+fuelFlowIgnitionDeltaMs=1500, stabilizationTime1Sec=5,
+stabilizationTime2Sec=20, fuelBottleTestFlowRateN2Slpm=0.065,
+nitrogenTestRateN2Slpm=0.368 but accidently didn’t set
+ignitionToTestRampTimeSec=3 as intended and since it was 0 the flow rates
+didn’t change to test values as planned, constantFlowTimeSec=10,
+useRampFlowToZero=FALSE
+dataCamera Focus=13750, dataCamera Zoom=30000, dataCamera gain=24 dB
+igniterOffDelayMs=500 (back to default for this and subsequent testing)
+
+
+
+
+After test, 852 on lowest valve safety timer, 647 psia in oxidizer bottle
+                                         4
+Test 19150A5 – successful test, run with bracketingExposureStartUsec=10000,
+bracketingExposureMultiplierTimes100=800, fiberIgnitionPosition=11000,
+fiberTestPostition=15300, fiberMoveDuringTest=TRUE,
+fuelFlowIgnitionDeltaMs=1500, stabilizationTime1Sec=5,
+stabilizationTime2Sec=20, fuelBottleTestFlowRateN2Slpm=0.065,
+nitrogenTestRateN2Slpm=0.477, ignitionToTestRampTimeSec=3,
+constantFlowTimeSec=20, useRampFlowToZero=FALSE
+dataCamera Focus=13750, dataCamera Zoom=30000, dataCamera gain=24 Db
+
+
+
+
+After test, 778 on lowest valve safety timer, 649 psia in oxidizer bottle
+
+                                         5
+Test 19150B1 – no ignition, but run with useIntensifiedCamera=FALSE,
+bracketingExposureStartUsec=10000,
+bracketingExposureMultiplierTimes100=1200, fuelFlowIgnitionDeltaMs=800,
+constantFlowTimeSec=20, useRampFlowToZero=FALSE
+dataCamera Focus=12700, dataCamera Zoom=35000, dataCamera gain=24 dB
+No HiBMs or use of illumination package
+
+
+
+
+After test, 759 on lowest valve safety timer, 649 psia in oxidizer bottle
+
+                                         6
+Test 19150B2 – successful ignition, but wrong dataCamera Focus and Zoom
+resulting in only partial imaging of the flame, run with
+useIntensifiedCamera=FALSE, bracketingExposureStartUsec=50000,
+bracketingExposureMultiplierTimes100=650, fuelFlowIgnitionDeltaMs=1500,
+constantFlowTimeSec=20, useRampFlowToZero=FALSE
+dataCamera Focus=13750 (instead of planned 12700), dataCamera Zoom=0
+(instead of planned 35000), dataCamera gain=5 dB
+No HiBMs or use of illumination package
+
+
+
+
+After test, 702 on lowest valve safety timer, 649 psia in oxidizer bottle
+                                         7
+Test 19150C1 – successful test, run with useIntensifiedCamera=FALSE,
+bracketingExposureMultiplierTimes100=650, fuelFlowIgnitionDeltaMs=1500,
+constantFlowTimeSec=30, useRampFlowToZero=FALSE
+dataCamera Focus=12700, dataCamera Zoom= 35000, dataCamera gain=5 dB
+No HiBMs or use of illumination package
+
+
+
+
+After test, 637 on lowest valve safety timer, 649 psia in oxidizer bottle
+
+                                         8
+Test 19150B3 – successful test, run with useIntensifiedCamera=FALSE,
+bracketingExposureStartUsec=50000,
+bracketingExposureMultiplierTimes100=700 (as planned),
+fuelFlowIgnitionDeltaMs=1500,
+constantFlowTimeSec=20, useRampFlowToZero=FALSE
+dataCamera Focus=12700, dataCamera Zoom= 35000, dataCamera gain=5 dB
+No HiBMs or use of illumination package
+
+
+
+
+After test, 584 on lowest valve safety timer, 650 psia in oxidizer bottle
+                                         9
+Test 19150D1 – ignition unsuccessful, test run with
+useIntensifiedCamera=FALSE, constantFlowTimeSec=75,
+useRampFlowToZero=FALSE
+dataCamera Focus=10025, dataCamera Zoom= 45000, dataCamera gain=5 dB
+No HiBMs or use of illumination package
+
+
+
+
+After test, 563 on lowest valve safety timer, 649 psia in oxidizer bottle
+
+
+                                        10
+Test 19150D2 – successful test, run with useIntensifiedCamera=FALSE,
+fuelFlowIgnitionDeltaMs=1200,constantFlowTimeSec=75,
+useRampFlowToZero=FALSE
+dataCamera Focus=10025, dataCamera Zoom= 45000, dataCamera gain=5 dB
+No HiBMs or use of illumination package
+
+
+
+
+After test, 448 on lowest valve safety timer, 649 psia in oxidizer bottle
+
+
+                                        11
+Test 19150F1 – successful test, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=50000,
+useBracketedExposures=FALSE, fuelFlowIgnitionDeltaMs=1000,
+useRampFlowToZero=FALSE
+dataCamera Focus=10025, dataCamera Zoom= 45000, dataCamera gain=24 dB
+No HiBMs or use of illumination package
+
+
+
+
+After test, 340 on lowest valve safety timer, 645 psia in oxidizer bottle
+                                        12
+Test 19150G1 – aborted (prior to gas flow) because extinction detection hadn’t
+been reconfigured after ACME was rebooted, where it had shut down on its
+own during the preceding LOS period, run with useIntensifiedCamera=FALSE,
+dataCameraPreIgnitionExposureUs=1000000,
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=100000,
+useBracketedExposures=FALSE, fuelFlowIgnitionDeltaMs=500,
+useRampFlowToZero=FALSE
+dataCamera Focus=10025, dataCamera Zoom= 45000, dataCamera gain=33 dB
+No HiBMs or use of illumination package
+
+
+
+
+                                      13
+Test 19150G2 – successful test, run identically to G1 (neglecting extinction
+detection configuration) with useIntensifiedCamera=FALSE,
+dataCameraPreIgnitionExposureUs=1000000,
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=100000,
+useBracketedExposures=FALSE, fuelFlowIgnitionDeltaMs=500,
+useRampFlowToZero=FALSE
+dataCamera Focus=10025, dataCamera Zoom= 45000, dataCamera gain=33 dB
+No HiBMs or use of illumination package
+
+
+
+
+After test, 271 on lowest valve safety timer, 650 psia in oxidizer bottle
+                                        14
+Test 19150H1 – successful test, run with useIntensifiedCamera=FALSE,
+dataCameraPreIgnitionExposureUs=1000000,
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=100000,
+useBracketedExposures=FALSE, useRampFlowToZero=FALSE
+dataCamera Focus=10025, dataCamera Zoom= 45000, dataCamera gain=24 dB
+No HiBMs or use of illumination package
+
+
+
+
+After test, 206 on lowest valve safety timer, 649 psia in oxidizer bottle
+                                        15
+Test 19150J1 – successful test, run with useIntensifiedCamera=FALSE,
+dataCameraPreIgnitionExposureUs=1000000,
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=100000,
+useBracketedExposures=FALSE, useRampFlowToZero=FALSE
+dataCamera Focus=10025, dataCamera Zoom= 45000, dataCamera gain=24 dB
+No HiBMs or use of illumination package
+
+
+
+
+After test, 138 on lowest valve safety timer, 649 psia in oxidizer bottle
+                                        16
+Test 19150G3 – successful test, variant of G1 and G2 (where only imaging was
+different), run with useIntensifiedCamera=FALSE,
+dataCameraPreIgnitionExposureUs=1000000,
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=100000,
+useBracketedExposures=FALSE, fuelFlowIgnitionDeltaMs=500,
+useRampFlowToZero=FALSE
+dataCamera Focus=10025, dataCamera Zoom= 45000, dataCamera gain=24 dB
+Used HiBMs and illumination package
+
+
+
+
+After test, 77 on lowest valve safety timer, 649 psia in oxidizer bottle
+                                         17
+Test 19150N1 – successful test, run with useIntensifiedCamera=FALSE,
+bracketingNumberOfExposures=2, bracketingExposureStartUsec=60000,
+bracketingExposureMultiplierTimes100=4000, igniterIgnitionPosition=2280,
+flowTimeoutSec=900, fuelFlowIgnitionDeltaMs=1500, stabilizationTime1Sec=4,
+stabilizationTime2Sec=30, fuelBottleIgnitionFlowRateN2Slpm=0.078,
+nitrogenIgnitionRateN2Slpm=0.234, fuelBottleTestFlowRateN2Slpm=0.065,
+nitrogenIgnitionTestRateN2Slpm=0.195, ignitionToTestRampTimeSec=3,
+constantFlowTimeSec=575, useRampFlowToZero=FALSE
+dataCamera Focus=13750, dataCamera Zoom= 30000, dataCamera gain=5 dB
+No HiBMs or use of illumination package
+
+
+
+
+After test, 808 on lowest valve safety timer, 216 psia in oxidizer bottle
+                                        18
+Test 19150S1 – successful test, run with useIntensifiedCamera=FALSE,
+bracketingExposureStartUsec=60000,
+bracketingExposureMultiplierTimes100=600, igniterIgnitionPosition=2280,
+flowTimeoutSec=750, fuelFlowIgnitionDeltaMs=1500, stabilizationTime1Sec=4,
+stabilizationTime2Sec=30, fuelBottleIgnitionFlowRateN2Slpm=0.078,
+fuelBottleTestFlowRateN2Slpm=0.065, ignitionToTestRampTimeSec=3,
+constantFlowTimeSec=575, useRampFlowToZero=FALSE
+dataCamera Focus=13750, dataCamera Zoom= 30000, dataCamera gain=5 dB
+Used HiBMs or use of illumination package
+
+
+
+
+After test, 748 on lowest valve safety timer, 216 psia in oxidizer bottle
+                                        19
+

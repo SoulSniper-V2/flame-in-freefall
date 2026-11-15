@@ -1,0 +1,1048 @@
+        SLICE/BASS
+SYSTEM ACCEPTANCE REVIEW
+   (SAR‐1) May 26, 2010
+              Prepared For:
+              National Aeronautics and Space Administration
+              John H. Glenn Research Center at Lewis Field
+              Microgravity Science Division
+              Cleveland, Ohio 44135
+
+
+              Prepared By:
+              ZIN Technologies, Incorporated
+              6745 Engle Road
+              Middleburg Hts, Ohio 44130
+              SLICE/BASS SAR-1 Agenda
+    • Introduction
+    • SLICE Hardware Overview
+    • SLICE Science Overview, Requirements, & PI Endorsement
+    • SLICE Verification Testing & Status
+    • SLICE Operations Overview
+    • SLICE Open Work, RFA Status, & Risks Assessment
+    • BASS Hardware Overview
+    • BASS Science Overview, Requirements, & PI Endorsement
+    • BASS Verification Testing & Status
+    • BASS Operations Overview
+    • BASS Open Work, RFA Status, & Risks Assessment
+    •ZIN Quality Assessment
+11/23/2011
+                     SAR-1 Review Board
+
+
+
+             Board Member                 Responsibility
+
+             Deb Niemira (Jim Cockrell)   Board Chair
+
+             Sal Anzalone                 Materials
+
+             Tony Nerone                  Mechanical
+
+             Nechelle Grant               Safety/Quality Assurance
+
+
+
+
+11/23/2011
+                 SLICE/BASS Project Team
+             Project Member       Responsibility
+
+             Bob Hawersaat        GRC Project Manager
+             Paul Ferkul          BASS Principal Investigator
+             Sandra Olson         BASS Co-Investigator
+             Fumi Takahashi       BASS/SLICE Co-Investigator
+             Marshall Long        SLICE Principal Investigator
+             Dennis Stocker       SLICE Co-Investigator
+             Jay Owens            Imaging/Optics
+             Mike Johnston        Research Assistant
+             Tibor Lorik          ZIN Project Lead
+             Chuck Bunnell        Mechanical/Operations
+             Chris Bodzioney      Safety
+             Chris Dixon          Mechanical Designer
+             Kevin Dendorfer      Technician
+             Jim Bruewer          Mechanical Engineer
+11/23/2011
+             System Acceptance Review Purpose
+
+
+
+
+      Obtain Engineering Board Assessment on the
+      acceptability of the SLICE and BASS hardware to
+      proceed with shipment for flight ULF5 MPLM
+      scheduled for launch in September 2010.
+
+
+
+
+11/23/2011
+            SLICE HARDWARE OVERVIEW
+• SLICE will utilize the SPICE hardware currently on ISS
+      – Experiment Assembly, Cables, Control Box, Video Camera
+• SLICE will refurbish the SPICE Gas Bottles for re-flight
+• SLICE will design, fab, assemble, test new hardware
+      – 2.1 mm and 3.2 mm burner tubes
+      – Upgraded Nikon Still Camera
+      – Blue-Green Filter
+      – Ceramic Pyrometry Fiber
+
+
+
+
+4/14/2010                                                        6
+             Hardware Overview Configuration
+
+
+
+
+11/23/2011
+            SPICE ON‐ORBIT IN MSG
+
+
+
+
+4/14/2010                           8
+          SLICE HARDWARE OVERVIEW
+
+
+
+Gas Bottles in Case (1 of 2)   Experiment Assembly   Video Camera
+
+
+
+
+   Gas Bottle (1 of 12)        Ignitor/Burner Case    Control Box
+  4/14/2010                                                         9
+             SLICE HARDWARE OVERVIEW
+                       (NEW)
+
+
+     Burner Tube (2.1 mm & 3.2 mm)
+                                     Ceramic Pyrometry Fiber
+
+
+
+
+                                          LEXAN Window
+
+            D300s Still Camera
+4/14/2010                                                      10
+            SLICE HARDWARE OVERVIEW
+
+
+
+
+4/14/2010                             11
+            SLICE SCIENCE OVERVIEW
+OBJECTIVES
+• Identify the lift-off velocity limits in air
+  for flames of methane, ethylene, and
+  selected dilutions of each fuel as a
+  function of the nozzle size. When
+  possible, also identify the blow-out
+  velocities (i.e., when the flame
+  extinguishes).
+• Characterize the hysteresis of flame
+  lifting and reattachment (i.e.,
+  stabilization) with variations in flow
+  conditions as a function of the fuel and
+  nozzle size.
+• Characterize the structure of the flame,
+  especially its base (i.e., stabilizing
+  region), from attached through lifted
+  conditions as a function of the fuel,
+  nozzle size, and flow conditions.
+
+4/14/2010                                        12
+       SLICE SCIENCE REQUIREMENTS
+•   Fuel Nozzles
+      – All nozzles are replaceable on-orbit by the crew
+      – Fuel nozzle installed orientation is in the axis of the flow duct
+      – Fuel nozzles are circular with a constant internal cross section
+      – 2 new nozzles have been fabricated.
+      – Off-the-shelf tubes have inner diameter with a tolerance of better than the required
+        ±0.1 mm
+      – The original SPICE nozzles (0.4, 0.8, and 1.6 mm) and the new SLICE nozzles will be
+        measured such that the actual size is known with an accuracy of ±0.05 mm
+      – Burner tubes are made of 304 Stainless Steel
+•   FUELS
+      – Project has procured gases with appropriate fuel type, purity, and concentration such
+        that the gas is dry with a net amount of contaminants less than a mole and
+        concentration known to within ±0.005 mole fraction as verified by vendor certification
+        documentation.
+      – Gas volume (bottle pressure) has been maximized based on the minimum thermal
+        environment such that condensation does not occur.
+      – The 12 fuels bottles will be filled as shown in Slide 6.
+•   Oxygen Concentration
+      – Project will include steps in crew procedures to install a Compound Specific Analyzer
+        (CSA-O2) into the MSG to measure the Oxygen concentration. There is also a Major
+        Constituent Analyzer available to measure the Columbus Module concentration.
+
+4/14/2010                                                                                        13
+       SLICE SCIENCE REQUIREMENTS
+• Pressure
+      – Cabin pressure will be measured by 4 pressure transducers in the
+        Columbus module and the differential pressure between the cabin and MSG
+        WV measured by 2 MSG transducers.
+• Acceleration
+      – SLICE testing will be scheduled around planned thruster firing or spacecraft
+        dock or undock.
+      – The acceleration environment will be measured by SAMS during SLICE
+        testing which will be installed into the MSG Work Volume.
+• Still Imaging
+      – A Nikon D300s camera with a blue-green BG-7 filter that can installed or
+        removed will be manifested for use with SLICE.
+      – The Nikon D300s camera will be calibrated with a blackbody source
+            • Calibration will be performed using the replacement LEXAN top window and with
+              and without the BG‐7 filter from 800 – 1200 ˚C in 100 ˚C increments.
+
+
+4/14/2010                                                                                     14
+       SLICE SCIENCE REQUIREMENTS
+•   There shall be a single ceramic SiC fiber with a diameter of less
+    than 100 and shall be known to within ± 5 microns that can be
+    located downstream and orthogonal to the fuel nozzle.
+      – The fiber used will be an 80 micron diameter fiber
+      – The fiber will diameter will be measured using a calibrated measurement device
+        capable of the required accuracy
+      – Utilize the BASS Frame assembly and Flat Fuel Holder design
+      – Distance from the nozzle is adjustable
+      – Fiber is in the Field of View of the Still Camera
+
+
+
+
+4/14/2010                                                                            15
+            SLICE SUCCESS CRITERIA
+• Minimum Success -– Still images are acquired for at least 15
+  different lifted flames with different combinations of fuel flow
+  and air velocity with a single fuel, or at least 10 different lifted
+  flames each of two fuels, or at least 5 different lifted flames
+  each of 3 or more fuels.
+• High Success -– Still images are acquired of at least 30
+  different lifted flames total from at least 3 different fuels. The
+  still images are acquired with a blackbody characterized
+  camera for soot pyrometry or liftoff limits are determined for at
+  least one fuel.
+• Complete Success -– Testing conducted with all 12 fuel
+  bottles, with identification of stability limits and smoke points
+  (within the range of the SPICE velocity limits). Still images
+  are taken of lifted flames with a blackbody characterized
+  camera.
+
+
+4/14/2010                                                            16
+SLICE PI Endorsement
+
+
+
+
+                       17
+     SLICE PRODUCT VERIFICATION TESTING
+•   D300s Still Camera
+      –     Functional Test
+      –     Soft Stow Vibration per 60054-TST-007 - Complete
+      –     Radiated Emissions Test – RE02 – 5/25/10
+              • The original plan was to use similarity of design from the original camera however the EME panel on
+                  5/13/10 informed the project that it will be required to perform a radiated emissions test.
+      –     Thermal Operating Test per 60054-TST-009 – 5/27/10
+              • 10 cycles from ‐10 to 45 ˚C
+      –     Materials Bake-out for 72 hours at 120 ˚F – 6/1/10
+              • The SPICE off‐gas testing using the similar D100 camera as well as all other SPICE hardware has a total
+                  T value of 0.001152. Using this value for just the new BASS D300s camera will provide sufficient
+                  margin as well as allow the payload to remain below the 0.5 limit.
+      –     Black Body Calibration and Focus Setup using Replacement Top Window. – 6/5/10
+•   Burner Tubes
+      –     Perform dimensioning calibration - Complete
+•   Replacement Top Window
+      –     Soft Stow Vibration per 60054-TST-007 - Complete
+      –     Anneal at 250˚F for 1 hour - Complete
+      –     Materials Bake-out for 72 hours at 120 ˚F - Complete
+
+
+
+
+4/14/2010                                                                                                            18
+     SLICE PRODUCT VERIFICATION TESTING
+
+• Ceramic Pyrometry Fiber
+      – Materials Bake-out for 72 hours at 120 ˚F – 5/29/10
+      – Soft Stow Vibration per 60054-TST-007 – 6/3/10
+         • Engineering Vibe Test passed
+• Gas Bottles
+      – Soft Stow Vibration per 60054-TST-007 - Complete
+      – Pre and Post Vibe Helium Leak Test – Complete
+      – Fill per Table above – 6/3/10
+
+
+
+4/14/2010                                                     19
+                SAFETY VERIFICATIONS
+•   SLICE is designated as a SPICE re-flight.
+•   Safety Package Submitted to the PSRP
+•   Revised Package in review to include additional hardware and
+    correct original SPICE hazards
+•   Out of Board Approval is expected once verifications are closed
+•   72 Safety Verifications
+      – 43 Closed Verifications
+      – 12 Crew Procedure Controls – Procedures are being developed
+      – 4 Materials Certification – MIUL draft in review. Updates need to be
+        incorporated
+      – 5 Proper Fill of Gas Bottles – 6/3/10
+      – 3 Fracture Control Summary Report – Routed to SWG
+      – 2 As-Built Inspections – 6/11/10
+      – Shatterable Containment Analysis – 6/1/10
+      – Sharp Edge Drawing Analysis – 6/1/10
+      – Stowage Configuration – 6/20/10
+
+
+4/14/2010                                                                      20
+            INTEGRATION VERIFICATIONS
+• Utilize SPICE ICD as a baseline for the integration
+  requirements with MSG
+• New verifications not addressed in the safety
+  verifications include the following:
+      –     Fit Check for D300s Still Camera in MSG EU - Complete
+      –     Hardware weight and volume – Complete @ KSC
+      –     Still Camera Video Interface Test in MSG EU - Complete
+      –     Labeling – Complete @ KSC
+• Physical and Functional Interface testing in the MSG
+  EU with the new camera were successful.
+• Modified SPICE crew procedures were dry run to
+  evaluate their status. Other than minor tweaks the
+  procedures are adequate.
+
+4/14/2010                                                            21
+       SLICE Operations on ISS
+Crew Procedures
+
+2.001 SLICE HARDWARE SETUP
+2.002 SLICE SOOT REMOVAL
+2.003 SLICE FAN CALIBRATION
+2.004 SLICE OPS PREP
+2.005 SLICE OPERATIONS
+2.006 SLICE VIDEOTAPE EXCHANGE
+2.007 SLICE FLASH CARD EXCHANGE
+2.008 SLICE HARDWARE STOW
+
+All currently under development approaching final revision
+           SLICE        Operations
+Typical test operation description
+                                   on ISS
+  Load new DVCAM tapes in recorders
+  Load empty flash card in still camera
+  Install desired fuel bottle
+  Power up SLICE experiment
+  Configure still camera
+  Set fan flow and fuel flow on control box
+  Start MSG video recording
+  Start fuel flow and ignite
+  Adjust fan/fuel as per test matrix
+  Take bracketed still images per test matrix
+  Repeat fan/fuel flow adjustments and take images per test matrix
+  Stop fuel flow to extinguish flame
+  Stop video recording
+  Start MSG Work Volume purge after every other ignition
+  Copy files from flash card to SSC for downlink
+                                                SLICE Nominal Ops Flow
+                                                          SLICE Setup           SLICE Test Sequence               Seq 7     SLICE
+ :15          :15            :10          :25
+                                                                                                                            Stow           :05
+                                                                                 (repeat for each fuel type)
+                                                            2:00
+                                                                                                                             1:00
+
+                                                                            Sequence 1‐6
+
+ SLICE                    MSG Facility                                                                                                MSG Facility Deact
+Payload                     Act
+ FAM
+          SLICE PL Crew                MSG Video
+           Conference                 Equip Setup*
+
+
+
+
+                          * We expect the external MSG Video Equipment to already be deployed, therefore this activity may not need
+                          to be scheduled. We are required to carry this activity in URC.
+
+
+                                         SPICE Gas Bottle
+                                                                                               Fuel Type & Percentage
+    Order of Operations                  Assembly Number
+             1st                                4, 5, 6                                      Methane 100% @ 210 psi.
+             2nd                                   1                                         Ethylene 100% @ 210 psi.
+             3rd                                  12                                          Ethane 100% @ 210 psi.
+             4th                                  11                                          Propane 100% @ 110 psi.
+             5th                                 7, 8                                 Methane 70%, Diluent GN2 @ 210 psi.
+             6th                                9, 10                                 Methane 40%, Diluent GN2 @ 210 psi.
+             7th                                 2, 3                                 Ethylene 20%, Diluent GN2 @ 210 psi
+   SCHEDULE HIGHLIGHTS (Open Work)
+• Still Camera Assembly including Filter
+      – Radiated Emissions Test – RE02 – 5/25/10
+      – Thermal Operating Test per 60054-TST-009 – 5/27/10
+      – Materials Bake-out for 72 hours at 120 ˚F – 6/1/10
+      – Black Body Calibration – 6/5/10
+• Ceramic Pyrometry Fiber Assembly – 5/27/10
+      – Materials Bake out – 5/29/10
+      – Soft Stow Vibration – 6/3/10
+• SAR-2 – 6/9/10
+• Bench Review – 6/22/10
+
+4/14/2010                                                25
+                 SR/DR RFA & Actions
+•   RFA Concern: The SR/DR Plan needs to address the system requirements
+•   Recommended Action: The SR/DR plan needs to be updated to better reflect
+    the systems requirements portion of the review.
+•   Project Response: Rather than rewrite the plan, the science requirements, as
+    well as the entrance and success criteria were adequately addressed during the
+    SR/DR review. Slides were presented that discussed the science requirements
+    and SR/DR success criteria. They are included in the RFA response.
+
+•   ACTION Item: Verify that the new fuel (Ethane) is compatible with the materials
+    it comes in contact, specifically the stainless steel and o-rings.
+•   Compatibility of Ethane has been verified for Stainless Steel as well as the
+    Fluorocarbon FKM o‐rings.
+•   A Materials Certification Letter will be forthcoming upon review and acceptance
+    of the MIUL by GRC. This is expected by 6/8/10.
+
+
+
+
+4/14/2010                                                                         26
+                  SLICE NCR Status
+•   No Non-conformances were written against the SLICE project
+
+
+
+
+4/14/2010                                                        27
+                                   SLICE Risk Summary
+  Risk ID:                               SLICE-002                                   Rank:               1
+ Risk Title:                         Camera EMI Test                              Exposure:          Medium
+   Status:                                  Open                                  Likelihood:        2 - Low
+Risk Owner:                              Tibor Lorik                            Consequence:         4 - High
+Date Opened:                             04/06/2010                              Time Frame:         4 - Near
+                  Given that the project proposes not to perform EMI           Risk Originator:     Tibor Lorik
+                  testing on the replacement still camera there is the
+Risk Statement:                                                                Date Submitted:     04/06/2010
+                  possibility that this approach will not be accepted
+                  resulting in a delay in hardware delivery.                   Resolution Date:    05/27/2010
+Classification:                           Schedule
+                  The project plans to perform radiated emissions testing
+  Milestone:      to qualify the hardware for flight as instructed by the      Last Modified By:    Tibor Lorik
+                  EME panel
+                                                                                Last Modified
+    Phase:                                 None                                                    05/14/2010
+                                                                                On:
+ Subsystem:                                None                                  Approach:           Mitigate
+
+
+  Risk ID:                              SLICE-001                                   Rank:               -
+ Risk Title:                       Ethane Gas Usage                               Exposure:            Low
+                  Closed (Mitigated) The project has analyzed the fuel
+                  for safety impacts and found that this gas selection falls
+   Status:                                                                        Likelihood:        2 - Low
+                  within the bounds of the previously used gases for LFL
+                  and SMAC.
+Risk Owner:                             Tibor Lorik                             Consequence:       3 - Moderate
+Date Opened:                            04/06/2010                               Time Frame:          4 - Near
+                  Given that there is a new gas (Ethane) in the                Risk Originator:     Tibor Lorik
+Risk Statement:   science matrix there is the possibility that this gas        Date Submitted:     04/06/2010
+                  will result in new safety hazard controls.                   Resolution Date:    05/17/2010
+Classification:                            Safety
+  Milestone:                               None                                Last Modified By:    Tibor Lorik
+                                                                                 Last Modified
+    Phase:                                 None                                                    05/03/2010
+                                                                                 On:
+ Subsystem:                                None                                   Approach:              -
+                                     SLICE Risk Matrix
+
+                    5
+
+                    4
+
+
+  Likelihood
+                    3
+
+                    2                                                   1
+
+                    1
+
+                                 1           2           3              4         5
+                                                   Consequence
+
+Trend Rank                 ID     Approach                      Title
+                        SLICE-
+               1                  Mitigate   Camera EMI Test
+                        002
+
+Trend Legend (Based upon report start date of 04/04/2010)
+           Upward                Downward           No Change               New
+            BASS HARDWARE OVERVIEW
+• BASS will utilize the SPICE hardware currently on ISS
+      – Experiment Assembly, Cables, Video Camera
+• BASS will utilize the SLICE Still Camera
+• BASS will design, fab, assemble, test new hardware
+      – Modified 3.2 mm burner tube
+      – GN2 Hose Assembly
+      – Sample Frame Assembly Insert for Experiment Assembly
+      – 4 different fuel holder designs for a total of 41 fuel samples
+      – BASS Control Box
+      – Fan Flow Block Assembly
+      – Ignitor Wire Extension Assembly
+
+
+4/14/2010                                                                30
+            BASS HARDWARE OVERVIEW
+
+
+
+
+            Experiment Assembly                      Video Camera
+
+
+
+
+4/14/2010                         BASS Control Box                  31
+              BASS HARDWARE OVERVIEW
+                       (NEW)
+
+
+      Burner Tube (3.2 mm Modified)
+                                      Sample Frame Assembly
+
+
+
+
+                                                GN2 Hose
+                                                Assembly
+
+            Ignitor Assembly
+
+
+4/14/2010                                                     32
+            BASS HARDWARE OVERVIEW
+                     (NEW)
+
+
+
+
+       FLAT SAMPLE ASSEMBLY (1 CM & 2
+                 CM WIDE)
+
+
+
+
+                                        SPHERE & HEMISPHERE SAMPLE ASSEMBLY (1 CM & 2
+                                                    CM DIAMETER PMMA)
+4/14/2010                                                                        33
+             BASS HARDWARE OVERVIEW
+                      (NEW)
+
+
+
+
+WAX‐IMPREGNATED WICK SAMPLE ASSEMBLY
+            (JAPAN WAX & PARAFFIN)
+
+
+
+
+                                       THICK FLAT SAMPLE ASSEMBLY
+                                              (PMMA & WAX)
+
+4/14/2010                                                           34
+            BASS LAYOUT IN MSG
+
+
+
+
+4/14/2010                        35
+BASS Science Overview
+
+    Dr. Paul Ferkul
+
+
+
+
+                        36
+                 BASS Science Overview
+
+PI:    Dr. Paul Ferkul, NCSER
+
+Co‐PI: Dr. Sandra Olson, NASA GRC
+
+Co‐PI: Dr. Fumiaki Takahashi, NCSER
+                                           Zero‐g facility test burning 2‐cm‐diameter PMMA sphere
+                                           in 30 cm/s airflow. Left: 1 g; Middle: 0 g, 1 s after drop;
+Co‐PI: Prof. James T’ien, CWRU             right: 0 g, 4 s after application of nitrogen extinguishing
+                                           agent.
+
+PM:    Robert Hawersaat, NASA GRC
+
+Engineering Team: ZIN Technologies, Inc.
+
+
+
+
+                                                                                               37
+                     BASS Science Overview
+Objective:
+Bridge the gap between normal gravity NASA‐STD‐6001 Test # 1 method, ground based microgravity
+tests, and actual material flammability in microgravity.
+
+Test effectiveness of an inert, gaseous extinguishing agent (similar to that used on
+ISS) in putting out flames over different materials, geometries, and flow.
+
+Relevance/Impact:
+Relationship between ground test and microgravity test can be investigated by observing flames burning
+for longer times.
+
+Practical, realistic fuels in typical geometries will be examined, including wake flames which
+have characteristics of a fire burning behind another object.
+
+Development Approach:
+BASS will utilize the on orbit hardware SPICE which was launched on STS‐126 and operates on ISS.
+
+Crew required to set up and operate the experiment. Video and data down‐linked to the ground for
+evaluation.
+
+
+                                                                                                 38
+                  BASS Science Overview
+BASS Fuel Assembly for PMMA Sphere     BASS Fuel Geometries (not to scale)
+
+
+
+                      PMMA                               1 and 2‐cm width
+                      Sphere                             fuel sheets
+                                                         (4 different materials)
+
+                         Igniter
+                                                         1 and 2‐cm PMMA
+                                                         spheres
+                                                         (Forward and
+                                                         rearward facing)
+                        Airflow
+                                                          1‐cm width flat wax
+                                                          and PMMA sample
+
+
+
+
+                                                           Candle within tube
+                    SPICE gas nozzle                       (Forward and rearward
+                    (3.2 mm‐DIA)                           facing)
+                                                                                   39
+BASS Science Overview
+      BASS Sample Types
+
+
+
+
+                          40
+                BASS Science Overview
+                                   BASS Test Matrix
+                                                Estimated
+Sample   Test                                                Flow speed
+                        Description            Fuel Burned                  Suppression
+  #       ID                                                    (cm/s)
+                                                   (mg)
+  1      1                                          216          5
+  2      2                                          216         10
+  3      3                                          216         20
+  4      4                                          216         50
+                    Thin Flat, 2‐cm Width
+  5      5                                          216          1
+                          SIBAL fuel
+  6      6                                          216          2
+  7      7                                          216          5
+  8      8                                          216         10         Optional based
+                                                                          on results; when
+  9      9                                          216         20
+                                                                            flame covers
+  10     10         Thin Flat, 1‐cm Width           108          5
+                                                                           entire sample
+  11     11               SIBAL fuel                108         20
+  12     12         Thin Flat, 2‐cm Width           132         30
+  13     13           Nomex III (Blend)             132         50
+  14     14         Thin Flat, 2‐cm Width           252         30
+  15     15     WSTF Nomex Natural (HT90‐40)        252         50
+  16     16         Thin Flat, 2‐cm Width           384         30
+  17     17                 Ultem                   384         50
+                                                                                             41
+                   BASS Science Overview
+                                 BASS Test Matrix (Continued)
+                                                      Estimated Fuel   Flow speed
+Sample # Test ID             Description                                                Suppression
+                                                       Burned (mg)        (cm/s)
+   18     18‐21                                            300
+                       Sphere, 1‐cm Diameter
+   19     22‐25                                             300
+                               PMMA
+   20     26‐29                                             300
+   21     30‐33                                            300
+                     Wake Flame Sphere, 1‐cm
+   22     34‐37                                            300
+                        Diameter PMMA
+   23     38‐41                                            300                        After 1 minute;
+   24     42‐45                                            1200                        Extinguishment
+                       Sphere, 2‐cm Diameter                                          will be initiated
+   25     46‐49                                            1200
+                               PMMA                                    5, 10, 20, 50     by gradually
+   26     50‐53                                            1200
+                                                                      (Re‐ignition at  increasing the
+   27     54‐57                                            1200      multiple speeds) mass flow rate of
+                     Wake Flame Sphere, 2‐cm
+   28     58‐61                                            1200                         nitrogen in a
+                        Diameter PMMA
+   29     62‐65                                            1200                         series of step
+   30     66‐69     Thick Flat, 1‐cm Width, 2‐mm           119                           increments
+                                 Thick
+   31     70‐73                                            119
+                          PMMA, One‐Sided
+   32     74‐77    Flat fiberglass fabric saturated        100
+                   with wax (paraffin), 1‐cm Width
+   33     78‐81        2‐mm Thick, One‐Sided               100
+                                                                                                     42
+                   BASS Science Overview
+                                   BASS Test Matrix (Continued)
+                                                    Estimated Fuel    Flow speed
+Sample # Test ID            Description                                                   Suppression
+                                                     Burned (mg)         (cm/s)
+                   Candle (Japan wax) within tube                          5
+   34      82                                            200
+                           (front ignition)                          (temporarily 0)
+                   Candle (Japan wax) within tube
+   35      83                                            200               10
+                           (front ignition)
+                   Candle (Japan wax) within tube                                       After 1 minute;
+   46      84                                            200               30
+                           (front ignition)                                             Extinguishment
+                    Candle (paraffin) within tube                          5           will be initiated by
+   37      85                                            200                                gradually
+                          (front ignition)                           (temporarily 0)
+                                                                                         increasing the
+                   Candle (Japan wax) within tube                          5           mass flow rate of
+   38      86                                            200
+                           (wake ignition)                           (temporarily 0)      nitrogen in a
+                   Candle (Japan wax) within tube                                         series of step
+   39      87                                            200               10              increments
+                           (wake ignition)
+                   Candle (Japan wax) within tube
+   40      88                                            200               30
+                           (wake ignition)
+                    Candle (paraffin) within tube                          5
+   41      89                                            200
+                          (wake ignition)                            (temporarily 0)
+
+                                                                                                         43
+       BASS SCIENCE REQUIREMENTS
+•   General Requirements
+      – Each Solid Fuel Assembly is mounted inside the Experiment Assembly via a
+        magnetic interface such that it can be installed and removed by the crew
+      – Solid fuel ignition will be done with a hot-wire (Kanthol)
+      – Nitrogen gas to be used instead of fuel from 0 to 500 SCCM N2. Instead of
+        connecting the Experiment Assembly to the gas bottle it is connected via the
+        GN2 hose to the MSG GN2 interface.
+      – 3.2 mm normal length and 3.2 mm short length burner tubes will be
+        manifested
+      – The Control Box will be modified to allow the fan flow adjustment to stop the fan
+        when set to its minimum as a safety mechanism to extinguish flame.
+•   Parameter Measurement
+      – Measurement of the GN2 Flow rate, Fan Voltage, Co-Flow velocity, and
+        flame radiation will be measured and overlaid on the Video.
+      – The acquisition rate as measured by SPICE hardware is 4 Hz.
+      – The measurement accuracy of ±10% was met by the SPICE hardware prior
+        to its launch.
+•   Imaging Requirements
+      – The Field of view of the video can not be changed from SPICE.
+      – The Still Image requirements are the same as for SPICE these were met.
+        Enhanced capability is expected with the D300s.
+4/14/2010                                                                               44
+       BASS SCIENCE REQUIREMENTS
+• Acceleration
+      – BASS testing will be scheduled around planned thruster firing or spacecraft
+        dock or undock.
+      – The acceleration environment will be measured by SAMS during BASS
+        testing which will be installed into the MSG Work Volume.
+•   Oxygen Concentration
+      – Project will include steps in crew procedures to install a Compound Specific
+        Analyzer (CSA-O2) into the MSG to measure the Oxygen concentration. There
+        is also a Major Constituent Analyzer available to measure the Columbus Module
+        concentration.
+•   Crew inserts fuel sample and adjusts ignitor and fuel base to desired
+    position
+      – Sample Frame Assembly is designed to allow for adjustment of the position of
+        the fuel
+      – Ignitor is a wire extension that the crew will be able to position as required to
+        ignite the fuel
+
+
+4/14/2010                                                                                   45
+            BASS SUCCESS CRITERIA
+• Minimal Success: 20 total tests including: eight tests
+  with flat samples (four materials at two different flow
+  speeds); four tests with spherical PMMA samples
+  (four different flow speeds with nitrogen
+  extinguishment); four tests with candles (four
+  different flow speeds with nitrogen extinguishment);
+  and four tests of PMMA wake flames (four different
+  flow speeds with nitrogen extinguishment).
+
+• Complete Success: 60 flames as indicated in test
+  matrix.
+
+4/14/2010                                               46
+BASS PI Endorsement
+
+
+
+
+                      47
+   BASS PRODUCT VERIFICATION TESTING
+• Sample Frame Assembly
+    – Fit Check with Engineering Assembly - Complete
+    – Soft Stow Vibration per 60054-TST-007 - Complete
+    – Materials Bake-out for 72 hours at 120 ˚F - Complete
+    – EMI Test for Magnet Strength - Complete
+• Fuel Samples Assembly (41 flight units)
+    – Fit Check with Engineering Assembly - Complete
+    – Soft Stow Vibration per 60054-TST-007 (Partially Complete)
+• GN2 Hose Assembly
+    – Soft Stow Vibration per 60054-TST-007 - Complete
+    – Pre and Post Vibe Helium Leak Test - Complete
+• BASS Control Box
+    – Functional Test with Engineering Assembly - Complete
+    – Soft Stow Vibration per 60054-TST-007 - Complete
+    – Materials Bake-out for 72 hours at 120 ˚F – 6/1/10
+• Ignitor Wire Extension Assembly
+      – Functional Test with Engineering Assembly – 5/21/10
+      – Materials Bake-out for 72 hours at 120 ˚F – 6/1/10
+4/14/2010                                                          48
+               SAFETY VERIFICATIONS
+• BASS safety package utilizes the SPICE package but
+  it is a stand-alone payload
+• Safety Package Submitted to PSRP.
+• Safety Review scheduled for 6/1/10
+• 52 Safety Verifications
+      – 25 Closed Verifications
+      – 9 Crew Procedure Controls – Procedures are being developed
+      – 4 Materials Certification – MIUL draft in review. Updates need to be
+        incorporated
+      – 4 BASS Control Box Test – 6/2/10
+      – 2 Solid Fuel Cool-down Time Test/Analysis – Report in Review
+      – 2 ECLSS Assessment of Combustion By-products – 6/10
+      – 3 Fracture Control Summary Report
+      – Shatterable Containment Analysis – 6/1/10
+      – Sharp Edge Drawing Analysis – 6/1/10
+      – Stowage Configuration – 6/20/10
+4/14/2010                                                                  49
+            INTEGRATION VERIFICATIONS
+•   Utilize SPICE ICD as a baseline for the integration requirements with MSG
+•   New verifications not addressed in the safety verifications include the
+    following:
+      –     Fit Check for BASS Control Box & GN2 Hose in MSG EU - Complete
+      –     Hardware weight and volume - Complete @ KSC
+      –     Labeling - Complete @ KSC
+      –     Combustion By-products compatibility assessment with MSG Filters – Complete
+•   Physical and Functional Interface testing in the MSG EU with the new
+    Control Box were successful.
+•   Preliminary BASS crew procedures were dry run to evaluate their status.
+    The procedures generally are in good shape with a couple of issues.
+      – The number of images expected to be acquired may limit the number of runs that
+        can be performed in each session. There are eight 4 GB flash disks that will
+        need to be transferred to a laptop, down-linked, and verified all were received
+        prior to flash disks being erased to be reused.
+      – The project is still evaluating the various modes available with the new camera of
+        acquiring images
+4/14/2010                                                                               50
+       BASS Operations
+              Crew Procedures
+                              on ISS
+2.001 BASS HARDWARE SETUP
+2.002 BASS GN2 LEAK TEST
+2.003 BASS FAN CALIBRATION
+2.004 BASS OPS PREP
+2.005 BASS OPERATIONS
+2.006 BASS VIDEOTAPE EXCHANGE
+2.007 BASS FLASHCARD EXCHANGE
+2.008 BASS HARDWARE STOW
+2.009 BASS SETUP FOLLOWING SLICE OPS
+
+(All currently under development approaching final revision)
+
+
+
+
+                                51
+           BASSTypical
+                 Operations                  on
+                       Test Operation Description
+                                                  ISS
+•   Load new DVCAM tapes in recorders
+•   Load empty flash card in still camera
+•   Install and configure BASS sample in Experiment Assembly
+•   Power up BASS experiment
+•   Configure still camera
+•   Set fan flow and GN2 flow
+•   Start MSG video recording
+•   Start still camera
+•   Ignite sample
+•   Allow sample to burn for 60 seconds
+•   Extinguish as per test matrix (some samples extinguish due to complete consumption)
+•   Stop still camera
+•   Stop video recording
+•   Set fan flow to maximum and start MSG Work Volume purge
+•   Wait per test matrix to allow cool down
+
+
+
+
+                                          52
+                                         BASS Operations on ISS
+                                                    BASS Nominal Ops Flow
+
+
+                                                                                                             Final
+                                                                      BASS                                   Burn
+                                                       BASS                          BASS Test Sequence              BASS
+ :15          :15           :10          :25                        Camera Cal
+                                                     Setup**                                                         Stow        :05
+                                                                      Tests          (repeat for each fuel
+                                                      2:00
+                                                                                            type)                    1:00
+
+
+                                                               Samples per       Samples per
+ SLICE                    MSG Facility                         test matrix       test matrix                                MSG Facility Deact
+Payload                     Act
+ FAM
+          SLICE PL Crew               MSG Video
+           Conference                Equip Setup*
+
+
+
+
+          * We expect the external MSG Video Equipment to already be deployed, therefore this activity
+          may not need to be scheduled. We are required to carry this activity in URC.
+
+          ** If setup for the first time. Current plan transitions from SLICE which will reduce the time to
+          30 minutes
+       SCHEDULE HIGHLIGHTS (Open Work)
+   •   BASS Control Box Assembly
+            –   Thermal Cycle Test – 5/27/10
+            –   Materials Bake out for 72 hours at 120 ˚F – 6/1/10
+            –   Install Labels @ KSC
+   •   Flat Fuel Assembly
+            –   Test & Install Ignitors – 5/27/10
+            –   Vibration Test – 6/3/10
+   •   Wax & Flat PMMA Sample Assembly
+            –   Flight Wax Samples required redesign – 5/20/10
+            –   Assemble Flight Units – 5/27/10
+            –   Vibration Test – 6/3/10
+   •   SAR-2 – 6/9/10
+   •   Bench Review – 6/22/10
+
+
+
+
+                                                                     54
+4/14/2010
+                        BASS NCR Status
+•   1 Non-conformance issued against the BASS Payload
+•   BASS-NCR-001: OPEN
+      – 1 of the 4 Spherical 2 cm PMMA Samples had loosened after vibration testing.
+      – Likely cause is that insufficient epoxy was applied
+      – Closure will occur upon successful completion of a second vibration test planned
+        for 6/3/10.
+
+
+
+
+4/14/2010                                                                              55
+                                   BASS Risk Summary
+  Risk ID:                               BASS-002                                   Rank:                1
+ Risk Title:                       Crew Setup of Ignitor                         Exposure:           Medium
+   Status:                                  Open                                 Likelihood:         4 - High
+Risk Owner:                              Tibor Lorik                           Consequence:       3 - Moderate
+Date Opened:                            04/06/2010                              Time Frame:           3 - Mid
+                   Given that the operations scenario has the crew            Risk Originator:     Tibor Lorik
+                   position the ignitor very near the fuel to initiate
+                                                                              Date Submitted:     04/06/2010
+Risk Statement:    ignition there is the possibility they will experience
+                   difficulty and require several attempts at correct         Resolution Date:    06/21/2010
+                   placement.
+Classification:                          Schedule
+  Milestone:                               None                               Last Modified By:    Tibor Lorik
+                                                                                Last Modified
+    Phase:                                 None                                                   05/03/2010
+                                                                                On:
+ Subsystem:                                None                                  Approach:           Watch
+
+
+  Risk ID:                             BASS-001                                    Rank:              -
+ Risk Title:            Flame Extinguishment of PMMA Spheres                     Exposure:          Medium
+                  Closed (Mitigated) A zero‐g facility 5 second drop
+                  tower test demonstrated the nitrogen extinguishment of
+   Status:                                                                       Likelihood:      3 - Moderate
+                  the 2 cm PMMA sphere ‐ successfully completed on 25
+                  Feb 2010.
+Risk Owner:                            Tibor Lorik                             Consequence:         4 - High
+Date Opened:                            04/06/2010                              Time Frame:       5 - Imminent
+                   Given that the PMMA spheres can burn for a                 Risk Originator:     Tibor Lorik
+Risk Statement:    significantly long time there is the possibility that it   Date Submitted:     04/06/2010
+                   will be difficult to extinguish the flame.                 Resolution Date:    02/25/2010
+Classification:                            Safety
+  Milestone:                               None                               Last Modified By:    Tibor Lorik
+                                                                                Last Modified
+    Phase:                                 None                                                   04/06/2010
+                                                                                On:
+ Subsystem:                                None                                  Approach:              -
+                                BASS Risk Matrix Chart
+
+                    5
+
+                    4                                    1
+
+
+  Likelihood
+                    3
+
+                    2
+
+                    1
+
+                                1           2            3                  4         5
+                                                   Consequence
+
+
+Trend Rank                 ID    Approach                           Title
+               1        BASS-002 Watch      Crew Setup of Ignitor
+
+Trend Legend (Based upon report start date of 04/04/2010)
+           Upward               Downward            No Change                   New
+ ZIN Quality Assessment
+Quality
+  SLICE/BASS followed the Zin Technology Quality Management
+  System for engineering and building flight hardware. This
+
+  For this re-flight SLICE/BASS:
+
+       •Used Manufacturing Work Orders (MWO) prepared for
+       cleaning and assembly operations
+       •Use inspection and test documents prepared for in-process
+       and final inspection/test activities – all completed plans are
+       nominally reviewed/approved by a ZIN Tech Quality
+       representative
+       •Will achieve configuration verification through as-built
+       inspections performed by a ZIN Tech’s Quality representative
+       as part of the MWO process
+
+
+
+
+                                                                        58
+

@@ -1,0 +1,120 @@
+                         CFI-G Round 2, day 11
+           Chamber filled to 1 atm with ~17% n-butane (balance N2)
+   Extinction detection effectively turned off so tests were ended ‘manually’
+
+Test 21270A1 (test 1 of 10, hot flame 1 of 10) – sustained ignition, run as
+planned (with no changes to the parameters)
+Test 21270A1, continued
+Test 21270A1, continued
+
+
+
+
+After test: 910 lowest valve safety timer, 84 psia in oxidizer bottle
+Test 21270A2 (test 2 of 10, hot flame 2 of 10) – sustained ignition, flow variant
+of A1, run with flowTimeoutSec=120, oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.492,
+constantFlowTime1Sec=90
+Test 21270A2, continued
+Test 21270A2, continued
+
+
+
+
+After test: 793 on lowest valve safety timer, 74 psia in oxidizer bottle
+Test 21270A3 (test 3 of 10, hot flame 3 of 10) – sustained ignition, flow variant
+of A1-A2, run with flowTimeoutSec=120, oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.148,
+constantFlowTime1Sec=90
+Test 21270A3, continued
+Test 21270A3, continued
+
+
+
+
+After test: 740 on lowest valve safety timer, 73 psia in oxidizer bottle
+Test 21270A4 (test 4 of 10, hot flame 4 of 10) – sustained ignition, flow variant
+of A1-A3, run with flowTimeoutSec=120, oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.221,
+constantFlowTime1Sec=90
+Test 21270A4, continued
+Test 21270A4, continued
+
+
+
+
+After test: 622 on lowest valve safety timer, 69 psia in oxidizer bottle
+Test 21270C1 (test 5 of 10, hot flame 5 of 10) – sustained ignition, diluted-
+oxidizer variant of A1, run as planned except for longer test duration, run with
+flowTimeoutSec=120, oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.295,
+constantFlowTime1Sec=90
+Test 21270C1, continued
+Test 21270C1, continued
+
+
+
+
+After test: 528 on lowest valve safety timer, 65 psia in oxidizer bottle
+   Chamber partially vented and nitrogen added to dilute the atmosphere to
+                   1 atm with ~14% n-butane (balance N2)
+
+Test 21270H1 (test 6 of 10, hot flame 6 of 10) – sustained ignition, diluted-
+atmosphere variant of A1, run as planned except for longer test duration, run
+with flowTimeoutSec=120, oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.295,
+constantFlowTime1Sec=90
+Test 21270H1, continued
+Test 21270H1, continued
+
+
+
+
+After test: 434 on lowest valve safety timer, 60 psia in oxidizer bottle
+Test 21270H2 (test 7 of 10, hot flame 7 of 10) – sustained ignition, flow variant
+of H1 (or diluted-atmosphere variant of A3), run with flowTimeoutSec=120,
+oxidizerFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.148,
+oxidizerTestFlow1Slpm=0.148, constantFlowTime1Sec=90
+Test 21270H2, continued
+Test 21270H2, continued
+
+
+
+
+After test: 356 on lowest valve safety timer, 58 psia in oxidizer bottle
+Test 21270H3 (test 8 of 10, hot flame 8 of 10) – sustained ignition, flow variant
+of H1-H2 (or diluted-atmosphere variant of A4), run with flowTimeoutSec=120,
+oxidizerFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.221,
+oxidizerTestFlow1Slpm=0.221, constantFlowTime1Sec=90
+Test 21270H3, continued
+Test 21270H3, continued
+
+
+
+
+After test: 239 on lowest valve safety timer, 53 psia in oxidizer bottle
+Test 21270H4 (test 9 of 10, hot flame 9 of 10) – sustained ignition, flow variant
+of H1-H3 (or diluted-atmosphere variant of A2), run with flowTimeoutSec=120,
+oxidizerFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.492,
+oxidizerTestFlow1Slpm=0.492, constantFlowTime1Sec=90
+Test 21270H4, continued
+Test 21270H4, continued
+
+
+
+
+After test: 133 on lowest valve safety timer, 45 psia in oxidizer bottle
+Test 21270H5 (test 10 of 10, hot flame of 10) – sustained ignition, flow variant of
+H1-H4, run with flowTimeoutSec=120, oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.258,
+constantFlowTime1Sec=90
+Test 21270H5, continued
+Test 21270H5, continued
+
+
+
+
+After test: 31 on lowest valve safety timer, 40 psia in oxidizer bottle
+Test 21270RAD2
+Test 21270RAD2, continued
+

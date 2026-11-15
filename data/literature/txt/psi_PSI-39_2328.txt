@@ -1,0 +1,67 @@
+                        Wed, Apr 5, 2017                                              Droplet History
+                        FLEX-1227                                                     Hot-Flame Diameter
+                  25    F095A01                                                       Hot-Flame FSR
+                        P = 1504.652 mmHg                                             Cool Flame Diameter (FWHM)        8000
+                        YO2 = 0.210                                                   Cool Flame Diameter (peak-peak)
+
+
+
+
+                                                                                                                                 Peak Cool Flame Grayscale
+                        YN2 = 0.790                                                   Cool Flame Grayscale
+                  20
+                        YCO2 = 0.000
+
+
+Df, cool ( mm )
+                                                                                                                        6000
+                        YHe = 0.000
+                  15    Dodecane
+                        D0 = 3.940 mm
+                        Dext = 3.473 mm                                                                                 4000
+                                             2
+                  10    kavg = 0.399 mm /sec
+                                                 2
+                        kavg, cool = 0.455 mm /sec
+                        Dext, cool = 0.000 mm                                                                           2000
+                   5
+
+
+                   0                                                                                                    0
+
+                                                                                                                        20
+                                                                                                                                                             3
+                  1.0         Heavy soot
+                              near droplet                                                                              18
+                                                                                                                                                             2
+
+                  0.8                                                                                                   16
+
+
+
+
+                                                                                                                                                                      Flame Radiance ( W )
+                                                                                                                               Df ( mm ) , Df / Dd
+                                                                                                                        14                                       10
+2                                                                                                                                                            9
+
+
+( D / D0 )
+                  0.6                                                                                                                                        8
+                                                                                                                                                             7
+                                                                                                                        12                                   6
+                                                                                                                                                             5
+
+                  0.4                                                                                                   10                                   4
+
+                                                                                                                                                             3
+                                                                                                                        8
+                  0.2                                                                                                                                        2
+                                                                                                                        6
+
+                  0.0                                                                                                   4
+
+                        0.0                          0.5   1.0                  1.5       2.0                 2.5
+                                                                      2        2
+                                                                 t / D0 ( s / mm )
+

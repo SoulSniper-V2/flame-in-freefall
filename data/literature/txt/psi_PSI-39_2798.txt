@@ -1,0 +1,76 @@
+                                                                            Fri, May 19, 2017
+                                                                            FLEX-1264
+                                                                            F139A02                            500
+                  25
+                                                                            P = 763.248 mmHg
+                                                                            YO2 = 0.210
+
+
+
+
+                                                                                                                       Peak Cool Flame Grayscale
+                                                                            YN2 = 0.500                        400
+                  20
+                                                                            YCO2 = 0.000
+
+
+
+Df, cool ( mm )
+                                                                            YHe = 0.290
+                                                                            Dodecane                           300
+                  15
+                                                                            D0 = 4.217 mm
+                                                                            Dext = 3.906 mm
+                                                                                            2
+                  10                                                        kavg = 0.426 mm /sec               200
+                                                                                                 2
+                                                                            kavg, cool = 0.464 mm /sec
+                                                                            Dext, cool = 0.974 mm
+                   5                                                                                           100
+
+
+                   0                                                                                           0
+
+                                                                                                                                                   2
+
+                                                                                                               25
+                  1.0
+                                                                                                                                                       10
+
+                                                                                                                                                   6
+                  0.8                                                                                          20                                  5
+                                                                                                                                                   4
+
+
+
+
+                                                                                                                                                             Flame Radiance ( W )
+                                                                                                                                                   3
+
+
+
+
+                                                                                                                     Df ( mm ) , Df / Dd
+2                                                                                                                                                  2
+                                                                                                               15
+( D / D0 )
+                  0.6
+
+                                                                                                                                                       1
+
+                  0.4                                                                                          10                                  6
+                                                                                                                                                   5
+                                                                                                                                                   4
+                                    Droplet History
+                                    Hot-Flame Diameter                                                                                             3
+
+                  0.2               Hot-Flame FSR                                                              5                                   2
+                                    Cool Flame Diameter (FWHM)
+                                    Cool Flame Diameter (peak-peak)
+                                    Cool Flame Grayscale                                                                                               0.1
+                  0.0                                                                                          0
+
+                        0.0   0.5             1.0             1.5     2.0          2.5                   3.0
+                                                      2        2
+                                                 t / D0 ( s / mm )
+

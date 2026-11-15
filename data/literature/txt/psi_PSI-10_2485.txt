@@ -1,0 +1,246 @@
+Test 19115A1 – successful test, run with no changes to planned parameters
+
+
+
+
+After test, 941 on lowest valve safety timer, 1447 psia in oxidizer bottle
+
+
+
+
+                                         1
+Test 19115 D1 – unsuccessful ignition, just flash(es), run with no changes to
+planned parameters
+Run with 0.05-s PMT1 integration time for ignition detection as planned.
+
+
+
+
+After test, 920 on lowest valve safety timer, 1446 psia in oxidizer bottle
+
+
+
+
+                                         2
+Test 19115 D2 – successful test, run with fuelFlowIgnitionDeltaMs=2000
+
+
+
+
+After test, 885 on lowest valve safety timer, 1447 psia in oxidizer bottle
+
+
+
+
+                                         3
+Test 19115B1 – successful test, run with fuelFlowIgnitionDeltaMs=2000
+ACME dataCamera zoom=45000, ACME camera focus=10025 (as in the
+preceding tests, but contrary to the B1 plan).
+
+
+
+
+After test, 818 on lowest valve safety timer, 1446 psia in oxidizer bottle
+
+
+
+
+                                         4
+Test 19115 C1 – unsuccessful ignition, just flash(es), run with pmt1Gain=5.75,
+pmt2Gain=pmt3Gain=6.0, fuelFlowIgnitionDeltaMs=5000
+ACME dataCamera zoom and focus as planned.
+
+
+
+
+After test, 792 on lowest valve safety timer, 1447 psia in oxidizer bottle
+
+
+
+
+                                         5
+Test 19115B2 – successful test, run with pmt1Gain=5.25,
+pmt2Gain=pmt3Gain=5.5, fuelFlowIgnitionDeltaMs=2000,
+constantFlowTimeSec=5
+ACME dataCamera zoom and focus as planned for C1 (not B).
+
+
+
+
+After test, 730 on lowest valve safety timer, 1447 psia in oxidizer bottle
+
+
+
+
+                                         6
+Test 19115F1 – successful test, run with pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=5.75, fuelFlowIgnitionDeltaMs=1500,
+fuelBottleIgnitionFlowRateN2Slpm=0.052,
+nitrogenIgnitionFlowRateN2Slpm=0.078,
+fuelBottleTestFlowRateN2Slpm=0.052, nitrogenTestFlowRateN2Slpm=0.078
+
+
+
+
+After test, 683 on lowest valve safety timer, 1447 psia in oxidizer bottle
+
+
+
+                                         7
+Test 19115G1 – successful test, run with pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=5.75, fiberIgnitionPosition=fiberTestPosition=0,
+fiberMoveDuringTest=FALSE, fuelFlowIgnitionDeltaMs=1500,
+stabilizationTime1Sec=0, fuelBottleIgnitionFlowRateN2Slpm=0.052,
+nitrogenIgnitionFlowRateN2Slpm=0.078,
+fuelBottleTestFlowRateN2Slpm=0.052, nitrogenTestFlowRateN2Slpm=0.078,
+ignitionToTestRampTimeSec=0, constantFlowTimeSec=2,
+rampFlowToZeroSec=20
+
+
+
+
+After test, 640 on lowest valve safety timer, 1447 psia in oxidizer bottle
+                                         8
+Test 19115H1 – unsuccessful ignition, just flash(es), run with pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=5.75, fiberIgnitionPosition=fiberTestPosition=0,
+fiberMoveDuringTest=FALSE, fuelFlowIgnitionDeltaMs=1500,
+fuelBottleIgnitionFlowRateN2Slpm=0.052,
+nitrogenIgnitionFlowRateN2Slpm=0.208,
+fuelBottleTestFlowRateN2Slpm=0.052, nitrogenTestFlowRateN2Slpm=0.208
+ACME dataCamera zoom and focus as planned for C1 (not H).
+
+TOO LATE TO GET A SNAPSHOT OF CONSOLE DATA FOR THIS TEST
+
+After test, 621 on lowest valve safety timer, 1447 psia in oxidizer bottle
+
+
+
+
+                                         9
+Test 19115K1 – successful test, run with pmt1Gain=5.25,
+pmt2Gain=pmt3Gain=5.5, fiberIgnitionPosition=fiberTestPosition=0,
+fiberMoveDuringTest=FALSE, fuelFlowIgnitionDeltaMs=500,
+stabilizationTime1Sec=0, fuelBottleIgnitionFlowRateN2Slpm=0.2,
+nitrogenIgnitionFlowRateN2Slpm=0.3,
+ignitionToTestRampTimeSec=0
+
+
+
+
+After test, 589 on lowest valve safety timer, 1447 psia in oxidizer bottle
+
+
+                                        10
+Test 19115L1 – successful test, run with pmt1Gain=4.75,
+pmt2Gain=pmt3Gain=5.0, fiberIgnitionPosition=fiberTestPosition=0,
+fiberMoveDuringTest=FALSE, fuelFlowIgnitionDeltaMs=5000,
+stabilizationTime1Sec=0, fuelBottleIgnitionFlowRateN2Slpm=0.2,
+ignitionToTestRampTimeSec=0
+
+
+
+
+After test, __ on lowest valve safety timer, __ psia in oxidizer bottle
+
+
+
+                                         11
+Test 19115M1 – no ignition, where igniter didn’t energize (later determined as
+caused by specificity of fuelFlowIgnitionDeltaMs), run with pmt1Gain=5.25,
+pmt2Gain=pmt3Gain=5.5, fiberIgnitionPosition=fiberTestPosition=0,
+fiberMoveDuringTest=FALSE, fuelFlowIgnitionDeltaMs=1750,
+fuelBottleIgnitionFlowRateN2Slpm=0.052,
+nitrogenIgnitionFlowRateN2Slpm=0.035,
+fuelBottleTestFlowRateN2Slpm=0.052, nitrogenTestFlowRateN2Slpm=0.035
+ACME dataCamera zoom and focus as planned for C1 (not M).
+
+
+
+
+After test, 530 on lowest valve safety timer, 1447 psia in oxidizer bottle
+                                        12
+Test 19115M2 – no ignition, where igniter didn’t energize (later determined as
+caused by specificity of fuelFlowIgnitionDeltaMs), run identically to test M1
+with pmt1Gain=5.25, pmt2Gain=pmt3Gain=5.5,
+fiberIgnitionPosition=fiberTestPosition=0, fiberMoveDuringTest=FALSE,
+fuelFlowIgnitionDeltaMs=1750, fuelBottleIgnitionFlowRateN2Slpm=0.052,
+nitrogenIgnitionFlowRateN2Slpm=0.035,
+fuelBottleTestFlowRateN2Slpm=0.052, nitrogenTestFlowRateN2Slpm=0.035
+ACME dataCamera zoom and focus as planned for C1 (not M).
+
+
+
+
+After test, __ on lowest valve safety timer, __ psia in oxidizer bottle
+                                         13
+Test 19115N1 – successful test, run with pmt1Gain=5.0,
+pmt2Gain=pmt3Gain=5.25, fiberIgnitionPosition=fiberTestPosition=0,
+fiberMoveDuringTest=FALSE, fuelFlowIgnitionDeltaMs=500,
+stabilizationTime1Sec=0, fuelBottleIgnitionFlowRateN2Slpm=0.2,
+nitrogenIgnitionFlowRateN2Slpm=0.133
+ACME dataCamera zoom and focus as planned.
+
+
+
+
+After test, 489 on lowest valve safety timer, 1447 psia in oxidizer bottle
+
+
+                                        14
+Test 19115M3 – no ignition, where igniter didn’t energize (later determined as
+caused by specificity of fuelFlowIgnitionDeltaMs), run identically to test M1-M2
+with pmt1Gain=5.25, pmt2Gain=pmt3Gain=5.5,
+fiberIgnitionPosition=fiberTestPosition=0, fiberMoveDuringTest=FALSE,
+fuelFlowIgnitionDeltaMs=1750, fuelBottleIgnitionFlowRateN2Slpm=0.052,
+nitrogenIgnitionFlowRateN2Slpm=0.035,
+fuelBottleTestFlowRateN2Slpm=0.052, nitrogenTestFlowRateN2Slpm=0.035
+ACME dataCamera zoom and focus as planned for C1 (not M).
+
+
+
+
+After test, 469 on lowest valve safety timer, 1447 psia in oxidizer bottle
+                                        15
+Test 19115M4 – successful test, run with pmt1Gain=5.25,
+pmt2Gain=pmt3Gain=5.5, fiberIgnitionPosition=fiberTestPosition=0,
+fiberMoveDuringTest=FALSE, fuelFlowIgnitionDeltaMs=2000,
+fuelBottleIgnitionFlowRateN2Slpm=0.052,
+nitrogenIgnitionFlowRateN2Slpm=0.035,
+fuelBottleTestFlowRateN2Slpm=0.052, nitrogenTestFlowRateN2Slpm=0.035
+ACME dataCamera zoom and focus as planned for C1 (not M).
+
+
+
+
+After test, 417 on lowest valve safety timer, 1446 psia in oxidizer bottle
+
+                                        16
+Test 19115P1 – unsuccessful ignition, just flash(es), variation of B1 run with
+pmt1Gain=5.5, pmt2Gain=pmt3Gain=5.75,
+fiberIgnitionPosition=fiberTestPosition=0, fiberMoveDuringTest=FALSE,
+fuelFlowIgnitionDeltaMs=2500,
+fuelBottleIgnitionFlowRateN2Slpm=fuelBottleTestFlowRateN2Slpm=0.039,
+constantFlowTimeSec=115 (as planned for B1, but not used for B2)
+
+
+
+
+After test, 398 on lowest valve safety timer, 1447 psia in oxidizer bottle
+
+
+                                        17
+Test 19115Q1 – successful test, variation of B1 run with pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=5.75, fiberIgnitionPosition=fiberTestPosition=0,
+fiberMoveDuringTest=FALSE, fuelFlowIgnitionDeltaMs=2000,
+fuelBottleIgnitionFlowRateN2Slpm=fuelBottleTestFlowRateN2Slpm=0.065,
+constantFlowTimeSec=115 (as planned for B1 and used for P1)
+
+
+
+
+After test, 351 on lowest valve safety timer, 1447 psia in oxidizer bottle
+
+
+
+                                        18
+

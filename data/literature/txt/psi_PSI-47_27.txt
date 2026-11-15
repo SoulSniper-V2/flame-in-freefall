@@ -1,0 +1,311 @@
+2.012 DAFT P-TRAK AND DUSTTRAK DATA TRANSFER
+MGUEEXPRSDAFTN012
+
+
+
+                                                                                   Start_IMS
+
+
+OBJECTIVE:
+Dust and Aerosol measurement Feasibility Test (DAFT). This procedure transfers the data from
+the P-Trak and DustTrak after sample collection has been completed.
+
+STATION PARTS:
+DAFT Accessories Kit        P/N DAFT-0700
+DustTrak             P/N DAFT-0201
+P-Trak-01            P/N DAFT-0101
+P-Trak Alcohol Wick Container-01 P/N DAFT-0601-1
+ELC
+
+
+               1.    ALCOHOL WICK REMOVAL
+
+                      1.1    Unstow P-Trak Alcohol Wick Container-01.
+
+                      1.2    Retrieve P-Trak-01.
+
+                      1.3   √P-Trak-01 power − Off
+
+                                                         CAUTION
+                               To reduce the amount of alcohol released into ISS,
+                               performance of the Alcohol Wick Removal (steps 1.4 to 1.8)
+                               must be limited to one minute.
+
+                      1.4    On P-Trak Alcohol Wick Container-01, remove Alcohol Wick
+                                Cap.
+                             Tmpry stow Alcohol Wick Cap.
+
+                      1.5    On P-Trak Alcohol Wick Container-01, remove For Storage Only
+                              Cap (turn 1/4 turn CCW).
+
+                             Tmpry stow:
+                                 For Storage Only Cap
+                                 P-Trak Alcohol Wick Container-01
+
+
+
+
+06May04                                N012-1                     DAFT/PB3-01-0677
+2.012 DAFT P-TRAK AND DUSTTRAK DATA TRANSFER
+MGUEEXPRSDAFTN012
+
+
+                   1.6     Remove Alcohol Wick from P-Trak-01 (turn 1/4 turn CCW).
+                           Retrieve P-Trak Alcohol Wick Container-01.
+                           Insert Alcohol Wick into P-Trak Alcohol Wick
+                             Container-01 using the alignment pin (turn 1/4 turn CW).
+
+                   1.7     Retrieve and replace Alcohol Wick Cap on P-Trak Alcohol Wick
+                              Container-01 (finger tighten).
+                           Tmpry stow P-Trak Alcohol Wick Container-01.
+
+                   1.8     Retrieve and insert For Storage Only Cap into P-Trak-01 using
+                            the alignment pin (turn 1/4 turn CW).
+
+                   1.9     Stow P-Trak Alcohol Wick Container-01.
+
+             2.    TRANSFER P-TRAK DATA
+
+                   2.1     Retrieve DAFT Accessories Kit.
+
+DAFT Accessories   2.2     Unstow DAFT Data Cable.
+ Kit
+
+                   2.3     Tmpry stow DAFT Accessories Kit.
+
+ ELC               2.4    √ELC powered
+                          √EXPRESS Application not active
+
+                   2.5     Connect DAFT Data Cable to ELC.
+                           DAFT Data Cable port →|← RS232
+
+                   2.6     Retrieve P-Trak-01.
+
+P-Trak-01          2.7     Connect DAFT Data Cable to P-Trak-01.
+                           DAFT Data Cable port →|← RS232
+
+                   2.8     pb ON/OFF → Press
+                          √P-Trak-01 power − On
+
+                   2.9     Wait until P-Trak clock stops counting down (warming up).
+
+                   2.10    Secure P-Trak-01.
+
+ELC                2.11    Double click DAFT Icon.
+
+                   2.12      Dust and Aerosol Measurement Feasibility Test (DAFT)
+                           sel Setup
+
+
+
+
+06May04                             N012-2                      DAFT/PB3-01-0677
+2.012 DAFT P-TRAK AND DUSTTRAK DATA TRANSFER
+MGUEEXPRSDAFTN012
+
+
+               2.13      Setup
+                       sel DustTrak tab
+                       'Communications Port'
+                      √COM1 selected
+
+                       'Data Transfer Files'
+                      √Destination directory - H:\DAFT\DustTrak
+
+               2.14    sel P-Trak tab
+                       'Communications Port'
+                      √COM1 selected
+
+                       'Data Transfer Files'
+                      √Destination directory - H:\DAFT\PTrak
+
+               2.15    sel Logging tab
+                       'Message Log'
+                      √Log messages to a file is selected
+
+                      √Base file name - MsgLg
+                      √Destination directory - H:\DAFT\MsgLog
+
+                       'Raw Communication Log'
+                      √Log raw communication to a file is selected
+                      √Base file name - ComLg
+                      √Destination directory - H:\DAFT\CommLog
+
+               2.16    cmd − OK
+
+               2.17      Dust and Aerosol Measurement Feasibility Test (DAFT)
+                       sel P-Trak
+
+
+
+
+06May04                          N012-3                        DAFT/PB3-01-0677
+2.012 DAFT P-TRAK AND DUSTTRAK DATA TRANSFER
+MGUEEXPRSDAFTN012
+
+
+
+              2.18       PTrak
+                         'Data Transfer'
+                         sel Specific
+                         Enter Test ID number per Execution Notes.
+                         cmd − Transfer
+
+              2.19       'Progress'
+                         Verify 0 of 1 complete starts incrementing.
+                         Verify bar increments.
+
+                         When Progress completes (1 of 1 complete),
+                         'Transferred Data'
+                         Verify Test ID Success? − Yes
+
+                         * *******************************************************************
+                         *     If Test ID Success? − No
+                         *        Log GMT and P-Trak Test ID number on
+                         *          DAFT TRANSFER LOG
+                         *         PTrak
+                         *        'Data Transfer'
+                         *        sel     Specific
+                         *        Enter unsuccessful Test ID number
+                         *        cmd − Transfer
+                         *        Verify Test ID Success? − Yes
+                         *          If Test ID Success? − No
+                         *             Repeat up to two more times
+                         *             After third failed attempt,
+                         *                Log Test ID number(s) as Failed
+                         *                on DAFT TRANSFER LOG
+                         *
+                         *     Notify POIC and report Failed Test ID number.
+                         *
+                         * *******************************************************************
+
+                         Repeat for each Test ID per Execution Notes.
+
+P-Trak-01      2.20    pb ON/OFF → Press
+                      √P-Trak-01 power − Off
+
+               2.21    Disconnect DAFT Data Cable from P-Trak-01.
+                       DAFT Data Cable port ←|→ RS232
+
+               2.22    Tmpry stow P-Trak-01.
+
+
+
+
+06May04                          N012-4                         DAFT/PB3-01-0677
+2.012 DAFT P-TRAK AND DUSTTRAK DATA TRANSFER
+MGUEEXPRSDAFTN012
+
+
+                                                NOTE
+                 DustTrak Xµm Adapter will be used for DustTrak 10µm Adapter,
+                 DustTrak 2.5µm Adapter or DustTrak 1µm Adapter.
+
+           3.   TRANSFER DUSTTRAK DATA
+
+                3.1    Retrieve DustTrak.
+
+DustTrak        3.2    Connect DAFT Data Cable to DustTrak.
+                       DAFT Data Cable port →|← RS232
+
+                3.3    pb ON/OFF → Press
+                      √DustTrak power − On
+
+                3.4    Wait 10 seconds while DustTrak warms up.
+
+                3.5    Secure DustTrak.
+
+ELC             3.6      Dust and Aerosol Measurement Feasibility Test (DAFT)
+                       sel DustTrak
+
+
+
+
+06May04                          N012-5                    DAFT/PB3-01-0677
+2.012 DAFT P-TRAK AND DUSTTRAK DATA TRANSFER
+MGUEEXPRSDAFTN012
+
+
+
+               3.7       DustTrak
+                         'Data Transfer'
+                         sel Specific
+                         Enter Test ID number per Execution Notes.
+                         cmd − Transfer
+
+               3.8       'Progress'
+                         Verify 0 of 1 complete starts incrementing.
+                         Verify bar increments.
+
+                         When Progress completes (1 of 1 complete),
+                         'Transferred Data'
+                         Verify Test ID Success? − Yes
+
+                         * *******************************************************************
+                         *     If Test ID Success? − No
+                         *        Log GMT and DustTrak Test ID number on
+                         *          DAFT TRANSFER LOG
+                         *         DustTrak
+                         *        'Data Transfer'
+                         *        sel     Specific
+                         *        Enter unsuccessful Test ID number
+                         *        cmd − Transfer
+                         *        Verify Test ID Success? − Yes
+                         *          If Test ID Success? − No
+                         *             Repeat up to two more times
+                         *             After third failed attempt,
+                         *                Log Test ID number(s) as Failed
+                         *                on DAFT TRANSFER LOG
+                         *
+                         *     Notify POIC and report Failed Test ID number.
+                         *
+                         * *******************************************************************
+
+                         Repeat for each Test ID per Execution Notes.
+
+               3.9     cmd −        Exit
+                         Exit
+                       'Pressing the 'Yes' button will close the DAFT application
+                         and stop any transfers in progress. Are you sure you want
+                         to exit?'
+                       sel Yes
+
+DustTrak       3.10    pb ON/OFF → Press
+                      √DustTrak power − Off
+
+ELC            3.11    Disconnect DAFT Data Cable from ELC.
+                       DAFT Data Cable port ←|→ RS232
+
+
+06May04                          N012-6                         DAFT/PB3-01-0677
+2.012 DAFT P-TRAK AND DUSTTRAK DATA TRANSFER
+MGUEEXPRSDAFTN012
+
+
+DustTrak               3.12    Disconnect DAFT Data Cable from DustTrak.
+                               DAFT Data Cable port ←|→ RS232
+                               Tmpry stow DAFT Data Cable.
+
+                       3.13    Tmpry stow DustTrak.
+
+                       3.14    Retrieve DAFT Accessories Kit.
+
+DAFT Accessories       3.15    Retrieve and stow DAFT Data Cable.
+ Kit
+
+                       3.16    Tmpry stow DAFT Accessories Kit.
+
+                       3.17   √DustTrak Xµm Adapter number has been logged on
+                                DAFT P-TRAK AND DUSTTRAK SAMPLE LOG
+                              √All data (numbers) has been recorded on
+                                DAFT P-TRAK AND DUSTTRAK SAMPLE LOG
+                                for this experiment run
+
+
+RESTOW tools, parts, materials, as required, to original locations:
+
+
+
+
+06May04                                  N012-7                       DAFT/PB3-01-0677
+

@@ -1,0 +1,1239 @@
+SAME-DOC-004 Rev D
+                                                            SAME-DOC-004 Rev D
+
+
+                                        APPROVALS
+
+
+
+Prepared by:   /s/ Jeff C. Eggers                   Date:     06-03-05
+               Jeff C. Eggers
+               ZIN Technologies, Inc.
+               SAME Lead Software Engineer
+
+Reviewed by:   /s/ David L. Gantose                 Date:     06-03-05
+               David L. Gantose
+               ZIN Technologies, Inc.
+               SAME Software Engineer
+
+Reviewed by:   /s/ Leonard J. Miller                Date:     06-03-05
+               Leonard J. Miller
+               ZIN Technologies, Inc.
+               SAME Lead Electrical Engineer
+
+Reviewed by:   /s/ Daniel F. Brown                  Date:     06-03-05
+               Daniel F. Brown
+               ZIN Technologies, Inc.
+               SAME Lead Mechanical Engineer
+
+Reviewed by:   /s/ Catherine C. Lewis               Date:     06-03-05
+               Catherine C. Lewis
+               Analex Corporation
+               SAME Systems Engineer
+
+Approved by:   /s/ Greg Funk                        Date:     06-03-05
+               Gregory P. Funk
+               ZIN Technologies, Inc.
+               SAME Project Lead
+
+Accepted by:   /s/ William A. Sheredy               Date:     06-05-05
+               William A. Sheredy
+               NASA Glenn Research Center
+               SAME Project Manager
+
+
+
+
+                                            ii
+                                                                               SAME-DOC-004 Rev D
+
+
+                                         REVISIONS
+
+
+
+Revision Letter   Publication Date                     Change Description                Approval
+                                     Presented to RDR Review Panel as a non-baseline
+      --                4/04
+                                     document.
+      A                 6/05         Post RDR review. No ECO required.
+      B                 9/05         SAME-ECO-004: Added safety safing requirements.    SYC 9/15/05
+                                     SAME-ECO-007: Synchronize with parent              GF 9/15/05
+                                                   requirement changes.
+      C                 1/06         SAME-ECO-092: Remove unnecessary requirements.     SYC 1/27/06
+                                                                                        GF 1/27/06
+      D                 3/06         SAME-ECO-121: Modified names in tables to match    SYC 3/20/06
+                                                   those in flight code, SWICD, and
+                                                                                        GF 3/20/06
+                                                   acceptance procedure for less
+                                                   confusion; Fixed format gremlins.
+
+
+
+
+                                                 iii
+                                                                                                                                         SAME-DOC-004 Rev D
+
+
+                                                          TABLE OF CONTENTS
+
+1.0    INTRODUCTION ..........................................................................................................................................1
+   1.1   Purpose .........................................................................................................................................................1
+   1.2   Scope ............................................................................................................................................................1
+   1.3   Applicable Documents .................................................................................................................................1
+2.0         INSTRUMENT OVERVIEW .......................................................................................................................2
+3.0    AVIONICS OVERVIEW...............................................................................................................................4
+   3.1   Data Interfaces .............................................................................................................................................4
+   3.2   DACU Overview..........................................................................................................................................5
+   3.3   Crew Display Overview ...............................................................................................................................5
+4.0      SYSTEM REQUIREMENTS ........................................................................................................................6
+   4.1     System Status ...............................................................................................................................................6
+      4.1.1 Update Rate .............................................................................................................................................6
+      4.1.2 LED Status Indicators ..............................................................................................................................6
+   4.2     Data Communication ...................................................................................................................................6
+      4.2.1 SPLC Communications............................................................................................................................6
+            4.2.1.1         Serial Port Configuration .................................................................................................. 6
+            4.2.1.2         Data Format ...................................................................................................................... 7
+            4.2.1.3         Health and Status Packet ................................................................................................... 7
+            4.2.1.4         Low Rate Telemetry Packet .............................................................................................. 7
+            4.2.1.5         Video Command Packet.................................................................................................... 7
+            4.2.1.6         Time of Day Packet........................................................................................................... 7
+            4.2.1.7         Experiment Command Packet ........................................................................................... 8
+        4.2.2       MLC Communications ............................................................................................................................8
+            4.2.2.1         FTP Usage ......................................................................................................................... 8
+            4.2.2.2         Network Details ................................................................................................................ 8
+            4.2.2.3         SAME File Maintenance................................................................................................... 8
+      4.2.3 Remote Console Communications ...........................................................................................................8
+   4.3     Data Storage Requirements ..........................................................................................................................9
+      4.3.1 Storage Media ..........................................................................................................................................9
+      4.3.2 File Conventions ......................................................................................................................................9
+            4.3.2.1         Directory Structure............................................................................................................ 9
+            4.3.2.2         File Names ........................................................................................................................ 9
+        4.3.3       Stored Data ..............................................................................................................................................9
+            4.3.3.1         Housekeeping Data ........................................................................................................... 9
+            4.3.3.2         Messages ........................................................................................................................... 9
+            4.3.3.3         Experiment Results ........................................................................................................... 9
+   4.4     Command Requirements ............................................................................................................................ 10
+      4.4.1 General Command Requirements .......................................................................................................... 10
+      4.4.2 System Command Group ....................................................................................................................... 10
+      4.4.3 Test Command Group............................................................................................................................ 11
+      4.4.4 Test Configuration Command Group .................................................................................................... 11
+      4.4.5 Video Drawer Command Group ............................................................................................................ 12
+      4.4.6 DustTrak Command Group ................................................................................................................... 12
+      4.4.7 P-Trak Command Group ....................................................................................................................... 13
+   4.5     Experiment Sequencing Requirements ...................................................................................................... 14
+
+
+
+                                                                                      iv
+                                                                                                                                        SAME-DOC-004 Rev D
+
+
+        4.5.1       Miscellaneous Sequencing Requirements .............................................................................................. 14
+        4.5.2       Test Matrix Modifiable Parameters ....................................................................................................... 14
+        4.5.3       Test Definition ....................................................................................................................................... 14
+5.0      SUBSYSTEM REQUIREMENTS .............................................................................................................. 15
+   5.1     Sample Carousel ........................................................................................................................................ 15
+      5.1.1 Sample Selection ................................................................................................................................... 15
+      5.1.2 Sample Positioning ................................................................................................................................ 15
+   5.2     Sample Heater (Heater Wire Coil) ............................................................................................................. 15
+   5.3     Camera and Lighting .................................................................................................................................. 15
+      5.3.1 Lighting ................................................................................................................................................. 15
+      5.3.2 Camera ................................................................................................................................................... 16
+   5.4     Aging Chamber .......................................................................................................................................... 16
+   5.5     Thermal Precipitator Module ..................................................................................................................... 16
+      5.5.1 Valve Control......................................................................................................................................... 16
+      5.5.2 Heater Control ....................................................................................................................................... 16
+   5.6     DustTrak .................................................................................................................................................... 16
+      5.6.1 Control ................................................................................................................................................... 16
+      5.6.2 Data Reception....................................................................................................................................... 16
+   5.7     P-Trak ........................................................................................................................................................ 17
+      5.7.1 Control ................................................................................................................................................... 17
+      5.7.2 Data Reception....................................................................................................................................... 17
+   5.8     Ionization Detector (Residential Smoke Detector)..................................................................................... 17
+   5.9     ISS Detector ............................................................................................................................................... 17
+   5.10    STS Detector .............................................................................................................................................. 17
+   5.11    Dilution Air ................................................................................................................................................ 17
+   5.12    Miscellaneous Diagnostic Measurements .................................................................................................. 18
+6.0      OFF-NOMINAL AND CONTINGENCY REQUIREMENTS................................................................. 19
+   6.1     Maintenance Mode Operation .................................................................................................................... 19
+   6.2     Caution and Warning ................................................................................................................................. 19
+      6.2.1 Warning ................................................................................................................................................. 19
+      6.2.2 Caution................................................................................................................................................... 19
+      6.2.3 Advisory ................................................................................................................................................ 19
+   6.3     Automatic Safing ....................................................................................................................................... 19
+7.0      CREW DISPLAY REQUIREMENTS ....................................................................................................... 20
+   7.1     Graphic Standards ...................................................................................................................................... 20
+   7.2     Interfaces .................................................................................................................................................... 20
+      7.2.1 Host Computer ....................................................................................................................................... 20
+      7.2.2 MLC Server ........................................................................................................................................... 20
+   7.3     Features ...................................................................................................................................................... 20
+      7.3.1 Commanding.......................................................................................................................................... 20
+      7.3.2 Data Display .......................................................................................................................................... 20
+   7.4     Enhanced Mode.......................................................................................................................................... 20
+8.0         DEVELOPMENTAL SOFTWARE............................................................................................................ 21
+9.0         TRACEABILITY MATRIX ........................................................................................................................ 22
+10.0        ACRONYMNS AND ABBREVIATIONS .................................................................................................. 23
+
+
+
+
+                                                                                      v
+                                                                                                                    SAME-DOC-004 Rev D
+
+
+                                                    LIST OF TABLES
+
+
+
+Table 1    Status LEDs .............................................................................................................................. 6
+Table 2    Command Groups ................................................................................................................... 10
+Table 3    System Command Group ........................................................................................................ 11
+Table 4    Test Command Group ............................................................................................................. 11
+Table 5    Test Configuration Command Group...................................................................................... 12
+Table 6    Video Drawer Command Group ............................................................................................. 12
+Table 7    DustTrak Command Group ..................................................................................................... 13
+Table 8    P-Trak Command Group......................................................................................................... 13
+
+
+
+
+                                                   LIST OF FIGURES
+
+
+
+Figure 1   SAME Instrument Assembly Inside MSG WV ........................................................................ 2
+Figure 2   SAME to MSG Data Interfaces ................................................................................................ 4
+
+
+
+
+                                                                      vi
+                                                                                        SAME-DOC-004 Rev D
+
+
+
+
+1.0      INTRODUCTION
+
+1.1      Purpose
+
+This document defines the specific requirements to be satisfied throughout the implementation of the software for
+the Smoke Aerosol Measurement Experiment (SAME) instrument. The information contained within this document
+provides the technical requirements to be implemented and enables the development team to assess whether or not
+the completed software complies with the requirements of the system. The data included in this document provides
+the criteria for acceptance of the integrated software configuration.
+
+1.2      Scope
+
+The requirements specified herein apply only to SAME instrument software and custom MSG Laptop Computer
+(MLC) software. All ground based telemetry data processing and command uplink software requirements will be
+identified in future documents as required.
+
+1.3      Applicable Documents
+   [1]   Exploration Investigation Requirements Document for SAME a.k.a Smoke Aerosol Measurement
+                                      Experiment, Rev. 1.01, Dr. David Urban, NASA Glenn Research Center,
+                                      January 3, 2005.
+
+   [2]   SAME-PLN-003                 Product Assurance Plan
+
+   [3]   SAME-PLN-005                 Verification Plan and Engineering Requirements Document
+
+   [4]   SAME-PLN-006                 Software Management and Assurance Plan
+
+   [5]   SAME-DOC-001                 Concept Description Document
+
+   [6]   SAME-DOC-005                 Software Interface Control Document
+
+   [7]   MSFC-RQMT-2888               Microgravity Science Glovebox Investigation Interface Requirements
+                                      Document
+
+   [8]   MSG-ORIGIN-IC-0001           MSG RC ASW Interface Control Document
+
+   [9]   MSFC-RQMT-3098               Software Requirements Specification (SRS) for Microgravity Science
+                                      Glovebox Laptop Computer Server Software
+
+   [10] MSFC-HDBK-3168                Software Users Guide For Microgravity Science Glovebox Laptop Computer
+                                      Server Software
+
+   [11] PHOTRON-SPEC                  Ethernet Command Specification for Ultima 512
+
+   [12] SSP 58700-ANX5                U.S. Payload Operations Data File Management Plan, Annex 5: Payload
+                                      Display Review
+
+   [13] SSP 58700-ANX6                U.S. Payload Operations Data File Management Plan, Annex 6: Payload
+                                      Developers Review Guide
+
+   [14] SSP 50313                     Display and Graphics Commonality Standard
+
+
+
+
+                                                        1
+                                                                                             SAME-DOC-004 Rev D
+
+
+
+
+2.0       INSTRUMENT OVERVIEW
+
+The SAME instrument is designed to quantify the size and distribution of smoke particulate in low gravity so that
+this information is available for the future design of effective low gravity smoke detectors. The instrument will also
+be used to evaluate the performance of two existing U.S. spacecraft smoke detectors and one commercial smoke
+detector. Measurements will be made for the smoke from several materials found in spacecraft considering the
+effects of sample temperature, air flow, smoke residence time and aging. The primary targets are materials that
+produce liquid smoke particulate but solid smoke producers will also be considered.
+
+
+
+          Fluid                                                                  Aging Chamber
+          Control
+          Unit
+
+ Power Distribution
+                                                                                                Data Acquisition and
+ and Control Unit
+                                                                                                Control Unit (DACU)
+
+
+
+   Smoke Inlet Duct
+
+                              ISS Smoke Detector
+          STS Smoke
+          Detector
+                                                                                           P-Trak Enclosure
+
+   Sample Carousel                                                                                 Commercial
+                                                                                                   Diagnostics
+                                                                                                   Enclosure
+
+
+
+
+                      Carousel Mounting
+                                                                  Camera              Dynamic
+                      Brackets                     Thermal
+                                                                  Controller          Dilutor
+                                                   Precipitator
+                                                   Module
+
+                      Figure 1        SAME Instrument Assembly Inside MSG WV
+
+The instrument is installed and operated in the MSG Work Volume (WV) which provides a minimal level of
+containment (see Figure 1). A general description of the major subsystems follows below. See SAME-DOC-001,
+Concept Description Document, for more detail.
+      •   Sample Carousel Turning Module, Sample Carousel and Heater Wire Coil
+          These components are used to select and heat a sample in order to generate smoke.
+      •   Camera
+          A camera and light(s) are mounted to see the sample and production of smoke.
+      •   Aging Chamber
+          The aging chamber has a piston and two gate valves for holding the smoke for a time before releasing it
+          downstream. The piston is moved by pressure and vacuum provided by MSG and controlled by SAME.
+      •   Thermal Precipitator Module
+          This assembly collects samples of smoke on TEM grids for post-flight inspection. It has access to smoke
+          before and after the aging chamber.
+
+
+
+                                                           2
+                                                                                      SAME-DOC-004 Rev D
+
+
+•   Smoke Diagnostics
+    After the aging chamber, the smoke is passed to several diagnostics: the TSI P-Trak™ particle
+    concentration counter, the TSI DustTrak™, a residential-grade ionization detector, the ISS photoelectric
+    smoke detector and the STS ionization smoke detector.
+•   Fluids Control Unit
+    Pressure and vacuum supplied by MSG is controlled for smoke aging chamber piston movement and for all
+    other fluid flow to and from the diagnostic equipment.
+•   System Diagnostics
+    Besides the diagnostic instruments measuring smoke characteristics, there are pressure transducers,
+    temperature gauges, and voltage and current sensors to monitor system performance.
+•   External Interfaces
+    External interfaces provided by MSG include power, video recording, temperature control, post-
+    pyrolization venting, nitrogen and air supply/vacuum, an RS-422 interface for commanding and telemetry,
+    ethernet for file transfer, and a laptop for crew access to the SAME experiment. A SAMS unit measures
+    local µg and vibrations and forwards that data to the ground requiring no SAME or MSG processing.
+•   Avionics
+    Contained in the Data Acquisition Control Unit (DACU) box, the SAME avionics conduct automated
+    experiments, controlling the other sub-systems to produce and analyze the smoke. Commands from the
+    ground are processed. Experiment data is saved to files on a local storage medium and forwarded to MSG
+    for subsequent downlink. Housekeeping data is downlinked every second and supplied to MSG. Off-
+    nominal conditions are reported to MSG and the ground. In addition, a means for the crew to access
+    SAME data and control is provided.
+
+
+
+
+                                                    3
+                                                                                         SAME-DOC-004 Rev D
+
+
+
+
+3.0     AVIONICS OVERVIEW
+
+SAME avionics are located in the DACU within the MSG Work Volume (WV). Cables will stretch to the SAME
+diagnostic hardware for control and feedback, to J311 of the WV for command and data transfer, and to J404 of the
+WV for ethernet connection to the MSG laptop computer (MLC) for file transfer and crew display operation. There
+is also a cable for the camera.
+
+3.1     Data Interfaces
+
+To interface to the MSG, and subsequently to ground systems, the DACU CPU will communicate primarily to the
+MSG Rack Controller, also known as the SPLC (Standard Payload Computer) using an RS-422 interface (see Figure
+2). SAME will use this interface to receive uplink commands and send health and status (H&S) data and low rate
+telemetry (LRT) data.
+
+
+
+
+                            Figure 2          SAME to MSG Data Interfaces
+
+Payload commands are transmitted from the ground through the ISS Payload MDM and eventually to the SPLC via
+MIL-STD-1553. The SPLC abstracts this interface from the payload developer, relieving the burden of knowing the
+details about the 1553 bus and command validation.
+
+A packet containing SAME health and status is automatically transmitted in the reverse direction on the 1553 bus
+and is received on the ground. Also included in the payload health and status packet is the Experiment Control
+Word or ECW, a single dedicated memory word that represents the status of the payload. The ECW is monitored by
+various ISS subsystems and provides a quick alert if an off-nominal condition is indicated in it.
+
+
+
+
+                                                        4
+                                                                                             SAME-DOC-004 Rev D
+
+
+File-based SAME science data such as experiment measurement data and instrument ancillary data will be
+transferred to the MLC using FTP utilizing a 10BaseT ethernet connection. Once these files are stored on the MLC,
+the MSG Operations Team at the Payload Operations Integration Center (POIC) will periodically initiate their
+downlink and forward them to the SAME Operations Team. Since SAME is not permitted to transmit data on the
+ISS LAN, the DACU will automatically switch the active network connection from the MLC to SAME and ISS
+using a custom designed ethernet switch when the FTP transfer is required. In its normal state, the MLC will be
+connected to ISS LAN.
+
+The camera looking at the SAME sample is hooked up via an NTSC cable to a feedthrough inside the WV which is
+then patched on the outside to a video recorder channel in the video drawer.
+
+3.2        DACU Overview
+
+The DACU is the central point for SAME control. It is ultimately responsible for all experiment operations and
+interfacing with the environment external to SAME. It contains all of the logic necessary to autonomously operate
+experiments. A brief list of its major responsibilities is as follows:
+      1.   Receive, validate and process commands from the MSG.
+      2.   Periodically transmit SAME system status and select parameters to the MSG.
+      3.   Transmit completed and requested data files to the MLC via FTP.
+      4.   Manage and store all science and system files on the local data storage medium.
+      5.   Autonomously control the progress of preprogrammed tests.
+      6.   Provide diagnostic information and manual control of all sensors and controls using the GSE port.
+      7.   Control the MSG video recorder(s) capturing SAME images.
+      8.   React to sensor(s) out of tolerance by notifying MSG and ground systems, and performing software inhibits
+           or other actions as appropriate.
+
+3.3        Crew Display Overview
+
+During long periods of LOS or failure of telemetry, it is beneficial to provide limited visibility into SAME
+operation. Payloads may utilize the MLC to present payload status to the crew and provide a mechanism to control
+the payload directly from it. Two options for providing the SAME Crew Display are possible. Option 1 is the
+preferred solution at this time because of a likely delay in an upgrade to provide a dedicated ethernet link between
+the MLC and an experiment.
+
+3.3.1      Option 1 - Custom Win32 or Java Based Application
+All data transmitted to the SPLC via H&S and LRT is also transmitted to the MLC via the MSG 1553 bus, and is
+therefore available on the MLC. SAME may develop a custom Win32-based or Java-based application that displays
+a limited set of the SAME downlink data for the crew to see and provides commanding to the SAME instrument.
+
+3.3.2      Option 2 - Embedded Web Pages
+
+A dedicated ethernet interface between the MLC and SAME may be leveraged to provide a web-based interface into
+the DACU using the MLC native web browser. The operating system running on the DACU is capable of running
+an embedded web-server such as Apache or NASA’s Tempest servers.
+
+
+
+
+                                                           5
+                                                                                         SAME-DOC-004 Rev D
+
+
+
+
+4.0       SYSTEM REQUIREMENTS
+
+4.1       System Status
+
+4.1.1     Update Rate
+[SAME-SW-REQ-4-1-1-1-1]              The DACU software shall update its internal status once per second.
+
+4.1.2     LED Status Indicators
+
+The DACU will control two LEDs mounted on the outside of the DACU enclosure using discrete outputs. These
+LEDs are described in Table 1.
+
+                                      Table 1              Status LEDs
+                 LED Name                         Description
+                 OK STATUS                        Indicates nominal operation of the entire
+                                                  SAME apparatus.
+                 TEST RUNNING                     Indicates that a test is currently running.
+
+[SAME-SW-REQ-4-1-2-1-1]              The DACU shall illuminate the OK STATUS LED while the CPU is
+                                     properly running. If the software detects an internal fault or error condition,
+                                     the LED shall be extinguished.
+[SAME-SW-REQ-4-1-2-1-2]              The DACU shall illuminate the TEST RUNNING LED while a test is
+                                     running. Upon completion, the LED shall be extinguished.
+
+4.2       Data Communication
+There are three two-way paths of data communications connected to the DACU. An RS422 interface is used for
+communications with the SPLC. An ethernet interface is used for communications with MLC. An RS232 interface
+is available while not on orbit for development, maintenance, and debugging activities.
+
+4.2.1     SPLC Communications
+
+4.2.1.1      Serial Port Configuration
+[SAME-SW-REQ-4-2-1-1-1]              A single bi-directional RS422 channel between the DACU and the SPLC
+                                     shall be used to communicate with the MSG systems.
+[SAME-SW-REQ-4-2-1-1-2]              RS422 serial port settings shall be 19200 baud, no parity, 8 data bits, and 1
+                                     stop bit.
+
+
+
+
+                                                       6
+                                                                                  SAME-DOC-004 Rev D
+
+
+4.2.1.2   Data Format
+[SAME-SW-REQ-4-2-1-2-1]        All data that the DACU transmits to and accepts from the SPLC shall
+                               conform to the ESTEC Data Link Format as specified in MSG-ORIGIN-IC-
+                               0001, MSG RC ASW Interface Control Document, section 3.5.1.1.
+[SAME-SW-REQ-4-2-1-2-2]        All data that the DACU transmits to and accepts from the SPLC shall
+                               conform to the byte and bit order as specified in MSG-ORIGIN-IC-0001,
+                               MSG RC ASW Interface Control Document, section 1.4.3.
+[SAME-SW-REQ-4-2-1-2-3]        All data that the DACU transmits to and accepts from the SPLC shall
+                               conform to the word alignment as specified in MSG-ORIGIN-IC-0001,
+                               MSG RC ASW Interface Control Document, section 2.3.
+
+4.2.1.3   Health and Status Packet
+[SAME-SW-REQ-4-2-1-3-1]        Once per second, the DACU shall transmit to the SPLC a health and status
+                               packet containing information such as voltages, currents, and pressures
+                               necessary to verify safe and proper operation. Included in this information
+                               are the C&W flags which indicate nominal or off-nominal operation to the
+                               rack systems.
+[SAME-SW-REQ-4-2-1-3-2]        The content of the health and status packet shall conform to the format
+                               specified in MSG-ORIGIN-IC-0001, MSG RC ASW Interface Control
+                               Document.
+[SAME-SW-REQ-4-2-1-3-3]        The Cycle Counter field in the health and status packet shall be incremented
+                               once per second up to the value 0xffff, then roll over to 0.
+[SAME-SW-REQ-4-2-1-3-4]        The C&W flags fields in the health and status packet shall be asserted only
+                               upon the conditions listed in Section 6.2.
+
+4.2.1.4   Low Rate Telemetry Packet
+[SAME-SW-REQ-4-2-1-4-1]        Once per second, the DACU shall transmit to the SPLC a low rate telemetry
+                               packet representing the current state of the instrument.
+[SAME-SW-REQ-4-2-1-4-2]        The content of the low rate telemetry packet shall conform to the format
+                               specified in MSG-ORIGIN-IC-0001, MSG RC ASW Interface Control
+                               Document.
+
+4.2.1.5   Video Command Packet
+[SAME-SW-REQ-4-2-1-5-1]        The DACU shall have the ability to control MSG video drawer functions by
+                               sending video command packets to the SPLC. The controllable video
+                               drawer functions are determined by the requirements of the video drawer
+                               command group, Section 4.4.5.
+[SAME-SW-REQ-4-2-1-5-2]        The content of video drawer packets issued by the DACU shall conform to
+                               the format specified in MSG-ORIGIN-IC-0001, MSG RC ASW Interface
+                               Control Document.
+
+4.2.1.6   Time of Day Packet
+[SAME-SW-REQ-4-2-1-6-1]        The DACU shall accept time of day packets from the SPLC when they
+                               adhere to the format specified in MSG-ORIGIN-IC-0001, MSG RC ASW
+                               Interface Control Document.
+
+
+
+
+                                                7
+                                                                                           SAME-DOC-004 Rev D
+
+
+4.2.1.7      Experiment Command Packet
+[SAME-SW-REQ-4-2-1-7-1]                 The DACU shall accept experiment command packets from the SPLC when
+                                        they adhere to the format specified in MSG-ORIGIN-IC-0001, MSG RC
+                                        ASW Interface Control Document.
+
+4.2.2     MLC Communications
+
+Upon completion of a science run, all data files will be stored on DACU internal storage. A copy of these data files
+will automatically be forwarded to the MLC via FTP on a point-to-point cross-wired ethernet cable. The SAME
+Operations Team will submit a request to the MSG Team at MSFC to downlink the files on the MLC at the earliest
+possible time. The downlinked files will then be electronically forwarded to GRC. Because the connection is made
+directly to the MLC, no bandwidth restrictions are necessary to ensure ISS LAN resource availability.
+
+4.2.2.1      FTP Usage
+[SAME-SW-REQ-4-2-2-1-1]                 All data files stored on the DACU local storage shall be automatically
+                                        forwarded to the MLC via FTP for backup and downlink.
+
+4.2.2.2      Network Details
+[SAME-SW-REQ-4-2-2-2-1]                 A dedicated standard 802.3 (10BaseT) ethernet connection from the MLC
+                                        to the DACU shall be used to perform the FTP transfer.
+[SAME-SW-REQ-4-2-2-2-2]                 Communications with the FTP server shall be done utilizing a server IP
+                                        address of 192.168.1.1, port 21.
+[SAME-SW-REQ-4-2-2-2-3]                 The DACU will automatically switch the ethernet source from MLC→ISS
+                                        to MLC→SAME when communication to the MLC is required. When the
+                                        transaction is completed, the original MLC→ISS connection will be
+                                        restored.
+
+4.2.2.3      SAME File Maintenance
+[SAME-SW-REQ-4-2-2-3-1]                 The DACU shall provide the ability to remove SAME files from the FTP
+                                        server as needed to ensure proper storage space utilization.
+
+4.2.3     Remote Console Communications
+[SAME-SW-REQ-4-2-3-1-1]                 The DACU shall provide a telnet console login session on an RS232 port.
+                                        All administrative features and capabilities available via telnet shall be
+                                        supported.
+[SAME-SW-REQ-4-2-3-1-2]                 The telnet console RS232 serial port settings shall be, 19200 baud, no
+                                        parity, 8 data bits, and 1 stop bit.
+
+
+
+
+                                                         8
+                                                                                               SAME-DOC-004 Rev D
+
+
+4.3       Data Storage Requirements
+
+The data storage requirements reflect two main needs. First, that a record of all status, measurements and events is
+preserved beyond the flight of the instrument. And second, that individual values of status, measurements or events
+can be easily located in stored data.
+
+4.3.1     Storage Media
+[SAME-SW-REQ-4-3-1-1-1]                  The DACU shall store all files on a media that can preserve all generated
+                                         files for extraction after payload down-mass.
+[SAME-SW-REQ-4-3-1-1-2]                  The storage media shall have a capacity of at least 520 megabytes.
+
+4.3.2     File Conventions
+
+4.3.2.1      Directory Structure
+
+Because the execution of ISS instrument experiments are highly scheduled, the date and time that procedures and
+ground commanding is performed is usually reliably recorded by NASA cadre and experiment ground operation
+teams. As such, finding the data files for a previously run experiment or for a particular logged event is facilitated
+by a data storage structure based on the date. Therefore,
+[SAME-SW-REQ-4-3-2-1-1]                  All files created shall be organized into a hierarchical directory structure
+                                         based on the date that files were created.
+
+4.3.2.2      File Names
+[SAME-SW-REQ-4-3-2-2-1]                  All files created shall have unique file names.
+
+4.3.3     Stored Data
+
+4.3.3.1      Housekeeping Data
+[SAME-SW-REQ-4-3-3-1-1]                  Once per second data relating to the status of the instrument shall be stored
+                                         to a file.
+[SAME-SW-REQ-4-3-3-1-2]                  Each second of housekeeping data stored to a file shall be time-tagged.
+
+4.3.3.2      Messages
+[SAME-SW-REQ-4-3-3-2-1]                  Messages generated by the instrument shall be stored to a file.
+[SAME-SW-REQ-4-3-3-2-2]                  Each message stored to a file shall be time-tagged.
+
+4.3.3.3      Experiment Results
+[SAME-SW-REQ-4-3-3-3-1]                  Experiment results shall be stored to a file
+[SAME-SW-REQ-4-3-3-3-2]                  Experiment results stored to a file shall be time-tagged.
+[SAME-SW-REQ-4-3-3-3-3]                  DELETED.
+
+
+
+
+                                                           9
+                                                                                         SAME-DOC-004 Rev D
+
+
+4.4     Command Requirements
+
+Commands are the primary means of initiating SAME instrument operations. Commands to an instrument are
+typically formatted into an array of data and inserted into command packets and then transmitted from the ground
+operation station or from the crew display on the MSG MLC on-board the ISS. When command packets reach the
+DACU the command data within is extracted and interpreted and the appropriate software functions are executed.
+
+The command requirements below deal mainly with the functions required by the instrument and not with how those
+functions are implemented or with how the command data is formatted. See SAME-DOC-005, Software Interface
+Control Document, for the latter information.
+
+4.4.1   General Command Requirements
+[SAME-SW-REQ-4-4-1-1-1]                DELETED
+[SAME-SW-REQ-4-4-1-1-2]                DELETED
+
+                                         Table 2             DELETED
+                                                   DELETED
+
+[SAME-SW-REQ-4-4-1-1-3]                At the start of execution of a command the DACU shall generate and
+                                       downlink a message that includes the name of the command and its
+                                       parameters.
+[SAME-SW-REQ-4-4-1-1-4]                At the successful completion of a command the DACU shall generate and
+                                       downlink a message announcing the successful completion.
+[SAME-SW-REQ-4-4-1-1-5]                The DACU shall perform out-of-bound checking on all command
+                                       parameters and reject commands with out-of-bound parameters.
+[SAME-SW-REQ-4-4-1-1-6]                The bounds for command parameters shall be those specified in SAME-
+                                       DOC-005, Software Interface Control Document.
+[SAME-SW-REQ-4-4-1-1-7]                The DACU shall allow for suspension of bound checking on command
+                                       parameters.
+[SAME-SW-REQ-4-4-1-1-8]                The DACU shall indicate when a command is being executed with bound
+                                       checking suspended.
+
+4.4.2   System Command Group
+[SAME-SW-REQ-4-4-2-1-1]                The DACU shall accept a set of commands to perform system level
+                                       operations. The system group commands shall perform the operations listed
+                                       in Table 3.
+
+
+
+
+                                                        10
+                                                                                       SAME-DOC-004 Rev D
+
+
+                           Table 3          System Command Group
+         Command Name                               Operation Description
+        NoOp               Command generates the required received and complete messages but
+                           performs no operation. Useful for a quick test of the command interface.
+        Initialize         Initialize hardware components and prepares the system to run a test.
+        Shutdown           Perform an orderly system shutdown.
+        Reset              Reset the computer running the software.
+        SelfTest           Perform a system self-test and report the result.
+        OSCommand          Execute an operating system level command as if it were entered at the
+                           command prompt.
+        FTPCommand         Perform an FTP command
+        SetDigitalOutput   Turn on or off the specified digital output.
+        SetAnalogOutput    Set the output of the specified analog output channel.
+        ClearEvents        Clears all outstanding events
+        IgnoreBounds       Bounds checking is suspended for only the next command sent after this
+                           one.
+        SetRegistryValue   Manually sets a value in the file registry.
+
+
+4.4.3   Test Command Group
+[SAME-SW-REQ-4-4-3-1-1]          The DACU shall accept a set of commands to perform automated tests. The
+                                 test group commands shall perform the operations listed in Table 4.
+
+                            Table 4           Test Command Group
+            Command Name                                Operation Description
+        StartTest              Start the specified test. If the specified test has not been defined or
+                               if it has any undefined or invalid parameters then an error shall be
+                               generated and the test shall be aborted.
+        PauseTest              Suspend the currently running test
+        ResumeTest             Resume a currently running test that has been suspended.
+        AbortTest              Stop the currently running test, otherwise it finishes on its own.
+
+
+4.4.4   Test Configuration Command Group
+[SAME-SW-REQ-4-4-4-1-1]          The DACU shall accept a set of commands to configure test parameters.
+                                 The test configuration group commands shall perform the operations listed
+                                 in Table 5. All operations are for a specified test.
+
+
+
+
+                                                   11
+                                                                                         SAME-DOC-004 Rev D
+
+
+                      Table 5           Test Configuration Command Group
+           Command Name                                       Operation Description
+    SetSampleNumber                  Sets the desired sample number for the test.
+    SetCarouselNumber                Set the carousel number (for reference only, not for control of which
+                                     carousel is installed).
+    SetInletVelocity                 Sets the target flow velocity for the inlet duct during sample heating.
+    SetHeaterSetpoint                Sets the resistance/temperature setpoint of the heater controller.
+    SetHeaterDuration                Sets the duration of the sample heating sequence.
+    SetHeaterPIDCoefficients         Sets the PID control coefficients for the heater sequence.
+    SetMixingDuration                Sets the time that the mixing fan is on.
+    SetThermalPrecipitatorChannel    Sets which channels the smoke will be sent to on the thermal
+                                     precipitator unit for pre-aged and post-aged smoke.
+    SetPrimaryAgingDuration          Sets the duration that smoke is kept in the smoke aging chamber.
+    SetSecondaryAgingDuration        Sets an optional extended aging duration that applies to a portion of
+                                     the total smoke.
+    SetSecondaryAgingVolume          Sets the portion of smoke left in the smoke aging chamber for the
+                                     optional secondary aging duration.
+    SetLFEFlowRate                   Sets the dilution rate for the P-Trak in terms of the laminar flow
+                                     element (LFE) flow rate. This is the target amount of smoke aerosol
+                                     reaching the P-Trak. Dilution GN2 makes up the remainder of the
+                                     700 sccm flowing to the P-Trak.
+    SetTestSetup                     Sets a number of discretes indicating which diagnostics should be
+                                     used and other test setup variables.
+    DownlinkTestParameters           Downlinks all parameters of a specified test.
+    CreateNewTest                    Creates a new test with the specified number and configures it with
+                                     default values. Error occurs if test already exists.
+
+
+4.4.5   Video Drawer Command Group
+[SAME-SW-REQ-4-4-5-1-1]              The DACU shall accept a set of commands to perform MSG video drawer
+                                     operations. The video drawer group commands shall perform the
+                                     operations listed in Table 6.
+
+                         Table 6           Video Drawer Command Group
+          Command Name                                     Operation Description
+        Power                   Switch power on or off to the specified recorder.
+        Record                  Start recording on the specified recorder or resumes from pause.
+        Stop                    Stop recording on the specified recorder.
+        Pause                   Pause recording on the specified recorder.
+
+
+4.4.6   DustTrak Command Group
+[SAME-SW-REQ-4-4-6-1-1]              The DACU shall accept a set of commands to activate the keys on the
+                                     DustTrak. The DustTrak group commands shall perform the operations
+                                     listed in Table 7.
+
+
+
+
+                                                      12
+                                                                                            SAME-DOC-004 Rev D
+
+
+                              Table 7          DustTrak Command Group
+           Command Name                                         Operation Description
+   PowerOn                               Powers on the DustTrak and performs some initialization.
+   PowerOff                              Powers off the DustTrak.
+   Up                                    Activates the Up key on the DustTrak keypad.
+   Down                                  Activates the Down key on the DustTrak keypad.
+   IncrementSamplingMode                 Activates the Sampling Mode key on the DustTrak keypad,
+                                         incrementing the sampling mode.
+   StartStopSampling                     Activates the Sample key on the DustTrak keypad.
+   ViewStatistics                        Activates the Statistics key on the DustTrak keypad.
+   ViewLoggingInterval                   Activates the Logging Interval key on the DustTrak keypad to view
+                                         the current setting.
+   IncrementLoggingInterval              Activates the Logging Interval key on the DustTrak keypad to
+                                         increment to next setting.
+   ViewTimeConstant                      Activates the Time Constant key on the DustTrak keypad to view the
+                                         current setting.
+   IncrementTimeConstant                 Activates the Time Constant key on the DustTrak keypad to
+                                         increment to next setting.
+   Calibrate                             Activates the Calibrate key on the DustTrak, pressing it long enough
+                                         to enter calibration mode.
+   ClearMemory                           Activates the Clear Memory key on the DustTrak, pressing it long
+                                         enough to clear the memory.
+   TransferData                          Retrieves data of the specified test ID and places it in a DustTrak file.
+
+
+4.4.7   P-Trak Command Group
+[SAME-SW-REQ-4-4-7-1-1]               The DACU shall accept a set of commands to activate the keys on the P-
+                                      Trak. The P-Trak group commands shall perform the operations listed in
+                                      Table 8.
+
+                               Table 8           P-Trak Command Group
+           Command Name                                 Operation Description
+
+          PowerOn               Powers on the P-Trak and performs some initialization.
+          PowerOff              Powers off the P-Trak.
+          Up                    Momentarily activate the Up key on the P-Trak keypad.
+          Down                  Momentarily activate the Down key on the P-Trak keypad.
+          Left                  Momentarily activate the Left key on the P-Trak keypad.
+          Right                 Momentarily activate the Right key on the P-Trak keypad.
+          Enter                 Momentarily activate the Enter key on the P-Trak keypad.
+          Setup                 Activates the keypad combination which enters setup mode.
+          TransferData          Retrieves data of the specified test ID and places it in a P-Trak file.
+
+
+
+
+                                                        13
+                                                                                    SAME-DOC-004 Rev D
+
+
+4.5     Experiment Sequencing Requirements
+
+4.5.1   Miscellaneous Sequencing Requirements
+[SAME-SW-REQ-4-5-1-1-1]       Residence time of smoke in the aging chamber shall be controllable from 0
+                              to 100 (or greater) minutes per aging period.
+[SAME-SW-REQ-4-5-1-1-2]       The DACU shall command the diagnostic instruments to sample the smoke
+                              once the diagnostic duct is filled from the aging chamber.
+[SAME-SW-REQ-4-5-1-1-3]       The DACU shall control the timing of diagnostic measurements such that a
+                              steady state signal is achieved on all instruments.
+[SAME-SW-REQ-4-5-1-1-4]       The DACU shall allow the option of multiple smoke samples from the
+                              aging chamber with separate aging times.
+[SAME-SW-REQ-4-5-1-1-5]       The DACU shall purge the diagnostic duct between multiple smoke
+                              samples from the aging chamber.
+[SAME-SW-REQ-4-5-1-1-6]       The DACU shall control the system to allow the P-Trak to sample air from
+                              the MSG work volume.
+[SAME-SW-REQ-4-5-1-1-7]       The DACU shall control the system to allow the DustTrak to sample air
+                              from the MSG work volume.
+
+4.5.2   Test Matrix Modifiable Parameters
+[SAME-SW-REQ-4-5-2-1-1]       DELETED.
+
+
+
+4.5.3   Test Definition
+[SAME-SW-REQ-4-5-3-1-1]       DELETED.
+[SAME-SW-REQ-4-5-3-1-2]       There shall be predefined tests with parameters as determined by the
+                              Principal Investigator.
+[SAME-SW-REQ-4-5-3-1-3]       Additional tests shall be possible to define with parameters determined by
+                              uplink commands.
+[SAME-SW-REQ-4-5-3-1-4]       It shall be possible to confirm all parameters for a specific test.
+
+
+
+
+                                                14
+                                                                                 SAME-DOC-004 Rev D
+
+
+
+
+5.0     SUBSYSTEM REQUIREMENTS
+
+5.1     Sample Carousel
+
+5.1.1   Sample Selection
+[SAME-SW-REQ-5-1-1-1-1]       The DACU shall control a motor to rotate the sample carousel to a specified
+                              sample number.
+[SAME-SW-REQ-5-1-1-1-2]       The DACU shall use four proximity sensors to confirm correct positioning
+                              of the correct sample carousel.
+
+5.1.2   Sample Positioning
+[SAME-SW-REQ-5-1-2-1-1]       The DACU shall mate the selected sample tube with the smoke generation
+                              duct and the sample contacts with heater wire coil contacts by controlling a
+                              linear actuator.
+[SAME-SW-REQ-5-1-2-1-2]       The DACU shall confirm correct mating of a sample tube and sample
+                              contacts by monitoring the resistance between the two heater wire coil
+                              contacts.
+
+5.2     Sample Heater (Heater Wire Coil)
+[SAME-SW-REQ-5-2-1-1-1]       The DACU in combination with the heater microcontroller shall control the
+                              sample surface temperature and duration of the heating.
+[SAME-SW-REQ-5-2-1-1-2]       The DACU in combination with the heater microcontroller shall achieve
+                              steady state temperature of the heater within 5 seconds.
+[SAME-SW-REQ-5-2-1-1-3]       The DACU in combination with the heater microcontroller shall set the
+                              temperature of the heater wire coil to any temperature between 50 and 500
+                              degrees Celcius.
+[SAME-SW-REQ-5-2-1-1-4]       The DACU in combination with the heater microcontroller shall provide
+                              active temperature control of the heater.
+[SAME-SW-REQ-5-2-1-1-5]       The DACU in combination with the heater microcontroller shall control the
+                              heater temperature and duration so as not to ignite the sample.
+[SAME-SW-REQ-5-2-1-1-6]       The DACU shall measure and store the sample temperature at least once per
+                              second.
+[SAME-SW-REQ-5-2-1-1-7]       The DACU shall measure and store the gas plume temperature at least once
+                              per second.
+
+5.3     Camera and Lighting
+
+5.3.1   Lighting
+[SAME-SW-REQ-5-3-1-1-1]       The DACU shall control power to any combination of the camera lights.
+[SAME-SW-REQ-5-3-1-1-2]       DELETED.
+
+
+
+
+                                               15
+                                                                                  SAME-DOC-004 Rev D
+
+
+5.3.2   Camera
+[SAME-SW-REQ-5-3-2-1-1]       The DACU shall control the gain and gamma settings of the camera.
+
+5.4     Aging Chamber
+[SAME-SW-REQ-5-4-1-1-1]       The DACU shall control the aging chamber piston upward velocity to
+                              achieve 1 to 10 cm/s average flow velocity in the smoke generation duct.
+[SAME-SW-REQ-5-4-1-1-2]       The DACU shall control the aging chamber piston upward movement by
+                              controlling a solenoid on the vacuum line, by sensing and controlling a
+                              mass flow controller on the vacuum line, and by sensing a pressure
+                              transducer monitoring the drive side pressure of the piston.
+[SAME-SW-REQ-5-4-1-1-3]       The DACU shall control the aging chamber piston downward velocity in
+                              order to provide smoke at the rate required for the particular diagnostics in
+                              use.
+[SAME-SW-REQ-5-4-1-1-4]       The DACU shall control the aging chamber piston downward movement by
+                              controlling a solenoid on the GN2 line, by sensing and controlling a mass
+                              flow controller on the GN2 line, and by sensing a pressure transducer
+                              monitoring the sample side pressure of the piston.
+[SAME-SW-REQ-5-4-1-1-5]       The DACU shall control a mixing fan in the aging chamber to be on during
+                              a specified portion of the residence time.
+
+5.5     Thermal Precipitator Module
+
+5.5.1   Valve Control
+[SAME-SW-REQ-5-5-1-1-1]       Using digital outputs the DACU shall control the valves of the thermal
+                              precipitator module so that at most only one valve is open at a time.
+
+5.5.2   Heater Control
+[SAME-SW-REQ-5-5-2-1-1]       Using a digital output the DACU shall control power to one thermal
+                              precipitator module heater at a time.
+
+5.6     DustTrak
+
+5.6.1   Control
+[SAME-SW-REQ-5-6-1-1-1]       The DACU shall control the DustTrak via an RS-232 serial port.
+[SAME-SW-REQ-5-6-1-1-2]       The DACU shall turn the DustTrak on and off by controlling the on/off
+                              keypad using custom electronics.
+[SAME-SW-REQ-5-6-1-1-3]       The DACU shall control the DustTrak keypad using custom electronics.
+
+5.6.2   Data Reception
+[SAME-SW-REQ-5-6-2-1-1]       The DACU shall receive data from the DustTrak via an RS-232 serial port.
+[SAME-SW-REQ-5-6-2-1-2]       The DACU shall sample DustTrak data at a minimum rate of 0.2 Hz.
+
+
+
+                                               16
+                                                                                           SAME-DOC-004 Rev D
+
+
+5.7     P-Trak
+
+5.7.1   Control
+[SAME-SW-REQ-5-7-1-1-1]               The DACU shall control the P-Trak via an RS-232 serial port.
+[SAME-SW-REQ-5-7-1-1-2]               The DACU shall turn the P-Trak on and off by controlling its momentary
+                                      on/off switch via custom electronics.
+[SAME-SW-REQ-5-7-1-1-3]               The DACU shall control the P-Trak keypad using custom electronics.
+
+5.7.2   Data Reception
+[SAME-SW-REQ-5-7-2-1-1]               The DACU shall receive data from the P-Trak via an RS-232 serial port.
+[SAME-SW-REQ-5-7-2-1-2]               The DACU shall sample P-Trak data at a minimum rate of 0.2 Hz.
+
+5.8     Ionization Detector (Residential Smoke Detector)
+[SAME-SW-REQ-5-8-1-1-1]               The DACU shall record measurements from the ionization detector at a
+                                      minimum rate of 0.2 Hz.
+
+5.9     ISS Detector
+
+The ISS detector is an Allied Signal/HoneywellTM engineering model.
+[SAME-SW-REQ-5-9-1-1-1]               The DACU shall control the ISS detector.
+[SAME-SW-REQ-5-9-1-1-2]               The DACU shall sample the output of the ISS detector at a sampling rate of
+                                      1 Hz or greater.
+
+5.10    STS Detector
+
+The STS detector is a Brunswick DefenseTM engineering model.
+[SAME-SW-REQ-5-10-1-1-1] The DACU shall control the STS detector.
+[SAME-SW-REQ-5-10-1-1-2] The DACU shall sample the output of the STS detector at a sampling rate of
+                                      1 Hz or greater.
+
+5.11    Dilution Air
+[SAME-SW-REQ-5-11-1-1-1] The DACU shall control the dilution of smoke using analog input(s) and
+                                      output(s) and discrete output(s) to a voltage sensitive orifice and
+                                      measurement instrumentation.
+
+
+
+
+                                                         17
+                                                                                        SAME-DOC-004 Rev D
+
+
+5.12   Miscellaneous Diagnostic Measurements
+[SAME-SW-REQ-5-12-1-1-1] The DACU shall record the air flow speed in the smoke generation duct
+                                  with a range of at least 0 to 15 cm/s using calibration coefficients as
+                                  necessary.
+[SAME-SW-REQ-5-12-1-1-2] The DACU shall record the MFC settings and the pressure transducer data
+                                  at the rate of at least 0.1 Hz to be used in the calculation of the air flow
+                                  speed.
+[SAME-SW-REQ-5-12-1-1-3] The DACU shall record the air flow speed in the smoke generation duct.
+[SAME-SW-REQ-5-12-1-1-4] The DACU shall measure and store the ambient air pressure of the work
+                                  volume at a rate of at least 0.1 Hz.
+[SAME-SW-REQ-5-12-1-1-5] The DACU shall measure and store the ambient air temperature of the work
+                                  volume at a rate of at least 0.1 Hz.
+
+
+
+
+                                                    18
+                                                                                               SAME-DOC-004 Rev D
+
+
+
+
+6.0      OFF-NOMINAL AND CONTINGENCY REQUIREMENTS
+
+6.1      Maintenance Mode Operation
+
+The software will contain provisions to allow experiment operations to continue in the event of the following:
+[SAME-SW-REQ-6-1-1-1-1]                  In the event of a loss of the ability to write to the data hard drive, the system
+                                         shall continue to accept uplink commands and transmit status data to ensure
+                                         safe operation.
+[SAME-SW-REQ-6-1-1-1-2]                  In the event of a loss of ethernet communication between the DACU and
+                                         the MLC, operations shall continue. Data recorded on the flight avionics
+                                         may be manually commanded for retransmission once communication is
+                                         regained.
+
+6.2      Caution and Warning
+
+Three discrete bits in the health and status packet are used to indicate to MSG the presence of a payload condition
+warranting a warning, caution, or advisory classification and reaction. See MSFC-RQMT-2888, MSG Investigation
+Interface Requirements Document, Section 3.11 for details of each level. The specific payload conditions that result
+in warning and caution levels are determined by the Payload Safety Review Panel (PSRP) during Phased Safety
+Reviews. Automatic safing will be performed if the warning or caution bit is set. The advisory bit can be used to
+reflect errors and off-nominal conditions seen only in the low rate telemetry data to the health and status data. If,
+due to limited communication coverage or communication error, the health and status data is received while the low
+rate telemetry is not, then these off-nominal conditions will still be noted and time-tagged.
+
+6.2.1    Warning
+
+There are no conditions that constitute a “Class 2 -Warning” condition and a subsequent set of the Warning bit in the
+Health and Status packet payload ECW.
+
+6.2.2    Caution
+
+There are no conditions that constitute a “Class 3 - Caution” condition and a subsequent set of the Caution bit in the
+Health and Status packet payload ECW.
+
+6.2.3    Advisory
+There are no conditions that constitute a “Class 4 - Advisory” condition and a subsequent set of the Advisory bit in
+the Health and Status packet payload ECW.
+
+6.3      Automatic Safing
+[SAME-SW-REQ-6-3-1-1-1]                  In the event of a GN2 regulated pressure reading of over 21 psig, the DACU
+                                         shall automatically shut off the main GN2 valve.
+[SAME-SW-REQ-6-3-1-1-2]                  In the event of a vacuum pressure reading of over 19 psia, the DACU shall
+                                         automatically shut off the main vacuum valve.
+
+
+
+
+                                                           19
+                                                                                         SAME-DOC-004 Rev D
+
+
+
+
+7.0     CREW DISPLAY REQUIREMENTS
+
+7.1     Graphic Standards
+
+The development and approval process for the project crew display follows the guidelines in SSP 58700-ANX5,
+U.S. Payload Operations Data File Management Plan, Annex 5: Payload Display Review, and in SSP 58700-
+ANX6, U.S. Payload Operations Data File Management Plan, Annex 6: Payload Developers Review Guide.
+[SAME-SW-REQ-7-1-1-1-1]               The crew display shall meet all applicable standards defined in SSP 50313,
+                                      Display and Graphics Commonality Standard.
+
+7.2     Interfaces
+
+7.2.1   Host Computer
+[SAME-SW-REQ-7-2-1-1-1]               The crew display shall be able to run on the MSG Laptop Computer with
+                                      features and operating system as described in MSFC-RQMT-2888,
+                                      Microgravity Science Glovebox Investigation Interface Requirements
+                                      Document, Section 3.3.5.
+
+7.2.2   MLC Server
+
+
+[SAME-SW-REQ-7-2-2-1-1]               The crew display shall send commands from the MLC to the instrument
+                                      using the MLC Server Socket Interface.
+[SAME-SW-REQ-7-2-2-1-2]               The crew display on the MLC shall receive health and status data and low-
+                                      rate telemetry from the instrument using the MLC Server Socket Interface.
+[SAME-SW-REQ-7-2-2-1-3]               The crew display shall meet the MLC Server Socket Interface requirements
+                                      documented in MSFC-RQMT-3098, Software Requirements Specification
+                                      (SRS) for Microgravity Science Glovebox Laptop Computer Server
+                                      Software, Section 4.6.
+
+7.3     Features
+
+7.3.1   Commanding
+[SAME-SW-REQ-7-3-1-1-1]               The crew display shall include a subset of the full instrument command list.
+
+7.3.2   Data Display
+[SAME-SW-REQ-7-3-2-1-1]               The crew display shall display a subset of the full instrument health and
+                                      status and/or low-rate telemetry data.
+
+7.4     Enhanced Mode
+[SAME-SW-REQ-7-4-1-1-1]               DELETED
+
+
+
+
+                                                       20
+                                                                                            SAME-DOC-004 Rev D
+
+
+
+
+8.0      DEVELOPMENTAL SOFTWARE
+
+The software necessary for developmental purposes is subject to change; therefore the items in this section are not
+requirements but estimates of necessary software effort. Note the use of ‘will’ instead of ‘shall’. The software lead
+will maintain a true list of necessary software for development tasks.
+[SAME-SW-REQ-8-1-1-1-1]                 Software will be provided to support test structures and instrumentation to
+                                        characterize flow profiles.
+[SAME-SW-REQ-8-1-1-1-2]                 Software will be provided to support test structures and instrumentation to
+                                        validate flow stream lines.
+[SAME-SW-REQ-8-1-1-1-3]                 DELETED.
+[SAME-SW-REQ-8-1-1-1-4]                 Software will be provided to support test structures and instrumentation to
+                                        characterize temporal delays of the smoke.
+[SAME-SW-REQ-8-1-1-1-5]                 Software will be provided to support test structures and instrumentation to
+                                        characterize the sample heater rate.
+[SAME-SW-REQ-8-1-1-1-6]                 Software will be provided to test and characterize the accuracy of the heater
+                                        temperature.
+[SAME-SW-REQ-8-1-1-1-7]                 Software will be provided to support a test rig for characterization of mass
+                                        loss rate for the sample heater system.
+[SAME-SW-REQ-8-1-1-1-8]                 Software will be provided to support a ground test apparatus to test and
+                                        characterize thermal precipitator sample line transit times.
+[SAME-SW-REQ-8-1-1-1-9]                 Software will be provided to support a ground test apparatus to test and
+                                        characterize thermal precipitator sampling efficiency and particle loss.
+
+
+
+
+                                                          21
+                                                                                          SAME-DOC-004 Rev D
+
+
+
+
+9.0     TRACEABILITY MATRIX
+
+A matrix identifying the ancestry of each requirement identified in this document and the method employed to verify
+them can be found in SAME-PLN-005, Verification Plan and Engineering Requirements Document. Software
+requirements that do not contain the word ‘shall’ do not require verification. See SAME-PLN-006, Software
+Management and Assurance Plan, for an overall description of verification and verification methods.
+
+
+
+
+                                                        22
+                                                                      SAME-DOC-004 Rev D
+
+
+
+
+10.0   ACRONYMNS AND ABBREVIATIONS
+
+
+       DACU         Data Acquisition Control Unit
+       DIO          Digital Input/Output
+       ECW          Experiment Control Word
+       EDLF         ESTEC Data Link Format
+       ESTEC        European Space Research & Technology Centre
+       FTP          File Transfer Protocol
+       GN2          Nitrogen
+       GRC          Glenn Research Center
+       H&S          Health and Status
+       I/O          Input - Output
+       ISS          International Space Station
+       LAN          Local Area Network
+       LRT          Low Rate Telemetry
+       MDM          Multiplexer/De-Mutiplexer
+       MLC          Microgravity Science Glovebox Laptop Computer
+       MLCS         Microgravity Science Glovebox Laptop Computer Server
+       MSFC         Marshall Space Flight Center
+       MSG          Microgravity Science Glovebox
+       POIC         Payload Operations Integration Center
+       PDRP         Payload Display Review Panel
+       PSRP         Payload Safety Review Panel
+       SAME         Smoke Aerosol Measurement Experiment
+       SAMS         Space Acceleration Measurement System
+       SC           Sample Carousel
+       SPLC         Standard Payload Computer
+       SRD          Science Requirements Document
+       STS          Space Transportation System (eg. Space Shuttle)
+       TCP/IP       Transfer Control Protocol/Internet Protocol
+       TEM          Transmission Electron Microscope
+       TSC          Telescience Support Center
+       UIP          Utility Interface Panel
+       VSO          Voltage Sensitive Orifice
+       WV           Work Volumer
+
+
+
+
+                                           23
+

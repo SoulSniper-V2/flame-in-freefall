@@ -1,0 +1,414 @@
+           CFI-G Round 1, day 8, with 30% ethane (C2H6)
+             Chamber filled to 0.5 atm with ~40% O2 (balance N2)
+   Extinction detection effectively turned off so tests were ended ‘manually’
+
+Test 21153A1 (test 1 of 14, hot flame 1 of 14) – sustained ignition, run as
+planned
+
+
+
+
+                                         1
+Test 21153A1, continued
+
+
+
+
+                          2
+Test 21153A1, continued
+
+
+
+
+After test: 907 on lowest valve safety timer, 1533 psia in oxidizer bottle, 204
+psia in fuel bottle
+
+
+
+
+                                         3
+Test 21153A2 (test 2 of 14, hot flame 2 of 14) – sustained ignition, run with
+flowTimeoutSec=300, fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.317,
+fuelTestFlow1Slpm=0.317, constantFlowTime1Sec=270
+
+
+
+
+                                      4
+Test 21153A2, continued
+
+
+
+
+                          5
+Test 21153A2, continued
+
+
+
+
+After test: 786 on lowest valve safety timer, 1540 psia in oxidizer bottle, 197
+psia in fuel bottle
+
+
+
+
+                                         6
+Test 21153A3 (test 3 of 14, hot flame 3 of 14) – sustained ignition, run with
+flowTimeoutSec=300, fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.211,
+fuelTestFlow1Slpm=0.211, constantFlowTime1Sec=270
+
+
+
+
+                                      7
+Test 21153A3, continued
+
+
+
+
+                          8
+Test 21153A3, continued
+
+
+
+
+After test: 500 on lowest valve safety timer, 1544 psia in oxidizer bottle, 185
+psia in fuel bottle
+
+
+
+
+                                         9
+Test 21153F1 (test 4 of 14, hot flame 4 of 14) – sustained ignition, run with
+dataCameraManualGain=0, useBracketedExposures=TRUE,
+bracketingExposureStartUsec=50000,
+bracketingExposureMultiplierTimes100=200, fiberIgnitionPosition=10000,
+fiberTestPosition=17000, flowTimeoutSec=300, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.317, constantFlowTime1Sec=270
+dataCamera Zoom=45000, dataCamera Focus=10025
+
+
+
+
+                                       10
+Test 21153F1, continued
+
+
+
+
+                          11
+Test 21153F1, continued
+
+
+
+
+After test: 428 on lowest valve safety timer, 1546 psia in oxidizer bottle, 182
+psia in fuel bottle
+
+
+
+
+                                        12
+Test 21153A4 (test 5 of 14, hot flame 5 of 14) – sustained ignition, run with
+dataCameraManualGain=33, useBracketedExposures=FALSE,
+bracketingExposureStartUsec=5000,
+bracketingExposureMultiplierTimes100=1000, fiberIgnitionPosition=0,
+fiberTestPosition=0, flowTimeoutSec=300, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.106, constantFlowTime1Sec=270
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                       13
+Test 21153A4, continued
+
+
+
+
+                          14
+Test 21153A4, continued
+
+
+
+
+After test: 356 on lowest valve safety timer, 1547 psia in oxidizer bottle, 181
+psia in fuel bottle
+
+
+
+
+                                        15
+Test 21153A5 (test 6 of 14, hot flame 6 of 14) – sustained ignition, run with
+dataCameraManualGain=33, useBracketedExposures=FALSE,
+bracketingExposureStartUsec=5000,
+bracketingExposureMultiplierTimes100=1000, fiberIgnitionPosition=0,
+fiberTestPosition=0, flowTimeoutSec=300, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.159, constantFlowTime1Sec=270
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                       16
+Test 21153A5, continued
+
+
+
+
+                          17
+Test 21153A5, continued
+
+
+
+
+After test: 66 on lowest valve safety timer, psia in oxidizer bottle, psia in fuel
+bottle
+
+
+
+
+                                         18
+              Chamber filled to 2 atm with ~40% O2 (balance N2)
+
+Test 21153C1 (test 7 of 14, hot flame 7 of 14) – sustained ignition, run with
+dataCameraManualGain=33, useBracketedExposures=FALSE,
+bracketingExposureStartUsec=5000,
+bracketingExposureMultiplierTimes100=1000, fiberIgnitionPosition=0,
+fiberTestPosition=0, flowTimeoutSec=150, fuelFlowIgnitionDeltaMs=2000,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.499, constantFlowTime1Sec=120
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                       19
+Test 21153C1, continued
+
+
+
+
+                          20
+Test 21153C1, continued
+
+
+
+
+After test: 934 on lowest valve safety timer, 295 psia in oxidizer bottle, 165 psia
+in fuel bottle
+
+
+
+
+                                         21
+Test 21153C2 (test 8 of 14, hot flame 8 of 14) – sustained ignition, run with
+dataCameraManualGain=33, useBracketedExposures=FALSE,
+bracketingExposureStartUsec=5000,
+bracketingExposureMultiplierTimes100=1000, fiberIgnitionPosition=0,
+fiberTestPosition=0, flowTimeoutSec=300, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.317, constantFlowTime1Sec=270
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                       22
+Test 21153C2, continued
+
+
+
+
+                          23
+Test 21153C2, continued
+
+
+
+
+After test: 854 on lowest valve safety timer, 294 psia in oxidizer bottle, 162 psia
+in fuel bottle
+
+
+
+
+                                         24
+Test 21153C3 (test 9 of 14, hot flame 9 of 14) – sustained ignition, run with
+dataCameraManualGain=33, useBracketedExposures=FALSE,
+bracketingExposureStartUsec=5000,
+bracketingExposureMultiplierTimes100=1000, fiberIgnitionPosition=0,
+fiberTestPosition=0, flowTimeoutSec=300, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.211, constantFlowTime1Sec=270
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                       25
+Test 21153C3, continued
+
+
+
+
+                          26
+Test 21153C3, continued
+
+
+
+
+After test: 700 on lowest valve safety timer, 295 psia in oxidizer bottle, 155 psia
+in fuel bottle
+
+
+
+
+                                         27
+Test 21153G1 (test 10 of 14, hot flame 10 of 14) – sustained ignition, run with
+dataCameraManualGain=0, useBracketedExposures=TRUE,
+bracketingExposureStartUsec=50000,
+bracketingExposureMultiplierTimes100=200, fiberIgnitionPosition=10000,
+fiberTestPosition=17000, flowTimeoutSec=300, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.211, constantFlowTime1Sec=270
+dataCamera Zoom=45000, dataCamera Focus=10025
+
+
+
+
+                                        28
+Test 21153G1, continued
+
+
+
+
+                          29
+Test 21153G1, continued
+
+
+
+
+After test: 540 on lowest valve safety timer, 296 psia in oxidizer bottle, 149 psia
+in fuel bottle
+
+
+
+
+                                         30
+Test 21153C4 (test 11 of 14, hot flame 11 of 14) – sustained ignition, run with
+dataCameraManualGain=33, useBracketedExposures=FALSE,
+bracketingExposureStartUsec=5000,
+bracketingExposureMultiplierTimes100=1000, fiberIgnitionPosition=0,
+fiberTestPosition=0, flowTimeoutSec=300, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.159, constantFlowTime1Sec=270
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                        31
+Test 21153C4, continued
+
+
+
+
+                          32
+Test 21153C4, continued
+
+
+
+
+After test: 251 on lowest valve safety timer, 296 psia in oxidizer bottle, 140 psia
+in fuel bottle
+
+
+
+
+                                         33
+Test 21153C5 (test 12 of 14, hot flame 12 of 14) – sustained ignition, run with
+dataCameraManualGain=33, useBracketedExposures=FALSE,
+bracketingExposureStartUsec=5000,
+bracketingExposureMultiplierTimes100=1000, fiberIgnitionPosition=0,
+fiberTestPosition=0, flowTimeoutSec=300, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.106, constantFlowTime1Sec=270
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                        34
+Test 21153C5, continued
+
+
+
+
+                          35
+Test 21153C5, continued
+
+
+
+
+After test: 187 on lowest valve safety timer, 296 psia in oxidizer bottle, 139 psia
+in fuel bottle
+
+
+
+
+                                         36
+Test 21153C6 (test 13 of 14, hot flame 13 of 14) – sustained ignition, run with
+dataCameraManualGain=33, useBracketedExposures=FALSE,
+bracketingExposureStartUsec=5000,
+bracketingExposureMultiplierTimes100=1000, fiberIgnitionPosition=0,
+fiberTestPosition=0, flowTimeoutSec=160, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.317, constantFlowTime1Sec=130
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                        37
+Test 21153C6, continued
+
+
+
+
+                          38
+Test 21153C6, continued
+
+
+
+
+After test: 111 on lowest valve safety timer, 295 psia in oxidizer bottle, 135 psia
+in fuel bottle
+
+
+
+
+                                         39
+Test 21153C7 (test 14 of 14, hot flame 14 of 14) – sustained ignition, run with
+dataCameraManualGain=33, useBracketedExposures=FALSE,
+bracketingExposureStartUsec=5000,
+bracketingExposureMultiplierTimes100=1000, fiberIgnitionPosition=0,
+fiberTestPosition=0, flowTimeoutSec=85, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.211, constantFlowTime1Sec=55
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                        40
+Test 21153C7, continued
+
+
+
+
+                          41
+Test 21153C7, continued
+
+
+
+
+After test: 34 on lowest valve safety timer, 296 psia in oxidizer bottle, 132 psia
+in fuel bottle
+
+
+
+
+                                         42
+

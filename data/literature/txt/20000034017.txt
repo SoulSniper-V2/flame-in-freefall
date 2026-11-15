@@ -1,0 +1,990 @@
+     NASA/TM--2000-209773
+
+
+
+
+_5
+     Testing and Selection of Fire-Resistant
+     Materials for Spacecraft Use
+     Robert   Friedman,     Brian   Jackson,     and   Sandra   Olson
+     Glenn    Research    Center,   Cleveland,     Ohio
+
+
+
+
+     March      2000
+                                           The NASA STI Program   Office...      in Profile
+
+
+Since its founding, NASA has been dedicated                 to                CONFERENCE          PUBLICATION.         Collected
+the advancement     of aeronautics and space                                  papers from scientific and technical
+science. The NASA Scientific and Technical                                    conferences, symposia,    seminars,   or other
+Information (STI) Program        Office plays a key part                      meetings sponsored     or cosponsored    by
+in helping NASA maintain         this important  role.                        NASA.
+
+
+The NASA STI Program Office is operated by                                    SPECIAL      PUBLICATION.       Scientific,
+Langley Research Center, the Lead Center for                                  technical,   or historical information      from
+NASA's scientific and technical information. The                              NASA programs,      projects, and missions,
+NASA STI Program Office provides access to the                                often concerned    with subjects having
+NASA STI Database, the largest collection of                                  substantial  public interest.
+aeronautical  and space science STI in the world.
+The Program Office is also NASA's institutional                               TECHNICAL        TRANSLATION.      English-
+mechanism    for disseminating     the results of its                         language   translations of foreign scientific
+research and development       activities. These results                      and technical material pertinent    to NASA's
+are published by NASA in the NASA STI Report                                  mission.
+Series, which includes the following report types:
+                                                                      Specialized  services that complement    the STI
+    TECHNICAL          PUBLICATION.       Reports of                  Program Office's diverse offerings include
+    completed      research or a major significant                    creating custom thesauri, building customized
+    phase of research that present the results of                     data bases, organizing    and publishing  research
+    NASA programs          and include extensive data                 results..,  even providing   videos.
+    or theoretical     analysis. Includes compilations
+    of significant    scientific and technical data and               For more information           about   the NASA STI
+    information      deemed to be of continuing                       Program       Office, see the following:
+    reference value. NASA's counterpart          of peer-
+    reviewed formal professional         papers but                   •       Access the NASA STI Program           Home    Page
+    has less stringent limitations on manuscript                              at http:l[www.sti.nasa.gov
+    length and extent of graphic presentations.
+                                                                      •       E-mail your question      via the Internet    to
+    TECHNICAL        MEMORANDUM.               Scientific                     help@sti.nasa.gov
+    and technical findings that are preliminary    or
+    of specialized  interest, e.g., quick release                     •       Fax your question to the NASA Access
+    reports, working papers, and bibliographies                               Help Desk at (301) 621-0134
+    that contain minimal annotation.      Does not
+    contain   extensive   analysis.                                   •       Telephone the NASA Access Help Desk at
+                                                                              (301) 621-0390
+    CONTRACTOR            REPORT.     Scientific   and
+    technical findings by NASA-sponsored                                      Write to:
+    contractors  and grantees.                                                NASA Access Help Desk
+                                                                              NASA Center for AeroSpace           Information
+                                                                              7121 Standard Drive
+                                                                              Hanover,     MD 21076
+NASA/TM--2000-209773
+
+
+
+
+Testing and Selection of Fire-Resistant
+Materials for Spacecraft Use
+Robert      Friedman,          Brian     Jackson,     and    Sandra   Olson
+Glenn       Research         Center,     Cleveland,       Ohio
+
+
+
+
+Prepared        for the
+SAMPE         2000
+sponsored           by the     Society       for the Advancement        of Material   and   Process   Engineering
+Long       Beach,      California,       May     21-25,     2000
+
+
+
+
+National       Aeronautics             and
+Space      Administration
+
+
+
+Glenn      Research        Center
+
+
+
+
+March         2000
+                 This report is a preprint  of a paper intended       for presentation  at a conference.   Because
+                      of changes  that may be made before formal publication,          this preprint   is made
+                  available  with the understanding       that it will not be cited or reproduced     without   the
+                                                    permission     of the author.
+
+
+
+
+                                                         Available   from
+
+NASA Center     for Aerospace   Information                                             National   Technical    Information   Service
+7121 Standard    Drive                                                                                         5285 Port Royal Road
+Hanover,   MD 21076                                                                                            Springfield,  VA 22100
+Price Code: A03                                                                                                       Price Code: A03
+        TESTING          AND SELECTION   OF FIRE- SISTANT                                        MATERIALS
+                                 FOR SPACECRAFT      USE
+
+                                Robert Friedman, Brian Jackson, and Sandra Olson
+                                 National Aeronautics   and Space Administration
+                                              Glenn Research Center
+                                              Cleveland, Ohio 44135
+
+
+
+
+                                                       ABSTRACT
+
+
+Spacecraft   fire-safety strategy emphasizes        prevention,   mostly through the selection of onboard items
+classified  according     to their fire resistance.    The principal   NASA acceptance       tests described     in this
+paper assess the flammability           of materials     and components     under "worst-case"        normal-gravity
+conditions    of upward      flame spread in controlled-oxygen           atmospheres.     Tests conducted        on the
+ground, however,        cannot duplicate     the unique fire characteristics      in the nonbuoyant        low-gravity
+environment     of orbiting spacecraft.      Research     shows that flammability     and fire-spread     rates in low
+gravity are sensitive to forced convection          (ventilation flows) and atmospheric-oxygen          concentration.
+These research results are helping to define new material-screening                  test methods     that will better
+evaluate material performance        in spacecraft.
+
+
+
+KEY WORDS:         Fire, Spacecraft,     Testing/Evaluation
+
+                                                  1. INTRODUCTION
+
+Fire is a greatly feared hazard in the confined                 enclosures    of human-crew        spacecraft.     A fire event
+must be controlled         in place by the crew, since guidance                from ground controllers          is not always
+available, and escape is difficult if even possible. The probability                  of a serious fire event occurring in
+a given space mission is very low. On a long-term                    basis, this probability      is significant,    for certain
+breakdowns      that can lead to the onset of fire are by no means rare. Among these are electrical and
+heating    overloads,     spills and resulting        aerosols,     energetic     experiment     failures,    and ignition of
+accumulated      wastes or trash (1). For human-crew              spacecraft,    fire prevention     is promoted     by the use
+of materials and assemblies          that are classified and selected by their fire resistance             (2). This selection
+is determined through tests that are derived, to some extent, from those used in other modes of trans-
+portation,   particularly     aircraft.   Spacecraft    materials,     however,      must meet standards          of maximum
+
+
+
+NASA/TM--2000-209773                                          1
+flame-spreaddistance(self-extinguishment)  following ignition, ratherthanmaximumheatrelease.
+Thesecriteriaensurethatbreakdownsandignitioneventswill not leadto fires thatthreatendamage,
+loss,or injury (3), althoughevenminoreventsmaycausesubsequent       damage,suchas corrosionof
+electroniccomponents.   A largedatabaseof acceptablematerialsandcomponents  hasbeencompiled
+in the past two decadesthrough testing conductedin ground laboratories,under "worst-case"
+conditions,whereflamepropagation  is promotedby buoyancy.
+
+Fire preventionin spacecraftmustconsiderthe uniquecharacteristicsof fire behaviorin the non-
+convective,low-gravity(microgravity)environmentof Earth-orbiting,planetary-transit,  or surface-
+habitatenclosures(4). Flammabilityandflamespreadin spacearenot subjectto natural-convection
+buoyancy,but they aresensitiveto low-level forcedconvection(atmospheric  ventilationflows) and
+oxygenconcentration.This paper discussesthe knowledgeof fire in low gravity, as well as the
+currentandproposedmethodsfor the selectionof fire-resistantarticles.In practice,relianceon fire
+preventionis supplementedin the completeprogram of spacecraftfire safetyby configuration
+controlsandthe fire interventionstepsof detectionandsuppression.In addition,a vigorousresearch
+andtechnologyprogramis in processto identifyhazards,improvetestmethods,andvalidateiaolicies
+andpractices(5).
+                                      2. FIRE EXPERIENCE          IN SPACE
+
+Fire and explosion     disasters     have occurred   in ground testing and launch operations.  In contrast,
+internal fires in spacecraft     are very rare, but a few events have been serious enough to reinforce   the
+fear of fire hazards in spacecraft operations.
+
+In the outbound segment of the 1970 Apollo 13 mission to the Moon, an electrical short circuit in the
+pressurized   oxygen  tank started a fire that caused the tank to explode,    damaging    other critical
+systems. Fortunately,   through the ingenuity  of the crew and the ground Mission Control, the crew
+was able to use the supplies in the lunar module, along with other improvisations,   to return to Earth
+safely (6).
+
+A fire event in 1997 on the Russian orbital station Mir fortunately      caused little damage and no injury,
+but it threatened to create a catastrophe.   A solid-fuel oxygen generator for supplementary        use caught
+fire and produced    a "blow-torch-like"   flame that burned the generator      housing and produced      thick
+black smoke spreading      quickly throughout    the station (7,8). The crew tried to contain the fire by
+applying the contents of several aqueous-foam       extinguishers,  but no doubt the fire extinguished     only
+when the generated oxygen was depleted. Informal reports also confirm that, in the period of over ten
+years of Mir operations,   several other small fires have occurred, but documentation       of these incidents
+is sketchy.
+
+Five fire-threatening   incidents   involving   component   overheating   or electrical   short circuits   have   also
+been reported in the nearly 100 missions of the Shuttle Transportation           System, which cover a period
+of 20 years of operation         (9). In these incidents,  the crew detected the problem immediately       and
+prevented a possible fire by removal of power, without the need for extinguishers          (3). About 15 other
+anomalies,       such as false alarms or failures of the built-in test circuits of the smoke detectors,   have
+also been recorded in Shuttle operations.       The probability  of such incidents may increase in the future,
+with the coming of longer and more complex orbital-station              (the International Space Station) and
+extraterrestrial    missions.
+
+
+
+
+NASA/TM--2000-209773                                  2
+                      3. FIRE CHARACTERISTICS                IN EARTH-ORBITING               AND
+                              EXTRATERRESTRIAL                 ENVIRONMENTS
+
+
+3.1 Brief Introduction      to Research.        Fire prevention       and response in spacecraft    obviously benefit
+from fundamental        and applied research on combustion             in low gravity (microgravity).       Theoretical
+analyses     of combustion    in non-buoyant      environments       are common,     but experimental     verifications,
+necessary for fire-safety applications,      are not easy to obtain (10). Opportunities         for flight tests on the
+Shuttle and space stations are quite limited. Most experimental                microgravity   combustion      studies to
+date have been conducted in ground-based             facilities.  The principal venues are the two free-fall drop
+towers at the NASA Glenn Research Center, which provide 2.2 and 5.2 sec each of microgravity
+conditions of the order of 10-4 g, where g is the sea-level acceleration            of 9.8 m/s-" (11). Other facilities
+are aircraft flying parabolic (Keplerian)       trajectories,    which allow up to 20 sec of low-gravity         time, at
+significantly    higher residual-gravity   levels in the range of 10 -2 g. Sounding rockets can increase the
+low-gravity     exposures to 5 to 15 rain or longer at residual gravity levels of the order of 10-4 g.
+
+The first fire-safety   related microgravity     combustion     experiments     were performed     in 1966 aboard a
+KC-135 aircraft laboratory        (12). Ignition susceptibility      was found to be similar to that in normal
+gravity, but combustion       was suppressed    in microgravity,     in terms of reduced rates of flame spread.
+Drop-tower    experiments     on various materials found similar suppression         in microgravity,    although the
+differences  diminished     for very thin fuels (13). The first set of combustion        experiments    conducted in
+an orbiting    spacecraft    were those of Kimzey        in 1974 on the Skylab space station (14). These
+experiments    on the ignition, flame spread, and extinguishment            of common materials in an enriched-
+oxygen environment       also noted the reduced flammability       in microgravity.
+
+These early findings led to the plausible       conclusion      that normal-gravity   flammability     assessments
+provide a large margin of safety for low-gravity         service. Recent theoretical     and experimental     results
+indicate,   however,  that microgravity    combustion       is extremely    sensitive  to atmospheric      flow and
+composition.    Under some conditions,      material flammability        may be comparable      to, if not greater
+than, that in normal gravity. A brief summary of the current understanding              of flammability     behavior
+in spacecraft and extraterrestrial environments     follows.
+
+3.2 Effects of Oxygen Concentration       on Material Flammability        in Low Gravity.       Virtually quies-
+cent environments      are achievable only in microgravity,       an environment      in which the appreciable
+buoyant flow always present in normal-gravity         flames is absent. Early studies on the combustion of
+thin-paper fuels under various oxygen          concentrations    in quiescent     microgravity  show that, for
+atmospheres     with high oxygen concentrations,       the flame-spread     rate is independent of the gravity
+level (15). For oxygen concentrations     below about 30 to 40%, however, the flame-spread rate for the
+paper fuels is lower in microgravity       than in normal gravity (Fig. 1). Furthermore, the minimum
+oxygen concentration in which a flame will self-propagate           is higher in microgravity than in normal
+gravity (i.e., the flammability range is reduced), as also illustrated in Fig. 1.
+
+In order to study thicker solid materials,       longer exposure times in microgravity        than are available in
+ground-based    facilities  are necessary.    Opportunities      for tests in Earth orbit resumed on the Shuttle
+starting in 1990, with the test series called the Solid Surface Combustion           Experiment    (SSCE). A total
+of ten SSCE campaigns          (each contributing       essentially    one or two data points) have furnished
+information    on the combustion       of ash-free filter paper (16) or polymethylmethacrylate            (PMMA)
+samples (17) in quiescent microgravity          environments.       The tests determined the effects of gravity,
+oxygen concentration,      and pressure on the burning process. Analysis of the combustion             of thin fuels
+shows that the flame-spread        rate increases with pressure in quiescent        microgravity,   which is quite
+different from the behavior in downward            spread in normal gravity. The SSCE experimental            results
+are accurately predicted by a theoretical model that includes gas-phase radiation.
+
+
+
+
+NASAM'M--2000-209773                                     3
+3.3 Effects of Opposed-Flow             Flame Spread Across Solid Surfaces.                How-aided     flame spread from a
+central ignition point over thermally             thin (essentially    isothermal)    cellulose fuel samples was studied
+in the Radiative       Ignition      and Transition     to Flame Spread (RITSI)             experiment,     conducted     on the
+STS-75 Shuttle mission in 1996 and in three campaigns                        in a 10-sec Japanese       drop tower (18). In
+RITSI, a rectangular         sheet of paper is ignited at the center by a focused beam from a tungsten/-
+halogen lamp with superimposed                flow of a nitrogen-oxygen         mixture at speeds of 0 to 6.5 cm/s. The
+ignited sample propagates            a flame under all conditions        studied, except at the lowest oxygen concen-
+tration of 21 percent with zero flow. In all other cases, the flame spreads in a fan-shaped                           pattern in
+the upstream      direction     (towards      the flow), as shown in the photograph               in Fig. 2. The fan angle
+increases     with increasing       external flow and oxygen concentration.               Downstream       flame spread (the
+expected result in normal gravity) is observed only after the upstream flame spread is complete. This
+is due to the depletion        of oxygen by the upstream            flame, called an "oxygen shadow"             by the RITSI
+investigators.    Linear relationships         between imposed flow and concurrent              (downstream)      flame-spread
+rate, and non-monotonic             relationships    between     the imposed flow and opposed             (upstream)flame-
+spread rate are determined         from the experiments       (18).
+
+Opposed-flow       flame spread      over thermally    thick (essentially     adiabatic)    fuels was studied  in
+sounding-rocket     experiments,     Diffusive and Radiative    Transport   in Fires (DARTFire),     conducted in
+four test campaigns       since 1996 (19). Experiments         on 6.35-mm-thick        black PMMA samples      in
+atmospheres     with 50- and 70-percent       oxygen concentrations    indicate that, at low values of opposed
+flow velocity, flame-spread      rate increases with velocity to about the 0.5 power. Stable flames exist in
+microgravity    under atmospheric     flows with speeds as low as 1 cm/s.
+
+3.4 Effects of Concurrent-Flow          Flame Spread Across Solid Surfaces.           Upward flame spread over
+solid fuels was studied by the Forced Flow Flame Spreading               Test on the STS-75 Shuttle mission in
+ 1996 to clarify    the mechanisms         of flame spread and extinction,        as influenced     by concurrent
+atmospheric    flow (20). Tests in a miniature      combustion     tunnel examined      the effects of flow speed
+and fuel thickness    for flat paper fuels, and flow speed, flow direction, and initial fuel temperature           for
+cylindrical  molded-cellulose      fuels. Within the flow-velocity    limits set by the dimensional      constraints
+of the apparatus,    observed    flame lengths agree well with theoretical       predictions.    The axisymmetric
+geometry    of cylindrical    fuels permit simplified   modeling.     Their results indicate that flame length
+increases with increasing air velocity and preheat temperature         (75 to 135 °C).
+
+A similar combustion-tunnel      test, conducted      on Mir in 1998, observed       the concurrent-flow      flame
+spread along 4.5-mm-diameter         cylindrical    samples of three plastic materials:        high-density    poly-
+ethylene,  PMMA, and Delrin (8). These tests were conducted               in near-"air"    atmospheres,     ranging
+from 23- to 25-percent-oxygen       concentration.     The results indicate that each material        has a charac-
+terizing limiting-combustion     velocity in air, that is, a minimum        concurrent     air flow necessary      to
+maintain   flame spread in microgravity.         For the three plastic materials    tested in Mir, the limiting
+combustion    velocity is very low, less than 1 cm/s. The limiting combustion          velocity decreases further
+toward zero as the atmospheric    oxygen concentration       increases.
+
+Researchers      can predict the limiting-combustion     velocity from a balance of the total required oxygen
+to that supplied through molecular diffusion (21). Representative             results are shown in Fig. 3, which
+presents the theoretical limiting-combustion         velocities   for the three piastics tested in the cited Mir
+study. Flammable         conditions are to the right of each curve. The shaded band indicates the range of
+atmospheric      oxygen concentrations     expected in spacecraft operations,       including those experienced    in
+the Mir tests. The experimental        results of burn/no-burn     boundaries   are generally   consistent  with the
+analyses, although the small velocity differences        of 0.1-0.2 cm/s are below the order of experimental
+velocity-control     resolution.
+
+
+
+
+NASA/TM--2000-209773                                       4
+3.5 Effects of Material     Properties on Low-Gravity     Flammability.        Only a limited variety of
+reference materials have been burned experimentally          in a microgravity  environment.      The tested
+materials are selected for scientific expedience   rather than practical material-usage     criteria; hence,
+these materials are strongly flammable rather than fire-resistant.
+
+Thermally-thin        cellulose fuels provide the most comprehensive           database of material flammability
+characteristics      from testing in both short-time      ground-based      facilities    and in spaceflight    accom-
+modations.      These fuels, in the form of various paper products,           are found in large quantities        in all
+human-crew        space missions, since there are no satisfactory      substitutes.    Configuration    control, which
+is frequently      used to reduce the fire potential    of flammable     materials,     is logistically  impossible    to
+implement       for all notebooks,    data files, and so on. A possible        added fire hazard for cellulose          is
+cracking and curling during flame spread, which can lead to break-off of burning pieces to be carried
+by weak ventilation to adjacent flammable          materials as an ignition hazard. In addition, cellulose may
+partially degrade during flame spread leaving a hot and highly reactive char that smolders. Smol-
+dering can persist long after apparent flame spread ceases (22).
+
+For thermally-thick       materials,    few low-gravity    tests have been conducted,      since space flight is
+required for the relatively long times of flame initiation and spread. The polymeric           materials tested to
+date all exhibit melting or glass transition at temperatures          below the pyrolysis   temperatures,   which
+strongly affects the combustion         behavior of the materials.   On-orbit materials tested include PMMA,
+nylon, Delrin,    silicone    rubber, plastic wire insulation,      candle    wax, and high- and low-density
+polyethylene    (HDPE_ LDPE). PMMA is found to develop                   a thick molten layer with significant
+in-depth thermal degradation,         which causes bubbles that reach the molten surface and escape as
+burning fuel-vapor     jets (8). Nylon is observed to produce significant       flame jets that provide a source
+of flow in the otherwise quiescent environment          (14). Deldn also develops a molten bubble layer that
+expands almost as a foam, with extremely large flaming jets from the surface (8). Possibly due to its
+high oxygen content, Delrin burns with a nearly invisible blue flame. HDPE develops a thick molten
+layer, but it does not produce significant vapor jetting. LDPE-coated           wire forms a liquid ball of low-
+viscosity molten polyethylene        wetting the wire in low gravity (23).
+
+Porous polymer foams have been studied both in smoldering               tests in spaceflight  and flaming tests in
+ground-based     facilities.   Polyurethane-foam      smoldering   experiments      have shown that, for small
+enclosed    samples,     in the absence      of any flow through     the foam, smoldering         is not sustained.
+However,     a bulk flow as low as 1 mm/s through the foam is adequate to maintain                  the smoldering
+(24). Flaming tests with polystyrene          foams show that melting of the foam is significant,        and flame
+spread over foams is very rapid compared            to that over higher-density     materials  (25). This suggests
+that a surface treatment, or covering, may be an effective deterrent to flammability             of foam materials
+in microgravity.
+
+                         4. MATERIAL        SELECTION         FOR FIRE PREVENTION
+
+
+4.1 Ignition and Oxygen Controls.             Fire prevention    implies the elimination      or reduction of one or
+more of the elements of the familiar fire triangle of fuel, ignition source, and oxygen. The principal
+thrust ir_ spacecraft    fire prevention    is fuel reduction     through    material  selection.   Ignition sources
+are minimized      through    the usual practices      of electrical    bonding    and grounding,      electrical and
+thermal overload protection,      working-pressure     relief settings, and highly conservative       wire and cable
+current   ratings.
+
+Oxygen control is also recognized.    Cabin atmospheres    in the U.S space program have evolved from
+the 100-percent    oxygen, 24-kPa Apollo atmosphere,    through the 65-percent     oxygen, 37-kPa Skylab
+atmosphere,   to the current Shuttle and ISS sea-level air atmospheres.   This life-supporting  but flame-
+
+
+
+
+NASA/TM--2000-209773                                     5
+promotingair atmospherewill continueto be the standardfor future human-crewspacemissions,
+althoughpreconditioningprior to extravehicularactivitiesrequires30-percent
+                                                                         oxygenat 70-kPatotal
+pressure.Future adjustmentsof the spacecraftatmosphere    for safetymustconsiderthe overriding
+needsto limit maximumtotal pressurefor structuralconstraintsandto maintaina nearsea-levelair
+atmosphere relativeto groundreferenceconditionsfor medicalandbiologicalresearch(2).
+
+4.2 Material    Testing and Standards for the Shuttle.             The requirements     and standards    for the
+National Space Transportation      System (STS, the Shuttle) assure the safe operation of the STS and its
+payloads by controlling     hazards associated     with each payload individually    and in combination.     The
+first standard  developed    for the NSTS was NASA Handbook              (NHB) 1700.7 "Safety Policy and
+Requirements    for Payloads    Using the STS, Dec. 1980." From this document,           all necessary   Shuttle
+technical and system-safety     requirements   are derived. As a result of the STS-51L Challenger       disaster
+in 1986, this document    underwent     an extensive revision reflecting   increased safety awareness,    and it
+was then released as NSTS 1700.7 (26).
+
+NSTS 1700.7 is written for user organizations            to identify and control hazards associated      with each
+payload.    Payload    hazards   that are controlled         by compliance     with specific    requirements       of
+NSTS 1700.7, other than failure tolerance, are called "Design for Minimum Risk." Fire is an example
+of this type of hazard. Each payload must be assessed to assure that it will not cause an uncontrolled
+fire within the Shuttle Transportation     System or its associated payloads. The use of safe materials for
+flight is assessed  in Section 209 "Materials"        of NSTS 1700.7. Additional       requirements,     including
+oxygen concentration       and atmospheric      pressure    for the various   payload  locations,    are found in
+Paragraph 209.2 "Flammable      Muterials."
+
+The guideline    used to make the flammability            assessment     for flight acceptance    is NSTS 22648,
+"Flammability    Configuration      Analysis for Spacecraft      Applications,"    Oct. 1988 (27). Figure 4 is the
+flammability   assessment       logic diagram     found in NSTS 22648 that is used to determine                 if a
+configuration   is acceptable     or if it requires   flammability     testing per NASA-STD-6001          (28). The
+flammability  assessment      is provided as a hazard control and documented           in NSTS/ISS    13830 Rev C
+"Payload Safety Review and Data Submittal Requirements,              July 1998."
+
+4.3 Material    Testing and Standards for the ISS.         An Addendum       was created to incorporate    the
+International  Space Station (ISS)-specific   requirements     utilizing the NSTS 1700.7 document        (29).
+The ISS Addendum        requirements are per paragraph     209.2b "Other Habitable     Area". In addition to
+the original paragraph, the addendum requires the following:
+
+
+    •    The ISS worst-case     operating environment     is [105 kPa] with 24.1 percent        oxygen for all
+    locations except airlocks. Airlock worst-case     environment    is [70.3 kPa] with 30 percent oxygen.
+    Payloads are only required to test materials in the worst-case airlock environment          if [intended] to
+    operate in the airlock during EVA (extravehicular     activity by the flight crew) preparations.
+
+Material test methods and standards for the ISS modules and payloads are, at this time, identical to
+those of the Shuttle. A separate set of requirements       has been derived, however, for the fire detection
+and suppression      subsystem    of the life-support  system (30). With the exception        of those of the
+Russians, material-acceptance      standards of the U.S. and its international partners are identical. Russia
+has developed     an independent    material database. Russian flammability    standards   are, in general, as
+strict as those of the other partners in the ISS (31).
+
+The long-term   and complex    missions    of the ISS, and future extraterrestrial  missions,    may also
+introduce new problems   to be addressed    in material control. Aging and continued usage of materials
+and components   may alter their fire resistance.    Paper and other wastes can accumulate    in quantity.
+
+
+
+NASA/TM--2000-209773                                  6
+With time, crew membersmay becomecarelessor forgetful in following prescribedcontainment
+proceduresof waiveredarticles.Replacement
+                                       crewsmay be unawareof the locationof flammable
+articles.
+
+4.5 Description    of Specific   Fire-Res&tance   Tests.    For U.S. spacecraft,    fire-resistant items are
+selected through testing standards defined in the NASA STD-6001          (28). The tests and standards are
+unique to spacecraft    requirements,    although some are derived from methods in common use for
+aircraft and ground transportation.   Table 1 summarizes the principal flammability    tests.
+
+   Table 1.--Selected    Flammability    Tests for Articles      in NASA Human-Crew          Space Missions.
+  Test                      Application                                Title (Reference     ASTM Test)
+  No.
+    1    Sheets, coatings, foams, insulated wires                 Upward Flame Propagation
+    2    Sheets, coatings,   foams that fail to meet the          Heat and Visible Smoke            Release      Rates
+         criteria of Test 1; also major-use     nonmetals         (Oxygen     Consumption     (Cone)   Calori-
+         with greater than 0.37-m 2 exposure                      meter, ASTM E-1354)
+   3     Liquids, coatings                                        Flash Point of Liquids (Pensky-Martens
+                                                                  Closed Tester, ASTM D-93)
+    4     Insulated wires                                         Electrical Wire Insulation Flammability
+    8     Containers                                              Flammability      Test   for Materials      in
+                                                                  Vented or Sealed Containers
+   17     Metals,   nonmetals   for oxygen   service              Upward    Flammability       of    Materials       in
+                                                                  Gaseous   Oxygen
+
+The test of widest application         is Test 1, which has been in use for over 25 years with minor
+upgrading.    The performance      criterion    of Test 1 is the self-extinguishment       of a 30-cm-long      by
+5-cm-wide     sample, mounted vertically        and ignited chemically     at the bottom, before any resulting
+flame progresses     for a distance of 15 cm or beyond (shown as the limiting flame-spread               height in
+Fig. 5). As will be shown, the test setup can also accommodate              some bulk articles as well as sheet
+materials.  In addition to the self-extinguishment       criterion, an acceptable   item must not ignite a sheet
+of K10 paper mounted horizontally            20 cm below the sample holder. Fire resistance        is determined
+within a closed chamber at the worst-case-use        oxygen concentration     and pressure environment.
+
+Test 4, illustrated in Fig. 6, is an adaptation of Test 1 to evaluate the fire resistance       of wires or wire
+bundles under electrical loads. A 31-cm length of wire is mounted             at an angle of 15 ° from the ver-
+tical, a position found to give less interference      from combustion    products or flow of molten insula-
+tion than vertical mounting (32). If wire bundles are to be tested, six non-connected          wires are cut and
+laced to the active conductor.     The current-carrying     wire is preheated    by direct current to an initial
+temperature    of 125 °C, or to the maximum operating temperature           of the wire, for five minutes. Then,
+the wire is ignited by a chemical      igniter or by increasing    the internal heating current. The criteria of
+maximum bum length (visible insulation consumption)             prior to self-extinguishment      and non-ignition
+of a paper sheet by hot particles        are the same as for Test 1. Test 2 determines             the ignitability,
+maximum and average rate of heat release, and amount of smoke obscuration                 in a standard apparatus
+(the cone calorimeter)     that preheats the samples under a controlled         atmosphere    by an external heat
+flux from a conical heater (33). The samples are ignited by a spark plug, if they do not self-ignite
+upon preheating.    Test 2 is required for major-use nonmetallic       panels and as an option for the retest of
+the flammability   of sheet or panel samples failing Test 1.
+
+For European    spacecraft, fire-resistant items are selected generally through the same testing methods
+and performance     standards   prescribed  for U.S. spacecraft, with the addition of a limiting-oxygen-
+index test (ASTM D 2863-97) for sheet plastic materials (34). This test determines      downward flame
+
+
+
+
+NASA/TM--2000-209773                                   7
+propagation,          in contrast  to the     upward    propagation   of NASA Test 1; but, in most cases, the
+acceptability         of items determined      by either the criterion of oxygen index or that of upward flame
+propagation         is the same (35).
+
+Upward-flammability          assessment   offers several advantages       in the screening of materials.     The NASA
+Test 1 simulates      the beginning     of a fire with an ignition flux of typically         75 kW/m: maintained         for
+25 sec (36). It is a severe "worst-case"         test in terms of ignition energy, means of edge ignition, direc-
+tion of buoyancy-assisted          flame spread, sample thickness, and oxygen concentration.               Nevertheless,
+the test models a fire scenario that has no counterpart             in low gravity. In fact, all practical spacecraft
+flammability    testing, as well as performance         and calibration    testing of fire-detection    and suppression
+technology,   is of necessity conducted on the ground, at normal gravity, not in the environment                    of the
+orbiting spacecraft.     Still, the use of ground-based       test methods and criteria has provided an extensive
+database of thousands of qualified articles that greatly contribute               to the overall strategy of spacecraft
+fire safety.
+
+                      5. PROGRESS          IN MATERIAL        SELECTION       FOR SPACECRAFT
+
+5.1 Experience       and Database      of Materials.          The MSFC-HDBK-527/JSC             09604, Materials
+Selection    List for Space Hardware      Systems and the Materials and Processes Technical           Information
+Systems (MAPTIS),        an electronic  version of the "Handbook",        are used to select and assess materials
+for flight payloads.    The database contains listings for materials         that have been tested in accordance
+with NASA-STD-6001          Test 1 or other tests and given a flight rating (Table 2). The ratings listed in
+the database do not imply in themselves         an acceptance  or rejection of the article, Instead, the decision
+for use is based       on the specific     application    and suitability     of an item in the spacecraft-use
+environment.
+
+     Table      2.--Rating     Explanations     for Flammability   Test Results by NASA STD-6001 Test 1.
+ Rating                                                    Qualification
+   A            Materials    with sample    measurements and test conditions as recommended in Test 1:
+                •     Bum length of 15 cm (6 in.) or less,
+                •     No drip burning   or small drip burning,   and
+                •   No ignition of K10 paper.
+                Standard test is three samples. (The test can fail, but not pass, on less than 3 samples.)
+                Configuration test can be rated on one, two or three samples
+   B            Materials that have a burn length of more than 15 cm (6 in.) but less than 30 cm
+                (12 in.) in Test 1, with:
+                •     No drip burning   or small drip burning,   and
+                •   No ignition of K10 paper.
+                Standard test is three samples. (The test can fail, but not pass, on less than 3 samples.)
+                Configuration test can be rated on one, two or three samples.
+   C            Materials that bum totally with no drip burning, or small drip burning, with no ignition of
+                K10 paper.
+   X            Materials ignite K10 paper with small, moderate or large drip burning. The bum length is
+                not a factor.
+   S            Special test conducted on materials
+   I            Less than 3 standard samples with less than 30 cm (12 in.) burn length. No drip burning
+                or no ignition of K10 paper with small drip burning.
+   U            Unacceptable data
+
+
+
+
+NASA/TM--2000-209773                                      8
+MAPTISis anelectronicdatabase  accessible via two methods.First,MAPTISis availablethroughthe
+Internetat http://mapl.msfc.nasa.gov/WWW_Root/html/page7.html.     This containsflammabilitydata
+mostrecentlytested.No passwordis requiredto accessthedata.Second,a moreextensiveelectronic
+databasecanbe accessed  throughTelnet, but it requires an access password and training. There is a
+form available on the Internet site to apply for a password.          The MAPTIS       database   is maintained    at
+the NASA Marshall Space Flight Center (MSFC), Huntsville,             AL.
+
+For items that are not listed in any of the materials selection guides, testing is required. Testing is
+accomplished     by submitting   a test request form to MSFC or to NASA Johnson White Sands Test
+Facility  (Las Cruces, NM). When the tests are completed,       a report is returned  with information
+indicating if the item is acceptable for flight.
+
+Figure 7 is a set of photographs   illustrating the results of qualifying tests for a common component,       a
+small plastic-body    motor and fan used in some space experiment        packages (18). The article and the
+Test 1 setup are shown in Figs. 7(a) and (b). The results of one test in an atmosphere         of 24-percent
+oxygen are shown in Fig. 7(c); this performance         merited a rating of C. The debris remaining      after
+another sample of the same article was tested in an atmosphere           of 30-percent   oxygen is shown in
+Fig. 7(d); this obviously received an X rating.
+
+Many items cannot qualify with the desired ratings, yet they are necessary            in the spacecraft    inven-
+tory. Common        examples    are paper, cotton clothing    and towels, data films, and "off-the-shelf"
+components,     like the fan shown in Fig. 7. Acceptance     of these articles is through documentation       and
+waivers.    The fire risk of these items is reduced      through    control of spacing,    elimination    of fire-
+propagation    paths, and storage in nonflammable   containers or under non-flammable        covers (27).
+
+5.2 Research       on Material       Flammability       Testing   in Low Gravity.             Several    forced-air
+combustion-tunnel       apparatuses      have been      developed     for material-flammability         testing    in
+microgravity    with imposed atmospheric flows. The DARTFire project, cited earlier, has an apparatus
+that incorporates    imposed flow, atmospheric        control, and radiant heat flux as variables      in flamma-
+bility measurements      (19). Experiments     select flux levels to offset approximately       either the surface
+radiative loss alone (of the order of 5-10 kW/m 2) or the surface plus flame radiative loss (20 kW/m2).
+Results confirm the strong influence of velocity on flame spread, although the tests were conducted,
+for fundamental     understanding,    at oxygen concentrations     considerably higher (50 to 70%) than those
+in current human-crew      spacecraft atmospheres.
+
+The Lateral      Ignition    and Flame Spread Test (LIFT, ASTM E-1321)               is a standard    method    of
+measuring     ignition-delay    and flame-spread     characteristics of materials  (37). The LIFT apparatus,
+however,    relies on gravity for the transport of heat and mass, and consequently            cannot be used in
+microgravity.     A flammability-test    apparatus,    Forced Ignition and Spread Tests (FIST), is now in
+development      as a test bed that duplicates    the ambient conditions   in space-based    environments    (38).
+FIST tests will provide information       about the ignition delay and the flame-spread     rate of sheet mater-
+ials as functions of externally applied radiant flux, oxidizer velocity, and oxygen concentration.
+
+5.3 Unique Hazards in Microgravity.          Research analyses and experiments     have revealed a number
+of peculiarities in pyrolysis  or fire processes   in low gravity. Some of these characteristics       can be
+directly related to possible fire hazards in spacecraft     operations. For example, spills or line breaks
+can create aerosols or particle clouds that are highly flammable        in any gravitational   environment.
+In normal gravity, these heterogeneous     mixtures settle or disperse rapidly. In low gravity, however,
+they can persist for long time periods, increasing      the opportunity  for exposure to ignition sources.
+Recent studies also show that the particle arrays may have greater peak explosion               pressures   in
+
+
+
+
+NASA/TM--2000-209773                                   9
+microgravitycomparedto normalgravity,dueto theuniformandstablecompositionof theaerosols
+in lowgravity(39).
+
+Effervescingor easilyvaporizedmaterialstendto ejecthot bubblesor dropletswhenignited.These
+globulescandrip harmlesslyin normalgravity, but they propelradiallyaspotentialignitionsources
+in low gravity. This phenomenonhas beenobservedin the burningof nylon Velcro strips (40),
+plasticcylinders(41),andwireinsulations(23).
+
+Theburningrateof metalwiresin oxygenis greaterin low gravitythanin normalgravity,dueto the
+compactflame zone,createdby the retentionof moltenfuel on the wire without dripping as in
+normalgravity(42).
+
+Smolderingcaninitiatein concealedvolumes.While theflamespreadis slowandheatreleaseis low,
+testsin microgravityindicatethatsmolderingcanpersistfor long periods,producingtoxic gasesand
+threateningeventualtransitionto rapidflamingor ignitionof adjacentsurfaces(24).
+                                         6. CONCLUDING           REMARKS
+
+This paper surveys the methods and experience         in the selection of fire-resistant   items for spacecraft
+use. All acceptance   testing for space must be performed      on the ground, with the articles subjected to
+a strong upward buoyant flow. The tests assume that items resisting flame spread under this severe
+condition  will be equally resistant    in the space environment,      where this upward flame-promoting
+flow is absent. Experimental      and modeling    research,   however,   shows that very low flows, of the
+order of ventilation velocities,  can stimulate low-gravity    flames to more than compensate         for the lack
+of buoyant    flow. On the other hand, if the ventilation        flow can be stopped      (as a first-order    fire
+response, for example), the low-gravity fire propagates     very slowly, if at all, under air environments.
+
+Certainly, the large database of acceptable        fire-resistant    materials compiled    in years of testing is still
+essential to fire prevention     in spacecraft.   Almost all of these acceptable       database items should resist
+flame spread in microgravity       except under unusual circumstances.          More important       is the fact that the
+database of fire-resistant   items is only one feature of a complete fire-safety            strategy, which includes
+configuration   controls, ignition-source    prevention,     and fire detection and suppression.
+
+                                                 7. REFERENCES
+
+
+ 1. S. Kaplan, "Safety Risk Assessment  on the Space Station Freedom,"      AIAA Paper 90-3771,
+    Sept. 1990.
+ 2. R. Friedman,  "Fire Safety in the Low-Gravity  Spacecraft Environment,"     SAE Tech. Paper
+    1999-01-1937, July 1999.
+ 3. R. Friedman,  "Risks and Issues in Fire Safety on the Space Station,"     NASA TM-106430.
+    March 1994.
+ 4. R. Friedman     and D.L. Urban, "Contributions            of Microgravity    Test Results to the Design of
+    Spacecraft Fire-Safety    Systems," AIAA Paper 93-1152, Feb. 1993.
+ 5. M.K. King and H.D. Ross, "Overview           of the NASA Microgravity         Combustion    Program,"  AIAA
+    Jour., 36, 1337-1343 (1998).
+ 6. L.J. Leger and R.W. Bricker, "Flammability           Testing Conducted     in Support of Apollo 13," NASA
+    STI Access. Ng, N72-23800,       1972.
+ 7. P. Ferkul, et al., "Combustion       Experiments      on the Mir Space Station,"       AIAA Paper 99-0439,
+    Jan. 1999.
+ 8. A.V. Ivanov,     et al., "Experimental     Verification     of Material   Flammability    in Space,"  NASA/
+    CR-1999-209405,       Nov. 1999.
+
+
+
+
+NASA/TM--2000-209773                                     10
+9. R.Friedman,"FireSafetyin Spacecraft,"
+                                      Fire and Mater.,                  20, 235-243 (1996).
+10. C.K. Law       and   G.M.   Faeth,   "Opportunities     and Challenges    of Combustion       in Microgravity,"
+    Proc. Energy    Comb. Sci., 20, 65-113 (1994).
+11. R. Friedman,     S.A. Gokoglu,   and D.L. Urban,           eds., "Microgravity   Combustion     Research:    1999
+    Program and Results," NASA/TM-      1999-209198,   June 1999.
+12. J.H. Kimzey, et al., "Flammability in Zero-Gravity   Environment,"            NASA TR R-246, Oct. 1966.
+13. C.R. Andracchio   and T.H. Cochran, "Gravity Effects on Flame                Spreading Over Solid Surfaces,"
+    NASA TN D-8228, May 1976.
+14. J.H. Kimzey,    "Skylab    Experiment    M-479,    Zero Gravity           Flammability,"     in Proceedings     of
+    the Third    Space    prqcessing      Symp.,    NASA    Marshall            Space    Flight    Center   M-74-5,
+    NASA    TM X-70752,        vql. 1, June      1974, pp. 115-130.            (Revised      as NASA JSC-22293,
+    Aug. 1986).
+15. S.L.    Olson,    "The      Effect    of Microgravity      on Flame        Spread     Over   a Thin       Fuel,"
+    NASA/TM-100195.           Dec. 1987.
+16. S. Bhattacharjee,     R.A. Altenkirch,      and K.R. Sacksteder,     "The Effect of Ambient        Pressure    on
+    Flame Spread over Thin Cellulosic           Fuel in a Quiescent   Microgravity     Environment,"     Jour. Heat
+    Trans., 118, pp. 181-190 (1996).
+17. J. West, et al., "Quiescent      Flame Spread Over Thick Fuels in Microgravity,"         Twenty-Sixth     Symp.
+    (Internat.) qn Combustion.       The Combustion Inst., Pittsburgh,    1996, pp. 1335-1343.
+18. T. Kashiwagi,      et al., "Ignition,   Transition,  Flame Spread in Multidimensional          Configurations
+    in Microgravity,"          in K. Sacksteder,        ed., Fifth   Internat.     Microg.     Comb,    Workshop,
+    NASAJCP-1999-208917,            May 1999, pp. 333-336.
+19. R.A. Altenkirch,     et al., "Diffusive   and Radiative Transport     in Fires (DARTFire):       Opposed-Flow
+    Flame Spread in Low-Velocity      Flows, in K. Sacksteder,    ed., Fifth Internat.    Microg. Comb.
+    Wqrkshop, NASA87P-1999-208917,       May 1999, pp. 317-320.
+20. K.R. Sacksteder, et al., "Forced Flow Flame Spreading       Test: Preliminary     Findings   from the
+    USMP-3 Shuttle Mission,"    in P.A. Curreri, D. McCauley,     and C. Walker, eds., Third United
+    States Microgravity  Payload: One Year Report, NASA/CP-1998-207891,      Nov. 1998.
+21. D.B. Hirsch,     H.D. Beeson,   and R. Friedman,   "Microgravity    Effects  on Combustion                        of
+    Polymers," NASA/TM--         1999-209900,  Nov. 1999.
+22. P.A. Ramachandra,     et al., "The Behavior of Flames Spreading      Over Thin Solids in Microgravity,
+    Comb. and Flame. 100, 71-84 (1995).
+23. P.S. Greenberg,   K.R. Sacksteder,    and T. Kashiwagi,  "The USML-1 Wire Insulation Flammability
+    Glovebox     Experiment,"      in H.D.    Ross,   ed., Third  Internat.   Microg.   Comb.   Workshop,
+    NASA-CP10174,       Aug. 1995, pp. 25-30.
+24. D.C. Walther,     A.C. Fernandez-Pello,      and D.L. Urban, "Space       Shuttle Based Microgravity
+    Smoldering   Combustion   Experiments,"    Cqmb. Flame, 116, pp. 398-414 (1999).
+25. L.K. Honda and P.D. Ronney, "Transport            and Chemical   Effects on Concurrent      and Opposed-
+    Flow Flame Spread at Microgravity,"           in K. Sacksteder,    ed., Fifth Internat.   Microg. Comb.
+    Workshop, NASA/CP-1999-208917.           May 1999, pp. 337-340.
+26. "Safety Policy and Requirements         for Payloads   Using the STS," NSTS 1700.7B, May 1996
+    (Change Packet No. 6, July 1999).
+27. L.S. Nicholson,  ed., "Flammability     Configuration   Analysis for Spacecraft    Applications," NASA
+    Jqhnson Space Center NSTS 22648, Oct. 1988.
+28. NASA Marshall        Space Flight Center, "Flammability,          Odor, Offgassing,    and Compatibility
+    Requirements    and Test Procedures       for Materials   in Environments   That Support Combustion,"
+    NASA-STD-6001,       Feb. 1998.
+29. "Space Station Policies,    International     Standards  Addendum--Safety       Policy Requirements      for
+    Payloads Using the International     Space Station," NSTS 1700,7B (ISS Addendum),         Dec. 1995.
+30. J.L. Reuter, "International  Space Station Environmental       Control and Life Support System Status:
+     1998-1999,"  SAE Tech. Paper 1999-01-2147.         July 1999.
+
+
+
+NASA/TM--2000-209773                                      11
+ 31. P.O.Wieland,"Living Togetherin Space:the DesignandOperationof the Life Support                    Systems
+     on the International   Space Station. Vol. 1," NASA/TM-1998-206956          Vol, 1, Jan. 1998.
+ 32. E.M. Rodak, et al. "Effects of Sample and Test Variables        on Electrical Wire Insulation Flamma-
+     bility," Jour. Testing and Eval,, 22, 449-452 (1994).
+ 33. F.-Y. Hsieh and H.D. Beeson, "Evaluation        of the Controlled-Atmosphere        Cone Calorimeter    for
+     Determining     Fire Properties   of Materials  According    to NASA Handbook           8060.1C  Test 2,"
+     NASA TM-104809,         Dec. 1995.
+34. ESTEC Materials      and Processes      Div., "Flammability      Testing    for the Screening    of Space
+    Materials,"   ESA PSS-01-721,   Issue 2, April 1992.
+35. D. Hirsch, "Comparison      of Results of the European      Space Agency Oxygen Index Test and the
+    NASA       Upward  Propagation     Test,"    NASA    JSC White         Sands   Test  Facil.   TR-581-001,
+    March 1989.
+36. F.-Y. Hsieh and H.D. Beeson, "Flammability     Testing of Flame-Retarded   Epoxy Composites    and
+    Phenolic Composites," Fire and Mater., 21, pp. 41-49 (1997).
+37. T.J. Ohlemiller  and K.M. Villa, "Material    Flammability   Test Assessment    for Space Station
+    Freedom," NISTIR 4591, NASA CR-187115,        June 1991.
+38. J.L. Cordova, et al., "Flow Effects on the Flammability       Diagrams   of Solid Fuels: Microgravity
+    Influ-ence  on Ignition Delay," in K. Sacksteder,    ed., Fifth Internat. Microg. Comb. Wortc_h.op,
+    NASA/CP-1999-208917,        May 1999, pp. 35-38.
+39. Y. Pu, J. Podfilipski,    and J. Jarosinski,  "Constant    Volume    Combustion    of Aluminum      and
+    Cornstarch  Dust in Microgravity,"  Comb. Sci. Technol., 135, 255-267 (1998).
+40. S.L. Olson and R.G. Sotos, "Combustion           of Velcro    in Low Gravity,"    NASA TM-88970,
+    March 1987.
+41. C. Sanchez      Tarifa,   et al., "Heterogeneous      Combustion     Processes    Under Microgravity
+    Conditions,"   in B. Kaldeich,     ed., Combustion   Experiments  During KC-135 Parabolic      Flights,
+    ESA SP-111_, Aug. 1989, pp. 53-64.
+42. T.A. Steinberg and J.M. Stoltzfus, "Combustion       Testing of Metallic Materials Aboard the NASA
+    Johnson Space Center KC- 135," in W.T. Royals, et al., Flammability        and Sensitivity of Materiols
+    in Oxygen-Enriched      Atmospheres;    Eighth Vol., ASTM     STP 1319, ASTM, West Conshohocken
+    PA, 1997, pp. 170-188.
+
+
+
+
+NASA/TM--2000-209773                                12
+    10.0    _-0        Normal-gravity              data
+
+     6.0    _ [_1 L
+     4.0
+
+
+     2.0
+     8,0                 ow_
+
+
+
+
+     '°Fjj
+     0.8
+     0.6
+                              /
+                                    , _-- Low-gravity
+E    0.4}--,,_             _''      limit
+          }-Z          Normal-gravity limit
+     0.2/                 I         l       I     i I lilt
+           10            20                 40     60 80100
+            Oxygen concentration,                       Mole %
+
+Figure 1 .mExperimental   data on flame-                                            Figure 2.--Flame spreading into the air flow for
+  spread rates and flammability limits of                                             centrally ignited filter-paper sheet in micro-
+  thin-paper fuels for downward normal                                                gravity. Air flow is from right to left.
+  gravity and quiescent microgravity.
+
+
+
+                        6O    m
+
+
+
+                                  Delrin         PMMA                   HDPE
+                  -_ 50
+                        40
+
+
+
+
+                  8 20
+                  i-                                            /
+                                                            !
+                                                        /
+
+                  _'    10 -                            _- Range          of current     spacecraft    atmospheres
+                  0
+                         0              I          I                I     I         1     I      I      I      I       I      ,I
+                          0.0       0.10         0.20           0.30    0.40   0.50     0.60   0.70   0.80   0.90    1.00   1.10
+                                                                        Flow velocity, cm/sec
+
+                  Figure 3.--Theoretical limiting flow velocity for ventilation flow opposed
+                    to flame spread in microgravity   for three plastic materials.
+
+
+
+
+NASA/TM--2000-209773                                                           13
+                                     Are there any flammable materials or
+                                 multiple applications of flammable materials
+                                 in amounts >45g (0.1 Ib) or 65 cm 2 (10 in.2) in
+                                  manned compartments or >454 g (1.0 Ib) or
+                                                                                                  _1 Aoce°tab'e
+                                                                                                          I
+                                   30 cm (12 lin. in.) in other compartments?
+
+
+
+
+                                           Are exterior surfaces and
+                                                                                       No
+                                             any externally attached
+     Unacceptable:                            materials flammable?
+  Modification required
+    (see guidelines)
+
+
+
+            l      No             Could a fire propagate on the surface more
+                                 than 15 cm (6 in.) in manned compartments
+                                   or 30 cm (12 in.) in other compartments?
+
+
+
+
+                                                Is it a container?        ]
+                                                                                       No
+                                                                                                       _1Acce°tab'e
+                                                                                                              I
+
+                                         I Will the
+                                                any internal
+                                                    container fire?
+                                                                contain
+                                                                                       Yes
+                                                                                                       _[Accootab'o
+                                                                                                              I
+                                                         _o_                       i
+
+
+
+     Unacceptable:                       Does the container    contain        air? !
+                                                                                   I         No        _[    Acceptable    J
+  Modification required
+    (see guidelines)
+
+
+
+           l       No              Are internal ignition sources precluded
+                                      while the container is located in                     --_---I_        [ Acceptable   j
+                                                  the orbiter?
+
+
+                          Figure 4.inFlammability    assessment      logic diagram.
+
+
+
+
+NASA/TM--2000-209773                                14
+Substrate                   5 cm, typical                                         Insulating ceramic
+                                  /
+
+
+                                               _- Test :hamber
+for testing            ,_         _'_          ,                                  fiber thread -_
+                                                                                                /   r-
+                                                                                                         Ceramic
+of coatings--                                   _     •
+                                                                        Scale _1-8 cm-I_ l /        _ insulator
+     Scale _.               "-.                                       ----!Test           _E             _-
+
+Typical                           I       IP
+specimen --          _.           III
+                                  I- IW                 33 cm              i_//__samp,      i                 33'
+
+
+                                                           1
+ Limiting Tl---                   I-- IIJ
+ flame- TI                        I IP,
+ spread       _, I                im..ID                                   i      31 C                              cm
+ height        '|                 ______.=
+                                                        20 cm
+                                                         _L
+
+                                           \
+
+Paper sheet below specimen
+
+ Figure 5._Sketch  of apparatus for NASA STD-                    Figure 6._Sketch  of apparatus for NASA
+   6001 Test 1, upward flammability test.                          STD-6001 Test 4, electrical wire
+                                                                  flammability    test.
+
+
+
+
+     (a)                              •
+
+
+
+
+     (c)
+ Figure 7.--Example   of NASA 6001 upward flammability tests on 8 x 8 x 2.5-cm thick plastic
+   motor and fan samples. (a) Article prior to testing. (b) Test setup, with article horizontal and
+   igniter under case. (c) After testing at 24.6% oxygen. (d) After testing at 30.3% oxygen.
+
+
+
+NASA/TM--2000-209773                                        15
+                         REPORT                      DOCUMENTATION                                       PAGE                                                          FormApproved
+                                                                                                                                                                       OMB No. 0704-0188
+ Public reporting burden for this conection of information Is estimated to average I hour per response, including the time for reviewing Instructions, searching existing data sources,
+ gathering and maintaining    the data needed, and completing and reviewing the collection of information.  Send comments regarding this burden estimate or any other aspect of this
+ collection of Information, including suggestions for reducing this burden, to Washington Headquarters   Services, Directorate for Information Operations and Repods. I215 Jefferson
+ Davis Highway, Suite t204, Arlington, VA 22202-4302,       and to the Office of Management and Budget, Paperwork Reduction Project (0704-0188),        Washington, DC 20503.
+
+ 1. AGENCY USE ONLY (Leave blank)                                2. REPORT DATE                                         3. REPORT TYPE AND DATES COVERED
+                                                                                  March       2000                                                  Technical        Memorandum
+ 4. TITLE AND SUBTITLE                                                                                                                                  5. FUNDING NUMBERS
+
+
+       Testing       and Selection            of Fire-Resistant             Materials         for Spacecraft            Use
+
+                                                                                                                                                              WU-101-52-O0--00
+ 6. AUTHOR(S)
+
+
+       Robert       Friedman,         Brian      Jackson,        and Sandra            Olson
+
+
+ 7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)                                                                                                     8. PERFORMING ORGANIZATION
+                                                                                                                                                           REPORT NUMBER
+       National Aeronautics   and Space                        Administration
+       John H. Glenn Research    Center                        at Lewis Field                                                                                 E-12052
+       Cleveland,        Ohio        44135-3191
+
+
+
+ 9. SPONSORING/MONITORING                      AGENCY NAME(S) AND ADDRESS(ES)                                                                           10. SPONSORING/MONITORING
+                                                                                                                                                            AGENCY REPORT NUMBER
+
+       National       Aeronautics           and Space          Administration
+       Washington,          DC       20546-0001                                                                                                               NASA         TM--2000-209773
+
+
+
+
+ 11. SUPPLEMENTARY NOTES
+
+       Prepared       for the SAMPE                  2000     sponsored           by the Society          for the Advancement                   of Material       and Process          Engineering
+       Long Beach,          California,          May        21-25,        2000.     Responsible          person,        Robert      Friedman,         organization         code      671 l, (216)
+       433-5697.
+
+
+ 12a. DISTRIBUTION/AVAILABILITY                       STATEMENT                                                                                        12b. DISTRIBUTION CODE
+
+
+       Unclassified         - Unlimited
+       Subject       Category:        27                                                           Distribution:               Nonstandard
+
+
+       This publication       is available       from the NASA Center for AeroSpace                       Information,           (301) 621-0390.
+ 13. ABSTRACT (Maximum 200 words)
+
+       Spacecraft       fire-safety         strategy        emphasizes             prevention,        mostly       through        the selection        of onboard          items    classified       accord-
+       ing to their      fire resistance.             The     principal       NASA        acceptance           tests    described       in this paper         assess    the flammability              of
+       materials       and components                 under     "worst-case"            normal-gravity             conditions         of upward         flame     spread       in controlled-oxygen
+       atmospheres.          Tests      conducted           on the ground,            however,         cannot      duplicate         the unique        fire characteristics            in the nonbuoyant
+       low-gravity        environment             of orbiting         spacecraft.         Research         shows        that     flammability        and fire-spread           rates    in low     gravity
+       are sensitive        to forced         convection         (ventilation          flows)        and atmospheric-oxygen                     concentration.         These       research      results     are
+       helping       to define       new material-screening                       test methods         that will       better     evaluate      material      performance           in spacecraft.
+
+
+
+
+ 14. SUBJECT TERMS                                                                                                                                                     15. NUMBER OF PAGES
+                                                                                                                                                                                    21
+       Fire prevention;          Fire      safety;      Flammability,              Material        flammability;           Material      tests;
+                                                                                                                                                                       16. PRICE CODE
+       Spacecraft;       Testing/Evaluation;                  Fire;   Reduced           gravity,      Weightlessness
+                                                                                                                                                                                    A03
+ 17. SECURITY CLASSIFICATION                           18. SECURITY CLASSIFICATION                               19. SECURITY CLASSIRCATION                            20. LIMITATION OF ABSTRACT
+     OF REPORT                                             OF THIS PAGE                                              OF ABSTRACT
+             Unclassified                                             Unclassified                                               Unclassified
+
+NSN 7540-01-280-5500                                                                                                                                             Standard Form 298 (Rev. 2-89)
+                                                                                                                                                                 Prescribed by ANSI Std. Z39-IB
+                                                                                                                                                                 298-102
+

@@ -1,0 +1,38 @@
+[
+  {
+    "paper": "20060050783",
+    "investigation": null,
+    "platform": "normal-gravity lab",
+    "gravity_g": 1,
+    "material": "ashless filter paper",
+    "thickness_mm": null,
+    "geometry": "thin sheet",
+    "flow_mode": "quiescent",
+    "flow_cm_s": null,
+    "o2_pct": null,
+    "pressure_kpa": null,
+    "quantity": "flame_spread_rate",
+    "value": 0.13,
+    "unit": "cm/s",
+    "outcome": null,
+    "quote": "approximately 0.13 cm/s against buoyancy-induced"
+  },
+  {
+    "paper": "20060050783",
+    "investigation": null,
+    "platform": "drop tower",
+    "gravity_g": 0,
+    "material": "cellulosic sample",
+    "thickness_mm": null,
+    "geometry": "thin sheet",
+    "flow_mode": null,
+    "flow_cm_s": 2,
+    "o2_pct": 35,
+    "pressure_kpa": null,
+    "quantity": "other",
+    "value": 3.7,
+    "unit": "mm",
+    "outcome": null,
+    "quote": "flame (about 3.7 mm). However, the blue color part of the"
+  }
+]

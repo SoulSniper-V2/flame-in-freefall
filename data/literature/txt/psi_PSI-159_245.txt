@@ -1,0 +1,118 @@
+                          CFI-G Round 2, day 5
+            Chamber filled to 3 atm with ~8% propane (balance N2)
+   Extinction detection effectively turned off so tests were ended ‘manually’
+
+Test 21222RAD1
+
+
+
+
+              Didn’t capture the console data with the PMTs, etc.
+Test 21222A1 (test 1 of 10, hot flame 1 of 9) – sustained ignition, run as planned
+(with no changes to the parameters)
+Test 21222A1, continued
+Test 21222A1, continued
+
+
+
+
+After test: 942 on lowest valve safety timer, 93 psia in oxidizer bottle
+Test 21222A2 (test 2 of 10, hot flame 2 of 9) – sustained ignition, two-thirds-
+flow variant of A1, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.199
+Test 21222A2, continued
+Test 21222A2, continued
+
+
+
+
+After test: 880 on lowest valve safety timer, 90 psia in oxidizer bottle
+Test 21222A3 (test 3 of 10, hot flame 3 of 9) – sustained ignition, full-flow
+variant of A1 and A2, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.499
+Test 21222A3, continued
+Test 21222A3, continued
+
+
+
+
+After test: 816 on lowest valve safety timer, 87 psia in oxidizer bottle
+Test 21222A4 (test 4 of 10, hot flame of 9) – sustained ignition, third-flow
+variant of A1 (and half-flow variant of A2, etc.), run with
+oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.100
+Test 21222A4, continued
+Test 21222A4, continued
+
+
+
+
+After test: 760 on lowest valve safety timer, 86 psia in oxidizer bottle
+Test 21222A5 (test 5 of 10, hot flame 5 of 9) – unsustained ignition (quenched
+with igniter retraction), quarter-flow variant of A1, run with
+oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.075
+Test 21222A5, continued
+Test 21222A5, continued
+
+
+
+
+After test: 707 on lowest valve safety timer, 84 psia in oxidizer bottle
+Test 21222B1 (test 6 of 10, hot flame of 9) – sustained ignition, TFP variant of
+A1, run as planned with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.299
+Test 21222B1, continued
+Test 21222B1, continued
+
+
+
+
+After test: 644 on lowest valve safety timer, 82 psia in oxidizer bottle
+Test 21222C1 (test 7 of 10, hot flame of 9) – sustained ignition (but short-lived),
+diluted variant of A1, run as planned with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.299
+Test 21222C1, continued
+Test 21222C1, continued
+
+
+
+
+After test: 589 on lowest valve safety timer, 80 psia in oxidizer bottle
+Test 21222C2 (test 8 of 10, hot flame of 9) – sustained ignition, two-third-flow
+variant of C1 (or diluted variant of A2), run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=0.199, nitrogenIgnitionFlowSlpm=0.137,
+oxidizerTestFlow1Slpm=0.199, nitrogenTestFlow1Slpm=0.137
+Test 21222, continued
+Test 21222, continued
+
+
+
+
+After test: 534 on lowest valve safety timer, 78 psia in oxidizer bottle
+Test 21222F1 (test 9 of 10, hot flame of 9) – unsustained ignition (extinction
+with igniter retraction), diluted variant of A1 and C1, run as planned with
+oxidizerFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.299,
+nitrogenIgnitionFlowSlpm=0.895, oxidizerTestFlow1Slpm=0.299,
+nitrogenTestFlow1Slpm=0.895
+Test 21222F1, continued
+Test 21222F1, continued
+
+
+
+
+After test: 486 on lowest valve safety timer, 77 psia in oxidizer bottle
+Test 21222F2 (test 10 of 10) – no apparent ignition, one-third-flow variant of F1
+(or diluted variant of A4), oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=0.100, nitrogenIgnitionFlowSlpm=0.298,
+oxidizerTestFlow1Slpm=0.100, nitrogenTestFlow1Slpm=0.298
+Test 21222F2, continued
+Test 21222F2, continued
+
+
+
+
+After test: 436 on lowest valve safety timer, 76 psia in oxidizer bottle
+Test 21222RAD2
+Test 21222RAD2, continued
+

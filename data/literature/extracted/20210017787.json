@@ -1,0 +1,38 @@
+[
+  {
+    "paper": "20210017787",
+    "investigation": null,
+    "platform": "normal-gravity lab",
+    "gravity_g": 1.0,
+    "material": "cotton",
+    "thickness_mm": null,
+    "geometry": "thin sheet",
+    "flow_mode": "concurrent",
+    "flow_cm_s": 20,
+    "o2_pct": null,
+    "pressure_kpa": 100,
+    "quantity": "ignition_time",
+    "unit": "s",
+    "outcome": null,
+    "value": 3,
+    "quote": "This ignition time is varied linearly with pressure following the experiments (between 3\nand 10 s for ambient pressured ranging from 100 to 30 kPa, respectively)."
+  },
+  {
+    "paper": "20210017787",
+    "investigation": null,
+    "platform": "normal-gravity lab",
+    "gravity_g": 1.0,
+    "material": "cotton",
+    "thickness_mm": null,
+    "geometry": "thin sheet",
+    "flow_mode": "concurrent",
+    "flow_cm_s": 20,
+    "o2_pct": null,
+    "pressure_kpa": 30,
+    "quantity": "ignition_time",
+    "unit": "s",
+    "outcome": null,
+    "value": 10,
+    "quote": "This ignition time is varied linearly with pressure following the experiments (between 3\nand 10 s for ambient pressured ranging from 100 to 30 kPa, respectively)."
+  }
+]

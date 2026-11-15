@@ -1,0 +1,165 @@
+           CFI-G Round 2, day 13, normal n-butane flames
+This is an added test day, nominally repeating 21174 conditions which resulted in cool flames.
+                       Ignition detection averaging set for 3.5 seconds.
+             Chamber filled to 2 atm with ~40% oxygen (balance N2)
+    Extinction detection effectively turned off so tests were ended ‘manually’
+
+Test 21291A1 (test 1 of 12, hot flame 2 of 12) – sustained ignition, run as
+planned (with no changes to the parameters)
+Test 21291A1, continued
+Test 21291A1, continued
+
+
+
+
+After test: 816 on lowest valve safety timer, 636 psia in oxidizer bottle, 42 psia
+in fuel bottle
+Test 21291C1 (test 2 of 12, hot flame 2 of 12) – sustained ignition, flow variant
+of A1, nominally run as planned but with dataCameraTestExposureUs=5000000
+(5 sec)
+Test 21291C1, continued
+Test 21291C1, continued
+
+
+
+
+After test: 555 on lowest valve safety timer, 640 psia in oxidizer bottle, 38 psia
+in fuel bottle
+Test 21291C2 (test 3 of 12, hot flame 3 of 12) – sustained ignition, flow variant
+of A1+C1, run with dataCameraTestExposureUs=100000 (0.1 sec),
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.272
+DataCam zoom=35000, DataCam focus=12700
+Test 21291C2, continued
+Test 21291C2, continued
+
+
+
+
+After test: 479 on lowest valve safety timer, 641 psia in oxidizer bottle, 35 psia
+in fuel bottle
+Test 21291B1 (test 4 of 12, hot flame of 12) – sustained ignition, TFP variant of
+C2, run with dataCameraTestExposureUs=1000000 (1 sec),
+stabilizationTime2Sec=15, fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.272
+DataCam zoom=45000, DataCam focus=10025
+Test 21291B1, continued
+Test 21291B1, continued
+
+
+
+
+After test: 396 on lowest valve safety timer, 641 psia in oxidizer bottle, 32 psia
+in fuel bottle
+Test 21291H1 (test 5 of 12, hot flame 5 of 12) – sustained ignition, run with
+dataCameraTestExposureUs=100000 (0.1 sec), stabilizationTime2Sec=5,
+fuelIgnitionFlowSlpm=0.194, nitrogenIgnitionFlowSlpm=0.105,
+fuelTestFlow1Slpm=0.194, nitrogenTestFlow1Slpm=0.105
+DataCam zoom=25000, DataCam focus=14600
+Test 21291H1, continued
+Test 21291H1, continued
+
+
+
+
+After test: 319 on lowest valve safety timer, 641 psia in oxidizer bottle, 31 psia
+in fuel bottle
+Test 21291H2 (test 6 of 12, hot flame 6 of 12) – sustained ignition, flow variant
+of H1, run with dataCameraTestExposureUs=100000, stabilizationTime2Sec=5,
+fuelIgnitionFlowSlpm=0.116, nitrogenIgnitionFlowSlpm=0.063,
+fuelTestFlow1Slpm=0.116, nitrogenTestFlow1Slpm=0.063
+DataCam zoom=25000, DataCam focus=14600
+Test 21291H2, continued
+Test 21291H2, continued
+
+
+
+
+After test: 145 on lowest valve safety timer, 641 psia in oxidizer bottle, 29 psia
+in fuel bottle
+               Chamber vented, resetting valve safety timers and
+                refilled to 1 atm with ~40% oxygen (balance N2)
+
+Test 21291D1 (test 7 of 12, hot flame 7 of 12) – sustained ignition, 1-atm variant
+of A1, nominally run as planned with dataCameraTestExposureUs=100000,
+stabilizationTime2Sec=5, fuelIgnitionFlowSlpm=0.233,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.233,
+nitrogenTestFlow1Slpm=0
+DataCam zoom=25000, DataCam focus=14600
+Test 21291D1, continued
+Test 21291D1, continued
+
+
+
+
+After test: 901 on lowest valve safety timer, 36 psia in oxidizer bottle, 26 psia in
+fuel bottle
+Test 21291G1 (test 8 of 12, hot flame 8 of 12) – sustained ignition, flow variant
+of D1, nominally run as planned with dataCameraTestExposureUs=100000,
+stabilizationTime2Sec=5, fuelIgnitionFlowSlpm=0.155,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.155,
+nitrogenTestFlow1Slpm=0
+DataCam zoom=25000, DataCam focus=14600
+Test 21291G1, continued
+Test 21291G1, continued
+
+
+
+
+After test: 684 on lowest valve safety timer, 36 psia in oxidizer bottle, 21 psia in
+fuel bottle
+Test 21291G2 (test 9 of 12, hot flame 9 of 12) – sustained ignition, flow variant
+of D1+G1, run with dataCameraTestExposureUs=100000,
+stabilizationTime2Sec=5, fuelIgnitionFlowSlpm=0.194,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.194,
+nitrogenTestFlow1Slpm=0
+DataCam zoom=25000, DataCam focus=14600
+Test 21291G2, continued
+Test 21291G2, continued
+
+
+
+
+After test: 571 on lowest valve safety timer, 36 psia in oxidizer bottle, 19 psia in
+fuel bottle
+Test 21291J1 (test 10 of 12, hot flame 10 of 12) – sustained ignition, 1-atm
+variant of H2, run with dataCameraTestExposureUs=100000,
+stabilizationTime2Sec=5, fuelIgnitionFlowSlpm=0.194,
+nitrogenIgnitionFlowSlpm=0.063, fuelTestFlow1Slpm=0.194,
+nitrogenTestFlow1Slpm=0.063
+DataCam zoom=25000, DataCam focus=14600
+Test 21291J1, continued
+Test 21291J1, continued
+
+
+
+
+After test: 476 on lowest valve safety timer, 36 psia in oxidizer bottle, 18 psia in
+fuel bottle
+Test 21291J2 (test 11 of 12, hot flame 11 of 12) – sustained ignition, flow variant
+of J1, run with dataCameraTestExposureUs=100000, stabilizationTime2Sec=5,
+fuelIgnitionFlowSlpm=0.233, nitrogenIgnitionFlowSlpm=0.126,
+fuelTestFlow1Slpm=0.233, nitrogenTestFlow1Slpm=0.126
+DataCam zoom=25000, DataCam focus=14600
+Test 21291J2, continued
+Test 21291J2, continued
+
+
+
+
+After test: 399 on lowest valve safety timer, 36 psia in oxidizer bottle, 16 psia in
+fuel bottle
+Test 21291J3 (test 12 of 12, hot flame 12 of 12) – sustained ignition, flow variant
+of J1-J2, run with dataCameraTestExposureUs=100000, stabilizationTime2Sec=5,
+fuelIgnitionFlowSlpm=0.155, nitrogenIgnitionFlowSlpm=0.084,
+fuelTestFlow1Slpm=0.155, nitrogenTestFlow1Slpm=0.084
+DataCam zoom=25000, DataCam focus=14600
+Test 21291J3, continued
+
+
+
+
+            Too late to capture useful PMT, etc. data from the console
+After test: 263 on lowest valve safety timer, 36 psia in oxidizer bottle, 14 psia in
+fuel bottle
+Test 21291RAD2
+Test 21291RAD2, continued
+

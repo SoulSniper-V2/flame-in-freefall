@@ -1,0 +1,21 @@
+[
+  {
+    "paper": "psi_PSI-159_1368",
+    "investigation": "CFI-G",
+    "platform": "ISS",
+    "gravity_g": 0,
+    "material": "ethane",
+    "thickness_mm": null,
+    "geometry": "burner",
+    "flow_mode": null,
+    "flow_cm_s": null,
+    "o2_pct": 21,
+    "pressure_kpa": 101.325,
+    "quantity": "flammability_limit",
+    "value": 0.317,
+    "unit": "slpm",
+    "outcome": "no ignition",
+    "basis": "measured",
+    "quote": "Test 21162F1 (test 12 of 13) – no apparent ignition, run with igniterPreheatPowerV=2.8, igniterPreheatDurationMs=10000, igniterIgnitionPowerV=3, igniterIgnitionDurationMs=10000, igniterDelayBeforeRetractMs=8200, fiberTestPosition=0, flowTimeoutSec=300, fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.317,"
+  }
+]

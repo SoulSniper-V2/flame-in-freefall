@@ -1,0 +1,324 @@
+                                                                                                             N96- 15554
+
+
+
+                            MICROGRAVlTY              SMOLDERING             COMBUSTION               ON THE
+                                             USML-I     SPACE     SHUTTLE        MISSION
+
+
+                                               Dennis P. Stocker and Sandra L. Olson
+                                                    NASA Lewis Research Center
+                                                            Cleveland, Ohio
+
+
+                                         Jose L. Torero and A. Carlos Fernandez-Pello
+                                                Department of Mechanical Engineering
+                                                  University of California at Berkeley
+                                                           Berkeley, California
+
+
+
+ABSTRACT
+
+
+Preliminary     results     from an experimental      study of the smolder    characteristics       of a porous combustible      material
+(flexible polyurethane  foam) in normal and microgravity are presented.    The experiments, limited in fuel sample
+size and power available for ignition, show that the smolder process was primarily controlled by heat losses from
+the reaction to the surrounding enviroranent.    In microgravity, the reduced heat losses due to the absence of
+natural convection result in only slightly higher temperatures   in the quiescent microgravity test than in normal
+gravity, but a dramatically larger production of combustion products in all microgravity tests.                             Particularly
+significant is the proportionately larger amount of carbon monoxide and light organic compounds                             produced in
+microgravity,     despite comparable         temperatures   and similar char patterns.      This excessive     production     of fuel-rich
+combustion products may be a generic characteristic of smoldering                        polyurethane       in microgravity,     with an
+associated increase in the toxic hazard of smolder in spaeecra.fl.
+
+INTRODUCTION
+
+
+Smoldering is a non-flaming surface combustion reaction that takes place in the interior of porous combustible
+materials. The characteristics of the smolder reaction and its rate of propagation are determined by the balance
+between the transport of oxidizer to the reaction zone and the transport of energy to and from the reaction zone
+[1,2]. When the smolder conditions are such that the resulting slnolder reaction is vigorous, its rate of propagation
+is directly   proportional      to the rate of oxygen supply.     When it is weak, however,           the rate of heat loss determines
+whether the reaction         will continue    to propagate or eventually   extinguish   [ 1,3,4].
+
+
+Although  smoldering is present in a variety of combustion processes, it is of particular interest in fire safety
+because of its role as a potential fire-initiation source. It can propagate slowly, undetected, for long periods of
+time, and suddenly undergo a transition               to flaming. The products of smolder combustion themselves are toxic.
+Recently, with the planned establishment               of a space station, there has been an increased interest in the study of
+smoldering in microgravity because of the potential danger of a smolder-initiated    fire in remote facilities. The
+absence of gravity is expected to influence smoldering through its effect on the mass and heat transport within the
+smoldering      material.
+
+
+
+
+                                                                     19
+Considerablework has been conducted to date on smoldering at normal gravity [1,2],but very limited
+informationis availableon smolder in low gravity[5-7].This is in part because of the long periodsof
+microgravityneeded to conduct smolder experiments.
+                                                 The presentwork attemptsto providefurtherinformation
+about smoldering in a microgravityenvironment. To provide for extended periods of microgravity,a
+comprehensivesmolderexperimentwas approvedfortesting
+                                                   on theSpace Shuttleand isnow under development.
+A preliminarysetof testswere approved to specifically       study tlm ignition  and transition effectsof low-gravity
+smolder. The SpacelabGlovebox on theUnited StatesMicrogravityLaboratory mission,of the Space Shuttle
+Columbia, of June/July1992 (USML-I, STS-50), was used forthesepreliminarytests.The use of theGlovcbox
+limited the size of the fuel sample that could be tested and the power available for ignition, but had the advantage
+of much reduced costs and development         time. A series of comparative    tests were also conducted   in normal
+gravity. The normal and microgravity smolder characteristics were determined from interpretation  of the available
+temperature  histories obtained at several locations within the sample, visual inspection of the smoldered foam
+sample, and     analysis of the post-combustion          gases.
+
+EXPERIMENT
+
+
+The flight hardware consisted of four experiment                  modules, two data displays, a control box, and four cables.
+Each module contained a cylindrical foam sample,                  with an embedded igniter, and a fan to produce a forced flow
+in the longitudinal direction (Fig. 1). The test variables during the experiment were the igniter geometry and the
+convectiveenvironment. 11aroughtheuse of an axialigniterand a plateigniter,          both radialand axialsmolder
+were investigated.    For each igniter geometry, a test was conducted in a quiescent environment    and with a low-
+velocity air flow for a total of four test conditions. Each experiment module was a sealed polycarbonate       box,
+nominally 0.15 m x 0.15 m x 0.20 m, filled with dry air at one atmosphere pressure.     The fuel consisted of a 50
+mm diameter,       80 nan long cylinder of open-cen, unretarded, white flexible polyurethane     foam, with a 26.5
+Kg/m 3 density         and 0.975 void          fraction,  which weighed           4 grams.      The fuel sample     was positioned
+axisymmetricaUy         in a polycarbonate       robe, 76 nun in diameter,        that had a fan at one end to provide a convective
+air flow past the sample with a velocity of the order of 100 rnm/see. For the quiescent tests, large sections of the
+robe were removed to provide free exchange of air throughout the module.        The plate and axial igniters were
+resistively-heated      elements,    consisting of nickel-chromium          wire sheathed in ceramic.
+
+
+The foam sample was instrumentedwithsixsheathed,cold-junctioncompensated,chromcl-alumelthcrmocouples,
+0.5 rainin sheath diameter,to measure the smolder reactiontemperatureand itspropagationthroughoutthe
+sample. A seventh thermocouple was used to measure the local gas-phase temperature      outside the foam.   "Ilae
+output of the thermocouples and the igniter current was recorded with a video camera through the use of two data
+displays   (with four readings each).          A second video camera         viewed   the side of the smoldering     sample.
+
+RESULTS
+
+
+Temperature          Histories:     A representative    example       of the temperature   histories   obtained    in these experiments    is
+shown in Fig. 2. It presents the temperature              histories     provided by thermocouples        1 to 4 in the microgravity       and
+normal-gravity  experiments for test 2 (axial igniter/fan on). The temperature histories for the other thermocouples
+will not be presented here. They were positioned near the surface of the foam to detect flaming, which did not
+occur in any of the tests. Given the relative mass of the thermocouples       as compared to that of the foam, it is
+ possible that the measured temperatures were significantly                     affected by conductive    losses. Normal-gravity   tests
+ also suggest that the temperatures may have been depressed                      due to the thermocouple's compression     of the foam,
+ which may have locally inhibited            smolder.
+
+ From a comparison of the microgravity and normal-gravity         temperature  profiles, it appears that gravity had a
+ limited effect on the temperature histories. In most cases, the peak temperatures    were greater in microgravity than
+ normal gravity for all four thermocouples,   with the difference increasing  with distance from the igniter. The
+ temperature difference is presumably due to buoyant cooling in normal gravity, which would be most strongly felt
+
+                                                                           20
+near the surface of the foam.These temperature histories can be used to roughly calculate smolder propagation
+velocities using the method previously developed for ground-hased experiments [4]. Using that technique, it is
+found that for all tests, the smolder was not steady but decayed from approximately 0.08 mm/s to 0.02 mm/s, and
+finally extinguished. The smolder propagation velocities obtained for the normal-gravity tests experiments are also
+similar. The calculated smolder velocities are of the same order of magnitude as those measured in larger
+experiments of opposed-flow   smolder at low flow velocities (0.5 mm/sec) and natural convection smolder [8].
+They correspond    to the "weak" smolder cases tested. The maximum        smolder velocities   measured in those
+experiments were obtained for flow velocities of 3 mm/sec and were of the order of 0.15 ram/see.
+
+
+Char Patterns:   During the testing, the smoldering     foam was observed     to expand    and smoke, much of which later
+condensed as a yellow residue on the module interior. Upon removal after testing, the samples were cut open to
+reveal the extent of the smolder propagation.The      char pattern from normal-gravity    tests were found to be similar
+to the pattern from the microgravity     test. The visible extent of propagation    was similar in both tests, but there
+were two notable     differences. First, large voids, on the order of 1 em long, were created in the normal-gravity
+char region, whereas there were none apparent in the microgravity char. The voids were found in other, but not
+all, of the normal-gravity    tests and none of the microgravity tests.    It is speculated that the voids result from
+gravitational forces on the weakened polymeric structure, but it is not clear what controls their occurrence.     A
+close comparison     of the char structure of the microgravity  and normal-gravity   tests also shows significant
+differences.  The normal-gravity   voids had a crust of melted material which appeared to clog the foam pores.
+Microscopic   observation of the normal-gravity  char showed that discolored filaments in some cases had melted
+into spheres. Furthermore,    strong signs of fuel pyrolysis could also be observed at the edges of the char region.
+These observations     are typical of a low temperature       smolder process [3,4]. In contrast, the char in the
+microgravity   samples was more typical of high temperature smolder with a fibrous, relatively dense structure,
+despite the similar temperature profiles.
+
+Gas Analyses:     The results   of the analyses     of the post-combustion     gases     are presented   in Table     I, for the
+microgravity and normal-gravity   tests. Only the major components have been included in the table. The results
+are based on analyses,     performed     at the Toxicology  Laboratory  at NASA      Johnson,   with both Gas
+Chromatography     (GC) and Gas Oammatography/lVlass       Spectrometry (GC/MS).    Oxygen depletion and
+production of carbon dioxide, carbon monoxide, and hydrocarbon species are good indicators of the combustion
+reaction characteristics. However, in interpreting the data, it should be kept in mind that smoldering is a low-
+temperature  surface reaction that is generally oxygen limited. It is seen that the microgravity     smolder tests
+produced significant amounts of carbon monoxide and carbon dioxide, as well as a number of light organic
+compounds.    These species are characteristic of pyrolysis and oxygen-limited combustion.    It is believed that the
+chlorinated compounds are contaminants resulting from the methylene chloride that was used to solvent bond flae
+joints in the polycarbonate   modules. The normal-gravity    tests produced these species in substantially    smaller
+ amounts than the microgravity   tests. This is somewhat surprising,    since the extent of smolder propagation     as
+apparent in the char patterns was not strongly effected by gravity for any of the tests. Yet in all cases, the amount
+of carbon monoxide was much greater (89 to 3900 ppm) than that produced in normal gravity (<3 to 6 ppm).              In
+most cases, the microgravity   tests produced twice as much carbon dioxide as the normal-gravity        tests. Methane
+and propene are evident in the microgravity cases, whereas they are hardly detected in the normal gravity samples.
+Other products (e.g., 2-propanol) are detected in the microgravity samples and are undetected, or weakly detected,
+in the normal-gravity samples.
+
+
+Heat Losses: The present results indicate that heat losses were an important factor in the smolder propagation for
+the present experimental conditions in microgravity as well as normal gravity. This is somewhat unexpected and
+specific to the smolder (not flaming) combustion process. Since air has such a low thermal conductivity and mass
+diffusivity, one would expect that with the absence of natural convection in microgravity,  the heat losses to the
+environment would be small and that the deterrent to the progress of the reaction would be a small supply of
+oxidizer to the reaction zone. However, these concepts are somewhat modified by the fact that the smolder process
+is very slow, and consequently,    the characteristic   time for smolder   propagation     can be significantly     smaller   than
+
+                                                              21
+that for diffusion      of heat and mass. With a thermal        diffusivity   for air of 5xlO -5 m2/s and a characteristic           length of
+25 mm (based on the foam radius), the characteristic  limes for heat and mass diffusion are of the order of 12.5
+seconds (Lewis number assumed unity), which is relatively small compared with the characteristic time of smolder
+propagation, which with a smolder velocity of 0.05 ram/s and a characteristic sample length of 25 mm is of the
+order of 5130 seconds.  Thus, from the point of view of transport of mass and heat, the smolder reaction is
+basically    stationary    and there is ample lime for the heat and mass to diffuse to and from the reaction                    zone. If the
+sample size is small, as it is in this case, the percentage of the heat generated by the smolder reaction that is
+transferred by conduction to the surroundings    becomes increasingly significant as the smolder propagates   away
+from the igniter and the contribution of the external heat source (igniter) is diminished. When the percentage of
+heat generated by smolder becomes              insufficient     to overcome      the heat    losses     due   to conduction,    the smolder
+reaction weakens and extinguishes.
+
+CONCLUSIONS
+
+
+The present experiments, although limited in fuel sample size and igniter power, provided valuable information
+about the smolder characteristics of a porous polymeric fuel in microgravity. The following conclusions  can be
+drawn from these preliminary tests.
+
+(1) Temperatures  in microgravity were in general similar to those measured in normal gravity, with only a slight
+increase in microgravity temperatures  noted in the quiescent test, where convective      losses are effectively
+eliminatext
+
+
+ (2) Char patterns were also similar between normal                  and microgravity        samples,     with the effect of gravitational
+ orientation having a minor effect on the char patterns.
+
+ (3) Under the present conditions of fuel size and extemal heating, the smolder process was in a "weak" regime
+ because the heat losses from the reaction zone were significant in comparison     to the heat generated by the
+ reaction. Under these conditions,  smolder was primarily    limited by heat losses from the reaction to the
+ surrounding      environment.
+
+ (4) Despite similar temperatures  and visible extent of smolder, significant production of light combustion gases
+ was found to have occurred in microgravity.   Of particular note, the microgravity levels of carbon monoxide were
+ orders     of magnitude     higher   than that observed       in the normal-gravity        tests.    This may       be a specific    result   of
+ smoldering in a microgravity environment, which would imply that microgravity                            smolder    products   may be more
+ toxic than smolder products produced on Earth.
+
+
+
+ ACKNOWLEDGEMENTS
+
+ The authors          would like to acknowledge     the contributions         of the many NASA           personnel    that made this space
+ experiment  possible.  In particular,    we would like to thank the Toxicology  Branch of NASA Johnson, who
+ conducted the gas analyses. We would like to thank the USML-1 crew for their design suggestions and for their
+ hard work during experiment      training and simulations.    Special thanks go to Col. Carl J. Meade and Dr.
+ Lawrence J. DeLucas for their interest and dedication while conducting the experiments      during the USML-1
+ mission.
+
+ REFERENCES
+
+
+  1.      Ohlemiller,     T.J., Prog. Energy   Combust.       Sci., 11, (1986), 277.
+
+  2.      Drysdale,     D., 1987, An Introduction    to Fire Dynamics,         John Wiley, (1987),        265.
+
+                                                                        22
+3.      Dosanj_, S.S.,     PetersonJ.,       Femandez-Pello,         A.C., and Pagni,          P.J.,      Acta Astronaurica,       13, No.     11/22,
+        (1987), 689.
+
+4.      Torero, J.L., Kitano, M. and Femandez-Pello,                 A.C., Combust.         Sci. Tech.,    91, 1-3, (1993),      95.
+
+5.      Cantwell,      E., and Femandez-Pello,             A.C.,     28th Aerospace          Science      Meeting,     paper # MAA-90-0648,
+        (1990a).
+
+6.      Cantwell, E. and Femamiez-Pello, A.C,   "Smoldering                          Combustion       Under Low Gravity          Conditions"    1990
+        Fall Meeting, WSS/CI, San Diego, CA, (1990b).
+
+7.      Torero, J.L., Femandez-Pello,               A.C., and Urban D., A/AA Journal,                   32, 5, (1994)      991.        Also paper #
+        AIAA-93-0829,   31st Aerospace              Science Meeting, Reno, NV, (1993).
+
+8.      Torero, J.L., Fernandez-Pello,          A.C., and Kitano,            M, Fire Safety Science,         Proc.Fourth       Int. Syrup., (1994),
+        409.
+
+
+
+                          TABLE I: ANALYSIS                  OF THE POST-COMBUSTION                       GAS SAMPLE_
+
+
+                                                     Microgravity                                          Normal-Gravity
+     Compound
+                                     1.0             2.0           3.0             4.0        1.1           2.1          3.1           4.1
+ Oxygen                               21%             19%           21%             20%        20%           20%          20%           20%
+ Nitrogen                             78%             79%           78%             78%        79%           79%          79%           79%
+ Hydrogen                              ND               4O           ND              ND         ND            ND           ND            ND
+ Methane                                17             570            96             180        ND            ND           ND            ND
+ Carbon Monoxide                         89          3900            150           610          4.0         Trace        Trace           5.5
+ Carbon Dioxide                       2300           7400          7600         10700         2100           3000        3300          3800
+ Propene                               15.2           107           12.1          43.8
+     Acetaldehyde                     6.33            117           36.4          85.1          120             66          66           150
+     Propanone                        25.8           47.7          4.89           40.9           41             18          13            26
+     Propanal                           ND            7.91           ND            ND            13            4.4         ND            9.1
+     2-Propanol                       6.08            19.0          0.18            13.2        3.7            1.0        0.83           3.7
+     Dichloromethane                  63.5            70.7          70.3            49.7         46            26           44            46
+     ND:      Not detected; limit is 3 ppm for carbon monoxide,                     and 5 ppm for hydrogen          and methane.
+     Trace:   Amount     detected   is sufficient    for compound          identification   only.
+                Not reported    in analysis.
+
+
+
+
+                                                                              23
+                          r.LI[CTRICF_                                                          I_T-WUE       Ir_ZTOR
+
+
+
+
+                      Figure 1.                              Schematic         of experimental module, axial ignitor.
+
+
+
+
+            400           .    ,           .           ,_,                      ,          ,              ,             ,            ,                 ,          -t
+
+                                         __'                     --.._
+                                                                                    R,,r2.x .......                                                ---4----
+                                                                                                                                                                  ,
+                                                                                                                                                              2.1 :lqnltor
+                                       ,._                               -QOOO_DOO_)_-                                          '_        _b       _          2.1:10mm
+
+   o        300                ,,_                                                                                               _         _       _          2.1 : 2_'nm
+                                                      _                                                                              _ _ ...o--               2.o:._,,_,-
+   g                          ,_                   _
+                                                   d'qr" "h 1,,_                                                        _
+                                                                                                                                     _   _ --.o--
+                                                                                                                                      _. I ""_'"
+                                                                                                                                                              2.0:.lOmm
+                                                                                                                                                              2.O:l.Sr,m
+
+   2        200
+   &
+
+   _        1 O0
+
+
+
+
+                  0
+                          t°
+                          l        I           f       I     ,      I      t    I      ,    I      ,      I      ,      I   ,         I        ,        I     ,
+
+                      0        2                       4           6           8           10          12            14              16                18         2.0
+
+                                                                               Time,       Minutes
+
+
+
+Figure 2.             Temperature                      data from runs 2.0 and 2.1 (axial ignitor, fan on); thermocouples                                                     1 to 4.
+
+
+
+
+                                                                                    24
+

@@ -1,0 +1,66 @@
+                                                                                              15-­‐Pin	  D	  connector	                                                       D	  connector	  
+                                                                                              from	  control	  box	  
+                                           15-­‐Pin	  D	  connector	                                                                                                       from	  control	  box	  
+                                           from	  control	  box	  
+                                                                                                                                                                               D	  connector	  to	  
+                                                                                                                                                                                       MFC	  
+
+
+
+
+                                                                                                                               Inser:on	  
+                                           15-­‐Pin	  D	  connector	  to	  	                                                                                          Original	  condi:on	  
+                                           MFC	  
+
+
+
+                                                                                                                                                                                                                   Red	  wires	  go	  to	  
+                                                                                                                                                                                                                   voltage	  meter	  
+
+                                                                                                                                                                                 D	  connector	  
+                Original	  condi:on	                                                                                                                                        from	  control	  box	  
+
+
+
+            1	                                              8	  
+                                                                                       15-­‐Pin	  D	  connector	  
+
+
+                                                                                                                                                                                                                                        Inser:on	  
+                                                                                       to	  	  MFC	  
+                    9	                             15	  
+
+                                                                                                                                              Wire/Pin	  #:	  1	   2	   5	   6	   7	   8	   11	  12	  15	  
+            The	  15-­‐Pin	  D	  connector	  to	  MFC	                          Connec:on	  with	  inser:on	  
+                                                                                                                                                                              D	  connector	  to	  
+                                                                                                                                                                                      MFC	  
+                                                                     Pictures	  
+1.   Only	  9	  pins	  are	  used.	  
+                                                                                                                                                                    Connec:on	  with	  inser:on	  
+2.   Voltage	  of	  pin	  2	  and	  8	  are	  measured	  with	  pin	  15	  as	  ground.	  
+3.   The	  set	  point	  of	  MFC	  can	  be	  controlled	  with	  the	  control	  box	  or	  with	  an	  external	  
+     voltage	  supplier	  by	  switching	  wire	  8	  (dashed	  end)	  to	  diﬀerent	  sources.	                                                                       Diagram	  
+Table 8 lists the pinout of the 15-pin Type “D” connector for a mass flow controller.
+
+                                   15-Pin Type “D” Connector Pinout
+           Pin                  Assignment                   Pin               Assignment
+             1               MKS Test Point*                  9               No Connection
+             2              Flow Signal Output               10               Optional Input*
+                              (0 to +5 VDC)
+             3                 Valve Close*                  11              Signal Common
+                                (TTL low)
+             4                 Valve Open*                   12              Signal Common
+                                (TTL low)
+             5            Power Supply Common                13               No Connection
+             6                   -15 VDC                     14               No Connection
+             7                   +15 VDC                     15               Chassis Ground
+             8                Set Point Input*
+                               (0 to +5 VDC)
+                             * For an MFC only, No Connection for an MFM
+
+                          Table 8: 15-Pin Type “D” Connector Pinout
+
+
+       Note            1. The “No Connection” pin assignment refers to a pin with no internal
+                          connection.
+

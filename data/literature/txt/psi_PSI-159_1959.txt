@@ -1,0 +1,167 @@
+                          CFI-G Round 2, day 4
+            Chamber filled to 3 atm with ~10% ethane (balance N2)
+   Extinction detection effectively turned off so tests were ended ‘manually’
+
+Test 21216RAD1
+Test 21216RAD1, continued
+Test 21216A1 (test 1 of 13, hot flame 1 of 12) – sustained ignition, run as
+planned (with no changes to the parameters)
+Test 21216A1, continued
+Test 21216A1, continued
+
+
+
+
+After test: 938 on lowest valve safety timer, ? psia in oxidizer bottle
+Test 21216A2 (test 2 of 13, hot flame 2 of 12) – sustained ignition, 150%-flow
+variant of A1, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.307
+Test 21216A2, continued
+Test 21216A2, continued
+
+
+
+
+After test: 876 on lowest valve safety timer, ? psia in oxidizer bottle, 166 psia in
+fuel bottle
+Test 21216A3 (test 3 of 13, hot flame 3 of 12) – sustained ignition, full-flow
+variant of A1-A2, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.499
+Test 21216A3, continued
+Test 21216A3, continued
+
+
+
+
+After test: 814 on lowest valve safety timer, 134 psia in oxidizer bottle, 166 psia
+in fuel bottle
+Test 21216A4 (test 4 of 13, hot flame 4 of 12) – sustained ignition, half-flow
+variant of A1, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.102
+Test 21216A4, continued
+Test 21216A4, continued
+
+
+
+
+After test: 729 on lowest valve safety timer, 133 psia in oxidizer bottle, 165 psia
+in fuel bottle
+Test 21216A5 (test 5 of 13) – unsustained ignition (with flashes only), 25%-flow
+variant of A1 (and 50%-flow variant of A4, etc.), run with
+oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.051
+Test 21216A5, continued
+Test 21216A5, continued
+
+
+
+
+After test: 685 on lowest valve safety timer, 132 psia in oxidizer bottle, 166 psia
+in fuel bottle
+Test 21216A6 (test 6 of 13, hot flame 5 of 12) – sustained ignition, 37.5%-flow
+variant of A1, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.077
+Test 21216A6, continued
+Test 21216A6, continued
+
+
+
+
+After test: 597 on lowest valve safety timer, 130 psia in oxidizer bottle, 166 psia
+in fuel bottle
+Test 21216B1 (test 7 of 13, hot flame 6 of 12) – sustained ignition, TFP variant of
+A2, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.307
+Test 21216B1, continued
+Test 21216B1, continued
+
+
+
+
+After test: 530 on lowest valve safety timer, 127 psia in oxidizer bottle, 166 psia
+in fuel bottle
+Test 21216C1 (test 8 of 13, hot flame 7 of 12) – sustained ignition, diluted-
+oxidizer variant of A2, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=0.307, nitrogenIgnitionFlowSlpm=0.211,
+oxidizerTestFlow1Slpm=0.307, nitrogenTestFlow1Slpm=0.211
+Test 21216C1, continued
+Test 21216C1, continued
+
+
+
+
+After test: 473 on lowest valve safety timer, 124 psia in oxidizer bottle, 166 psia
+in fuel bottle
+Test 21216F1 (test 9 of 13, hot flame 8 of 12) – sustained ignition, diluted-
+oxidizer variant of A2, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=0.307, nitrogenIgnitionFlowSlpm=0.918,
+oxidizerTestFlow1Slpm=0.307, nitrogenTestFlow1Slpm=0.918
+Test 21216F1, continued
+Test 21216F1, continued
+
+
+
+
+After test: 379 on lowest valve safety timer, 118 psia in oxidizer bottle, 166 psia
+in fuel bottle
+        Chamber vented to 1 atm, still with ~10% ethane (balance N2)
+                       not accounting for vitiation
+
+Test 21216H1 (test 10 of 13, hot flame 9 of 12) – sustained ignition, 1-atm
+variant of A2, run with oxidizerFlowIgnitionDeltaMs=500,
+oxidizerIgnitionFlowSlpm=0.307, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.307, nitrogenTestFlow1Slpm=0
+Test 21216H1, continued
+Test 21216H1, continued
+
+
+
+
+After test: 317 on lowest valve safety timer, 114 psia in oxidizer bottle, 166 psia
+in fuel bottle
+Test 21216H2 (test 11 of 13, hot flame 10 of 12) – sustained ignition, full-flow
+variant of H1 (and 1-atm variant of A3), run with
+oxidizerFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.499,
+nitrogenIgnitionFlowSlpm=0, oxidizerTestFlow1Slpm=0.499,
+nitrogenTestFlow1Slpm=0
+Test 21216H2, continued
+Test 21216H2, continued
+
+
+
+
+After test: 244 on lowest valve safety timer, 107 psia in oxidizer bottle, 166 psia
+in fuel bottle
+Test 21216J1 (test 12 of 13, hot flame 11 of 12) – sustained ignition, run with
+oxidizerFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.205,
+nitrogenIgnitionFlowSlpm=0.141, oxidizerTestFlow1Slpm=0.205,
+nitrogenTestFlow1Slpm=0.141
+Test 21216J1, continued
+
+
+
+
+               Too late to capture useful console data for PMTs, etc.
+After test: 172 on lowest valve safety timer, 104 psia in oxidizer bottle, 166 psia
+in fuel bottle
+Test 21216K1 (test 13 of 13, hot flame 12 of 12) – sustained ignition, diluted-
+oxidizer variant of J1, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=0.205, nitrogenIgnitionFlowSlpm=0.612,
+oxidizerTestFlow1Slpm=0.205, nitrogenTestFlow1Slpm=0.612
+Test 21216K1, continued
+Test 21216K1, continued
+
+
+
+
+After test: 84 on lowest valve safety timer, 101 psia in oxidizer bottle, 166 psia
+in fuel bottle
+ Flame testing ended because the CIR (& FIR both) locked up, without telemetry
+            to their various packages, because of an ISS server issue.
+Recovery would result in 0 on the valve safety timers, necessitating the chamber
+        to be vented and refilled for which resources were not available.
+        Useful CFI-G testing for the day had also nearly ended per the PI.
+
+Test 21216RAD2
+Test 21216RAD2, continued
+

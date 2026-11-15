@@ -1,0 +1,276 @@
+Test 19156A1 – no ignition (where the fuel was dilute), run with
+stabilizationTime2Sec=3
+Analog camera gain=21 dB, HiBMs illumination on, but accidentally didn’t
+record HiBMs images
+
+
+
+
+After test, 972 on lowest valve safety timer, 1193 psia in oxidizer bottle
+
+
+
+                                         1
+Test 19156A2 – no ignition, run with igniterIgnitionPosition=2240,
+fuelFlowIgnitionDeltaMs=900, stabilizationTime2Sec=3,
+nitrogenIgnitionFlowRateN2Slpm=nitrogenTestFlowRateN2Slpm=1.832
+Analog camera gain=21 dB, using HiBMs and illumination package
+
+
+
+
+After test, 953 on lowest valve safety timer, 1193 psia in oxidizer bottle
+
+
+
+                                         2
+Test 19156B1 – flashes but no sustained ignition, run with
+igniterIgnitionPosition=2240, igniterPreheatPowerV=3.75,
+igniterIgnitiondurationMs=1500, igniterDelayBeforeRetractMs=1000,
+fuelFlowIgnitionDeltaMs=1000, stabilizationTime2Sec=3
+Analog camera gain=21 dB, using HiBMs and illumination package
+
+
+
+
+After test, 936 on lowest valve safety timer, 1193 psia in oxidizer bottle
+
+                                         3
+Test 19156B2 – successful test in which flame extinguished in an asymmetric
+fashion, run with igniterIgnitionPosition=2240, igniterPreheatPowerV=3.75,
+igniterIgnitiondurationMs=2000, igniterDelayBeforeRetractMs=1500,
+fuelFlowIgnitionDeltaMs=500, stabilizationTime1Sec=2,
+stabilizationTime2Sec=3, nitrogenIgnitionFlowRateN2Slpm=0.467,
+ignitionToTestRampTimeSec=3
+Analog camera gain=21 dB, using HiBMs and illumination package
+
+
+
+
+After test, __913 on lowest valve safety timer, __1193 psia in oxidizer bottle
+                                        4
+Test 19156B3 – flash(es) but no sustained ignition, run with
+igniterIgnitionPosition=2280, igniterPreheatPowerV=2.25,
+igniterIgnitiondurationMs=2500, igniterDelayBeforeRetractMs=2000,
+fuelFlowIgnitionDeltaMs=500, stabilizationTime1Sec=2,
+stabilizationTime2Sec=3, fuelBottleIgnitionFlowRateN2Slpm=0.104
+nitrogenIgnitionFlowRateN2Slpm=0.243, fuelBottleTestFlowRateN2Slpm=0.104
+nitrogenTestFlowRateN2Slpm=0.991, ignitionToTestRampTimeSec=4,
+constantFlowTimeSec=60
+Analog camera gain=21 dB, using HiBMs and illumination package
+dataCamera Focus=12700, dataCamera Zoom=35000
+
+
+
+
+After test, _889_ on lowest valve safety timer, 1193__ psia in oxidizer bottle
+                                        5
+Test 19156 B4 – successful test, except flame not spherical when nitrogen flow
+ramped up, duplicate of B3 except for ignition detection settings
+igniterIgnitionPosition=2280, igniterPreheatPowerV=2.25,
+igniterIgnitiondurationMs=2500, igniterDelayBeforeRetractMs=2000,
+fuelFlowIgnitionDeltaMs=500, stabilizationTime1Sec=2,
+stabilizationTime2Sec=3, fuelBottleIgnitionFlowRateN2Slpm=0.104
+nitrogenIgnitionFlowRateN2Slpm=0.243, fuelBottleTestFlowRateN2Slpm=0.104
+nitrogenTestFlowRateN2Slpm=0.991, ignitionToTestRampTimeSec=4,
+constantFlowTimeSec=60
+Analog camera gain=21 dB, using HiBMs and illumination package
+dataCamera Focus=12700, dataCamera Zoom=35000
+Ignition detection set with averaging ignition duration=0.5 s (instead of default
+of 0.05 s)
+
+
+
+
+After test, 797 on lowest valve safety timer, 817 psia in oxidizer bottle
+                                         6
+Test 19156K1 – successful test, like as-run 19142F1 except
+constantFlowTimeSec=20, useRampFlowToZero=FALSE
+Analog camera gain=21 dB, using HiBMs and illumination package
+dataCamera Focus=10025, dataCamera Zoom=45000
+
+
+
+
+After test, 757 on lowest valve safety timer, 1195 psia in oxidizer bottle
+
+
+
+
+                                         7
+Test 19156C1 – successful test, run with no changes
+Analog camera gain=21 dB, using HiBMs and illumination package
+dataCamera Focus and dataCamera Zoom as planned for C1
+
+
+
+
+After test, 715 on lowest valve safety timer, 1195 psia in oxidizer bottle
+
+
+
+
+                                         8
+Test 19156C2 – successful test, same as C1 except
+burnerTemperatureLimitC=500 (before triggering shut off)
+Analog camera gain=21 dB, using HiBMs and illumination package
+dataCamera Focus and dataCamera Zoom as planned for C1
+
+
+
+
+After test, 638 on lowest valve safety timer, 1195 psia in oxidizer bottle
+
+
+
+
+                                         9
+Test 19156C3 – successful test, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=33000,
+useBracketedExposures=FALSE, fiberIgnitionPosition=fiberTestPostition=0,
+fiberMoveDuringTest=FALSE, burnerTemperatureLimitC=500
+Analog camera gain=21 dB, using HiBMs and illumination package
+data camera gain=33 dB, dataCamera Focus and dataCamera Zoom as planned
+
+
+
+
+Minutes late in screen capture!
+After test, 559 on lowest valve safety timer, 1195 psia in oxidizer bottle
+                                        10
+Test 19156J1 – successful test, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=33000,
+useBracketedExposures=FALSE, igniterIgnitionPosition=2280,
+fiberIgnitionPosition=fiberTestPostition=0, fiberMoveDuringTest=FALSE,
+fuelFlowIgnitionDeltaMs=1000, stabilizationTime1Sec=3,
+fuelBottleIgnitionFlowRateN2Slpm=0.078, ignitionToTestRampTimeSec=4,
+constantFlowTimeSec=10, burnerTemperatureLimitC=500
+Analog camera gain=21 dB, using HiBMs and illumination package
+data camera gain=33 dB, dataCamera Focus and dataCamera Zoom as planned
+
+
+
+
+After test, 488 on lowest valve safety timer, 1195 psia in oxidizer bottle
+                                        11
+Test 19156J2 – successful test, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=33000,
+useBracketedExposures=FALSE, igniterIgnitionPosition=2280,
+fiberIgnitionPosition=fiberTestPostition=0, fiberMoveDuringTest=FALSE,
+fuelFlowIgnitionDeltaMs=1000, stabilizationTime1Sec=0,
+stabilizationTime2Sec=5, fuelBottleIgnitionFlowRateN2Slpm=0.091,
+fuelBottleTestFlowRateN2Slpm=0.091, ignitionToTestRampTimeSec=0,
+constantFlowTimeSec=60, burnerTemperatureLimitC=500
+Analog camera gain=12 dB, using HiBMs and illumination package
+data camera gain=33 dB, dataCamera Focus and dataCamera Zoom as planned
+
+
+
+
+After test, 416 on lowest valve safety timer, 1195 psia in oxidizer bottle
+                                        12
+Test 19156J3 – successful test, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=33000,
+useBracketedExposures=FALSE, igniterIgnitionPosition=2280,
+fiberIgnitionPosition=fiberTestPostition=0, fiberMoveDuringTest=FALSE,
+fuelFlowIgnitionDeltaMs=1000, stabilizationTime1Sec=0,
+stabilizationTime2Sec=5, fuelBottleIgnitionFlowRateN2Slpm=0.104,
+fuelBottleTestFlowRateN2Slpm=0.104, ignitionToTestRampTimeSec=0,
+constantFlowTimeSec=60, burnerTemperatureLimitC=500
+Analog camera gain=12 dB, using HiBMs and illumination package
+data camera gain=33 dB, dataCamera Focu=12700, dataCamera Zoom=35000
+
+
+
+
+After test, 336 on lowest valve safety timer, 1195 psia in oxidizer bottle
+                                        13
+Test 19156J4 – successful test, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=33000,
+useBracketedExposures=FALSE, igniterIgnitionPosition=2280,
+fiberIgnitionPosition=fiberTestPostition=0, fiberMoveDuringTest=FALSE,
+fuelFlowIgnitionDeltaMs=1000, stabilizationTime1Sec=0,
+stabilizationTime2Sec=5, fuelBottleIgnitionFlowRateN2Slpm=0.083,
+fuelBottleTestFlowRateN2Slpm=0.083, ignitionToTestRampTimeSec=0,
+constantFlowTimeSec=60, burnerTemperatureLimitC=500
+Analog camera gain=12 dB, using HiBMs and illumination package
+data camera gain=33 dB, dataCamera Focu=12700, dataCamera Zoom=35000
+
+
+
+
+After test, 274 on lowest valve safety timer, 1195 psia in oxidizer bottle
+                                        14
+Test 19156J5 – successful test, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=33000,
+useBracketedExposures=FALSE, igniterIgnitionPosition=2280,
+fiberIgnitionPosition=fiberTestPostition=0, fiberMoveDuringTest=FALSE,
+fuelFlowIgnitionDeltaMs=1000, stabilizationTime1Sec=0,
+stabilizationTime2Sec=2, fuelBottleIgnitionFlowRateN2Slpm=0.104,
+fuelBottleTestFlowRateN2Slpm=0.104, ignitionToTestRampTimeSec=0,
+constantFlowTimeSec=2, useRampFlowToZero=TRUE, rampFlowToZero=120,
+rampPostExtinctionFlowChangeFuelPercent=100,
+rampPostExtinctionFlowChangeN2Percent=100,
+rampPostExtinctionFlowChangeRampTimeSec=2,
+rampPostExtinctionFlowChangeHoldSec=5, burnerTemperatureLimitC=500
+Analog camera gain=12 dB, using HiBMs and illumination package
+data camera gain=33 dB, dataCamera Focu=12700, dataCamera Zoom=35000
+
+Forgot to get screenshot until too late!
+
+After test, 206 on lowest valve safety timer, 1195 psia in oxidizer bottle
+
+
+
+
+                                           15
+Test 19156J6 – successful test, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=50000,
+useBracketedExposures=FALSE, igniterIgnitionPosition=2280,
+fiberIgnitionPosition=fiberTestPostition=0, fiberMoveDuringTest=FALSE,
+fuelFlowIgnitionDeltaMs=1000, stabilizationTime1Sec=0,
+stabilizationTime2Sec=2, fuelBottleIgnitionFlowRateN2Slpm=0.093,
+fuelBottleTestFlowRateN2Slpm=0.093, ignitionToTestRampTimeSec=0,
+constantFlowTimeSec=1, useRampFlowToZero=TRUE, rampFlowToZero=360,
+rampPostExtinctionFlowChangeFuelPercent=100,
+rampPostExtinctionFlowChangeN2Percent=100,
+rampPostExtinctionFlowChangeRampTimeSec=2,
+rampPostExtinctionFlowChangeHoldSec=5, burnerTemperatureLimitC=500
+Analog camera gain=12 dB, using HiBMs and illumination package
+data camera gain=33 dB, dataCamera Focu=12700, dataCamera Zoom=35000
+
+
+
+
+After test, 133 on lowest valve safety timer, 1195 psia in oxidizer bottle
+                                        16
+Test 19156J7 – successful test, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=33000,
+useBracketedExposures=FALSE, igniterIgnitionPosition=2280,
+fiberIgnitionPosition=11000, fiberTestPostition=14500,
+fiberMoveDuringTest=TRUE, fiberSegmentDistance=900, flowTimeoutSec=130,
+fuelFlowIgnitionDeltaMs=1000, stabilizationTime1Sec=0,
+stabilizationTime2Sec=2, fuelBottleIgnitionFlowRateN2Slpm=0.093,
+fuelBottleTestFlowRateN2Slpm=0.093, ignitionToTestRampTimeSec=0,
+constantFlowTimeSec=1, useRampFlowToZero=TRUE, rampFlowToZero=360,
+rampPostExtinctionFlowChangeFuelPercent=100,
+rampPostExtinctionFlowChangeN2Percent=100,
+rampPostExtinctionFlowChangeRampTimeSec=2,
+rampPostExtinctionFlowChangeHoldSec=5, burnerTemperatureLimitC=500
+Analog camera gain=12 dB, using HiBMs and illumination package
+data camera gain=33 dB, dataCamera Focu=12700, dataCamera Zoom=35000
+
+
+
+
+After test, 54 on lowest valve safety timer, 1195 psia in oxidizer bottle
+                                        17
+

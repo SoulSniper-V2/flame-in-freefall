@@ -1,0 +1,532 @@
+         CFI-G Round 1, day 2 with 50% n-butane (C4H10)
+    ACME dataCamera Zoom=25000, dataCamera Focus=14600 for all tests
+Extinction detection with pmt2 at 0.05 volt, averaged for 1 s, except for test A1
+                      Cool flame detection off for all tests
+
+Test 21102A1 (test 1 of 16, hot flame 1 of 9) – sustained ignition, run with
+flowTimeoutSec=150, fuelIgnitionFlowSlpm=0.194,
+nitrogenIgnitionFlowSlpm=0.081, fuelTestFlow1Slpm=0.194,
+nitrogenTestFlow1Slpm=0.081, constantFlowTime1Sec=120,
+postExtinctionDelaySec=0
+Extinction detection off, cool flame detection off
+
+
+
+
+                                         1
+Test 21102A1, continued
+
+
+
+
+                          2
+Test 21102A1, continued
+
+
+
+
+After test: 909 on lowest valve safety timer, 649 psia in oxidizer bottle, 50 psia
+in fuel bottle
+
+
+
+
+                                         3
+Test 21102C1 (test 2 of 16, hot flame 2 of 9) – sustained ignition, run with
+dataCameraManualGain=24, useBracketedExposures=FALSE,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=110,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.194,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.194,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=80,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                         4
+Test 21102C1, continued
+
+
+
+
+                          5
+Test 21102C1, continued
+
+
+
+
+After test: 847 on lowest valve safety timer, 649 psia in oxidizer bottle, 49 psia
+in fuel bottle
+
+
+
+
+                                         6
+Test 21102B1 (test 3 of 16, hot flame 3 of 9) – sustained ignition, run with
+dataCameraManualGain=24, useBracketedExposures=FALSE,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=90,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.158,
+nitrogenIgnitionFlowSlpm=0.197, fuelTestFlow1Slpm=0.158,
+nitrogenTestFlow1Slpm=0.197, constantFlowTime1Sec=60,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                         7
+Test 21102B1, continued
+
+
+
+
+                          8
+Test 21102B1, continued
+
+
+
+
+After test: 788 on lowest valve safety timer, 649 psia in oxidizer bottle, 48 psia
+in fuel bottle
+
+
+
+
+                                         9
+Test 21102C2 (test 4 of 16, hot flame 4 of 9) – sustained ignition, run with
+dataCameraManualGain=24, useBracketedExposures=FALSE,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=140,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.097,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.097,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=120,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                        10
+Test 21102C2, continued
+
+
+
+
+                          11
+Test 21102C2, continued
+
+
+
+
+After test: 706 on lowest valve safety timer, 649 psia in oxidizer bottle, 48 psia
+in fuel bottle
+
+
+
+
+                                         12
+Test 21102C3 (test 5 of 16, hot flame 5 of 9) – sustained ignition, run with
+dataCameraManualGain=24, useBracketedExposures=FALSE,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=140,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.146,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.146,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=120,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                        13
+Test 21102C3, continued
+
+
+
+
+                          14
+Test 21102C3, continued
+
+
+
+
+After test: 601 on lowest valve safety timer, 649 psia in oxidizer bottle, 47 psia
+in fuel bottle
+
+
+
+
+                                         15
+Test 21102C4 (test 6 of 16) – no apparent flame, variant of C2, run with
+dataCameraManualGain=24, useBracketedExposures=FALSE,
+igniterPreheatPowerV=2, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=2.5, igniterIgnitionDurationMs=10000,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=140,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.097,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.097,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=120,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                       16
+Test 21102C4, continued
+
+
+
+
+                          17
+Test 21102C4, continued
+
+
+
+
+After test: 573 on lowest valve safety timer, 649 psia in oxidizer bottle, 47 psia
+in fuel bottle
+
+
+
+
+                                         18
+Test 21102C5 (test 7 of 16, hot flame 6 of 9) – sustained ignition, variant of C2 &
+C4, run with dataCameraManualGain=24, useBracketedExposures=FALSE,
+igniterPreheatPowerV=2.25, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=2.75, igniterIgnitionDurationMs=10000,
+igniterDelayBeforeRetractMs=18000, fiberIgnitionPosition=fiberTestPosition=0,
+flowTimeoutSec=140, fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.097,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.097,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=120,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                        19
+Test 21102C5, continued
+
+
+
+
+                          20
+Test 21102C5, continued
+
+
+
+
+After test: 500 on lowest valve safety timer, 648 psia in oxidizer bottle, 47 psia
+in fuel bottle
+
+
+
+
+                                         21
+Test 21102C6 (test 8 of 16) – no apparent ignition, variant of C2 & C4-C5, run
+with dataCameraManualGain=24, useBracketedExposures=FALSE,
+igniterPreheatPowerV=2, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=2.5, igniterIgnitionDurationMs=10000,
+igniterDelayBeforeRetractMs=18000, fiberIgnitionPosition=fiberTestPosition=0,
+flowTimeoutSec=140, fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.097,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.097,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=120,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                      22
+Test 21102C6, continued
+
+
+
+
+                          23
+Test 21102C6, continued
+
+
+
+
+After test: 455 on lowest valve safety timer, 649 psia in oxidizer bottle, 47 psia
+in fuel bottle
+
+
+
+
+                                         24
+Test 21102C7 (test 9 of 16, hot flame 7 of 9) – sustained ignition, variant of C2 &
+C4-C6, run with dataCameraManualGain=24, useBracketedExposures=FALSE,
+igniterPreheatPowerV=2.1, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=2.6, igniterIgnitionDurationMs=10000,
+igniterDelayBeforeRetractMs=18000, pmt1Gain=pmt2Gain=pmt3Gain=8,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=140,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.097,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.097,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=120,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                        25
+Test 21102C7, continued
+
+
+
+
+                          26
+Test 21102C7, continued
+
+
+
+
+After test: 402 on lowest valve safety timer, 648 psia in oxidizer bottle, 45 psia
+in fuel bottle
+
+
+
+
+                                         27
+Test 21102C8 (test 10 of 16) – no apparent ignition, variant of C2 & C4-C7, run
+with dataCameraManualGain=24, useBracketedExposures=FALSE,
+igniterPreheatPowerV=2, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=2.5, igniterIgnitionDurationMs=20000,
+igniterDelayBeforeRetractMs=28000, pmt1Gain=pmt2Gain=pmt3Gain=8,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=140,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.097,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.097,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=120,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                        28
+Test 21102C8, continued
+
+
+
+
+                          29
+Test 21102C8, continued
+
+
+
+
+After test: 349 on lowest valve safety timer, 648 psia in oxidizer bottle, 45 psia
+in fuel bottle
+
+
+
+
+                                         30
+      Atmosphere partially vented and filled to roughly 21% O2 and 1 atm
+
+Test 21102M1 (test 11 of 16, hot flame 8 of 9) – sustained ignition, run with
+dataCameraManualGain=24, useBracketedExposures=FALSE,
+igniterPreheatPowerV=3, igniterPreheatDurationMs=1000,
+igniterIgnitionPowerV=3.75, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=pmt2Gain=pmt3Gain=5.5,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.194,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.194,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=40,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                        31
+Test 21102M1, continued
+
+
+
+
+                          32
+Test 21102M1, continued
+
+
+
+
+After test: 317 on lowest valve safety timer, 648 psia in oxidizer bottle, 45 psia
+in fuel bottle
+
+
+
+
+                                         33
+Test 21102M2 (test 12 of 16, hot flame 9 of 9) – sustained ignition, run with
+dataCameraManualGain=24, useBracketedExposures=FALSE,
+igniterPreheatPowerV=3, igniterPreheatDurationMs=1000,
+igniterIgnitionPowerV=3.75, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=pmt2Gain=pmt3Gain=5.5,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.097,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.097,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=40,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                        34
+Test 21102M2, continued
+
+
+
+
+                          35
+Test 21102M2, continued
+
+
+
+
+After test: 281 on lowest valve safety timer, 648 psia in oxidizer bottle, 45 psia
+in fuel bottle
+
+
+
+
+                                         36
+Test 21102M3 (test 13 of 16) – no apparent ignition, variant of M2, run with
+dataCameraManualGain=33, useBracketedExposures=FALSE,
+igniterPreheatPowerV=2, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=2.5, igniterIgnitionDurationMs=20000,
+igniterDelayBeforeRetractMs=28000, pmt1Gain=pmt2Gain=pmt3Gain=8,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.097,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.097,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=40,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                       37
+Test 21102M3, continued
+
+
+
+
+                          38
+Test 21102M3, continued
+
+
+
+
+After test: 229 on lowest valve safety timer, 649 psia in oxidizer bottle, 45 psia
+in fuel bottle
+
+
+
+
+                                         39
+Test 21102M4 (test 14 of 16) – no apparent ignition, variant of M2-M3, run with
+dataCameraManualGain=33, useBracketedExposures=FALSE,
+igniterPreheatPowerV=2.1, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=2.6, igniterIgnitionDurationMs=20000,
+igniterDelayBeforeRetractMs=28000, pmt1Gain=pmt2Gain=pmt3Gain=8,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.097,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.097,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=40,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                      40
+Test 21102M4, continued
+
+
+
+
+                          41
+Test 21102M4, continued
+
+
+
+
+After test: 176 on lowest valve safety timer, 648 psia in oxidizer bottle, 44 psia
+in fuel bottle
+
+
+
+
+                                         42
+Test 21102M5 (test 15 of 16) – no apparent ignition, variant of M2-M4, run with
+dataCameraManualGain=33, useBracketedExposures=FALSE,
+igniterPreheatPowerV=2.2, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=2.7, igniterIgnitionDurationMs=20000,
+igniterDelayBeforeRetractMs=28000, pmt1Gain=pmt2Gain=pmt3Gain=8,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.097,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.097,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=40,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                      43
+Test 21102M5, continued
+
+
+
+
+                          44
+Test 21102M5, continued
+
+
+
+
+After test: 124 on lowest valve safety timer, 648 psia in oxidizer bottle, 44 psia
+in fuel bottle
+
+
+
+
+                                         45
+Test 21102M6 (test 16 of 16) – no apparent ignition, variant of M2-M5, run with
+dataCameraManualGain=33, useBracketedExposures=FALSE,
+igniterPreheatPowerV=2.4, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=2.9, igniterIgnitionDurationMs=20000,
+igniterDelayBeforeRetractMs=28000, pmt1Gain=pmt2Gain=pmt3Gain=8,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.097,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.097,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=40,
+postExtinctionDelaySec=3
+Extinction detection on, cool flame detection off
+
+
+
+
+                                      46
+Test 21102M6, continued
+
+
+
+
+                          47
+Test 21102M6, continued
+
+
+
+
+After test: 71 on lowest valve safety timer, 648 psia in oxidizer bottle, 44 psia in
+fuel bottle
+
+
+
+
+                                         48
+

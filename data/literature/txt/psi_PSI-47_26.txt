@@ -1,0 +1,354 @@
+2.011 DAFT P-TRAK AND DUSTTRAK SAMPLING
+MGUEEXPRSDAFTN011
+
+
+
+                                                                                   Start_IMS
+
+
+OBJECTIVE:
+Dust and Aerosol measurement Feasibility Test (DAFT). This procedure utilizes an ambient air
+sample from ISS for measurement by the P-Trak and DustTrak. It initiates the P-Trak and
+DustTrak for sampling and shutdown.
+
+STATION PARTS:
+DAFT Accessories Kit       P/N DAFT-0700
+DustTrak             P/N DAFT-0201
+P-Trak-01            P/N DAFT-0101
+Single Strap P/N PERS0041
+Cable Straps [6]           P/N 528-43074-1
+
+
+                                                     NOTE
+                      1. DAFT P-TRAK AND DUSTTRAK SAMPLING alternates between
+                         both the P-Trak and DustTrak hardware units.
+
+                      2. This procedure contains Near Real-Time video downlink or LAB VTR
+                         recording requirements.
+
+                      3. AOS required for POIC to configure onboard system for downlink or
+                         LAB VTR recording.
+
+               1.    DAFT P-TRAK AND DUSTTRAK SAMPLING SETUP
+
+                      1.1    Retrieve DustTrak.
+
+                                     Start Video Activity
+
+                      1.2    If video is required,
+                                Perform {P/TV 584 DAFT}.
+
+                                                        NOTE
+                              1. DustTrak takes approximately ten seconds to warm up prior
+                                 to use.
+
+                              2. DustTrak displays during warm up appear quickly. DustTrak
+                                 displays must be checked immediately after powering on the
+                                 unit and at the end of the display sequence.
+
+DustTrak              1.3    pb ON/OFF → Press
+
+
+
+
+06May04                                N011-1                    DAFT/PB3-01-0677A
+2.011 DAFT P-TRAK AND DUSTTRAK SAMPLING
+MGUEEXPRSDAFTN011
+
+
+               1.4     Verify DustTrak battery display is above 40%.
+
+               1.5     Tmpry stow DustTrak.
+
+               1.6     Retrieve P-Trak-01.
+
+                                                   NOTE
+                        P-Trak-01 takes approximately one minute to warm up prior to
+                        use.
+
+P-Trak-01      1.7     pb ON/OFF → Press
+
+               1.8     After P-Trak-01 has warmed up (one minute),
+                      √Displays are active and visible
+                      √Particles per cubic centimeter (PT/CC) display is active and
+                        reading (upper portion of screen)
+                      √Battery power indicator is at least half full (lower right corner of
+                        screen)
+
+                          * ********************************************************
+                          *     If P-Trak-01 is not in the listed states,
+                          *          pb ON/OFF → Press (off)
+                          *          Unstow P-Trak Batteries.
+                          *          Remove used P-Trak Batteries.
+                          *          Dispose of P-Trak Batteries in appropriate trash.
+                          *          Replace with new P-Trak Batteries.
+                          *          pb ON/OFF → Press (on)
+                          *        √P-Trak-01 Displays
+                          *     If still no joy,
+                          *
+                          *          √POIC
+                          *
+                          * ********************************************************
+
+               1.9     Verify no visual warnings appear (lower left corner of screen) or
+                        audible warnings occur.
+
+               1.10    Tmpry stow P-Trak-01.
+
+
+
+
+06May04                           N011-2                      DAFT/PB3-01-0677A
+2.011 DAFT P-TRAK AND DUSTTRAK SAMPLING
+MGUEEXPRSDAFTN011
+
+
+                                                NOTE
+                  1. DustTrak displays appear immediately after pressing buttons on the
+                     unit then displays fade.
+
+                  2. Test ID information from DustTrak must be logged.
+
+                  3. DustTrak Xµm Adapter will be used for DustTrak 10µm Adapter,
+                     DustTrak 2.5µm Adapter or DustTrak 1µm Adapter.
+
+            2.   DAFT P-TRAK AND DUSTTRAK INITIATION
+
+                 2.1    Retrieve DustTrak.
+
+DustTrak         2.2    pb SAMPLING MODE → Press once
+                       √LOG 1 is visible (upper middle portion of screen)
+
+
+                 2.3    pb SAMPLE → Press
+                       √TEST ID number
+
+                 2.4   √DustTrak display is RECORDING
+
+                          * ****************************************************************
+                          *     If DustTrak display does not display RECORDING
+                          *        Repeat steps 2.2 and 2.3.
+                          *
+                          *     If still no joy,
+                          *
+                          *          √POIC
+                          *
+                          * ****************************************************************
+
+                 2.5    Log TEST ID number from DustTrak on
+                         DAFT P-TRAK AND DUSTTRAK SAMPLE LOG.
+
+P-Trak-01        2.6    pb Down arrow → Press twice
+                       √LOG MODE 1 is visible (lower left portion of screen)
+
+                 2.7    pb ↵ (Enter) → Press
+                       √LOG MODE 1 is visible (lower left portion of screen)
+                       √↵ TO STOP is visible (lower right portion of screen)
+
+                 2.8    Log TEST ID number from P-Trak-01 on
+                         DAFT P-TRAK AND DUSTTRAK SAMPLE LOG.
+
+                 2.9    Retrieve the DAFT Accessories Kit.
+
+
+
+
+06May04                            N011-3                       DAFT/PB3-01-0677A
+2.011 DAFT P-TRAK AND DUSTTRAK SAMPLING
+MGUEEXPRSDAFTN011
+
+
+DAFT Accessories   2.10   Unstow:
+ Kit                           P-Trak HEPA Filter
+                               DAFT HEPA Filter
+
+                   2.11   Tmpry stow:
+                              DAFT HEPA Filter
+                              DAFT Accessories Kit
+
+P-Trak-01          2.12   Connect P-Trak HEPA Filter to P-Trak-01.
+                          P-Trak HEPA Filter hose end →|← P-Trak Hose Adapter
+
+                   2.13   Retrieve DAFT HEPA Filter.
+
+DustTrak           2.14   Connect DAFT HEPA Filter to DustTrak.
+                          DAFT HEPA Filter hose end →|← DustTrak Xµm Adapter
+                           per Execution Notes
+
+                   2.15   Wait 15 seconds.
+
+P-Trak-01          2.16   Verify particles per cubic centimeter (PT/CC) display: <10
+                           (upper portion of screen).
+
+DustTrak           2.17   Verify milligrams per meters cubed (mg/m3) display:
+                           -0.001 to 0.003 (left prominent display).
+
+P-Trak-01          2.18   Disconnect P-Trak HEPA Filter from P-Trak-01.
+                          P-Trak HEPA Filter hose end ←|→ P-Trak Hose Adapter
+
+DustTrak           2.19   Disconnect DAFT HEPA Filter from DustTrak.
+                          DAFT HEPA Filter hose end ←|→ DustTrak Xµm Adapter
+                           per Execution Notes
+
+                   2.20   Tmpry stow:
+                              P-Trak HEPA Filter
+                              DAFT HEPA Filter
+                              P-Trak-01
+                              DustTrak
+
+                           * ****************************************************************
+                           *     If continuous beeping is heard from P-Trak-01 or
+                           *        DustTrak,
+                           *
+                           *         √POIC for ground troubleshooting
+                           *
+                           * ****************************************************************
+
+
+
+
+06May04                             N011-4                       DAFT/PB3-01-0677A
+2.011 DAFT P-TRAK AND DUSTTRAK SAMPLING
+MGUEEXPRSDAFTN011
+
+
+             3.    DAFT P-TRAK AND DUSTTRAK SAMPLING
+
+                   3.1     Retrieve DAFT Accessories Kit.
+
+DAFT Accessories   3.2     Unstow DAFT Sample Hose.
+ Kit                       Tmpry stow DAFT Accessories Kit.
+
+                   3.3     Retrieve P-Trak-01.
+
+P-Trak-01          3.4     Connect DAFT Sample Hose to P-Trak-01.
+                           To P-Trak Hose Adapter →|← P-Trak Hose Adapter
+
+                   3.5     Retrieve DustTrak.
+
+DustTrak           3.6     Connect DAFT Sample Hose to DustTrak.
+                           To DustTrak Adapter →|← DustTrak Xµm Adapter
+                            per Execution Notes
+
+                                                        NOTE
+                             1. The Single Strap and Cable Straps can be used for a
+                                secure setup for DAFT P-TRAK AND DUSTTRAK Sampling
+                                when the sample location is stationary.
+
+                             2. {5.011 DAFT P-TRAK AND DUSTTRAK CONFIGURATION
+                                WITH VELCRO RESTRAINTS} can be used as reference
+                                for a stationary setup.
+
+                   3.7    √P-Trak-01 and DustTrak with DAFT Sample Hose are secured
+                            together
+                           Refer to {5.009 DAFT P-TRAK AND DUSTTRAK HARDWARE
+                            ASSEMBLY}.
+
+                                                        NOTE
+                            1. Execution Notes will provide sample location for Sampling.
+
+                            2. Sampling will take approximately six minutes to complete.
+
+P-Trak-01          3.8    √Particles per cubic centimeter (PT/CC) displays active
+                            and Sample Extraction is recording (upper portion of screen)
+
+DustTrak           3.9    √Milligrams per meters cubed (mg/m3) displays active
+                            and Sample Extraction is recording (left prominent display)
+
+                   3.10    Log GMT on DAFT P-TRAK AND DUSTTRAK SAMPLE LOG.
+
+                   3.11    Using P-Trak-01 and DustTrak, sample ambient air per
+                            Execution Notes for approximately six minutes.
+
+
+
+
+06May04                              N011-5                    DAFT/PB3-01-0677A
+2.011 DAFT P-TRAK AND DUSTTRAK SAMPLING
+MGUEEXPRSDAFTN011
+
+
+                 3.12    Log ambient air sample location on
+                          DAFT P-TRAK AND DUSTTRAK SAMPLE LOG.
+
+                                 End Video Activity
+
+            4.   DAFT P-TRAK AND DUSTTRAK SAMPLING SHUTDOWN
+
+P-Trak-01        4.1     Disconnect DAFT Sample Hose from P-Trak-01.
+                         To P-Trak Hose Adapter ←|→ P-Trak Hose Adapter
+
+DustTrak         4.2     Disconnect DAFT Sample Hose from DustTrak.
+                         To DustTrak Adapter ←|→ DustTrak Xµm Adapter
+                          per Execution Notes
+
+                 4.3     Tmpry stow DAFT Sample Hose.
+
+                 4.4     Retrieve P-Trak HEPA Filter.
+
+P-Trak-01        4.5     Connect P-Trak HEPA Filter to P-Trak-01.
+                         P-Trak HEPA Filter hose end →|← P-Trak Hose Adapter
+
+                 4.6     Retrieve DAFT HEPA Filter.
+
+DustTrak         4.7     Connect DAFT HEPA Filter to DustTrak.
+                         DAFT HEPA Filter hose end →|← DustTrak Xµm Adapter
+                          per Execution Notes
+
+                 4.8     Wait 15 seconds.
+
+                 4.9     Verify particles per cubic centimeter (PT/CC) display: <10
+                          (upper portion of screen).
+
+                 4.10    Verify milligrams per meters cubed (mg/m3) display:
+                          -0.001 to 0.003 (left prominent display).
+
+P-Trak-01        4.11    Disconnect P-Trak HEPA Filter from P-Trak-01.
+                         P-Trak HEPA Filter hose end ←|→ P-Trak Hose Adapter
+
+DustTrak         4.12    Disconnect DAFT HEPA Filter from DustTrak.
+                         DAFT HEPA Filter hose end ←|→ DustTrak Xµm Adapter
+                          per Execution Notes
+
+                 4.13    Tmpry stow:
+                             P-Trak HEPA Filter
+                             DAFT HEPA Filter
+
+P-Trak-01        4.14    pb ↵ (Enter) → Press
+                         pb ON/OFF → Press
+                        √P-Trak power − Off
+
+
+
+06May04                           N011-6                     DAFT/PB3-01-0677A
+2.011 DAFT P-TRAK AND DUSTTRAK SAMPLING
+MGUEEXPRSDAFTN011
+
+
+DustTrak               4.15    pb SAMPLE → Press
+                               pb ON/OFF → Press
+                              √DustTrak power − Off
+
+                       4.16   √P-Trak-01 and DustTrak are secure
+
+                       4.17    Retrieve:
+                                     DAFT Accessories Kit
+                                     P-Trak HEPA Filter
+                                     DAFT HEPA Filter
+                                     DAFT Sample Hose
+
+DAFT Accessories       4.18    Stow:
+ Kit                                   P-Trak HEPA Filter
+                                       DAFT HEPA Filter
+                                       DAFT Sample Hose
+
+                       4.19    Stow or Tmpry stow DAFT Accessories Kit.
+
+
+RESTOW tools, parts, materials, as required, to original locations:
+
+
+
+
+06May04                                   N011-7                      DAFT/PB3-01-0677A
+

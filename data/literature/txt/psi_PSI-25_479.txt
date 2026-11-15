@@ -1,0 +1,381 @@
+  iss040e072724             12:24:43     iss040e072725              12:51:40     iss040e072726              12:51:45     iss040e072727              12:51:49     iss040e072728              12:51:55     iss040e072729              12:52:01     iss040e072730              12:52:07
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+ 1/6400 sec at f / 2.0          -3 EV      1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072731              12:52:11     iss040e072732              12:52:16     iss040e072733              12:52:21     iss040e072734              12:52:25     iss040e072735              12:52:31     iss040e072736              12:52:36     iss040e072737              12:52:41
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/5 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072738              12:52:46     iss040e072739              12:52:50     iss040e072740              12:52:56     iss040e072741              12:52:58     iss040e072742              12:53:03     iss040e072743              12:53:08     iss040e072744              12:53:12
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+  1/15 sec at f / 2.0         -3 EV       1/20 sec at f / 2.0         -3 EV      1/125 sec at f / 2.0          -3 EV     1/125 sec at f / 2.0          -3 EV     1/125 sec at f / 2.0          -3 EV     1/200 sec at f / 2.0          -3 EV     1/320 sec at f / 2.0          -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072745              12:53:18     iss040e072746              12:53:23     iss040e072747              12:53:28     iss040e072748              12:53:32     iss040e072749              12:53:39     iss040e072750              12:53:45     iss040e072751              12:53:51
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+ 1/250 sec at f / 2.0          -3 EV     1/250 sec at f / 2.0          -3 EV     1/250 sec at f / 2.0          -3 EV     1/320 sec at f / 2.0          -3 EV     1/320 sec at f / 2.0          -3 EV     1/320 sec at f / 2.0          -3 EV     1/320 sec at f / 2.0          -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        1
+ iss040e072752              12:53:56     iss040e072753              12:54:00     iss040e072754              12:54:06     iss040e072755              12:54:13     iss040e072756              12:54:18     iss040e072757              12:54:23     iss040e072758              12:54:26
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+ 1/400 sec at f / 2.0          -3 EV     1/250 sec at f / 2.0          -3 EV     1/320 sec at f / 2.0          -3 EV     1/320 sec at f / 2.0          -3 EV     1/250 sec at f / 2.0          -3 EV     1/250 sec at f / 2.0          -3 EV     1/200 sec at f / 2.0          -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072759              12:54:31     iss040e072760              12:54:35     iss040e072761              12:54:38     iss040e072762              12:54:42     iss040e072763              12:54:45     iss040e072764              12:54:50     iss040e072765              12:54:58
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+ 1/160 sec at f / 2.0          -3 EV     1/100 sec at f / 2.0          -3 EV     1/100 sec at f / 2.0          -3 EV      1/80 sec at f / 2.0         -3 EV      1/100 sec at f / 2.0          -3 EV      1/50 sec at f / 2.0         -3 EV       1/60 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072766              12:55:06     iss040e072767              12:55:11     iss040e072768              12:55:16     iss040e072769              12:55:22     iss040e072770              12:55:30     iss040e072771              12:55:36     iss040e072772              12:55:44
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+  1/50 sec at f / 2.0         -3 EV       1/50 sec at f / 2.0         -3 EV       1/50 sec at f / 2.0         -3 EV       1/40 sec at f / 2.0         -3 EV       1/40 sec at f / 2.0         -3 EV       1/50 sec at f / 2.0         -3 EV       1/40 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072773              12:55:51     iss040e072774              12:55:57     iss040e072775              12:56:03     iss040e072776              12:56:08     iss040e072777              12:56:15     iss040e072778              12:56:21     iss040e072779              12:56:27
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+  1/50 sec at f / 2.0         -3 EV       1/60 sec at f / 2.0         -3 EV       1/40 sec at f / 2.0         -3 EV       1/40 sec at f / 2.0         -3 EV       1/50 sec at f / 2.0         -3 EV       1/60 sec at f / 2.0         -3 EV       1/50 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        2
+ iss040e072780              12:56:33     iss040e072781              12:56:39     iss040e072782              12:56:44     iss040e072783              12:56:48     iss040e072784              12:56:54     iss040e072785              12:57:00     iss040e072786              12:57:05
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+  1/50 sec at f / 2.0         -3 EV       1/30 sec at f / 2.0         -3 EV       1/50 sec at f / 2.0         -3 EV       1/50 sec at f / 2.0         -3 EV       1/50 sec at f / 2.0         -3 EV       1/50 sec at f / 2.0         -3 EV       1/30 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072787              12:57:09     iss040e072788              12:57:14     iss040e072789              12:57:20     iss040e072790              12:57:25     iss040e072791              12:57:29     iss040e072792              12:57:35     iss040e072793              12:57:41
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+  1/20 sec at f / 2.0         -3 EV        1/5 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072794              12:57:47     iss040e072795              12:57:52     iss040e072796              12:57:57     iss040e072797              12:58:02     iss040e072798              12:58:07     iss040e072799              12:58:14     iss040e072800              12:58:20
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072801              12:58:25     iss040e072802              12:58:33     iss040e072803              12:58:38     iss040e072804              12:58:43     iss040e072805              12:58:49     iss040e072806              12:58:54     iss040e072807              12:58:59
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        3
+ iss040e072808              12:59:02     iss040e072809              12:59:08     iss040e072810              12:59:18     iss040e072811              12:59:26     iss040e072812              12:59:32     iss040e072813              12:59:38     iss040e072814              12:59:44
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072815              12:59:50     iss040e072816              12:59:58     iss040e072817              13:00:06     iss040e072818              13:00:14     iss040e072819              13:00:19     iss040e072820              13:00:26     iss040e072821              13:00:27
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072822              13:00:29     iss040e072823              13:00:30     iss040e072824              13:00:31     iss040e072825              13:00:33     iss040e072826              13:00:34     iss040e072827              13:00:38     iss040e072828              13:00:45
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072829              13:00:51     iss040e072830              13:01:00     iss040e072831              13:01:06     iss040e072832              13:01:12     iss040e072833              13:01:18     iss040e072834              13:01:25     iss040e072835              13:01:31
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        4
+ iss040e072836              13:01:40     iss040e072837              13:01:48     iss040e072838              13:01:56     iss040e072839              13:02:04     iss040e072840              13:02:10     iss040e072841              13:02:15     iss040e072842              13:02:20
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072843              13:02:26     iss040e072844              13:02:33     iss040e072845              13:02:41     iss040e072846              13:02:50     iss040e072847              13:02:55     iss040e072848              13:03:01     iss040e072849              13:03:05
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072850              13:03:12     iss040e072851              13:03:15     iss040e072852              13:03:21     iss040e072853              13:03:28     iss040e072854              13:03:36     iss040e072855              13:03:44     iss040e072856              13:03:53
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072857              13:04:01     iss040e072858              13:04:02     iss040e072859              13:04:04     iss040e072860              13:04:05     iss040e072861              13:04:06     iss040e072862              13:04:07     iss040e072863              13:04:08
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV       1/40 sec at f / 2.0         -3 EV      1/320 sec at f / 2.0          -3 EV     1/320 sec at f / 2.0          -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        5
+ iss040e072864              13:04:09     iss040e072865              13:04:10     iss040e072866              13:04:11     iss040e072867              13:04:12     iss040e072868              13:04:13     iss040e072869              13:04:14     iss040e072870              13:04:15
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+ 1/250 sec at f / 2.0          -3 EV     1/250 sec at f / 2.0          -3 EV     1/250 sec at f / 2.0          -3 EV     1/320 sec at f / 2.0          -3 EV     1/320 sec at f / 2.0          -3 EV     1/400 sec at f / 2.0          -3 EV     1/400 sec at f / 2.0          -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072871              13:04:16     iss040e072872              13:04:17     iss040e072873              13:04:18     iss040e072874              13:04:19     iss040e072875              13:04:20     iss040e072876              13:04:21     iss040e072877              13:04:22
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+ 1/500 sec at f / 2.0          -3 EV     1/500 sec at f / 2.0          -3 EV     1/800 sec at f / 2.0          -3 EV     1/500 sec at f / 2.0          -3 EV     1/500 sec at f / 2.0          -3 EV     1/800 sec at f / 2.0          -3 EV     1/800 sec at f / 2.0          -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072878              13:04:23     iss040e072879              13:04:24     iss040e072880              13:04:25      iss040e072881             13:04:26      iss040e072882             13:04:27      iss040e072883             13:04:28      iss040e072884             13:04:29
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+ 1/640 sec at f / 2.0          -3 EV     1/640 sec at f / 2.0          -3 EV     1/640 sec at f / 2.0          -3 EV     1/1000 sec at f / 2.0          -3 EV    1/1000 sec at f / 2.0          -3 EV    1/1250 sec at f / 2.0          -3 EV    1/1000 sec at f / 2.0          -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+  iss040e072885             13:04:30      iss040e072886             13:04:31     iss040e072887              13:04:32     iss040e072888              13:04:33     iss040e072889              13:04:34      iss040e072890             13:04:35      iss040e072891             13:04:36
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+ 1/1250 sec at f / 2.0          -3 EV    1/1250 sec at f / 2.0          -3 EV    1/800 sec at f / 2.0          -3 EV     1/640 sec at f / 2.0          -3 EV     1/800 sec at f / 2.0          -3 EV     1/1250 sec at f / 2.0          -3 EV    1/1000 sec at f / 2.0          -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        6
+ iss040e072892              13:04:37     iss040e072893              13:04:38     iss040e072894              13:04:39     iss040e072895              13:04:40     iss040e072896              13:04:41     iss040e072897              13:04:42     iss040e072898              13:04:43
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+ 1/400 sec at f / 2.0          -3 EV     1/320 sec at f / 2.0          -3 EV     1/250 sec at f / 2.0          -3 EV     1/250 sec at f / 2.0          -3 EV     1/160 sec at f / 2.0          -3 EV      1/60 sec at f / 2.0         -3 EV        1/6 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072899              13:04:44     iss040e072900              13:04:46     iss040e072901              13:04:47     iss040e072902              13:04:48     iss040e072903              13:04:52     iss040e072904              13:05:01     iss040e072905              13:05:08
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072906              13:05:16     iss040e072907              13:05:24     iss040e072908              13:05:32     iss040e072909              13:05:38     iss040e072910              13:05:44     iss040e072911              13:05:50     iss040e072912              13:05:51
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072913              13:05:53     iss040e072914              13:05:54     iss040e072915              13:05:55     iss040e072916              13:05:59     iss040e072917              13:06:06     iss040e072918              13:06:12     iss040e072919              13:06:19
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        7
+ iss040e072920              13:06:25     iss040e072921              13:06:33     iss040e072922              13:06:41     iss040e072923              13:06:49     iss040e072924              13:06:56     iss040e072925              13:07:03     iss040e072926              13:07:10
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072927              13:07:16     iss040e072928              13:07:23     iss040e072929              13:07:31     iss040e072930              13:07:37     iss040e072931              13:07:46     iss040e072932              13:07:52     iss040e072933              13:08:00
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072934              13:08:08     iss040e072935              13:08:15     iss040e072936              13:08:23     iss040e072937              13:08:30     iss040e072938              13:08:35     iss040e072939              13:08:42     iss040e072940              13:08:49
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/4 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072941              13:08:55     iss040e072942              13:09:03     iss040e072943              13:09:13     iss040e072944              13:09:14     iss040e072945              13:09:16     iss040e072946              13:09:17     iss040e072947              13:09:18
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        8
+ iss040e072948              13:09:20     iss040e072949              13:09:21     iss040e072950              13:09:23     iss040e072951              13:09:24     iss040e072952              13:09:25     iss040e072953              13:09:27     iss040e072954              13:09:28
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072955              13:09:29     iss040e072956              13:09:31     iss040e072957              13:09:32     iss040e072958              13:09:33     iss040e072959              13:09:35     iss040e072960              13:09:36     iss040e072961              13:09:37
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072962              13:09:39     iss040e072963              13:09:40     iss040e072964              13:09:42     iss040e072965              13:09:43     iss040e072966              13:09:44     iss040e072967              13:09:46     iss040e072968              13:09:47
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072969              13:09:48     iss040e072970              13:09:50     iss040e072971              13:09:51     iss040e072972              13:09:55     iss040e072973              13:10:01     iss040e072974              13:10:06     iss040e072975              13:10:10
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        9
+ iss040e072976              13:10:18     iss040e072977              13:10:24     iss040e072978              13:10:29     iss040e072979              13:10:37     iss040e072980              13:10:43     iss040e072981              13:10:50     iss040e072982              13:10:56
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072983              13:11:04     iss040e072984              13:11:10     iss040e072985              13:11:18     iss040e072986              13:11:25     iss040e072987              13:11:32     iss040e072988              13:11:44     iss040e072989              13:11:50
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072990              13:11:56     iss040e072991              13:12:01     iss040e072992              13:12:05     iss040e072993              13:12:11     iss040e072994              13:12:13     iss040e072995              13:12:14     iss040e072996              13:12:15
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e072997              13:12:17     iss040e072998              13:12:18     iss040e072999              13:12:19     iss040e073000              13:12:21     iss040e073001              13:12:22     iss040e073002              13:12:33     iss040e073003              13:13:02
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+   1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV        1/3 sec at f / 2.0         -3 EV      1/200 sec at f / 2.0          -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        10
+ iss040e073004              13:13:04      iss040e073005             13:13:05     iss040e073006              13:13:07     iss040e073007              13:13:08     iss040e073008              13:13:09     iss040e073009              13:13:10
+ GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014      GMT 204                 07-23-2014
+ 1/800 sec at f / 2.0          -3 EV     1/1600 sec at f / 2.0          -3 EV     1/15 sec at f / 2.0         -3 EV       1/50 sec at f / 2.0         -3 EV        1/8 sec at f / 2.0         -3 EV      1/160 sec at f / 2.0          -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                11
+

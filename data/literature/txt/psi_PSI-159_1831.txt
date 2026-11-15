@@ -1,0 +1,153 @@
+                          CFI-G Round 2, day 3
+           Chamber filled to ~0.5 atm with ~24% ethane (balance N2)
+   Extinction detection effectively turned off so tests were ended ‘manually’
+                               (if they didn’t time)
+
+Test 21209RAD1
+Test 21209RAD1, continued
+Test 21209A1 (test 1 of 12, hot flame 1 of 11) – sustained ignition, run as
+planned (with no changes to the parameters)
+Test 21209A1, continued
+Test 21209A1, continued
+
+
+
+
+After test: 949 on lowest valve safety timer, 72 psia in oxidizer bottle
+Test 21209A2 (test 2 of 12) – abort before gas flow due to IPSU-G error, full-flow
+variant of A1, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.499
+
+        Console data not recorded because of the abort without gas flow
+Test 21209A3 (test 3 of 12, hot flame 2 of 11) – sustained ignition, repeat of A2,
+full-flow variant of A1, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.499
+Test 21209A3, continued
+Test 21209A3, continued
+
+
+
+
+After test: 860 on lowest valve safety timer, 65 psia in oxidizer bottle, 359 psia
+in fuel bottle
+Test 21209B1 (test 4 of 12, hot flame 3 of 11) – sustained ignition, TFP variant of
+A3, run with flowTimeoutSec=300, oxidizerFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=30, oxidizerIgnitionFlowSlpm=0.499,
+oxidizerTestFlow1Slpm=0.499, constantFlowTime1Sec=240
+Test 21209B1, continued
+Test 21209B1, continued
+
+
+
+
+After test: 700 on lowest valve safety timer, 50 psia in oxidizer bottle, 359 psia
+in fuel bottle
+Test 21209A4 (test 5 of 12, hot flame 4 of 11) – sustained ignition, 150%-flow
+variant of A1, run with flowTimeoutSec=90, oxidizerFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=5, oxidizerIgnitionFlowSlpm=0.307,
+oxidizerTestFlow1Slpm=0.307, constantFlowTime1Sec=60
+Test 21209A4, continued
+Test 21209A4, continued
+
+
+
+
+After test: 610 on lowest valve safety timer, 45 psia in oxidizer bottle, 359 psia
+in fuel bottle
+Test 21209H1 (test 6 of 12, hot flame 5 of 11) – sustained ignition, diluted-
+oxidizer variant of A4, run with flowTimeoutSec=90,
+oxidizerFlowIgnitionDeltaMs=0, nitrogenFlowIgnitionDeltaMs=4500,
+stabilizationTime2Sec=5, oxidizerIgnitionFlowSlpm=0.307,
+nitrogenIgnitionFlowSlpm=0.211, oxidizerTestFlow1Slpm=0.307,
+nitrogenTestFlow1Slpm=0.211, constantFlowTime1Sec=60
+Test 21209H1, continued
+Test 21209H1, continued
+
+
+
+
+After test: 516 on lowest valve safety timer, 41 psia in oxidizer bottle, 359 psia
+in fuel bottle
+Test 21209J1 (test 7 of 12, hot flame 6 of 11) – sustained ignition, diluted-
+oxidizer variant of A4 and H1, run with flowTimeoutSec=90,
+oxidizerFlowIgnitionDeltaMs=0, nitrogenFlowIgnitionDeltaMs=4500,
+stabilizationTime2Sec=5, oxidizerIgnitionFlowSlpm=0.307,
+nitrogenIgnitionFlowSlpm=0.552, oxidizerTestFlow1Slpm=0.307,
+nitrogenTestFlow1Slpm=0.552, constantFlowTime1Sec=60
+Test 21209J1, continued
+Test 21209J1, continued
+
+
+
+
+After test: 423 on lowest valve safety timer, 36 psia in oxidizer bottle, 359 psia
+in fuel bottle
+Test 21209F1 (test 8 of 12, hot flame 7 of 11) – sustained ignition, diluted-
+oxidizer variant of A4, H1, and J1, run with flowTimeoutSec=90,
+oxidizerFlowIgnitionDeltaMs=0, nitrogenFlowIgnitionDeltaMs=4500,
+stabilizationTime2Sec=5, oxidizerIgnitionFlowSlpm=0.307,
+nitrogenIgnitionFlowSlpm=0.918, oxidizerTestFlow1Slpm=0.307,
+nitrogenTestFlow1Slpm=0.918, constantFlowTime1Sec=60
+Test 21209F1, continued
+Test 21209F1, continued
+
+
+
+
+After test: 333 on lowest valve safety timer, 33 psia in oxidizer bottle, 359 psia
+in fuel bottle
+Test 21209F2 (test 9 of 12, hot flame 8 of 11) – sustained ignition, 67%-flow
+variant of F1, run with flowTimeoutSec=90, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=4500, stabilizationTime2Sec=5,
+oxidizerIgnitionFlowSlpm=0.205, nitrogenIgnitionFlowSlpm=0.612,
+oxidizerTestFlow1Slpm=0.205, nitrogenTestFlow1Slpm=0.612,
+constantFlowTime1Sec=60
+Test 21209F2, continued
+Test 21209F2, continued
+
+
+
+
+After test: 241 on lowest valve safety timer, 29 psia in oxidizer bottle, 359 psia
+in fuel bottle
+Test 21209F3 (test 10 of 12, hot flame 9 of 11) – sustained ignition, 33%-flow
+variant of F1 (and 50%-flow variant of F2), run with flowTimeoutSec=90,
+oxidizerFlowIgnitionDeltaMs=0, nitrogenFlowIgnitionDeltaMs=4500,
+stabilizationTime2Sec=5, oxidizerIgnitionFlowSlpm=0.102,
+nitrogenIgnitionFlowSlpm=0.306, oxidizerTestFlow1Slpm=0.102,
+nitrogenTestFlow1Slpm=0.306, constantFlowTime1Sec=60
+Test 21209F3, continued
+Test 21209F3, continued
+
+
+
+
+After test: 150 on lowest valve safety timer, 28 psia in oxidizer bottle, 359 psia
+in fuel bottle
+Test 21209B2 (test 11 of 12, hot flame 10 of 11) – sustained ignition, TFP variant
+of A1, run with flowTimeoutSec=120, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=0, stabilizationTime2Sec=15,
+oxidizerIgnitionFlowSlpm=0.205, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.205, nitrogenTestFlow1Slpm=0,
+constantFlowTime1Sec=105
+Test 21209B2, continued
+Test 21209B2, continued
+
+
+
+
+After test: 80 on lowest valve safety timer, 26 psia in oxidizer bottle, 359 psia in
+fuel bottle
+Test 21209K1 (test 12 of 12, hot flame 11 of 11) – flowTimeoutSec=50,
+oxidizerFlowIgnitionDeltaMs=0, nitrogenFlowIgnitionDeltaMs=4500,
+stabilizationTime2Sec=5, oxidizerIgnitionFlowSlpm=0.102,
+nitrogenIgnitionFlowSlpm=374, oxidizerTestFlow1Slpm=0.102,
+nitrogenTestFlow1Slpm=0.374, constantFlowTime1Sec=20
+Test 21209K1, continued
+Test 21209K1, continued
+
+
+
+
+After test: 27 on lowest valve safety timer, 26 psia in oxidizer bottle
+

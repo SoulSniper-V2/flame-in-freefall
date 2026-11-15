@@ -1,0 +1,219 @@
+                           CFI-G Round 2, day 12
+          Chamber filled to 0.5 atm with ~36% n-butane (balance N2)
+   Extinction detection effectively turned off so tests were ended ‘manually’
+
+Test 21277A1 (test 1 of 14, hot flame 1 of 11) – sustained ignition, run as
+planned (with no changes to the parameters)
+Test 21277A1, continued
+Test 21277A1, continued
+
+
+
+
+After test: 962 on lowest valve safety timer, 37 psia in oxidizer bottle
+Test 21277H1 (test 2 of 14, hot flame 2 of 11) – sustained ignition, oxidizer-
+dilution variant of A1, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=0.295, nitrogenIgnitionFlowSlpm=0.203,
+oxidizerTestFlow1Slpm=0.295, nitrogenTestFlow1Slpm=0.203
+
+
+
+
+Note the delayed start of the nitrogen flow!
+Test 21277H1, continued
+Test 21277H1, continued
+
+
+
+
+After test: 923 on lowest valve safety timer, 35 psia in oxidizer bottle
+Test 21277J1 (test 3 of 14) – no apparent ignition, oxidizer-dilution variant of
+A1+H1, run with oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=4500, oxidizerIgnitionFlowSlpm=0.295,
+nitrogenIgnitionFlowSlpm=0.882, oxidizerTestFlow1Slpm=0.295,
+nitrogenTestFlow1Slpm=0.882
+Test 21277J1, continued
+Test 21277J1, continued
+
+
+
+
+After test: 882 on lowest valve safety timer, 34 psia in oxidizer bottle
+Test 21277K1 (test 4 of 14, hot flame of 11) – no apparent ignition, oxidizer-
+dilution variant of A1+H1+J1, run with oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=4500, oxidizerIgnitionFlowSlpm=0.295,
+nitrogenIgnitionFlowSlpm=0.531, oxidizerTestFlow1Slpm=0.295,
+nitrogenTestFlow1Slpm=0.531
+Test 21277K1, continued
+Test 21277K1, continued
+
+
+
+
+After test: 840 on lowest valve safety timer, 33 psia in oxidizer bottle
+Test 21277K2 (test 5 of 14, hot flame 3 of 11) – sustained ignition, near repeat of
+K1, run with oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=2000, oxidizerIgnitionFlowSlpm=0.295,
+nitrogenIgnitionFlowSlpm=0.531, oxidizerTestFlow1Slpm=0.295,
+nitrogenTestFlow1Slpm=0.531
+Test 21277K2, continued
+Test 21277K2, continued
+
+
+
+
+After test: 796 on lowest valve safety timer, 33 psia in oxidizer bottle
+Test 21277J2 (test 6 of 14) – no apparent ignition, near repeat of J1, run with
+oxidizerFlowIgnitionDeltaMs=0, nitrogenFlowIgnitionDeltaMs=1000,
+oxidizerIgnitionFlowSlpm=0.295, nitrogenIgnitionFlowSlpm=0.531,
+oxidizerTestFlow1Slpm=0.295, nitrogenTestFlow1Slpm=0.531
+Test 21277J2, continued
+Test 21277J2, continued
+
+
+
+
+After test: 756 on lowest valve safety timer, 31 psia in oxidizer bottle
+ Chamber vented partially and N2 added to get to 0.5 atm with ~36% n-butane
+                                (balance N2)
+
+Test 21277C1 (test 7 of 14, hot flame 4 of 11) – sustained ignition, run as
+planned (with no changes to the parameters), fuel-dilution variant of A1, run
+with oxidizerFlowIgnitionDeltaMs=0, nitrogenFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=0.295, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.295, nitrogenTestFlow1Slpm=0
+Test 21277C1, continued
+Test 21277C1, continued
+
+
+
+
+After test: 714 on lowest valve safety timer, 30 psia in oxidizer bottle
+Test 21277C2 (test 8 of 14, hot flame of 11) – sustained ignition, oxidizer-
+dilution variant of C1, run with flowTimeoutSec=60,
+oxidizerFlowIgnitionDeltaMs=0, nitrogenFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=0.295, nitrogenIgnitionFlowSlpm=0.492,
+oxidizerTestFlow1Slpm=0.295, nitrogenTestFlow1Slpm=0.492,
+constantFlowTime1Sec=30
+
+
+
+
+Note the dropping oxidizer flow caused by insufficient bottle pressure!
+Test 21277C2, continued
+Test 21277C2, continued
+
+
+
+
+After test: 658 on lowest valve safety timer, 26 psia in oxidizer bottle
+Test 21277L1 (test 9 of 14, hot flame 6 of 11) – sustained ignition, oxidizer-
+dilution variant of C1+C2, run with flowTimeoutSec=75,
+oxidizerFlowIgnitionDeltaMs=0, nitrogenFlowIgnitionDeltaMs=4500,
+oxidizerIgnitionFlowSlpm=0.295, nitrogenIgnitionFlowSlpm=0.203,
+oxidizerTestFlow1Slpm=0.295, nitrogenTestFlow1Slpm=0.203,
+constantFlowTime1Sec=60
+
+
+
+
+Note the delayed start of the nitrogen flow!
+Test 21277L1, continued
+Test 21277L1, continued
+
+
+
+
+After test: 567 on lowest valve safety timer, 22 psia in oxidizer bottle
+ Chamber vented partially and N2 added to get to 0.5 atm with ~18% n-butane
+                                (balance N2)
+
+Test 21277F1 (test 10 of 14, hot flame 7 of 11) – sustained ignition, run as
+planned (with no changes to the parameters), fuel-dilution variant of A1+C1, run
+with flowTimeoutSec=90, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.295,
+nitrogenIgnitionFlowSlpm=0, oxidizerTestFlow1Slpm=0.295,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=60
+Test 21277F1, continued
+Test 21277F1, continued
+
+
+
+
+After test: 483 on lowest valve safety timer, 18 psia in oxidizer bottle
+Test 21277F2 (test 11 of 14, hot flame 8 of 11) – sustained ignition, flow variant
+of F1, run with flowTimeoutSec=90, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.492,
+nitrogenIgnitionFlowSlpm=0, oxidizerTestFlow1Slpm=0.492,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=60
+
+
+
+
+Note the dropping oxidizer flow caused by insufficient bottle pressure!
+Test 21277F2, continued
+Test 21277F2, continued
+
+
+
+
+After test: 393 on lowest valve safety timer, 14 psia in oxidizer bottle
+ Chamber vented partially and N2 added to get to 0.5 atm with ~14% n-butane
+                                (balance N2)
+
+Test 21277M1 (test 12 of 14, hot flame 9 of 11) – sustained ignition, fuel-dilution
+variant of F2, run with flowTimeoutSec=150, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.492,
+nitrogenIgnitionFlowSlpm=0, oxidizerTestFlow1Slpm=0.492,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=120
+
+
+
+
+Note the dropping oxidizer flow caused by insufficient bottle pressure!
+Test 21277M1, continued
+Test 21277M1, continued
+
+
+
+
+After test: 289 on lowest valve safety timer, 10 psia in oxidizer bottle
+Test 21277N1 (test 13 of 14, hot flame of 11) – sustained ignition, run with
+flowTimeoutSec=270, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.164,
+nitrogenIgnitionFlowSlpm=0.113, oxidizerTestFlow1Slpm=0.164,
+nitrogenTestFlow1Slpm=0.113, constantFlowTime1Sec=240
+
+
+
+
+Note the dropping oxidizer flow caused by insufficient bottle pressure!
+Test 21277N1, continued
+
+
+
+
+                 Too late to capture useful data from PMTs, etc.
+
+After test: 212 on lowest valve safety timer, 9 psia in oxidizer bottle
+Test 21277P1 (test 14 of 14, hot flame 11 of 11) – sustained ignition, run with
+flowTimeoutSec=190, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=4500, oxidizerIgnitionFlowSlpm=0.100,
+nitrogenIgnitionFlowSlpm=0.180, oxidizerTestFlow1Slpm=0.100,
+nitrogenTestFlow1Slpm=0.180, constantFlowTime1Sec=160
+
+
+
+
+Note the dropping oxidizer flow caused by insufficient bottle pressure!
+Note the delayed start of the nitrogen flow!
+Test 21277P1, continued
+Test 21277P1, continued
+
+
+
+
+After test: 147 on lowest valve safety timer, 8 psia in oxidizer bottle
+Test 21277RAD2
+Test 21277RAD2, continued
+

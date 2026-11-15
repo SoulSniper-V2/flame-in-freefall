@@ -1,0 +1,38 @@
+[
+  {
+    "paper": "20150023467",
+    "investigation": null,
+    "platform": "model/simulation",
+    "gravity_g": 0,
+    "material": "cast PMMA",
+    "thickness_mm": null,
+    "geometry": "thick slab",
+    "flow_mode": null,
+    "flow_cm_s": 40,
+    "o2_pct": 21,
+    "pressure_kpa": 100,
+    "quantity": "ignition_time",
+    "value": 596,
+    "unit": "s",
+    "outcome": null,
+    "quote": "earlier at 0-g than at 1-g conditions (596 s compared to 774 s)."
+  },
+  {
+    "paper": "20150023467",
+    "investigation": null,
+    "platform": "model/simulation",
+    "gravity_g": 1,
+    "material": "cast PMMA",
+    "thickness_mm": null,
+    "geometry": "thick slab",
+    "flow_mode": null,
+    "flow_cm_s": 40,
+    "o2_pct": 21,
+    "pressure_kpa": 100,
+    "quantity": "ignition_time",
+    "value": 774,
+    "unit": "s",
+    "outcome": null,
+    "quote": "earlier at 0-g than at 1-g conditions (596 s compared to 774 s)."
+  }
+]

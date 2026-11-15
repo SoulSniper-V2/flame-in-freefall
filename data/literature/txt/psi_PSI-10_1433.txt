@@ -1,0 +1,579 @@
+            Flame Design: Round 2, inverse-flame day 3
+           Chamber filled to ~6 psia with ~66% ethylene (balance N2)
+
+Test 21349A1 (test 1 of 16, flame 1 of 15) – sustained ignition, run as planned
+(without changes to the submitted parameters)
+
+
+
+
+                                        1
+Test 21349A1, continued
+
+
+
+
+                          2
+Test 21349A1, continued
+
+
+
+
+After test: 970 on lowest valve safety timer, 45 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         3
+Test 21349B1 (test 2 of 16, flame 2 of 15) – sustained ignition, run with
+rampDataCameraGain=TRUE, dataCameraGain1dB=1, dataCameraGain2dB=21,
+dataCameraGain3dB=21, dataCameraHoldTime1Sec=1,
+dataCameraHoldTime2Sec=9, dataCameraRamp1to2TimeSec=20,
+dataCameraRamp2to3TimeSec=1, igniterStartPosition=2150,
+igniterEndPosition=2270, pmt1Gain=pmt2Gain=4, pmt3Gain=4.5,
+burnerTemperatureLimitC=475
+
+
+
+
+                                    4
+Test 21349B1, continued
+
+
+
+
+                          5
+Test 21349B1, continued
+
+
+
+
+After test: 938 on lowest valve safety timer, 43 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         6
+Test 21349D1 (test 3 of 16) – failed ignition (without even a flash), run with
+dataCameraTestExposureUs=100000, rampDataCameraGain=FALSE,
+dataCameraGain1dB=dataCameraGain2dB=dataCameraGain3dB=0,
+dataCameraHoldTime1Sec=dataCameraHoldTime2Sec=0,
+dataCameraRamp1to2TimeSec=dataCameraRamp2to3TimeSec=5,
+igniterStartPosition=2170, igniterEndPosition=2290, pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=5, constantFlowTime1Sec=10,
+burnerTemperatureLimitC=450
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                         7
+Test 21349D1, continued
+
+
+
+
+                          8
+Test 21349D1, continued
+
+
+
+
+After test: 912 on lowest valve safety timer, 43 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         9
+Test 21349D2 (test 4 of 16, flame 3 of 15) – sustained ignition, ignition variant of
+D1, run with dataCameraTestExposureUs=100000,
+rampDataCameraGain=FALSE, dataCameraGain1dB=dataCameraGain2dB=0,
+dataCameraGain3dB=dataCameraHoldTime1Sec=dataCameraHoldTime2Sec=0,
+dataCameraRamp1to2TimeSec=dataCameraRamp2to3TimeSec=5,
+igniterStartPosition=2170, igniterEndPosition=2290,
+igniterPreheatPowerV=3.25, pmt1Gain=5.5, pmt2Gain=pmt3Gain=5,
+oxidizerFlowIgnitionDeltaMs=700, nitrogenIgnitionFlowSlpm=0.35,
+constantFlowTime1Sec=10, ignitionToTestRampTimeSec=3,
+burnerTemperatureLimitC=450
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                         10
+Test 21349D2, continued
+
+
+
+
+                          11
+Test 21349D2, continued
+
+
+
+
+After test: 871 on lowest valve safety timer, 43 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         12
+Test 21349D3 (test 5 of 16, flame 4 of 15) – sustained ignition, run with
+dataCameraTestExposureUs=100000, rampDataCameraGain=FALSE,
+dataCameraGain1dB=dataCameraGain2dB=0,
+dataCameraGain3dB=dataCameraHoldTime1Sec=dataCameraHoldTime2Sec=0,
+dataCameraRamp1to2TimeSec=dataCameraRamp2to3TimeSec=5,
+igniterStartPosition=2170, igniterEndPosition=2290,
+igniterPreheatPowerV=3.25, pmt1Gain=5.5, pmt2Gain=pmt3Gain=5,
+oxidizerFlowIgnitionDeltaMs=700, oxidizerIgnitionFlowSlpm=0.189,
+nitrogenIgnitionFlowSlpm=0.39, oxidizerTestFlow1Slpm=0.189,
+nitrogenTestFlow1Slpm=0.445, constantFlowTime1Sec=10,
+ignitionToTestRampTimeSec=3, burnerTemperatureLimitC=450
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                    13
+Test 21349D3, continued
+
+
+
+
+                          14
+Test 21349D3, continued
+
+
+
+
+After test: 835 on lowest valve safety timer, 42 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         15
+ Chamber atmosphere diluted to ~14.7 psia with ~27.5% ethylene (balance N2)
+
+Test 21349M1 (test 6 of 16, flame 5 of 15) – sustained ignition, based on A1, run
+with dataCameraTestExposureUs=42000, rampDataCameraGain=TRUE,
+dataCameraGain1dB=5, dataCameraGain2dB=25, dataCameraGain3dB=0,
+dataCameraHoldTime1Sec=3, dataCameraHoldTime2Sec=7,
+dataCameraRamp1to2TimeSec=20, dataCameraRamp2to3TimeSec=0,
+igniterStartPosition=2170, igniterEndPosition=2290, igniterPreheatPowerV=3,
+pmt1Gain=5.5, pmt2Gain=pmt3Gain=5, oxidizerFlowIgnitionDeltaMs=200,
+oxidizerIgnitionFlowSlpm=0.216, nitrogenIgnitionFlowSlpm=0.318,
+oxidizerTestFlow1Slpm=0.216, nitrogenTestFlow1Slpm=0.318,
+constantFlowTime1Sec=30, ignitionToTestRampTimeSec=0,
+burnerTemperatureLimitC=450
+dataCamera Zoom=30000, dataCamera Focus=13750
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                       16
+Test 21349M1, continued
+
+
+
+
+                          17
+Test 21349M1, continued
+
+
+
+
+After test: 781 on lowest valve safety timer, 40 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         18
+Test 21349M2 (test 7 of 16, flame 6 of 15) – sustained ignition, run with
+dataCameraTestExposureUs=42000, rampDataCameraGain=FALSE,
+dataCameraGain1dB=5, dataCameraGain2dB=25, dataCameraGain3dB=0,
+dataCameraHoldTime1Sec=3, dataCameraHoldTime2Sec=7,
+dataCameraRamp1to2TimeSec=20, dataCameraRamp2to3TimeSec=0,
+dataCameraManualGain=26, igniterStartPosition=2170,
+igniterEndPosition=2290, igniterPreheatPowerV=3, pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=5, oxidizerFlowIgnitionDeltaMs=200,
+oxidizerIgnitionFlowSlpm=0.13, nitrogenIgnitionFlowSlpm=0.293,
+oxidizerTestFlow1Slpm=0.13, nitrogenTestFlow1Slpm=0.293,
+constantFlowTime1Sec=30, ignitionToTestRampTimeSec=0,
+burnerTemperatureLimitC=450
+dataCamera Zoom=20000, dataCamera Focus=15400
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                       19
+Test 21349M2, continued
+
+
+
+
+                          20
+Test 21349M2, continued
+
+
+
+
+After test: 725 on lowest valve safety timer, 40 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         21
+Test 21349M3 (test 8 of 16, flame 7 of 15) – sustained ignition, run with
+dataCameraTestExposureUs=100000, rampDataCameraGain=FALSE,
+dataCameraGain1dB=5, dataCameraGain2dB=25, dataCameraGain3dB=0,
+dataCameraHoldTime1Sec=3, dataCameraHoldTime2Sec=7,
+dataCameraRamp1to2TimeSec=20, dataCameraRamp2to3TimeSec=0,
+dataCameraManualGain=24, igniterStartPosition=2170,
+igniterEndPosition=2290, igniterPreheatPowerV=3, pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=5, flowTimeoutSec=160,
+oxidizerFlowIgnitionDeltaMs=500, stabilizationTime1Sec=1,
+oxidizerIgnitionFlowSlpm=0.11, nitrogenIgnitionFlowSlpm=0.28,
+oxidizerTestFlow1Slpm=0.11, nitrogenTestFlow1Slpm=0.329,
+constantFlowTime1Sec=120, ignitionToTestRampTimeSec=3,
+burnerTemperatureLimitC=500
+dataCamera Zoom=20000, dataCamera Focus=15400
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                       22
+Test 21349M3, continued
+
+
+
+
+                          23
+Test 21349M3, continued
+
+
+
+
+After test: 578 on lowest valve safety timer, 36 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         24
+Test 21349M4 (test 9 of 16, flame 8 of 15) – sustained ignition, run with
+dataCameraTestExposureUs=100000, rampDataCameraGain=FALSE,
+dataCameraGain1dB=5, dataCameraGain2dB=25, dataCameraGain3dB=0,
+dataCameraHoldTime1Sec=3, dataCameraHoldTime2Sec=7,
+dataCameraRamp1to2TimeSec=20, dataCameraRamp2to3TimeSec=0,
+dataCameraManualGain=24, igniterStartPosition=2170,
+igniterEndPosition=2290, igniterPreheatPowerV=3, pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=5, flowTimeoutSec=95, oxidizerFlowIgnitionDeltaMs=0,
+stabilizationTime1Sec=2, oxidizerIgnitionFlowSlpm=0.189,
+nitrogenIgnitionFlowSlpm=0.115, oxidizerTestFlow1Slpm=0.189,
+nitrogenTestFlow1Slpm=0.715, constantFlowTime1Sec=1,
+ignitionToTestRampTimeSec=60, burnerTemperatureLimitC=475
+dataCamera Zoom=30000, dataCamera Focus=13750
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                     25
+Test 21349M4, continued
+
+
+
+
+                          26
+Test 21349M4, continued
+
+
+
+
+After test: 489 on lowest valve safety timer, 34 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         27
+Test 21349M5 (test 10 of 16, flame 9 of 15) – sustained ignition, run with
+dataCameraTestExposureUs=100000, rampDataCameraGain=FALSE,
+dataCameraGain1dB=5, dataCameraGain2dB=25, dataCameraGain3dB=0,
+dataCameraHoldTime1Sec=3, dataCameraHoldTime2Sec=7,
+dataCameraRamp1to2TimeSec=20, dataCameraRamp2to3TimeSec=0,
+dataCameraManualGain=24, igniterStartPosition=2170,
+igniterEndPosition=2290, igniterPreheatPowerV=3, pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=5, flowTimeoutSec=95, oxidizerFlowIgnitionDeltaMs=0,
+stabilizationTime1Sec=2, oxidizerIgnitionFlowSlpm=0.189,
+nitrogenIgnitionFlowSlpm=0.18, oxidizerTestFlow1Slpm=0.189,
+nitrogenTestFlow1Slpm=1.18, constantFlowTime1Sec=5,
+ignitionToTestRampTimeSec=50, burnerTemperatureLimitC=475
+dataCamera Zoom=30000, dataCamera Focus=13750
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                     28
+Test 21349M5, continued
+
+
+
+
+                          29
+Test 21349M5, continued
+
+
+
+
+After test: 405 on lowest valve safety timer, 31 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         30
+Test 21349M6 (test 11 of 16, flame 10 of 15) – sustained ignition, run with
+dataCameraTestExposureUs=100000, rampDataCameraGain=FALSE,
+dataCameraGain1dB=5, dataCameraGain2dB=25, dataCameraGain3dB=0,
+dataCameraHoldTime1Sec=3, dataCameraHoldTime2Sec=7,
+dataCameraRamp1to2TimeSec=20, dataCameraRamp2to3TimeSec=0,
+dataCameraManualGain=24, igniterStartPosition=2150,
+igniterEndPosition=2270, igniterPreheatPowerV=3, pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=5, flowTimeoutSec=95, oxidizerFlowIgnitionDeltaMs=0,
+stabilizationTime1Sec=3, oxidizerIgnitionFlowSlpm=0.378,
+nitrogenIgnitionFlowSlpm=0.264, oxidizerTestFlow1Slpm=0.378,
+nitrogenTestFlow1Slpm=1.964, constantFlowTime1Sec=3,
+ignitionToTestRampTimeSec=25, burnerTemperatureLimitC=475
+dataCamera Zoom=40000, dataCamera Focus=11525
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                      31
+Test 21349M6, continued
+
+
+
+
+                          32
+Test 21349M6, continued
+
+
+
+
+After test: 352 on lowest valve safety timer, 29 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         33
+Test 21349M7 (test 12 of 16, flame 11 of 15) – sustained ignition, run with
+dataCameraTestExposureUs=100000, rampDataCameraGain=FALSE,
+dataCameraGain1dB=5, dataCameraGain2dB=25, dataCameraGain3dB=0,
+dataCameraHoldTime1Sec=3, dataCameraHoldTime2Sec=7,
+dataCameraRamp1to2TimeSec=20, dataCameraRamp2to3TimeSec=0,
+dataCameraManualGain=10, igniterStartPosition=2150,
+igniterEndPosition=2270, igniterPreheatPowerV=3, pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=5, flowTimeoutSec=50, oxidizerFlowIgnitionDeltaMs=0,
+stabilizationTime1Sec=0, oxidizerIgnitionFlowSlpm=0.378,
+nitrogenIgnitionFlowSlpm=0.264, oxidizerTestFlow1Slpm=0.378,
+nitrogenTestFlow1Slpm=0.264, constantFlowTime1Sec=15,
+ignitionToTestRampTimeSec=0, burnerTemperatureLimitC=475
+dataCamera Zoom=40000, dataCamera Focus=11525
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                      34
+Test 21349M7, continued
+
+
+
+
+                          35
+Test 21349M7, continued
+
+
+
+
+After test: 313 on lowest valve safety timer, 27 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         36
+  Chamber pressure dropped to ~7.4 psia with ~27.5% ethylene (balance N2)
+
+Test 21349N1 (test 13 of 16, flame 12 of 15) – sustained ignition, reduced
+pressure variant of M7, run with dataCameraTestExposureUs=100000,
+rampDataCameraGain=FALSE, dataCameraGain1dB=5, dataCameraGain2dB=25,
+dataCameraGain3dB=0, dataCameraHoldTime1Sec=3,
+dataCameraHoldTime2Sec=7, dataCameraRamp1to2TimeSec=20,
+dataCameraRamp2to3TimeSec=0, dataCameraManualGain=16,
+igniterStartPosition=2150, igniterEndPosition=2270, igniterPreheatPowerV=3,
+pmt1Gain=5.5, pmt2Gain=pmt3Gain=5, flowTimeoutSec=60,
+oxidizerFlowIgnitionDeltaMs=0, stabilizationTime1Sec=0,
+oxidizerIgnitionFlowSlpm=0.378, nitrogenIgnitionFlowSlpm=0.264,
+oxidizerTestFlow1Slpm=0.378, nitrogenTestFlow1Slpm=0.264,
+constantFlowTime1Sec=25, ignitionToTestRampTimeSec=0,
+burnerTemperatureLimitC=475
+dataCamera Zoom=40000, dataCamera Focus=11525
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                    37
+Test 21349N1, continued
+
+
+
+
+                          38
+Test 21349N1, continued
+
+
+
+
+After test: 267 on lowest valve safety timer, 25 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         39
+Test 21349N2 (test 14 of 16, flame 13 of 15) – sustained ignition, run with
+dataCameraTestExposureUs=70000, rampDataCameraGain=FALSE,
+dataCameraGain1dB=5, dataCameraGain2dB=25, dataCameraGain3dB=0,
+dataCameraHoldTime1Sec=3, dataCameraHoldTime2Sec=7,
+dataCameraRamp1to2TimeSec=20, dataCameraRamp2to3TimeSec=0,
+dataCameraManualGain=20, igniterStartPosition=2150,
+igniterEndPosition=2270, igniterPreheatPowerV=3, pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=5, flowTimeoutSec=60, oxidizerFlowIgnitionDeltaMs=0,
+stabilizationTime1Sec=0, oxidizerIgnitionFlowSlpm=0.227,
+nitrogenIgnitionFlowSlpm=0.378, oxidizerTestFlow1Slpm=0.227,
+nitrogenTestFlow1Slpm=0.378, constantFlowTime1Sec=25,
+ignitionToTestRampTimeSec=0, burnerTemperatureLimitC=475
+dataCamera Zoom=25000, dataCamera Focus=14600
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                      40
+Test 21349N2, continued
+
+
+
+
+                          41
+Test 21349N2, continued
+
+
+
+
+After test: 218 on lowest valve safety timer, 24 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         42
+Test 21349N3 (test 15 of 16, flame 14 of 15) – sustained ignition, half=pressure
+variant of M3, run with dataCameraTestExposureUs=100000,
+rampDataCameraGain=FALSE, dataCameraGain1dB=5, dataCameraGain2dB=25,
+dataCameraGain3dB=0, dataCameraHoldTime1Sec=3,
+dataCameraHoldTime2Sec=7, dataCameraRamp1to2TimeSec=20,
+dataCameraRamp2to3TimeSec=0, dataCameraManualGain=27,
+igniterStartPosition=2170, igniterEndPosition=2290, igniterPreheatPowerV=3,
+pmt1Gain=5.5, pmt2Gain=pmt3Gain=5, flowTimeoutSec=190,
+oxidizerFlowIgnitionDeltaMs=500, stabilizationTime1Sec=1,
+oxidizerIgnitionFlowSlpm=0.11, nitrogenIgnitionFlowSlpm=0.28,
+oxidizerTestFlow1Slpm=0.11, nitrogenTestFlow1Slpm=0.329,
+constantFlowTime1Sec=160, ignitionToTestRampTimeSec=3,
+burnerTemperatureLimitC=500
+dataCamera Zoom=15000, dataCamera Focus=16050
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                       43
+Test 21349N3, continued
+
+
+
+
+                          44
+Test 21349N3, continued
+
+
+
+
+After test: 96 on lowest valve safety timer, 21 psia in oxidizer bottle, 101 psia in
+fuel bottle
+
+
+
+
+                                         45
+Test 21349N4 (test 16 of 16, flame 15 of 15) – sustained ignition, run with
+dataCameraTestExposureUs=100000, rampDataCameraGain=FALSE,
+dataCameraGain1dB=5, dataCameraGain2dB=25, dataCameraGain3dB=0,
+dataCameraHoldTime1Sec=3, dataCameraHoldTime2Sec=7,
+dataCameraRamp1to2TimeSec=20, dataCameraRamp2to3TimeSec=0,
+dataCameraManualGain=27, igniterStartPosition=2170,
+igniterEndPosition=2290, igniterPreheatPowerV=3, pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=5, flowTimeoutSec=70, oxidizerFlowIgnitionDeltaMs=500,
+stabilizationTime1Sec=1, oxidizerIgnitionFlowSlpm=0.121,
+nitrogenIgnitionFlowSlpm=0.32, oxidizerTestFlow1Slpm=0.121,
+nitrogenTestFlow1Slpm=0.362, constantFlowTime1Sec=51,
+ignitionToTestRampTimeSec=3, burnerTemperatureLimitC=500
+dataCamera Zoom=15000, dataCamera Focus=16050
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                    46
+Test 21349N4, continued
+
+
+
+
+                          47
+Test 21349N4, continued
+
+
+
+
+After test: 12 on lowest valve safety timer, 19 psia in oxidizer bottle, 101 psia in
+fuel bottle
+
+
+
+
+                                         48
+Test 21349RAD2
+
+
+
+
+                 49
+

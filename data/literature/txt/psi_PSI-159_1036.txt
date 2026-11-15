@@ -1,0 +1,400 @@
+    CFI-G round 1, day 1 with bottle of 100% ethane (C2H6)
+           Extinction detection with pmt1 at 0.1 volt, averaged for 5 s
+
+Test 21088A1 (test 1 of 17, flame 1 of 14) – sustained ignition, run with
+igniterPreheatPowerV=3, fuelFlowIgnitionDeltaMs=2000
+
+
+
+
+                                         1
+Test 21088A1, continued
+
+
+
+
+After test: 924 on lowest valve safety timer, 1273 psia in oxidizer bottle, 70 psia
+in fuel bottle
+
+
+
+
+                                         2
+Test 21088B1 (test 2 of 17, flame 2 of 14) – sustained ignition, run with
+igniterPreheatPowerV=3, fuelFlowIgnitionDeltaMs=0
+dataCamera Zoom=45000, dataCamera Focus=10025, Analog Camera Gain=31
+
+
+
+
+                                     3
+Test 21088B1, continued
+
+
+
+
+After test: 854 on lowest valve safety timer, 1273 psia in oxidizer bottle, 70 psia
+in fuel bottle
+
+
+
+
+                                         4
+Test 21088C1 (test 3 of 17, flame 3 of 14) – sustained ignition, run with
+intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1500, pmt1Gain=pmt2Gain=pmt3Gain=5.5,
+fuelFlowIgnitionDeltaMs=0
+dataCamera Zoom=45000, dataCamera Focus=10025, Analog Camera Gain=31
+
+
+
+
+                                     5
+Test 21088C1, continued
+
+
+
+
+After test: 788 on lowest valve safety timer, 1275 psia in oxidizer bottle, 68 psia
+in fuel bottle
+
+
+
+
+                                         6
+Test 21088D1 (test 4 of 17, flame 4 of 14) – sustained ignition, run with
+intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=6, pmt2Gain=pmt3Gain=6.5,
+fuelFlowIgnitionDeltaMs=0
+dataCamera Zoom=45000, dataCamera Focus=10025, Analog Camera Gain=31
+
+
+
+
+                                     7
+Test 21088D1, continued
+
+
+
+
+After test: 711 on lowest valve safety timer, 1275 psia in oxidizer bottle, ~67.5
+psia in fuel bottle
+
+
+
+
+                                         8
+Test 21088F1 (test 5 of 17, flame 5 of 14) – sustained ignition, run with
+intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=6, pmt2Gain=pmt3Gain=6,
+fuelFlowIgnitionDeltaMs=500
+dataCamera Zoom=45000, dataCamera Focus=10025, Analog Camera Gain=31
+
+
+
+
+                                     9
+Test 21088F1, continued
+
+
+
+
+After test: 665 on lowest valve safety timer, 1275 psia in oxidizer bottle, 67 psia
+in fuel bottle
+
+
+
+
+                                         10
+Test 21088G1 (test 6 of 17, flame 6 of 14) – sustained ignition, run with
+intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=pmt2Gain=pmt3Gain=6,
+fuelFlowIgnitionDeltaMs=0
+dataCamera Zoom=25000, dataCamera Focus=14600, Analog Camera Gain=31
+
+
+
+
+                                    11
+Test 21088G1, continued
+
+
+
+
+After test: 598 on lowest valve safety timer, 1275 psia in oxidizer bottle, 65-67
+psia in fuel bottle
+
+
+
+
+                                        12
+Test 21088H1 (test 7 of 17, flame 7 of 14) – sustained ignition, run with
+intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=pmt2Gain=pmt3Gain=6,
+fuelFlowIgnitionDeltaMs=0
+dataCamera Zoom=45000, dataCamera Focus=10025, Analog Camera Gain=31
+
+
+
+
+                                    13
+Test 21088H1, continued
+
+
+
+
+After test: 519 on lowest valve safety timer, 1275 psia in oxidizer bottle, 65 psia
+in fuel bottle
+
+
+
+
+                                         14
+Test 21088J1 (test 8 of 17, flame 8 of 14) – sustained ignition, run with
+intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=pmt2Gain=pmt3Gain=5,
+flowTimeoutSec=120, fuelFlowIgnitionDeltaMs=0, constantFlowTime1Sec=90
+dataCamera Zoom=45000, dataCamera Focus=10025, Analog Camera Gain=31
+
+
+
+
+                                    15
+Test 21088J1, continued
+
+
+
+
+After test: 456 on lowest valve safety timer, 1275 psia in oxidizer bottle, 64 psia
+in fuel bottle
+
+
+
+
+                                         16
+Test 21088K1 (test 9 of 17, flame 9 of 14) – sustained ignition, run with
+intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=pmt2Gain=pmt3Gain=5.5,
+flowTimeoutSec=120, fuelFlowIgnitionDeltaMs=0, constantFlowTime1Sec=90
+dataCamera Zoom=45000, dataCamera Focus=10025, Analog Camera Gain=31
+
+
+
+
+                                    17
+Test 21088K1, continued
+
+
+
+
+                          18
+Test 21088K1, continued
+
+
+
+
+After test: 342 on lowest valve safety timer, 1275 psia in oxidizer bottle, 62 psia
+in fuel bottle
+
+
+
+
+                                         19
+Test 21088H2 (test 10 of 17, flame 10 of 14) – sustained ignition, run with
+intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=pmt2Gain=pmt3Gain=6,
+flowTimeoutSec=140, fuelFlowIgnitionDeltaMs=0, constantFlowTime1Sec=120
+dataCamera Zoom=45000, dataCamera Focus=10025, Analog Camera Gain=31
+
+
+
+
+                                     20
+Test 21088H2, continued
+
+
+
+
+                          21
+Test 21088H2, continued
+
+
+
+
+After test: 198 on lowest valve safety timer, 1275 psia in oxidizer bottle, 61 psia
+in fuel bottle
+
+
+
+
+                                         22
+ Atmosphere changed to 21% O2, 1 atm without resetting valve safety timers
+
+Test 21088M1 (test 11 of 17) – aborted before gas flow due to IPSU error, run
+with intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=pmt2Gain=pmt3Gain=5.5,
+flowTimeoutSec=140, fuelFlowIgnitionDeltaMs=0, constantFlowTime1Sec=120
+dataCamera Zoom=45000, dataCamera Focus=10025, Analog Camera Gain=31
+              Console data not recorded due to abort before gas flow
+After test: 198 on lowest valve safety timer, 1275 psia in oxidizer bottle, 61 psia
+in fuel bottle
+
+
+Test 21088M2 (test 12 of 17) – aborted before gas flow due to IPSU error, near
+repeat of M1 except for addition of a fuelFlowIgnitionDeltaMs,
+run with intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=pmt2Gain=pmt3Gain=5.5,
+flowTimeoutSec=140, fuelFlowIgnitionDeltaMs=500,
+constantFlowTime1Sec=120
+dataCamera Zoom=45000, dataCamera Focus=10025, Analog Camera Gain=31
+              Console data not recorded due to abort before gas flow
+After test: 198 on lowest valve safety timer, 1275 psia in oxidizer bottle, 62 psia
+in fuel bottle
+
+
+Test 21088M3 (test 13 of 17) – aborted before gas flow due to IPSU error,
+repeat of M2, run with intensifierIgnitionGain=60000,
+igniterVelocityCountsPerSec=80, igniterPreheatPowerV=3,
+igniterIgnitionDurationMs=3000, igniterDelayBeforeRetractMs=1800,
+pmt1Gain=pmt2Gain=pmt3Gain=5.5, flowTimeoutSec=140,
+fuelFlowIgnitionDeltaMs=500, constantFlowTime1Sec=120
+dataCamera Zoom=45000, dataCamera Focus=10025, Analog Camera Gain=31
+              Console data not recorded due to abort before gas flow
+After test: 198 on lowest valve safety timer, 1275 psia in oxidizer bottle, 62 psia
+in fuel bottle
+
+
+                                         23
+Test 21088M4 (test 14 of 17, flame 11 of 14) – sustained ignition, near repeat of
+M2, run with intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=pmt2Gain=pmt3Gain=5.5,
+flowTimeoutSec=140, fuelFlowIgnitionDeltaMs=0, constantFlowTime1Sec=120
+Use HiBMs Camera=No, dataCamera Zoom=45000, dataCamera Focus=10025,
+Analog Camera Gain=31
+
+
+
+
+                                        24
+Test 21088M4, continued
+
+
+
+
+                          25
+Test 21088M4, continued
+
+
+
+
+After test: 159 on lowest valve safety timer, 1275 psia in oxidizer bottle, 61 psia
+in fuel bottle
+
+
+
+
+                                         26
+Test 21088L1 (test 15 of 17, flame 12 of 14) – sustained ignition, run with
+intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=pmt2Gain=pmt3Gain=5.5,
+flowTimeoutSec=140, fuelFlowIgnitionDeltaMs=0, constantFlowTime1Sec=120
+Use HiBMs Camera=No, dataCamera Zoom=25000, dataCamera Focus=14600,
+Analog Camera Gain=31
+
+
+
+
+                                     27
+Test 21088L1, continued
+
+
+
+
+                          28
+Test 21088L1, continued
+
+
+
+
+After test: 123 on lowest valve safety timer, 1275 psia in oxidizer bottle, 61 psia
+in fuel bottle
+
+
+
+
+                                         29
+ Atmosphere changed to 18% O2, 1 atm without resetting valve safety timers
+
+Test 21088N1 (test 16 of 17, flame 13 of 14) – sustained ignition, run with
+intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=5, pmt2Gain=pmt3Gain=5.5,
+flowTimeoutSec=100, fuelFlowIgnitionDeltaMs=0, constantFlowTime1Sec=80
+Use HiBMs Camera=No, dataCamera Zoom=45000, dataCamera Focus=10025,
+Analog Camera Gain=31
+
+
+
+
+                                     30
+Test 21088N1, continued
+
+
+
+
+                          31
+Test 21088N1, continued
+
+
+
+
+After test: 93 on lowest valve safety timer, 1275 psia in oxidizer bottle, 60 psia
+in fuel bottle
+
+
+
+
+                                         32
+Test 21088P1 (test 17 of 17, flame 14 of 14) – sustained ignition, run with
+intensifierIgnitionGain=60000, igniterVelocityCountsPerSec=80,
+igniterPreheatPowerV=3, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, pmt1Gain=5.5, pmt2Gain=pmt3Gain=6,
+flowTimeoutSec=70, fuelFlowIgnitionDeltaMs=0, constantFlowTime1Sec=50
+Use HiBMs Camera=No, dataCamera Zoom=45000, dataCamera Focus=10025,
+Analog Camera Gain=31
+
+
+
+
+                                     33
+Test 21088P1, continued
+
+
+
+
+                          34
+Test 21088P1, continued
+
+
+
+
+After test: 59 on lowest valve safety timer, 1273 psia in oxidizer bottle, 61 psia
+in fuel bottle
+
+
+
+
+                                         35
+

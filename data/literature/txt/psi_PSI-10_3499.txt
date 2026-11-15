@@ -1,0 +1,299 @@
+Test 19175A1 – failed ignition, run with
+dataCameraPreIgnitionExposureUs=100000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=150000,
+fuelFlowIgnitionDeltaMs=500, stabilizationTime1Sec=30,
+stabilizationTime2Sec=0, fuelBottleIgnitionFlowRateN2Slpm=0.104,
+fuelBottleTestFlowRateN2Slpm=0.0, nitrogenIgnitionTestRateN2Slpm=0.208,
+ignitionToTestRampTimeSec=4, constantFlowTimeSec=2,
+useRampFlowToZero=FALSE
+dataCamera iris=25000
+
+
+
+
+After test, 950 on lowest valve safety timer, 515 psia in oxidizer bottle
+                                         1
+Test 19175A2 – successful ignition, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=150000,
+fuelFlowIgnitionDeltaMs=200, stabilizationTime1Sec=30,
+stabilizationTime2Sec=0, fuelBottleIgnitionFlowRateN2Slpm=0.104,
+fuelBottleTestFlowRateN2Slpm=0.0, nitrogenIgnitionTestRateN2Slpm=0.208,
+ignitionToTestRampTimeSec=4, constantFlowTimeSec=2,
+useRampFlowToZero=FALSE
+dataCamera iris=0
+
+
+
+
+After test, 893 on lowest valve safety timer, 515 psia in oxidizer bottle
+                                         2
+Test 19175A3 – successful ignition, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=150000,
+useBracketedExposures=TRUE, bracketingNumberOfExposures=2,
+bracketingExposureMultiplierTimes100=400, igniterIgnitionPosition=2270,
+fuelFlowIgnitionDeltaMs=0, stabilizationTime1Sec=0, stabilizationTime2Sec=5,
+fuelBottleIgnitionFlowRateN2Slpm=fuelBottleTestFlowRateN2Slpm=0.155,
+nitrogenIgnitionTestRateN2Slpm=0, ignitionToTestRampTimeSec=0,
+constantFlowTimeSec=160, useRampFlowToZero=FALSE
+dataCamera Focus=11525, dataCamera Zoom=40000, dataCamera iris=0
+
+
+
+
+After test, 746 on lowest valve safety timer, 516 psia in oxidizer bottle
+
+                                         3
+Test 19175A4 – successful ignition, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=150000,
+useBracketedExposures=TRUE, bracketingNumberOfExposures=4,
+bracketingExposureMultiplierTimes100=280, igniterIgnitionPosition=2270,
+fiberIgnitionPosition=12000, fiberTestPosition=14500,
+fiberMoveDuringTest=TRUE, fiberSegmentDistance=800,
+fuelFlowIgnitionDeltaMs=0, stabilizationTime1Sec=0, stabilizationTime2Sec=8,
+fuelBottleIgnitionFlowRateN2Slpm=fuelBottleTestFlowRateN2Slpm=0.155,
+nitrogenIgnitionTestRateN2Slpm=0, ignitionToTestRampTimeSec=0,
+constantFlowTimeSec=30, useRampFlowToZero=FALSE
+dataCamera Gain=0 db, dataCamera Focus=10925, dataCamera Zoom=40000,
+dataCamera iris=25000
+
+
+
+
+After test, 685 on lowest valve safety timer, 516 psia in oxidizer bottle
+
+                                         4
+Test 19175B1 – successful ignition, run with
+dataCameraPreIgnitionExposureUs=1000000,
+bracketingExposureStartUsec=5000 (instead of 50000 as intended),
+fuelFlowIgnitionDeltaMs=300, stabilizationTime2Sec=5,
+fuelBottleIgnitionFlowRateN2Slpm=0.104,
+nitrogenIgnitionFlowRateN2Slpm=0.156, fuelBottleTestFlowRateN2Slpm=0.104,
+nitrogenTestFlowRateN2Slpm =0.156, constantFlowTimeSec=20,
+useRampFlowToZero=FALSE
+dataCamera Gain=33 db, dataCamera Focus=13750, dataCamera Zoom=30000,
+dataCamera iris=47500
+
+
+
+
+After test, 645 on lowest valve safety timer, 515 psia in oxidizer bottle
+
+                                         5
+Test 19175B2 – ignition of a momentary flame which quickly extinguished, run
+with dataCameraPreIgnitionExposureUs=1000000,
+useBracketedExposuress=TRUE, bracketingExposureStartUsec=5000 (instead of
+50000 as intended), fiberIgnitionPosition=12000, fiberTestPosition=14700,
+fiberMoveDuringTest=TRUE, fiberSegmentDistance=800,
+fuelFlowIgnitionDeltaMs=300, stabilizationTime2Sec=15,
+fuelBottleIgnitionFlowRateN2Slpm=0.104,
+nitrogenIgnitionFlowRateN2Slpm=0.156, fuelBottleTestFlowRateN2Slpm=0.104,
+nitrogenTestFlowRateN2Slpm =0.156, constantFlowTimeSec=45,
+useRampFlowToZero=FALSE
+dataCamera Gain=0 db, dataCamera Focus=13000, dataCamera iris=25000
+
+
+
+
+After test, 624 on lowest valve safety timer, ~515 psia in oxidizer bottle
+                                         6
+Test 19175B3 – failed ignition, run with
+dataCameraPreIgnitionExposureUs=1000000, useBracketedExposuress=TRUE,
+bracketingExposureStartUsec=5000 (instead of 50000 as intended),
+fiberIgnitionPosition=12000, fiberTestPosition=14700,
+fiberMoveDuringTest=TRUE, fiberSegmentDistance=800,
+nitrogenPriming2DurationSec=1, fuelFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=15, fuelBottleIgnitionFlowRateN2Slpm=0.104,
+nitrogenIgnitionFlowRateN2Slpm=0.156, fuelBottleTestFlowRateN2Slpm=0.104,
+nitrogenTestFlowRateN2Slpm =0.156, constantFlowTimeSec=45,
+useRampFlowToZero=FALSE
+dataCamera Gain=0 db, dataCamera Focus=13000, dataCamera iris=25000
+
+
+
+
+After test, 603 on lowest valve safety timer, 516 psia in oxidizer bottle
+                                         7
+Test 1917B4 – successful ignition, run with
+dataCameraPreIgnitionExposureUs=1000000, useBracketedExposuress=TRUE,
+bracketingExposureStartUsec=5000 (instead of 50000 as intended),
+fiberIgnitionPosition=12000, fiberTestPosition=14700,
+fiberMoveDuringTest=TRUE, fiberSegmentDistance=800,
+nitrogenPriming2DurationSec=1, fuelFlowIgnitionDeltaMs=500,
+stabilizationTime2Sec=15, fuelBottleIgnitionFlowRateN2Slpm=0.104,
+nitrogenIgnitionFlowRateN2Slpm=0.156, fuelBottleTestFlowRateN2Slpm=0.104,
+nitrogenTestFlowRateN2Slpm =0.156, constantFlowTimeSec=45,
+useRampFlowToZero=FALSE
+dataCamera Gain=0 db, dataCamera Focus=13000, dataCamera iris=25000
+ignition detection: triggerLevel=1 (instead of 1.5), averagingDurationSecs=0.5
+(instead of 0.05), igniterOffDelayMs=0 (instead of 500)
+
+
+
+
+After test, 520 on lowest valve safety timer, 516 psia in oxidizer bottle
+                                         8
+Test 19175B5 – successful ignition, run with
+dataCameraPreIgnitionExposureUs=1000000, useBracketedExposuress=TRUE,
+bracketingExposureStartUsec=5000 (instead of 50000 as intended),
+fiberIgnitionPosition=12000, fiberTestPosition=14800,
+fiberMoveDuringTest=TRUE, fiberSegmentDistance=700,
+nitrogenPriming2DurationSec=1, fuelFlowIgnitionDeltaMs=500,
+stabilizationTime2Sec=10, fuelBottleIgnitionFlowRateN2Slpm=0.104,
+nitrogenIgnitionFlowRateN2Slpm=0.156, fuelBottleTestFlowRateN2Slpm=0.104,
+nitrogenTestFlowRateN2Slpm =0.156, constantFlowTimeSec=25,
+useRampFlowToZero=FALSE
+dataCamera Gain=0 db, dataCamera Focus=13000, dataCamera iris=25000
+ignition detection: triggerLevel=1 (instead of 1.5), averagingDurationSecs=0.5
+(instead of 0.05), igniterOffDelayMs=0 (instead of 500)
+
+
+
+
+After test, 457 on lowest valve safety timer, 516 psia in oxidizer bottle
+                                         9
+Test 19175B6 – successful ignition, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=150000,
+useBracketedExposuress=FALSE, bracketingExposureStartUsec=5000 (instead of
+50000 as intended), fiberIgnitionPosition=fiberTestPosition=0,
+fiberMoveDuringTest=FALSE, fiberSegmentDistance=700,
+nitrogenPriming2DurationSec=1, fuelFlowIgnitionDeltaMs=500,
+stabilizationTime2Sec=5, fuelBottleIgnitionFlowRateN2Slpm=0.104,
+nitrogenIgnitionFlowRateN2Slpm=0.312, fuelBottleTestFlowRateN2Slpm=0.104,
+nitrogenTestFlowRateN2Slpm =312, constantFlowTimeSec=25,
+useRampFlowToZero=FALSE
+dataCamera Gain=24 db, dataCamera Focus=13000 (instead of 13700 as
+intended), dataCamera iris=0
+ignition detection: triggerLevel=1 (instead of 1.5), averagingDurationSecs=0.5
+(instead of 0.05), igniterOffDelayMs=0 (instead of 500)
+
+
+
+
+After test, 408 on lowest valve safety timer, 516 psia in oxidizer bottle
+                                        10
+Test 19175B7 – successful ignition, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=150000,
+useBracketedExposuress=TRUE, bracketingExposureStartUsec=50000 (as
+intended), fiberIgnitionPosition=13000, fiberTestPosition=14900,
+fiberMoveDuringTest=TRUE, fiberSegmentDistance=600,
+nitrogenPriming2DurationSec=1, fuelFlowIgnitionDeltaMs=500,
+stabilizationTime2Sec=0, fuelBottleIgnitionFlowRateN2Slpm=0.104,
+nitrogenIgnitionFlowRateN2Slpm=0.312, fuelBottleTestFlowRateN2Slpm=0.104,
+nitrogenTestFlowRateN2Slpm =312, constantFlowTimeSec=30,
+useRampFlowToZero=FALSE
+dataCamera Gain=0 db, dataCamera Focus=13000, dataCamera iris=25000
+ignition detection: triggerLevel=1 (instead of 1.5), averagingDurationSecs=0.5
+(instead of 0.05), igniterOffDelayMs=0 (instead of 500)
+
+
+
+
+After test, 356 on lowest valve safety timer, 516 psia in oxidizer bottle
+                                        11
+Test 19175B8 – successful ignition, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=150000,
+useBracketedExposuress=TRUE, bracketingExposureStartUsec=50000 (as
+intended), fiberIgnitionPosition=13000, fiberTestPosition=15300,
+fiberMoveDuringTest=TRUE, fiberSegmentDistance=400, fiberVelocity=400,
+nitrogenPriming2DurationSec=1, fuelFlowIgnitionDeltaMs=500,
+stabilizationTime2Sec=0, fuelBottleIgnitionFlowRateN2Slpm=0.104,
+nitrogenIgnitionFlowRateN2Slpm=0.312, fuelBottleTestFlowRateN2Slpm=0.104,
+nitrogenTestFlowRateN2Slpm =0.312, constantFlowTimeSec=30,
+useRampFlowToZero=FALSE
+dataCamera Gain=0 db, dataCamera Focus=13000, dataCamera iris=25000
+ignition detection: triggerLevel=1 (instead of 1.5), averagingDurationSecs=0.5
+(instead of 0.05), igniterOffDelayMs=0 (instead of 500)
+
+
+
+
+After test, 299 on lowest valve safety timer, 516 psia in oxidizer bottle
+                                        12
+Test 19175B9 – successful ignition, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=150000,
+useBracketedExposuress=FALSE, bracketingExposureStartUsec=50000 (as
+intended), fiberIgnitionPosition=fiberTestPosition=0,
+fiberMoveDuringTest=FALSE, fiberSegmentDistance=400, fiberVelocity=400,
+nitrogenPriming2DurationSec=1, fuelFlowIgnitionDeltaMs=500,
+stabilizationTime2Sec=5, fuelBottleIgnitionFlowRateN2Slpm=0.104,
+nitrogenIgnitionFlowRateN2Slpm=0.243, fuelBottleTestFlowRateN2Slpm=0.104,
+nitrogenTestFlowRateN2Slpm =0.243, constantFlowTimeSec=25,
+useRampFlowToZero=FALSE
+dataCamera Gain=24 db, dataCamera Focus=13750, dataCamera iris=0
+ignition detection: triggerLevel=1 (instead of 1.5), averagingDurationSecs=0.5
+(instead of 0.05), igniterOffDelayMs=0 (instead of 500)
+
+
+
+
+After test, 250 on lowest valve safety timer, 516 psia in oxidizer bottle
+                                        13
+Test 19175N1 – successful ignition, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=150000,
+useBracketedExposuress=TRUE, bracketingExposureStartUsec=50000 (as
+intended), fiberIgnitionPosition=13000, fiberTestPosition=15300,
+fiberMoveDuringTest=TRUE, fiberSegmentDistance=400, fiberVelocity=400,
+nitrogenPriming2DurationSec=1, fuelFlowIgnitionDeltaMs=500,
+stabilizationTime2Sec=2, fuelBottleIgnitionFlowRateN2Slpm=0.104,
+nitrogenIgnitionFlowRateN2Slpm=0.243, fuelBottleTestFlowRateN2Slpm=0.104,
+nitrogenTestFlowRateN2Slpm =0.243, constantFlowTimeSec=58,
+useRampFlowToZero=FALSE
+dataCamera Gain=0 db, dataCamera Focus=13000, dataCamera iris=30000
+ignition detection: triggerLevel=1 (instead of 1.5), averagingDurationSecs=0.5
+(instead of 0.05), igniterOffDelayMs=0 (instead of 500)
+
+
+
+
+After test, 163 on lowest valve safety timer, 516 psia in oxidizer bottle
+                                        14
+Test 19175N2 – successful ignition, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=150000,
+useBracketedExposuress=FALSE, bracketingExposureStartUsec=50000 (as
+intended), fiberIgnitionPosition=fiberTestPosition=0,
+fiberMoveDuringTest=FALSE, fiberSegmentDistance=400, fiberVelocity=400,
+nitrogenPriming2DurationSec=1, fuelFlowIgnitionDeltaMs=500,
+stabilizationTime2Sec=5, fuelBottleIgnitionFlowRateN2Slpm=0.104,
+nitrogenIgnitionFlowRateN2Slpm=0.069, fuelBottleTestFlowRateN2Slpm=0.104,
+nitrogenTestFlowRateN2Slpm =0.069, constantFlowTimeSec=50,
+useRampFlowToZero=FALSE
+dataCamera Gain=30 db, dataCamera Focus=13750, dataCamera iris=50000
+ignition detection: triggerLevel=1 (instead of 1.5), averagingDurationSecs=0.5
+(instead of 0.05), igniterOffDelayMs=0 (instead of 500)
+
+
+
+
+After test, 93 on lowest valve safety timer, 516 psia in oxidizer bottle
+                                         15
+Test 19175N3 – successful ignition, run with
+dataCameraPreIgnitionExposureUs=1000000, dataCameraIgnitionExposureUs=
+dataCameraTestExposureUs=dataCameraExtinctionExposureUs=150000,
+useBracketedExposuress=FALSE, bracketingExposureStartUsec=50000 (as
+intended), fiberIgnitionPosition=fiberTestPosition=0,
+fiberMoveDuringTest=FALSE, fiberSegmentDistance=400, fiberVelocity=400,
+flowTimeoutSec=90,nitrogenPriming2DurationSec=1,
+fuelFlowIgnitionDeltaMs=1000, stabilizationTime2Sec=5,
+fuelBottleIgnitionFlowRateN2Slpm=0.078,
+nitrogenIgnitionFlowRateN2Slpm=0.052, fuelBottleTestFlowRateN2Slpm=0.078,
+nitrogenTestFlowRateN2Slpm =0.052, constantFlowTimeSec=65,
+useRampFlowToZero=FALSE
+dataCamera Gain=30 db, dataCamera Focus=13750, dataCamera iris=50000
+ignition detection: triggerLevel=1 (instead of 1.5), averagingDurationSecs=0.5
+(instead of 0.05), igniterOffDelayMs=0 (instead of 500)
+
+
+
+
+After test, 19 on lowest valve safety timer, 516 psia in oxidizer bottle
+                                         16
+

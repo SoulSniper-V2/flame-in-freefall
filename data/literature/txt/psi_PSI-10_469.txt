@@ -1,0 +1,470 @@
+            Flame Design: Round 2, inverse-flame day 8
+            Chamber filled to 29 psia with 17% ethylene (balance N2)
+
+Test 22035A1 (test 1 of 16, flame 1 of 15) – sustained ignition, run with
+pmt2Gain=pmt3Gain=5, oxidizerIgnitionFlowSlpm=300
+
+
+
+
+                                         1
+Test 22035A1, continued
+
+
+
+
+                          2
+Test 22035A1, continued
+
+
+
+
+After test: 955 on lowest valve safety timer, 92 psia in oxidizer bottle, 2 psia in
+fuel bottle
+
+
+
+
+                                          3
+Test 22035B1 (test 2 of 16, flame 2 of 15) – sustained ignition, TFP variant of A1,
+run with pmt2Gain=pmt3Gain=5, oxidizerIgnitionFlowSlpm=0,
+stabilizationTime2Sec=6, constantFlowTime1Sec=15
+
+
+
+
+                                         4
+Test 22035B1, continued
+
+
+
+
+                          5
+Test 22035B1, continued
+
+
+
+
+After test: 908 on lowest valve safety timer, 90 psia in oxidizer bottle, 2 psia in
+fuel bottle
+
+
+
+
+                                          6
+Test 22035C1 (test 3 of 16, flame 3 of 15) – sustained ignition, run as planned
+with pmt2Gain=pmt3Gain=5, oxidizerIgnitionFlowSlpm=0,
+stabilizationTime2Sec=3, constantFlowTime1Sec=15
+
+
+
+
+                                        7
+Test 22035C1, continued
+
+
+
+
+                          8
+Test 22035C1, continued
+
+
+
+
+After test: 865 on lowest valve safety timer, 89 psia in oxidizer bottle, 2 psia in
+fuel bottle
+
+
+
+
+                                          9
+Test 22035D1 (test 4 of 16, flame 4 of 15) – sustained ignition, run as planned
+with pmt2Gain=pmt3Gain=5, oxidizerIgnitionFlowSlpm=0,
+stabilizationTime2Sec=1, constantFlowTime1Sec=15
+
+
+
+
+                                        10
+Test 22035D1, continued
+
+
+
+
+                          11
+Test 22035D1, continued
+
+
+
+
+After test: 824 on lowest valve safety timer, 88 psia in oxidizer bottle, 2 psia in
+fuel bottle
+
+
+
+
+                                         12
+                   ACME was power cycled prior to this test
+
+Test 22035D2 (test 5 of 16) – aborted before gas flow because the test was not
+fully reconfigured after the hardware was power cycled, minor variant of D1,
+run with pmt2Gain=pmt3Gain=5, fiberTestPosition=15500,
+oxidizerIgnitionFlowSlpm=0, stabilizationTime2Sec=1,
+constantFlowTime1Sec=15
+
+               Didn’t capture any console data because of abort
+
+
+
+
+                                       13
+Test 22035D3 (test 6 of 16, flame 5 of 15) – sustained flame, repeat of D2 and
+nominal repeat of D1, run with pmt2Gain=pmt3Gain=5,
+fiberTestPosition=15500, oxidizerIgnitionFlowSlpm=0, stabilizationTime2Sec=1,
+constantFlowTime1Sec=15
+
+
+
+
+                                      14
+Test 22035D3, continued
+
+
+
+
+                          15
+Test 22035D3, continued
+
+
+
+
+After test: 783 on lowest valve safety timer, 29.0 psia in oxidizer bottle, psia in
+fuel bottle
+
+
+
+
+                                         16
+Test 22035F1 (test 7 of 16, flame 6 of 15) – sustained flame, run as planned with
+pmt2Gain=pmt3Gain=5, fiberTestPosition=15700,
+oxidizerIgnitionFlowSlpm=300, stabilizationTime2Sec=0,
+constantFlowTime1Sec=15
+
+
+
+
+                                       17
+Test 22035F1, continued
+
+
+
+
+                          18
+Test 22035F1, continued
+
+
+
+
+After test: 742 on lowest valve safety timer, 86 psia in oxidizer bottle, 2 psia in
+fuel bottle
+
+
+
+
+                                         19
+Test 22035G1 (test 8 of 16, flame 7 of 15) – sustained flame, run as planned with
+pmt2Gain=pmt3Gain=5, fiberTestPosition=15700,
+oxidizerIgnitionFlowSlpm=300, stabilizationTime2Sec=0,
+constantFlowTime1Sec=15
+
+
+
+
+                                       20
+Test 22035G1, continued
+
+
+
+
+                          21
+Test 22035G1, continued
+
+
+
+
+After test: 701 on lowest valve safety timer, 86 psia in oxidizer bottle, 2 psia in
+fuel bottle
+
+
+
+
+                                         22
+Test 22035G2 (test 9 of 16, flame 8 of 15) – sustained flame, flow variant of B1
+(and relatively unlike G1), run with pmt2Gain=pmt3Gain=5,
+fiberTestPosition=15700, oxidizerIgnitionFlowSlpm=0, stabilizationTime2Sec=10,
+oxidizerIgnitionFlowSlpm=0.428, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.428, nitrogenTestFlow1Slpm=0,
+constantFlowTime1Sec=45
+dataCamera Zoom=35000, dataCamera Focus=12700
+
+
+
+
+                                       23
+Test 22035G2, continued
+
+
+
+
+                          24
+Test 22035G2, continued
+
+
+
+
+After test: 620 on lowest valve safety timer, 80 psia in oxidizer bottle, 2 psia in
+fuel bottle
+
+
+
+
+                                         25
+ Chamber atmosphere adjusted to ~7.35 psia with ~10% ethylene (balance N2)
+
+Test 22035J1 (test 10 of 16, flame 9 of 15) – sustained flame, run as planned
+with pmt2Gain=pmt3Gain=4, fiberTestPosition=15700,
+oxidizerIgnitionFlowSlpm=3000, stabilizationTime2Sec=0,
+oxidizerIgnitionFlowSlpm=0.172, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.172, nitrogenTestFlow1Slpm=0,
+constantFlowTime1Sec=120
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                       26
+Test 22035J1, continued
+
+
+
+
+                          27
+Test 22035J1, continued
+
+
+
+
+After test: 477 on lowest valve safety timer, 76 psia in oxidizer bottle, 2 psia in
+fuel bottle
+
+
+
+
+                                         28
+Test 22035J2 (test 11 of 16, flame 10 of 15) – sustained flame, flow variant of J1
+(atmosphere+TFP variant of A1), run with pmt2Gain=pmt3Gain=5,
+fiberTestPosition=15700, oxidizerIgnitionFlowSlpm=0, stabilizationTime2Sec=0,
+oxidizerIgnitionFlowSlpm=0.259, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.259, nitrogenTestFlow1Slpm=0,
+constantFlowTime1Sec=120
+dataCamera Zoom=30000, dataCamera Focus=13750
+
+
+
+
+                                        29
+Test 22035J2, continued
+
+
+
+
+                          30
+Test 22035J2, continued
+
+
+
+
+After test: 379 on lowest valve safety timer, 71 psia in oxidizer bottle, 2 psia in
+fuel bottle
+
+
+
+
+                                         31
+Test 22035J3 (test 12 of 16, flame 11 of 15) – sustained flame, no-TFP variant of
+J2 (atmosphere variant of A1), run with dataCameraTestExposureUs=100000,
+dataCameraManualGain=25, useBracketedExposures=FALSE,
+pmt2Gain=pmt3Gain=5, fiberIgnitionPosition=0, fiberTestPosition=0,
+oxidizerIgnitionFlowSlpm=0, stabilizationTime2Sec=0,
+oxidizerIgnitionFlowSlpm=0.259, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.259, nitrogenTestFlow1Slpm=0,
+constantFlowTime1Sec=120
+dataCamera Zoom=35000, dataCamera Focus=12700, Analog Camera Gain=31
+
+
+
+
+                                        32
+Test 22035J3, continued
+
+
+
+
+                          33
+Test 22035J3, continued
+
+
+
+
+After test: 330 on lowest valve safety timer, 70 psia in oxidizer bottle, 2 psia in
+fuel bottle
+
+
+
+
+                                         34
+Test 22035J4 (test 13 of 16, flame 14 of 15) – sustained flame, variant of J2 upon
+which it was based (TFP variant of J3), run with
+dataCameraTestExposureUs=83000, dataCameraManualGain=0,
+useBracketedExposures=TRUE, pmt2Gain=pmt3Gain=5,
+fiberIgnitionPosition=10000, fiberTestPosition=15700,
+oxidizerIgnitionFlowSlpm=0, stabilizationTime2Sec=0,
+oxidizerIgnitionFlowSlpm=0.259, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.259, nitrogenTestFlow1Slpm=0,
+constantFlowTime1Sec=40
+dataCamera Zoom=35000, dataCamera Focus=12700, Analog Camera Gain=31
+
+
+
+
+                                        35
+Test 22035J4, continued
+
+
+
+
+                          36
+Test 22035J4, continued
+
+
+
+
+After test: 266 on lowest valve safety timer, 67 psia in oxidizer bottle, 2 psia in
+fuel bottle
+
+
+
+
+                                         37
+Test 22035J5 (test 14 of 16, flame 13 of 15) – sustained flame, no-TFP variant of
+J1 (flow variant of J3), run with dataCameraTestExposureUs=100000,
+dataCameraManualGain=25, useBracketedExposures=FALSE,
+pmt2Gain=pmt3Gain=5, fiberIgnitionPosition=fiberTestPosition=0,
+oxidizerIgnitionFlowSlpm=300, stabilizationTime2Sec=0,
+oxidizerIgnitionFlowSlpm=0.172, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.172, nitrogenTestFlow1Slpm=0,
+constantFlowTime1Sec=120
+dataCamera Zoom=30000, dataCamera Focus=13750, Analog Camera Gain=31
+
+
+
+
+                                        38
+Test 22035J5, continued
+
+
+
+
+                          39
+Test 22035J5, continued
+
+
+
+
+After test: 186 on lowest valve safety timer, 65 psia in oxidizer bottle, 2 psia in
+fuel bottle
+
+
+
+
+                                         40
+Test 22035J6 (test 15 of 16, flame 14 of 15) – sustained flame, J1 variant (TFP
+variant of J5), run with dataCameraTestExposureUs=83000,
+dataCameraManualGain=0, useBracketedExposures=TRUE,
+pmt2Gain=pmt3Gain=5, fiberIgnitionPosition=10000, fiberTestPosition=15700,
+flowTimeoutSec=150, oxidizerIgnitionFlowSlpm=300, stabilizationTime2Sec=0,
+oxidizerIgnitionFlowSlpm=0.172, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.172, nitrogenTestFlow1Slpm=0,
+constantFlowTime1Sec=85
+dataCamera Zoom=30000, dataCamera Focus=13750, Analog Camera Gain=31
+
+
+
+
+                                       41
+Test 22035J6, continued
+
+
+
+
+                          42
+Test 22035J6, continued
+
+
+
+
+After test: 76 on lowest valve safety timer, 62 psia in oxidizer bottle, 2 psia in
+fuel bottle
+
+
+
+
+                                         43
+Test 22035J7 (test 16 of 16, flame 15 of 15) – run with sustained flame, J1+J6
+variant (TFP variant of J5) although for imaging rather than flame temperature,
+run with dataCameraTestExposureUs=100000, dataCameraManualGain=25,
+useBracketedExposures=FALSE, pmt2Gain=pmt3Gain=5,
+fiberIgnitionPosition=10000, fiberTestPosition=15400, flowTimeoutSec=50,
+oxidizerIgnitionFlowSlpm=300, stabilizationTime2Sec=0,
+oxidizerIgnitionFlowSlpm=0.172, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.172, nitrogenTestFlow1Slpm=0,
+constantFlowTime1Sec=35
+dataCamera Zoom=30000, dataCamera Focus=13750, Analog Camera Gain=31
+
+       Accidentally closed flow chart window rather than pasting it here
+
+
+
+
+                                       44
+Test 22035J7, continued
+
+
+
+
+                          45
+Test 22035J7, continued
+
+
+
+
+After test: 17 on lowest valve safety timer, ? psia in oxidizer bottle, 2 psia in fuel
+bottle
+
+
+
+
+                                          46
+Test 22035RAD2
+
+
+
+
+                 47
+Test 22035RAD2, continued
+
+
+
+
+                            48
+

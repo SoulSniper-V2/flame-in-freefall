@@ -1,0 +1,83 @@
+ iss038e049116               16:22:04      iss038e049117              16:22:08      iss038e049118              16:22:08      iss038e049119              16:22:09      iss038e049120              16:22:09     iss038e049121               16:22:09     iss038e049122               16:22:10
+ GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014
+ 1/640 sec at f / 4.0           -5 EV     1/8000 sec at f / 4.0           -9 EV    1/4000 sec at f / 4.0           -8 EV    1/6400 sec at f / 4.0           -7 EV    1/2000 sec at f / 4.0           -6 EV    1/400 sec at f / 4.0           -4 EV     1/250 sec at f / 4.0           -3 EV
+ Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+       from BASS Video Clock)                    from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                  from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+ iss038e049123               16:22:10     iss038e049124               16:22:10     iss038e049125               16:22:16      iss038e049126              16:22:16      iss038e049127              16:22:16      iss038e049128              16:22:17      iss038e049129              16:22:17
+ GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014
+ 1/200 sec at f / 4.0           -2 EV      1/80 sec at f / 4.0          -1 EV      1/800 sec at f / 4.0           -5 EV     1/8000 sec at f / 4.0           -9 EV    1/8000 sec at f / 4.0           -8 EV    1/4000 sec at f / 4.0           -7 EV    1/2500 sec at f / 4.0           -6 EV
+ Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+       from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                    from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+  iss038e049130              16:22:17     iss038e049131               16:22:18     iss038e049132               16:22:18     iss038e049133               16:22:19      iss038e049134              16:22:51      iss038e049135              16:22:51      iss038e049136              16:22:51
+ GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014
+ 1/1250 sec at f / 4.0           -4 EV    1/500 sec at f / 4.0           -3 EV     1/200 sec at f / 4.0           -2 EV     1/160 sec at f / 4.0           -1 EV     1/2500 sec at f / 4.0           -5 EV    1/8000 sec at f / 4.0           -9 EV    1/8000 sec at f / 4.0           -8 EV
+ Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+        from BASS Video Clock)                  from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                    from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+  iss038e049137              16:22:52      iss038e049138              16:22:52      iss038e049139              16:22:53     iss038e049140               16:22:53     iss038e049141               16:22:53     iss038e049142               16:22:54      iss038e049143              16:23:23
+ GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014
+ 1/8000 sec at f / 4.0           -7 EV    1/4000 sec at f / 4.0           -6 EV    1/1250 sec at f / 4.0           -4 EV    1/500 sec at f / 4.0           -3 EV     1/160 sec at f / 4.0           -2 EV     1/125 sec at f / 4.0           -1 EV     1/1250 sec at f / 4.0           -5 EV
+ Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+        from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                  from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                    from BASS Video Clock)
+
+
+
+
+                                                                                                                                                                                                                                                                                               1
+  iss038e049144              16:23:24      iss038e049145              16:23:24      iss038e049146              16:23:24      iss038e049147              16:23:25     iss038e049148               16:23:25     iss038e049149               16:23:25     iss038e049150               16:23:26
+ GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014
+ 1/8000 sec at f / 4.0           -9 EV    1/8000 sec at f / 4.0           -8 EV    1/5000 sec at f / 4.0           -7 EV    1/2000 sec at f / 4.0           -6 EV    1/500 sec at f / 4.0           -4 EV     1/400 sec at f / 4.0           -3 EV     1/160 sec at f / 4.0           -2 EV
+ Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+        from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                  from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+ iss038e049151               16:23:26      iss038e049152              16:24:03      iss038e049153              16:24:04      iss038e049154              16:24:04      iss038e049155              16:24:04      iss038e049156              16:24:05     iss038e049157               16:24:05
+ GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014
+  1/60 sec at f / 4.0          -1 EV      1/1000 sec at f / 4.0           -5 EV    1/8000 sec at f / 4.0           -9 EV    1/8000 sec at f / 4.0           -8 EV    1/6400 sec at f / 4.0           -7 EV    1/1600 sec at f / 4.0           -6 EV    1/500 sec at f / 4.0           -4 EV
+ Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+       from BASS Video Clock)                    from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                  from BASS Video Clock)
+
+
+
+
+ iss038e049158               16:24:06     iss038e049159               16:24:06     iss038e049160               16:24:06     iss038e049161               16:24:36     iss038e049162               16:24:36     iss038e049163               16:24:37     iss038e049164               16:24:37
+ GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014
+ 1/200 sec at f / 4.0           -3 EV      1/80 sec at f / 4.0          -2 EV       1/50 sec at f / 4.0          -1 EV       1/10 sec at f / 4.0          -5 EV       1/80 sec at f / 4.0          -9 EV       1/40 sec at f / 4.0          -8 EV       1/20 sec at f / 4.0          -7 EV
+ Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+       from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+ iss038e049165               16:24:37     iss038e049166               16:24:38     iss038e049167               16:24:39     iss038e049168               16:24:40
+ GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014      GMT 049                  02-18-2014
+  1/10 sec at f / 4.0          -6 EV        0.4 sec at f / 4.0          -4 EV        0.8 sec at f / 4.0          -3 EV        1.6 sec at f / 4.0          -2 EV
+ Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600      Mode: Aperture priority    ISO 1600
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+       from BASS Video Clock)                    from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+                                                                                                                                                                                                                                                                                               2
+

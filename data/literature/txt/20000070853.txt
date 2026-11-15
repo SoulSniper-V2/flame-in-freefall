@@ -1,0 +1,1302 @@
+  Spot Radiative          Ignition      and Subsequent   Three Dimensional                       Flame    Spread
+                                        over Thin Cellulose Fuels
+
+
+              S.L.   Olson*,         NASA         Glenn     Research     Center, Cleveland,         OH
+
+
+T. Kashiwagi,        National        Institute     of Standards        and Technology,         Gaithersburg,   MD
+                                                          and
+
+
+               M. Kikuchi,        NASDA            Tsukuba Space Center,            Ibaraki,    Japan
+                                                         and
+
+
+                                                 O. Fujita and K. Ito
+                                Hokkaido           University,    Sapporo,    Japan
+
+
+
+
+Full Length     Article
+Short Title: Three        Dimensional            Ignition   and Flame      Spread
+
+
+
+
+* Corresponding   Author
+       Dr. Sandra L. Olson
+      NASA       Glenn      Research       Center
+      mail stop 500-115
+      21000 Brookpark            Rd.
+      Cleveland, OH
+      phone (216) 433-2859
+      fax (216) 977-7065
+      email sandra.olson@grc.nasa.gov
+         Spot Radiative           Ignition        and Subsequent                 Three      Dimensional            Flame       Spread         over Thin
+
+                                                                      Cellulose         Fuels
+
+                                               S.L.       Olson,     NASA         Glenn      Research          Center
+
+                              T. Kashiwagi,               National         Institute   of Standards            and Technology
+
+                                                                                 and
+
+                                 M. Kikuchi,           NASDA           Tsukuba         Space Center, Ibaraki, Japan
+
+                                                                                 and
+
+                                                                    O. Fujita and K. Ito
+
+                                                    Hokkaido          University,         Sapporo,      Japan
+
+
+
+
+Abstract
+
+
+
+        Spontaneous               radiative ignition and transition to flame spread over thin cellulose fuel samples
+was studied aboard               the USMP-3      STS-75 Space Shuttle mission,     and in three test series in the 10
+second Japan Microgravity      Center (JAMIC).    A focused beam from a tungsten/halogen    lamp was
+used to ignite the center of the fuel sample while an external air flow was varied from 0 to 10 cm/s.
+Non-piloted          radiative        ignition      of the paper           was found        to occur     more      easily     in microgravity             than in
+normal      gravity.         Ignition     of the sample             was achieved          under     all conditions          studied     (shuttle     cabin air,
+21%-50%         02 in JAMIC),             with transition            to flame      spread     occurring         for all but the lowest           oxygen      and
+flow conditions.          While         radiative      ignition      in a quiescent         atmosphere           was achieved,          the flame quickly
+extinguished           in air. The        ignition        delay time was           proportional        to the gas-phase               mixing     time, which
+is estimated         using     the inverse          flow rate.         The ignition         delay     was a much          stronger       function      of flow
+at lower     oxygen       concentrations.                 After     ignition,     the flame        initially     spread      only upstream,          in a fan-
+shaped      pattern.      The fan angle               increased       with increasing             external       flow and oxygen               concentration
+from zero angle           (tunneling           flame       spread)     at the limiting            0.5 cm/s external           air flow,        to 90 degrees
+(semicircular          flame         spread)     for external         flows     at and above         5 cm/s,      and higher          oxygen       concentra-
+tions.      The fan angle             was shown           to be directly        related     to the limiting        air flow velocity.            Despite       the
+convective      heating        from the upstream                  flame,     the downstream          flame       was inhibited         due to the 'oxygen
+shadow'      of the upstream             flame        for the air flow conditions               studied.        Downstream            flame      spread     rates
+in air, measured             after     upstream         flame       spread      was complete           and extinguished,               were      slower     than
+upstream flame spread rates at the same flow. The quench                                           regime for the transition  to flame spread
+was skewed toward the downstream,     due to the augmenting                                        role of diffusion for opposed flow flame
+spread,     versus      the canceling            effect     of diffusion         at very low cocurrent             flows.
+
+
+
+
+                                                                                  1
+ Introduction
+
+
+
+
+              Ignition      of solid      fuels     by an external           radiant      heat source,        and the subsequent               transition        to
+
+ flame       spread      are both processes             that have       application           to spacecraft          fire safety.        A material          that
+
+ undergoes       a momentary             ignition      but quickly       extinguishes          might be acceptable                for use in spacecraft,
+
+ but a material          which      permits       transition     from ignition         to flame      spread        poses      a significant      hazard      and
+
+ is clearly     undesirable.         Unfortunately,            our fundamental            understanding            of what controls           this transition
+
+ is not well developed               at this time.
+
+
+
+
+              Almost       all previous        works     have studied         ignition      and flame spread               independently.           Previous
+
+radiative       ignition     studies      [1,2] were either            one-dimensional              or stagnation           point   geometries,          where
+
+the mismatches             between        experiments           and theory         make direct comparison                  difficult.         A recent      two-
+
+dimensional           axisymmetric            model     [3] with variable           gravity     (variable      buoyant         flow) predicts        ignition
+
+at low gravity           (g<0.2go,       low buoyant           flow)   occurs       at the fuel vapor          plume        cap, which         is controlled
+
+by one-dimensional                heat and mass           transport      processes.
+
+
+
+             Previous       detailed      thin fuel flame          spread      computational             studies    [4,5,6]      are generally        steady-
+
+state and two-dimensional,                    so transient       and three-dimensional               effects       are not described.            Kashiwagi
+
+et al [7] have           developed        a three-dimensional                 transient      full Navier-Stokes               model      with finite        rate
+
+chemistry        and      surface       radiative      loss     that   has     been       shown      to model         microgravity            ignition      and
+transition      well.
+
+
+
+Hardware
+
+
+
+
+             Radiative       Ignition     and Transition           to Spread        Investigation          (R1TSI) flight hardware                consisted
+
+of the flow duct,           a control      box, and a display            box. Parts         boxes     housed        the individual          sample       boxes
+
+and other miscellaneous                 supplies.        Astronaut       experiment           controls      on the small external              control    box,
+
+included       fan on/off        and variable         speed control,         ignitor      wire activation,          radiant     heater    activation        and
+
+
+
+
+                                                                               2
+variablepoweradjustment,andchamberlight on/off andblinking.        The engineeringhardware,
+usedin JAMIC testing,wasautomatedusingrelaysbut was functionallyequivalent.
+
+
+       The flow duct,shownschematicallyin Fig 1, was85 mm wide x 95 mm high x 171mm
+long.Theambientenvironmento theflow ductwasprovidedby anenclosurearoundtheflow duct.
+In theshuttleexperimentstheambientenvironmentwascabinair (approximately21%02)contained
+in theMiddeckGloveboxworkingvolume,whereasin JAMIC asealedchamberwasfilled with the
+desiredmixture(21, 35,50%02 in N2). Theblue filter windowlid of theductopenedfor accessto
+changeout samplecardsanda combustionproductsfilter (molecularsieve,activatedcarbon,metal
+honeycomb,screens,andan electrostaticsub-micronparticlefilter). The 2.5 cm thick filter was
+downstreamof thecombustioneventandcollectedparticulates,absorbedmanygaseousproducts,
+and servedas a heat sink to maintaina constanttemperatureof the exhaustgasesso that the
+volumetricflow throughthefan remainedconstant hroughout heexperiment.
+
+
+       The slow flow velocity throughthe testsectionwasgeneratedby a small fan drawingair
+throughthetestsectionatspeedsfrom0 to 10cm/s. Calibrationof thefan voltagewith theactual
+velocity of theselow speedflows wasperformedin normalgravity using a low velocityhot wire
+anemometer
+         to measurethevelocityin thereducedcross-sectional
+                                                        area in front of thefan.Thetest
+sectionflow wascalculatedfrom this usingthe ratio of thecross-sectional
+                                                                     areasandthemeasured
+pressuredropbetweenthemeasurement
+                               siteandthetestsection.Theprobewasspeciallycalibrated
+by the manufacturerfor low speedflows, and the calibration wascheckedat the NASA Glenn
+ResearchCenteragainsta fully-developedpipe flow profile anda massflow meter. Smokeflow
+visualizationconfirmed the smoothnessof the flow through the test section.The estimateof
+uncertaintyof theflow velocityin thetestsectionis ± 0.5 cm/sbasedon thecalibrationdataandthe
+probeaccuracy.
+       A samplecardis showninstalledin thetestsectionin Figure1. A 10cm by 8.7 cmsheet
+ of Whatmanashlessfilter 44* wasu'sedas the samplepaper. A 1 cm grid wasprintedon each
+ sampleto aid in the analysisof results. The centralsectionof the samplewasblackenedwith a
+black Sharpie* permanentmarkerto enhanceabsorptionof the near-infraredradiationfrom the
+ignition lamp.
+
+
+       A near-infraredtungsten/halogen
+                                     radiantheatlampwith a parabolicreflectorwasusedto
+ignite the centerof eachsample.The lampwasrecessedinto the backwall of the flow duct and
+coveredwith a quartzwindowto minimize disturbances
+                                                 to the flow throughthe testsection. The
+powerto the lamp wasmeasuredduringeachtest.The lampautomaticallydeactivatedat a preset
+time. Thetotal poweroutputwascalibratedasafunctionof inputpowerwith a flux meter,andthe
+beamshapewascharacterizedusinga beamprofiler. ThebeamwasGaussian,with a 1/e2 radius
+of 1cm atthesamplesurface,with a peakflux of 10W/cm2. Theemissionspectraof the lampwas
+measuredfrom 2 to 20 lamusinga FTIR.
+
+
+       Six 0.05 mm diametertype K thermocoupleswerepre-installedon eachsamplewith the
+beadsonthecenterlineof thesample;four weresewninto thesurface,andtwo werestretchedacross
+the sampletwo mm abovethe surfacein the gas-phase.The thermocouplesignalswerecold-
+junction compensated,
+                    signalconditioned,and recordedalongwith radiantheaterpower,andflow
+velocity. No correctionshavebeenmade(radiation,conduction)to thethermocoupledata.
+
+
+      Color videopicturesweretakenof thesamplesurfacetoobservechangesin theflameshape
+andcharpattern. Red diodeswereusedto illuminate the samplesurfaceso the dim blue flame
+would still bevisible. Still colorphotographsweretakenatanobliqueangleby a motor-driven35
+mm camerato imagethe flamespread,charandsmokepatterns.
+
+
+       "Certaincompanyproductsare mentionedin the text in orderto specify adequatelythe
+experimentalprocedure and equipmentused. In no casesdoes such identification imply
+recommendationor endorsementby the NationalAeronauticsandSpaceAdministration or the
+NationalInstituteof StandardsandTechnology,nor doesit imply thattheproductsarenecessarily
+the bestavailablefor thepurpose.
+I2nition
+
+
+
+
+              In normal       gravity,      the irradiation       from     the lamp       was     insufficiently         energetic       to ignite       the
+
+quickly-convected              hot degradation         products        in either     horizontal      or vertical     orientations.             A heated
+
+pilot wire placed             in the gas phase       above     the irradiated        surface      was needed        to ignite        the degradation
+
+products.        The ignition         occurred       in the gas-phase,           and if no gas-phase           pilot was present,              the lamp
+
+would        simply     vaporize         a hole through       the material         with no additional          reaction       [8].      The buoyant
+
+convection           cooled    and removed         the fuel vapors         before     they have a chance           to mix with oxygen,                  heat
+
+up, and ignite.
+
+
+
+             In microgravity,          however,      a gas-phase         pilot was not needed.             The irradiation            from the lamp
+
+alone     was sufficient         to ignite the samples.           Thus, this        material      was more readily           ignited      by external
+
+radiant      sources     in microgravity.         This may be because               the pyrolysis     vapors       remained          within     the lamp
+
+irradiated      spot for       long enough         to mix with the oxidizer              and absorb        sufficient       radiant      energy        or to
+
+be heated       to sufficient        temperatures         by the hot charring          surface      to achieve       ignition        without      the aid
+
+of a pilot.     At ignition,         the cloud of fuel vapor           ignites     and the flame stabilizes          over the ignition             point,
+
+as shown        in Figure       2.    In the JAMIC          testing,     an on-board        microphone          easily     detected           the distict
+
+sound      of the thermal        expansion         wave     of ignition.
+
+
+
+             The ignition        delay time is defined          as the time from the first detected                      sample       heating      above
+
+ambient       to ignition      of the sample.        This definition        eliminates      a hardware         specific     1.2 second          lag time
+
+from      ignition     activation        to the first detected          sample       heating,     making       the results        more        useful     for
+
+future     comparisons.          The ignition        delay time was determined                  from the digital          data, which          provided
+
+thermocouple           data throughout          the test.   Ignition     is quite energetic;         the thermal         expansion        wave         from
+
+the ignition     event easily         exceeds      the imposed         flow and is quickly          sensed     by the thermocouples                    both
+
+upstream       and downstream              of the ignition      spot.
+           The ignition delaytime was linearlydependenton thegas-phase
+                                                                     residence(mixing) time
+for air (21%) and35% oxygenover.therangeof flow conditionsstudied,asshownin Figure3.
+Ignition delaytimes varied!inearly with inverseflow velocity,which is proportionalto the gas-
+phaseresidencetime; the slowerthe flow, the longer the ignition delaytime. The slopeof the
+ignitiondelaytime-inverseflow velocitycurvewasroughlyt/2..The slopecanbeconsideredto be
+agas-phase
+         characteristiclengthscalein cm, andagreedquantitativelywith the radiusof theheated
+spot.
+
+
+           Ignition delay times wereshorterat higher oxygenconcentration,consistentwith trends
+predictedin [9]. Theeffectof flow velocityontheignitiondelaytime in 50%oxygenwerelessthan
+atlower oxygenconcentration.The influenceof flow velocitybecamemorepronouncedat lower
+oxygenconcentrations,as shownin the insetto Figure3 whereignition time wasplottedagainst
+oxygenconcentrationfor two differentflow velocities. At high initial oxygenconcentrations,the
+rate controlling step was surfaceheat up (2.1 s, from thermocoupledata), and the gas-phase
+mixing/reactionoccurswithin a few tenthsof a secondafter the fuel surfacereachespyrolysis
+temperaturesfor all flows studied, but at low oxygenconcentrations,the portion of the ignition
+delayin Fig.3 associated
+                       with this gas-phase
+                                         mixing/reaction(tign-2.1
+                                                               s)agreescloselywith theflow-
+basedmixing time.
+
+
+Flame     Spread
+
+
+
+          Flame     spread       from   a central     ignition    spot is unique     in that the flame       in this situation    can go
+
+in whatever       direction(s)      it finds conducive           to spread.     The resultant   flame    spread    patterns      not only
+
+reveal    the important      controlling      mechanisms          for the flame spread      but also provide       information      about
+
+the fire hazard        in a realistic     fire scenario.
+
+
+
+          Transition       to flame spread          was achieved       for all flow velocities      tested     with the exception       of
+
+the quiescent       air case,     where    ignition     was followed          by a quenching     extinction.       This upstream,       or
+
+opposed     flow flame       spread     extinction      limit was expected        based on previous       work with a thinner        fuel
+
+
+
+                                                                        6
+ [10].       However,           even        for a very       weak       imposed         air flow       velocity      of 0.5 cm/s,             the transition          to
+
+upstream        flame        spread         was successful.
+
+
+
+             The flame          spread        direction      and rate were clearly                 dependent      upon       flow velocity         . Transition
+
+to spread       in only         the upstream            direction       occurred       at air flows       up to 6.5 cm/s, as shown                  the oblique
+
+views      of Fig 4 and the direct                 surface          views      in Fig 5 for flames            in air. Despite          convective          heating,
+
+as will be shown             by the thermocouple                 measurements             discussed       later, the downstream                 region     was not
+
+simultaneously              viable     due to the 'oxygen              shadow'        cast by the upstream              blue flame[7].          The incoming
+
+oxidizer       was consumed                 by the upstream           flame,     and the combustion               products      from that flame vitiated
+
+the downstream               flow even further.              The downstream               flame,     unable      to obtain      sufficient       oxygen       in the
+
+vitiated     flow, could         not propagate             while      the upstream         flame was present.                Once the upstream              sample
+
+was consumed,                the flame        wrapped        back around           along the unburned              lateral     edges        of the sample         and
+
+a concurrent           flame,        able     to obtain      un-vitiated         oxidizer      flow,      began         to spread      over     the preheated
+
+downstream           part of the sample.
+
+
+
+             An example           of concurrent             flame spread           is shown         in Figure     5d. The most difficult                 aspect     of
+
+interpreting         these      flames        is that they started             from    very non-planar            initial    conditions,         as the flames
+
+wrapped        around        the burned          edges      remaining           from    the upstream            propagation.           The material         is also
+
+preheated          by the upstream              flame       (as much           as 100 K from            thermocouple            data        at 5 cm/s),      which
+
+should      enhance         the flame         spread.       The concurrent             flame spread        in these experiments                 lasted    from 25
+
+seconds       to more than             100 seconds          for the range          of flow studied,             which       should     be sufficiently         long
+
+to reach      steady     state (estimated                 to take      16 seconds         [11]).
+
+
+
+             At the low air              flow     velocities         tested,     viable     flame      spread      occurred          only     in the upstream
+
+direction.          After     the upstream              flame       spread     was complete            and reached           the upstream           edge     of the
+
+metal      sample      holder,        the flame         turned       and propagated           perpendicular             to the flow along            the holder
+
+edge.      After     reaching          the top/bottom               edges      of the Sample,         the flame         then attempted            to propagate
+
+downstream.            For the 0.5 cm/s flow velocity                        test, the flame spread            only along       the burned         sample         free
+
+edges      left by the upstream               flame       spread,     completely          unable      to propagate          directly    downstream.            The
+
+
+
+                                                                                   7
+flamesextinguishedafterspreadingatmostafew cm alongthefreeedge.At 1cm/sflow, while the
+flame wasable to propagatedownstreamfor a numberof centimeters(for 100seconds),it also
+frequentlymovedonly alongtheburnededges.It quenchedwell beforereachingthe downstream
+edgeof thesample,leavingunburnedsample,andis thusconsideredto beself-extinguishing.Prior
+to extinction,it alsoexhibiteda few 'flashes',whicharebelievedtobeof a similar naturetothe pre-
+extinction oscillationsobservedin candleflamesin microgravity[12] At 2 cm/s flow velocity,
+however,a cocurrentflame remainedviableandthe entiresamplewasconsumed.A concurrent
+extinction limit thusappearsto be between2 cm/sand1 cm/simposedflow. This is of the same
+magnitudeas diffusive velocities[10], so it is possiblethat a forcedflow sufficient to overcome
+diffusion (of vitiating combustionproducts)is necessaryfor viableconcurrentflamespread.
+
+
+       Flamespreadratesweremeasuredin eachtest for both the upstreamand,for the space
+experimentsin air, the downstreamflame spreadwhich followed the upstreamspread. In the
+JAMIC tests,therewasinsufficient time (10 seconds)to observeany downstreamflame spread.
+Upstreamflamespreadratesaremeasured
+                                  by trackingtheupstreamcharfrontpositionasafunction
+of time. Downstreamflame spreadratesweremeasuredby trackingthe charburnoutpoint as a
+functionof time.Theuncertaintyof flamespreadrateis ± 0.03crrdsfor upstreamspreadand± 0.05
+cm/sfor downstreamspreadbasedon a standarddeviationof errorfor liner fitting of theflameor
+charfront locationvs.Time plots.
+
+
+       Theupstreamspreadratesareverysteady. Upstreamflamespreadalongthecenterlineof
+the sampleasa functionof flow velocity is plottedin Figure6 for the threeoxygenconcentration
+studied.Theonly otherexistingdata[ 13]for ashlessfilter paperis in goodagreement,asshownin
+Fig. 6. For all oxygenconcentrations tudied,thespreadrateinitially increaseswith flow velocity,
+but appearsto be asymptoticallyapproachinga maximumor plateau,which is theexpectedtrend
+baseduponpreviousmicrogravity resultsfortwo dimensionalflamespreadoverthin fuels [ 10,14],
+bothin termsof thespreadrate- flow velocitytrendsandthetransitionto a thermalregimeof flame
+spreadoccurringat higheroxygen for this thicker fuel. Thus it appearsthat the flame spread
+domainis not significantlyaffectedby thedifferencebetween2Dand3D except henearquiescence,
+
+
+                                              8
+wheredatascatterbecomeslarger.Thequenchingregionmightbenarrowerfor 3D geometriesthan
+for 2D configurations,which is predictedby calculation[9].
+
+
+       Fordownstreammeasurements,
+                               themotionof the mostupwindpartof theflame, theflame
+base,was tracked. This was madedifficult due to the non-planarinitial conditions for the
+downstreamspread.Despitetheseproblems,goodlinearityof theflamebasepositionversustime
+wasobtainedfor periodsof atleast25seconds,andup to 100secondsin theslowerspreadingcases.
+The two 0.5 cm/stestshadno downstreamflamespread;for the 6.5 cm/stest,the paperdetached
+fromthesamplecardandcurledup afterupstreamspreadwascompletedin the 6.5cm/stest,so no
+downstreamspreadratecouldbe measuredfor thattest. Forthe 1 cm/sflow casethedownstream
+flame spreadrate was measured,but is consideredself-extinguishing,since the flame self-
+extinguishedwell beforereachingtheendof the sample.
+
+
+       Theupstreamanddownstreamflame spreadratesmeasuredfor air areplottedin Figure7,
+whereupstreamflows arepositiveanddownstreamflows arenegative.Theonlyotheravailabledata
+with ashlessfilter paper [ 15]at 10cm/sis alsoshownin Figure6,andagreesverywell with thedata
+from this work. The quenchregionobservedin the experimentsis indicatedin Fig 7, generally
+centeredaroundquiescencebut skewedto the downstreamside,indicatingthatfor very low speed
+flows,the upstreamflamespreadis theonly viableoptionfor aburningmaterial. Theslopesof the
+leastsquaresregressionfits for upstreamanddownstreamspreadrateswith flow in Fig 7 are the
+sameto within the errorof the measurement.Thesespreadratetrendsarein excellentagreement
+with predictions[6,9], eventheexpectedpeak[9,14] in theupstreamflamespreadrate. Previous
+microgravityexperimentsovera thinnermaterial[ 14]found thepeakin spreadratefor thethinner
+materialathigherimposedflows (15-20cm/s),sothepeakspreadratemaybea functionof material
+thickness.
+
+
+      Simultaneous
+                 upstreamanddownstreamflamespreadin air wasnotobservedovertherange
+of flow studiedtodate.Downstreamflamespreaddidnotoccuruntil theupstreamflamespreadwas
+complete.Thus,the data presentedcan be consideredopposedand concurrent flame spread.
+
+
+                                             9
+ Upstream(opposed-flow)flame spreadis fasterthandownstream(cocurrent)flame spreadfor a
+ given flow, oppositeto that foundin Graysonet al [16]. However,the concurrentdatain air and
+ 30%O2in Graysonet al [16] is slowerthanopposedflow data[14]. This trendof fasterupstream
+ flamespreadis the exactoppositeof normalgravityflame spreadwherenot only is simultaneous
+upward(downstream)anddownward(upstream)flamespreadpossible,but the downstreamflame
+ is muchfasterthan the upstreamflame. It is expectedthatat sufficiently high forcedflow, that
+simultaneousupstreamanddownstreamflame spreadwill becomeviable. It is also likely that
+downstreamflamespreadwill continuetoacceleratewith increasingflow velocitytomergewith the
+known high flow velocityflame accelerationtrends[17] whereasthe upstreamflame spreadwill
+peakandthenbeginto fall off with increasingflow [14].
+
+
+3D Limiting           Flame     Angles
+
+
+
+            As mentioned          above,      during     the early part of all tests, the flame                 spread       (when    it occurred)
+
+was solely      upstream        diverging         from the ignition             region.   However,        for tests in air there           appears    to
+
+be a maximum           angle of flame          spread     for a given       flow, which          can be seen     in the char patterns           in Fig
+
+5. The experimental             angle,      defined     as the angle from the ignition                spot to the upstream           lateral edges
+
+of the char region        as the upstream           flame neared          the upstream         edge of the sample,       was measured            from
+
+the video     images.         The measured            angles      for the long duration          USMP-3       tests in air are shown            in Fig
+
+8 as a function        of flow velocity.              At sufficiently           high flow velocities         (>3.5   cm/s),     the flame       angle
+
+is nearly     90 degrees,       indicating        semicircular           flame     propagation       in the upstream          direction.       Below
+
+that flow rate, however,            the flame         angle reduces        with flow rate until a limit of zero angle is reached
+
+at 0.5 cm/s flow.           The     flame     at 0.5 cm/s air flow rate propagated                        directly   upstream        without         any
+
+lateral    growth.      A quiescent          case extinguished            shortly     after ignition,      so the 0.5 cm/s flow rate case
+
+is very near the extinction              limit.
+
+
+
+            A simple     analysis        that estimates           the air flow        normal      to the flame       front    to determine           the
+
+limiting     flame     angles     is compared           here      with the measured            results.      The component            of the flow
+
+velocity     normal     to the curved         flame      front,    U,,    is estimated         from geometric        considerations           to be
+
+
+
+                                                                           l0
+             U. = U® cos a                                                                                                                               (1)
+
+
+
+ where     _x is the maximum              flame       angle and U® is the free stream                    flow velocity.             We also know,           from
+
+ the experiments,             that the limiting          air flow velocity             for upstream          flame    spread      was very close to U,,
+
+ *ira= 0.5 cm/s,       where      the flame spread                   angle for the tunneling           flame     was zero.        If we solve Equation
+
+ (1) for the       limiting      angle     at which           the normal          air flow velocity          becomes       the approximate           limiting
+
+ value     of 0.5 crn/s,       we obtain
+
+
+
+            tX =   COS "1 (Un,    lira / U®)                                                                                                             (2)
+
+
+            However,          for very weak            imposed           flows,      the diffusive      velocity,      Up, cannot           be neglected       as
+
+a source      of oxidizer        transport.       The magnitude               of U o has been estimated                 to be 1-2 crn/s [10].            If we
+
+use linear      superposition            to incorporate               this effect,     equation      (2) becomes
+
+
+
+            0_ = COS'I[(Un.       lira + UD)/(U.d'-           UD)]                                                                                       (3)
+
+
+
+            Curves     of this equation           are shown             in Figure      8 for values     of U D of 0 and 2 cm/s along                 with the
+
+actual     angle     measured         in each         test.     Qualitative          agreement        is obtained        at     the higher        flow     rates
+
+(convective        regime)       when      diffusion           is neglected          (UD=0).      However,       the importance              of diffusion      is
+
+pronounced         for the flows          at and less than 2 cm/s (diffusive                       regime),      where        qualitative      agreement       is
+
+obtained       only when         a UD=2 cm/s is used.                    Simply        using      the air flow velocity            normal       to the flame
+
+front is sufficient        to predict       the trend in the limiting                  spread     angle if the extinction            limit flow velocity
+
+value is known.          Using      the same expression,                   it is possible       to predict    the extinction         limit flow velocity
+
+using an experimentally                measured               flame     spread       angle for a given         material.
+
+
+
+Temperature           Measurements
+
+
+
+
+           The temperature             data recorded                 in each test provide          a more detailed             picture      of events.      Fig
+
+9 shows     the temperature           traces     from a 5 cm/s flow test, which                      is almost       two independent           experiments
+
+
+
+                                                                                  11
+for the upstreamanddownstreamflame spreadportionsof the test. The ignition point surface
+temperatureshowstherapid heatingfrom the radiantheateratthe ignition point with only a slight
+inflection at the pyrolysistemperatureof about700K asthe samplequickly degradeddueto the
+intenseradiantheat. Ignition occursin the gas-phase
+                                                  atapproximately4 seconds,as indicatedby
+thespikesin theupstreamtracesandrapidrisein the downstreamthermocoupletraces.The spikes
+in theupstreamthermocouplesindicatethatthethermalexpansionof ignition wasstrongerthanthe
+incomingflow, but that the flow thenquickly (<1 sec)washedthe remnantsdownstreamin the 5
+cm/sflow. In contrast,thedownstreamthermocouples
+                                               showa steadyrisedueto convectiveheating
+from theupstreamflame.
+
+
+       The upstreamflamepassedthe 2 cm locationat9 secondsafterignition with a peakgas-
+phase temperature( 2 mm abovethe surface)of nearly 1100K beneaththe leadingedgeof the
+flame, anda surfacepyrolysistemperaturefollowing 1.5secondslaterof 700K. Usingthespread
+rateof 0.23cm/s,the 1.5secondscorrespondsto 0.35cm of flameoverhangaheadof thepyrolysis
+front. Thetail of theupstreamflamepassesat28seconds(6.5cm),with peak temperatures
+                                                                                of 1200
+K both in the gasand at the bumedout surfacelocation. Temperaturesfall precipitouslyat 30
+secondswhentheupstreamflamebumsout asit reachestheupstreamedgeof the sample.
+
+
+       Thedownstreamthermocouplehistoryis alsointeresting. After ignition, the downstream
+thermocouplesquickly heat up due to convectiveheatingfrom the upstreamflame. Surface
+temperatures
+           of 625 K arerecordedat2 cm downstreamfrom theignition point, while 2 mmin the
+gasphaseatthatsamelocationtemperatures
+                                     reachalmost800K. This surfacetemperatureis very
+closeto the onsetof pyrolysis for cellulose,so, for higherflow rateswith increasedconvective
+heating,it is likely that simultaneousdownstreamflame spreadwill be viable as oxygen also
+becomesmore available with increasedconvection. Even at 4 cm, the downstreamsurface
+temperaturesreach500 K.     As the upstreamflame movesfurther away from the downstream
+thermocouples,the temperaturesfall gradually. When the upstreamflame extinguishesat 30
+seconds,all temperaturesdropto approximately450K asthe flamemakesits waybackaroundthe
+peripheryof theburnedmaterialto the unburneddownstreammaterial. At 35 seconds,the flame
+
+
+                                             3.2
+beginstospreaddownstream,andtemperatures
+                                       at2 cmdownstreamoftheignitionpointquicklyheat
+upto 950K in thegas-phasebeneath.th.e
+                                   flametips,and 700K asthefuel beginsto pyrolyze. The
+flamebasepassesoverthethermocouplelocationat48 seconds,with a peakgas-phase
+                                                                          temperature
+of 1450K, and 1000K atthe burnedsurface. The4 cm surfacethermocoupleshowsanextended
+preheatregionbut otherwiseis very similar to the 2 cm downstreamsurfacethermocouple.The
+distancebetweenthe two peaks(2 cm)dividedby thetime betweenpeaks( 13seconds)agreesvery
+well with the visually-trackedspreadratefor this test.
+
+
+Heat Flux       Analysis
+
+
+
+            The temperature-time             data were used in a simple                    surface    balance      in the preheat        region     of the
+
+flame during         flame spread.        The surface       balance      equates          the net heat flux from the overhanging                    flame
+
+with the fuel heat         up and re-radiation.             This model            focuses       on the preheating             feedback         flux from
+
+flame until pyrolysis           temperatures,      or so-called         ignition     temperatures,             are achieved.         Since the overall
+
+effect of the cellulose          degradation       is only slightly         endothermic[             18,19],     this energy     balance         provides
+
+a simple      method      to evaluate        the net heat flux from                the leading        edge      of the   flame        to the surface.
+
+From     this balance      we can determine               the peak heat flux as a function                      of external     flow     velocity      and
+
+O 2 concentration.           The surface         balance      used is as follows:
+
+
+
+                                        //                    dT
+                                    qnet=         Ps_q           dt
+                                                                      ' +
+
+where      the half thickness        area density         Ps z -- 0.00385          g/cm _, emissivity             e = 0.85,     Stefan-Boltzmann
+
+constant      o = 5.729x        10 "_2W/cm _ K4(experimental                    value),     heat capacity        Cs= 1.26 Jig K,          and ambient
+
+temperature       T. = 300 K.             The     first derivative          of the         temperature-time           data     was     taken      using      a
+
+Savitsky-Golay          differentiation         scheme,     with 13 surrounding                points.       Time was converted             to distance
+
+using    the measured        spread       rate, and linearly          shifted      so that x=0 at the leading                edge.     The peak       heat
+
+flux    is usually      noted     as the leading          edge    of the flame              passes    the thermocouple                location      (x=0).
+
+However,       for the weakest         flames,     the leading         edge heatup           flux is small and           the preheat       lengths        are
+
+
+
+                                                                          J.3
+long. This resultsin low surfacere-radiationatthe leadingedge,sothat the peakheatflux to the
+surfacedoesnot occuruntil after the leadingedgeof the flame haspassed.After passageof the
+flameleadingedge,thesurfacereachesanapproximatelyconstantpyrolysistemperature,
+                                                                             but surface
+radiativelossis significant,sothenet heatflux plateausat approximately1.3W/cm2until burnout.
+
+
+           Figure 10showsthe peaknet heatflux dependence
+                                                       on imposedflow for the threeoxygen
+levelstested.Thedependence
+                         is not quite linear,with increasinglevelsof heatflux with increasing
+imposedflow velocity.Increasingtheoxygenconcentrationalsoincreasestheheatflux. Theslopes
+of the heatflux-flow datafor 35%and50%arenearlyidentical,but thenearlimit atmosphereof air
+showsa lower slope. The inset to Figure 10 providesa clearer picture of the peakheatflux
+dependence
+         onoxygenconcentrationfor two differentflow velocities.Thedependence
+                                                                           is nonlinear,
+andfallsoff sharply at loweroxygenlevels.The peakheatflux levelsfor air aremarginallyhigher
+thanre-radiationlosslevels.
+
+
+           Anotherwayto interpretheimportanceof thesurfacebalanceisby comparingrelativeterms
+in the surfacebalanceabove. Here,,'e definethefractionof radiatively-iostnet heatflux to be
+
+
+
+                                                                go(T4s,leading    4
+                                                                            edge-T2)
+                               Floss,   leading    edge =                                                                              (5)
+                                                                           //
+                                                                       qnet,      leading    edge
+
+
+
+
+          This     is the fraction      of the heat      flux from        the leading       edge    of the flame       that is needed          to
+
+counteract       the surface    re-radiative      loss beneath      the leading     edge of the flame.         The remaining        fraction
+
+of the heat       flux from      the leading      edge      flame   is then     available     for fuel    heat     up, according       to the
+
+surface      balance.   Obviously,       if the F_o. approaches           unity, the flame         is barely     able to offset    radiative
+
+losses    even    beneath      the not-yet     pyrolyzing      fuel, and the flame          is very close      to extinction.
+
+
+
+
+                                                                     14
+             The calculated           F_ossdependence              on imposed           flow velocity          is shown       in Figure          I I. For 50%
+
+oxygen,       the fractional          losses    remain       below        30% over the range                 of flow rates,       so the flame           is quite
+
+robust      even      for the      lowest       flows.       At 35%          and 21%         oxygen,           however,        as flow       decreases          the
+
+fractional      losses       increase     dramatically,           and for quiescent         conditions          quenching         is noted       shortly      after
+
+the fractional         heat loss of 70% is observed                       (35% oxygen         quench          extinction       data).      Fractional         heat
+
+losses     increase      with decreasing               oxygen       for any given          flow      rate.        As was        shown       in Fig.        10, the
+
+fractional      losses       are increasing        at low flow due to the decreasing                         net heat flux from the leading                  edge
+
+of the flame,       while the radiative             losses    remain         almost     constant.       Quenching            extinction      is noted       when
+
+the peak       net heat       flux      from    the flame          to the surface         is no longer          sufficient      to offset        the ongoing
+
+losses,     which      is estimated         to be when            heat loss exceeds         70% of the peak heat                  flux.
+
+
+
+Preheat       and Pyrolysis             Lengths
+
+
+
+             Upstream         preheat     lengths       were all approximately               3-4 mm in length                to within      the error in the
+
+measurement,           as determined            from the visual             distance      between       the blue flame            leading        edge    and the
+
+pyrolysis      front     beneath        the flame on the paper               surface.      Thermocouple             data corroborate              these visual
+
+measurements,            as mentioned            above.
+
+
+
+             Downstream            pyrolysis       lengths        were     measured       during       downstream             flame      spread     in air that
+
+occurred       after the upstream              flame      spread     was complete.           Pyrolysis          lengths      were       determined           from
+
+the distance        between          the initial    visible       darkening          of the sample           and the burnout            point,    and      varied
+
+considerably          with flow velocity,            as shown         in Fig 12.         Pyrolysis      lengths      grow linearly           with imposed
+
+flow, as does the concurrent                   spread     rate.     There     is thus a linear relationship                between        pyrolysis        length
+
+and flame       spread        rate for downstream                 flame     spread.       The data from Fig 9 indicate                     that the passage
+
+of the flame          base     at the 2 cm downstream                     location      at approximately             45 seconds           occurs        simulta-
+
+neously      with the onset           of pyrolysis        temperatures           at the 4 cm downstream                   thermocouple            location,        in
+
+good      agreement          with the visually           measured         2 cm pyrolysis            length.
+
+
+
+Conclusions
+
+
+
+                                                                                15
+       This experimentis the first to examinespontaneousradiative ignition of a material in
+microgravity. Ignition occurredmore readily in microgravity than in normal gravity.   This is
+believedto be becausethe hot pyrolysisvaporsremainedwithin the lampirradiatedspotfor long
+enoughto mix with theoxidizerandheatupto theignitiontemperaturewithouttheaidof a pilot. For
+21%and35%oxygenconcentrations,the ignitiondelaytime is linearlydependenton thegas-phase
+residencetime,which is inverselyproportionalto the imposedflow velocity. Theflow mixing time
+is not significantat 50%02, wheresolid-phaseheatupdominatesthe ignition delaytime.
+
+
+       This experimentis alsothefirst to lookattheflamespreadpreferencesof a centrally-ignited
+flame in a weakly ventilatedmicrogravitysituation. In this experiment,the initial flame spread
+occurredonly in the upstreamdirection,indicatingits strongneedfor freshoxidizer. The upstream
+flame spreaddependenceon flow velocity for lower oxygen concentrationsis consistentwith
+previouslyreportedresults[ 10,14]. Theangleof the flameasit spreadsupstreamis shownto bea
+functionof the limiting flow velocitynormalto the flamefront.
+
+
+       Despite significant preheatingby the upstreamflame, the downstreamflame is not
+simultaneouslyviable due to the 'oxygenshadow'of the upstreamflame for the flow conditions
+studied in air. Once the upstreamspread is complete and extinguished,oxygen penetrates
+downstream,the downstreamflamebecomesviable,andcocurrentflame spreadis observed.Even
+with convectivepreheating,however,theconcurrentflamespreadis slightly slowerthanupstream
+flame spreadfor the sameimposedflow velocity.         It is likely, basedon flame spreadand
+thermocoupledata, thatsimultaneousupstreamanddownstreamflame spreadwill becomeviable
+athighenoughforcedflow. Thedownstreamflamespreadwill continueto acceleratewith increasing
+flow velocity whereasthe upstreamflamespreadpeaksandthenbeginto fall off with increasing
+flow.
+
+
+      Quenchingextinction is notedat very low flows for both upstreamanddownstreamflame
+spread.Thequenchregimespansfromjust below0.5 cm/sfor opposedflow flamespreadthrough
+quiescence
+         to approximately-1.5cm/s for cocurrentflamespread.Theskewednatureof thequench
+
+
+                                             16
+regime is believedto be dueto the augmentingrole of diffusion for opposedflow flame spread,
+versusthecancelingeffectof diffusion at very low concurrentflows.
+
+
+            A simple surfacebalancewasusedto determinethatpeakheatflux increaseswith increasing
+imposedflow velocityandwith increasing02concentration.
+                                                     Thefractionalheatlossesincreasefrom
+ 15-30%     at high flow velocity           to 70%     at low flow velocity          at the lower oxygen       concentrations     prior
+
+to quenching      extinction.      The increased       fractional      heat loss is due to the decreasing           net heat flux from
+
+the leading     edge    of the flame,         while    the radiative       losses    remain    almost    constant     (~1 W/cm2).
+
+Quenching      extinction       is noted    when the net heat flux from the leading                edge of the flame    to the surface
+
+is no longer    sufficient      to offset    the ongoing     losses,      which     is estimated    to be when heat loss exceeds
+
+70% of the net heat flux.
+
+
+
+Acknowledgments
+
+This work is funded by the NASA Microgravity  Science Program under the Inter-Agency  Agreement
+No. C-32001-R.     The authors would like to thank the astronauts  of STS-75 for their excellent
+operation     of the hardware,       especially       Dr. Maurizio       Cheli    and Dr. Jeffrey     A. Hoffman.      We also thank
+Mr. Daniel     Sokol    and Mr. Carl Fritz            for their help in development            and testing    of the hardware.
+
+
+
+
+                                                                    17
+References
+
+1       Kashiwagi, T., Combust. Sci.&Tech 8:225-236                                          (1974).
+2       Amos, B. and Fernandez-Pello,  A.C., Combust.                                        Sci.&Tech.          62:331-343              (1988).
+3       Nakamura,            ¥.,    Yamashita,H.,             Takeno,         T., and Kushida,                G.; Combustion              and      Flame     120,
+        pp.34-48,           2000.
+4       Di Blasi,       C., Crescitelli,            S., and Russo,             G., Fire Safety              Science      -Proceedings           of the Second
+        International           Symposium,               p. 119-128       (1989).
+5       Bhattacharjee,              S.,     and     Altenkirch,           R.A.,        Twenty-Third             Symposium              (International)          on
+        Combustion,   The Combustion    Institute,                             Pittsburgh, PA, 1990, pp 561-568.
+6       Ferkul, P.V., and T'ien, J.S., Combust.                               Flame 99:345-370     (1994).
+7       Kashiwagi,           T., McGrattan,               K.B., Oison,            S.L., Fujita,        O., Kikuchi,          M., and Ito, K., Twenty-
+        sixth Symposium                (International)              on Combustion,                The Combustion            Institute,       Pittsburgh,     PA,
+         1996, pp. 1345-1352.
+8       White,       K.A.;"Ignition               of Cellulosic           Paper        at Low        Radiant       Fluxes",         NASA        TM     107311,
+        August,        1996.
+9       McGrattan,            K.B.,       Kashiwagi,         T., Baum,          H.R, and Olson,               S.L.,      Comb.      Flame       106, pp. 377-
+        391 (1996).
+l0      Olson,       S.L.,      Ferkul,        P.V., and        T'ien,       J.S.,     Twenty-Second             Symposium             (International)          on
+        Combustion,             The Combustion               Institute,        Pittsburgh,          PA,.      1988, pp. 1213-1222.
+11      T'ien,      J.S.,     Sacksteder,           K.R.,      Ferkul,        P.V., Bedir,            H.,     Shih,      Hsin-Yi,         Greenberg,        P.S.,
+        Pettigrew,          R.D., Piltch,         N., and Frate,          D., Fourth         Int'l Microgravity            Comb.       Workshop,           NASA
+        Conference           Publication            10194,      pp. 399-404             (1997).
+12      Dietrich,       D.L.,       Ross,      H.D.,       Frate,     D.T.,       T'ien,    J.S.,    and Shu,         Y., Fourth         Int'l Microgravity
+        Comb.       Workshop,             NASA           Conference          Publication            10194,      pp. 237-242           (1997).
+13      Ramachandra,                P.A.,      Altenkirch,           R.A.,      Tang,       L.,     Bhattacharjee,           S., and       Sacksteder,          K.;
+        Combustion            and Flame             100, pp. 71-84,            1995.
+14      Olson,      S.L., Combust.                Sci.&Tech.,         76:233-249            (1991).
+15      Pettigrew,          R.; MS Thesis,               Case Western             Reserve         University,      May,      1995.
+16      Grayson,        G.D.,       Sacksteder,            K.R.,      Ferkul,        P.V., and T'ien,            J.S.;    Microgravity           Science     and
+        Technology            VII/2,      pp. 187-195,          1994.
+17      Hirano,       T.,     and      Sato,       K.;    "Effects        of Radiation              and      Convection          on    Gas      Velocity     and
+        Temperature            Profiles        of Flames       Spreading             over Paper",         Fifteenth       Symposium           (International)
+        on Combustion,                The Combustion                 Institute,       pp. 233-241,            1974.
+18      Kashiwagi,           T. and Nambu,                H., Combust.            Flame,      88345-368(1992).
+
+19      Nakabe, K., McGrattan, K.B., Kashiwagi,                                      T., Baum,        H.R., Yamashita,              H., and Kushida,            G.,
+        Combust. Flame, 98361-374(1994).
+
+
+
+
+                                                                                18
+FigureCaptions
+
+Figure 1: a) Schematicof RITSI experimentmodule. Flow is drawnthroughthe testsectionby a
+smallfan. A tungsten-halogenlampandreflectorarerecessedin the duct wall, andirradiatethe
+centerof the sample. The combustionproductsarefiltered beforeexiting the test section, b)
+Photographof theR1TSIflight hardwarewith samplecardandfilter installed,with interfacecables,
+controlbox anddigital displaybox.
+
+Figure2: A largeflameplumedevelopsquicklyduringradiativeignitionof apapersamplevia near-
+infraredradiationin a 50%oxygen,5 crn/sflow environment.Imagesare approximately0.8 sec
+apart. Grid onpaperis 1cm square,a) faint fuel vapordome-shaped  cloudformsovertheirradiated
+spot,b) ignition "cap", c) andd) transition from ignition to flame spreadas the ignition "cap"
+expandsandbeginsto spreadacrossthesample.
+
+Figure3: Ignition delaytimesarelinearlydependenton the inverseof the imposedflow, which is
+a residenceor mixing time for a givenirradiatedspotsizeandpowerlevel. Insetshowsthe ignition
+delaydependence   on oxygenconcentrationfor two differentflow rates,2 and5 crn/s.
+
+Figure4: 35 mm still photographsshowinganoblique view of the surfaceof the sampleas the
+flamespreadapproaches   theupstreamedgeof thesamplefor differentair flow rates.Flameis blue
+overcharringsample,which is illuminatedby redLEDs. Air flow is enteringfrom theright, a)0.5
+cm/s,b) 2 cm/s,c) 3.5 cm/s,d) 5 cm/s,e)6.5cm/s.
+
+Figure5: Video stills showingsurfaceview of the sampleilluminatedwith redLEDsduringtests
+with differentflows. Flow is from right to left. Grid on samplesurfaceis I cm square.
+        (a)    tunnelingflame spreadinto 0.5 cm/s flow. Flameis unableto spreadlaterallyand
+               tunnelsstraightintothefreshoxidizerflow. Downstreamflamespreaddoesnotoccur
+               atthis flow rate.
+        (b)    fan-shapedflame spreadinto 2 cm/s flow. Flame is able to fan out more with
+               increasingflow. Lampis visible throughburnedhole in thepaper,andlargecracks
+               in thecharredsampleareobserved.
+        (c)    semi-circularflame spreadinto 6.5 cm/s flow. Somesooting is apparentat this
+               highest flow studied. Cracksareagainapparent,with a largehole in the sample.
+               Simultaneousdownstreamflamespreadwasnot observedover the rangeof flows
+               studied(0.5-6.5crn/s).
+        (d)    concurrent(downstream)flamespreadwith 5 cm/s flow. Oncethe upstreamflame
+               spreadwascomplete,the flamewrappedbackaroundto the unburneddownstream
+               sampleanda purely cocurrentflame spreadis observed. Glowing white lines are
+               thermocouples.Downstreamflamespreadconsumedtheentiredownstreamsample
+               for imposedflows of 2-6.5 cm/s. The weakerflows of 0.5 and 1 cm/s had self-
+               extinguishingdownstreamflames.
+
+
+
+
+                                             19
+Figure6:     Upstreamflamespreadratesfor threedifferentoxygenconcentrationsas a function
+             of flow. V-50% 02, f--1-35% 02, O-21% 02, A-50% O2[13], <)-35% 02 [13], X-
+             extinguished.
+
+
+Figure7:     Flame     spread     rates measured            for both upstream              (O-opposed        flow)     and downstream
+             (I-'1, 0115]-    concurrent)        flames          in air.     Symbols      are sized     to estimate      the error in the
+             measurement.           A quench            region      is indicated         for flow     velocities      for which       flames
+             cannot     be sustained        in air (X-self-extinguishing).
+
+
+Figure8:     A comparison         between       the measured               flame angles     in air and the angle estimated              using
+             Eqn 3. Diffusive            velocities      need to be accounted               for when      imposed       flows     are of the
+             same magnitude.
+
+
+Figure9:     Temperature         history     for a 5 cm/s imposed               air flow experiment.               The first 35 seconds
+             is upstream        (opposed      flow)      flame      spread,      while     the next 35 seconds           is downstream
+             (concurrent) flame spread.   Surface pyrolysis    occurs at 700 K.     Gas-phase   flame
+             temperatures reach as high as 1450 K. (no radiation/conduction   corrections   have been
+             made on the data).
+
+
+Figure10:    Peak     heat flux from the upstream                  flame      to the surface        the thermocouple            location    as
+             a function of imposed flow for three oxygen concentrations.     The inset to the figure
+             presents the oxygen dependance  of the peak heat flux for two imposed flow velocities.
+
+Figure11:    The fraction       of the upstream           heat flux from           the leading      edge of the flame           that is lost
+             to surface      radiation      as a function          of imposed          flow for three       oxygen      concentrations.
+             The fractional       heat losses         increase      at low flow at the lower oxygen                 concentrations         due
+             to the decreasing net heat flux from the leading edge of the flame, while the radiative
+             losses remain almost constant.     Quenching   extinction is noted when the fractional
+             losses   become      too great.
+
+
+Figure 12:   The downstream   pyrolysis lengths for the cocurrent flame spread tests scale                                           linearly
+             with imposed flow velocity, A, and concurrent     flame spread rate,V.
+
+
+
+
+                                                                 2O
+                                   q_                    _>JI _ungstc _-I
+                                       lit       _[T        gi haloge13 /
+                                       II ill                  |1 lamp/ I
+
+
+
+                 i(i
+                 '
+                 I
+                 ,
+                                  sample[
+                                   l                 [
+                                                         card
+                                                           •       l
+                                                                           iill
+                                                                            III I
+                                                                           =:"F   l   <-'--
+                          ........ 7......
+                          -                  -       I
+                                                                           _ll-n°w
+                                                                           -'X
+
+
+
+
+                 '                               !                          ',:11_--
+                 I                                                          I!
+
+
+
+
+            falter _ _'       "                      i                 •   J
+
+(a)
+
+
+
+
+      (b)
+
+                                                                                              Fig.   1
+    r--
+    0
+    t.>
+    It>
+    [13
+
+    >_
+    C_
+i
+
+
+
+
+    t-
+    O
+
+    r-
+    E_          -'_                    0      21%02
+
+
+
+                0.4       0.8    1.2        1.6          2.0
+
+          U-1   , sec/c    m or Mixing     time,   sec
+
+
+
+
+                                                               Fig. 3
+(a)
+
+
+
+
+(b)
+
+
+
+
+(c)
+
+
+
+
+(d)
+
+
+
+
+(e)   Fig 4
+(a)   (b)
+
+
+
+
+(c)   (d)
+
+
+
+
+            Fig. 5
+0   1   2   3   4   5   6   7   8   g   10   11
+
+        Imposed     flow, c m/s
+
+
+
+
+                                                  Fig. 6
+      0.25
+ O3
+
+
+ E    0.20
+                   \
+ (P                    \
+
+ ®                         \
+      0.15
+l,
+
+"0
+ (5
+ ®    0.10                      \
+
+L
+0_
+60
+©     0.05
+E
+      0.00
+
+             -10           -6       -2      2     6    10
+
+
+                       Imposed           flow, c m/s
+
+
+
+
+                                                            Fig. 7
+     0
+
+
+     C_
+           9O
+                    -                                                      PL_LO-
+     (D    80
+     03
+           7O       diffusive                /                             ,            .           "
+     E
+     _]
+     q_    60
+     L._
+
+     09    5O
+     --I
+           4O
+     0                   / !                              assumed                                   -
+           30           / /                               diffusive                    cm//s         "
+     Ct_
+     ¢-
+           2O               _)                            velocity                                  -
+ C_                                                                                0 Uo
+ (-
+           10                                                .......
+
+
+.m
+            0                                                -_                    ac tual
+                                 ,   !   ,       I    ,      I         ,       I   i        I   ,
+                0       1            2           3         4                   5         6          7
+                                 Imposed             flow,        cm//s
+
+
+
+
+                                                                                                         Fig.   8
+                  ....   A - ignition point surface
+                         B - 2 cm upstream surface
+                  --     C - 2 cm downstream surface
+                         D - 4 cm downstream surface
+                         E - 2 cm upstream gas (2mm)
+                         F - 2 cm downstream gas (2mm)
+      1500                          i
+
+
+
+
+      1400                          •           /_     downstream
+             upstream spread        •          /1      spread
+      1300                          •         IE_
+                                    •         I /
+                                    •        I     _
+      1200
+                                    •        /       I
+                                    •       I        I
+v'    1100
+                                    •      /          I
+                                    •     (           1
+¢._   1000                          "   [              I        "_
+                                    • #                 I      I_
+L_
+      90O                           " /                 l     / \
+Q.                                  • I                           J
+      80O
+E                                   • I                       /
+                                                                  ¢
+                                                                           I
+t-    7O0                           • I        D        IJ"                I
+
+      6OO
+
+
+      5O0
+
+
+      4OO
+
+
+      3OO    I           I      I          I        I                 [
+
+
+
+             10          20    30         40       50                 60       7O
+
+
+                  time from start of ignition, sec
+
+
+
+
+                                                                                    Fig. 9
+         I    i   I   i     I   _   I   i    I        i   I   _   I   i   I     i    i   i   I   l    I
+
+
+
+
+E
+     2
+
+                                                 _P
+©
+r_
+
+
+         I    ,   I   ,     I   ,   I   ,    I        ,   I   ,   i   ,   I    ,     I   ,   I   ,
+
+         13       1        2        3       4             5       6       7          8       9       10
+
+                          Imposed           Flow Velocity,                    cm/s
+
+
+
+
+                                                                                                          Fig. 10
+       X
+       -1
+  L
+  -_        1.0            '       I            '       l       '       I       '       I       '       I       '       I       '       I       '       I       '       I       '       I
+
+
+      <]
+      q)              ,J                                                                                                                        0                       5ox
+  T         0.9       IZ
+                      im                                                                                                                    -_-                         35X
+  Z
+            0.8                                                                                                                             -+,--                                   x
+      co 0.7
+  0
+
+
+
+
+                                                                                                                                                                                            t
+ _J
+       I    0.6        \       \\
+      >.,                  \           \\
+            0.5
+      >
+
+
+4--
+      cJ    0.4
+sO
+
+[22
+
+      o     0.2
+      c-"
+.9          0.1
+                  I    i       I            ,       I       i       I       i       I       ,       I       ,       I       ,       I       ,       I       ,       !       ,       I
+  0
+  (3              0            1                    2               3               4               5               6               7               8               910
+  L_
+LL                    Imposed                                       flow                    velocity,                                       c m/s
+
+
+
+
+                                                                                                                                                                                                Fig. 11
+                             Imposed        flow, cm/s
+
+               0         1        2         3                4          5
+         2.2             i        I         I                I          f
+
+     -    .0
+
+         1.8
+         1.6
+
+=>, 1.4
+
+
+
+
+         1.0
+ o       1.2       .__                              /_
+
+._ 0.8 V/_                   '
+._ 0,6                             i    i       ]        I       i           i
+
+
+
+
+a0         0.04     0.06         0.08       0.10             0.12        0.14
+
+           Downstream             flame      spread                  rate,       cm/s
+
+
+
+
+                                                                                        Fig. 12
+

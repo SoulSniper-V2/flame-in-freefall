@@ -1,0 +1,520 @@
+            Flame Design: Round 2, inverse-flame day 7
+          Chamber filled to 44.1 psia with ~10% ethylene (balance N2)
+
+Test 22027A1 (test 1 of 17) – failed ignition (with no flash), run with Analog
+Camera Gain=31
+
+
+
+
+                                         1
+Test 22027A1, continued
+
+
+
+
+                          2
+Test 22027A1, continued
+
+
+
+
+After test: 961 on lowest valve safety timer, 124 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         3
+Test 22027B1 (test 2 of 17, flame 1 of 16) – sustained ignition, flow variant of
+A1, run with Analog Camera Gain=31
+
+
+
+
+                                         4
+Test 22027B1, continued
+
+
+
+
+                          5
+Test 22027B1, continued
+
+
+
+
+After test: 903 on lowest valve safety timer, 121 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         6
+Test 22027B2 (test 3 of 17, flame 2 of 16) – sustained ignition but IPSU-G
+stopped archiving during the test, nominal repeat of A1 (with ignition at the B1
+flow), run with pmt1Gain=pmt2Gain=pmt3Gain=6,
+oxidizerTestFlow2Slpm=0.138, constantFlowTime1Sec=3,
+constantFlowTime2Sec=170, testFlowRamp1To2TimeSec=2
+dataCamera Zoom=20000, dataCamera Focus=15400, Analog Camera Gain=31
+
+
+
+
+                                        7
+Test 22027B2, continued
+
+
+
+
+             Too late to get useful PMT and radiometer console data
+
+After test: 838 on lowest valve safety timer, 118 psia in oxidizer bottle, 58 psia
+in fuel bottle
+
+                                         8
+Test 22027B3 (test 4 of 17, flame 3 of 16) – sustained ignition, flow variant of
+B2, run with pmt1Gain=pmt2Gain=pmt3Gain=7, oxidizerTestFlow2Slpm=0.086,
+constantFlowTime1Sec=2, constantFlowTime2Sec=170,
+testFlowRamp1To2TimeSec=4
+dataCamera Zoom=20000, dataCamera Focus=15400, Analog Camera Gain=31
+
+
+
+
+                                        9
+Test 22027B3, continued
+
+
+
+
+                          10
+Test 22027B3, continued
+
+
+
+
+After test: 742 on lowest valve safety timer, 118 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         11
+Test 22027B4 (test 5 of 17, flame 4 of 16) – sustained ignition, flow variant of
+B2-B3, run with pmt1Gain=pmt2Gain=pmt3Gain=7,
+oxidizerTestFlow2Slpm=0.07, constantFlowTime1Sec=2,
+constantFlowTime2Sec=170, testFlowRamp1To2TimeSec=4
+dataCamera Zoom=20000, dataCamera Focus=15400, Analog Camera Gain=31
+
+
+
+
+                                        12
+Test 22027B4, continued
+
+
+
+
+                          13
+Test 22027B4, continued
+
+
+
+
+After test: 697 on lowest valve safety timer, 118 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         14
+Test 22027B5 (test 6 of 17, flame 5 of 16) – sustained ignition, flow variant of
+B2-B4, run with pmt1Gain=pmt2Gain=pmt3Gain=7,
+oxidizerTestFlow2Slpm=0.079, constantFlowTime1Sec=2,
+constantFlowTime2Sec=170, testFlowRamp1To2TimeSec=4
+dataCamera Zoom=20000, dataCamera Focus=15400, Analog Camera Gain=31
+
+
+
+
+                                        15
+Test 22027B5, continued
+
+
+
+
+                          16
+Test 22027B5, continued
+
+
+
+
+After test: 622 on lowest valve safety timer, 115 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         17
+Test 22027B6 (test 7 of 17, flame 6 of 16) – sustained ignition, down/up flow,
+run with pmt1Gain=pmt2Gain=pmt3Gain=7, oxidizerTestFlow2Slpm=0.086,
+oxidizerTestFlow3Slpm=0.155, constantFlowTime1Sec=2,
+constantFlowTime2Sec=39, constantFlowTime3Sec=40,
+testFlowRamp1To2TimeSec=2, testFlowRamp2To3TimeSec=3
+dataCamera Zoom=20000, dataCamera Focus=15400, Analog Camera Gain=31
+
+
+
+
+                                       18
+Test 22027B6, continued
+
+
+
+
+                          19
+Test 22027B6, continued
+
+
+
+
+After test: 541 on lowest valve safety timer, 114 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         20
+Test 22027B7 (test 8 of 17, flame 7 of 16) – sustained ignition, down/up flow,
+variant of B6, run with pmt1Gain=pmt2Gain=pmt3Gain=7,
+oxidizerTestFlow2Slpm=0.088, oxidizerTestFlow3Slpm=0.155,
+constantFlowTime1Sec=3, constantFlowTime2Sec=30,
+constantFlowTime3Sec=30, testFlowRamp1To2TimeSec=2,
+testFlowRamp2To3TimeSec=2
+dataCamera Zoom=20000, dataCamera Focus=15400, Analog Camera Gain=31
+
+
+
+
+                                       21
+Test 22027B7, continued
+
+
+
+
+                          22
+Test 22027B7, continued
+
+
+
+
+After test: 468 on lowest valve safety timer, 112 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         23
+Test 22027D1 (test 9 of 17, flame 8 of 16) – sustained ignition, run with
+pmt1Gain=pmt2Gain=pmt3Gain=7, oxidizerTestFlow2Slpm=0,
+oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=60,
+constantFlowTime2Sec=constantFlowTime3Sec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0
+dataCamera Zoom=35000, dataCamera Focus=12700, Analog Camera Gain=31
+
+
+
+
+                                    24
+Test 22027D1, continued
+
+
+
+
+                          25
+Test 22027D1, continued
+
+
+
+
+After test: 427 on lowest valve safety timer, 110 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         26
+Test 22027D2 (test 10 of 17, flame 9 of 16) – sustained ignition, dilution variant
+of D1 (flow variant of A1), run with pmt1Gain=pmt2Gain=pmt3Gain=6,
+stabilizationTime2Sec=2, nitrogenIgnitionFlowSlpm=0,
+nitrogenTestFlow1Slpm=0, oxidizerTestFlow2Slpm=oxidizerTestFlow3Slpm=0,
+constantFlowTime1Sec=60, constantFlowTime2Sec=constantFlowTime3Sec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0
+dataCamera Zoom=35000, dataCamera Focus=12700, Analog Camera Gain=31
+
+
+
+
+                                        27
+Test 22027D2, continued
+
+
+
+
+                          28
+Test 22027D2, continued
+
+
+
+
+After test: 380 on lowest valve safety timer, 109 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         29
+Test 22027D3 (test 11 of 17, flame 10 of 16) – sustained ignition, flow variant of
+A1+D2, run with pmt1Gain=pmt2Gain=pmt3Gain=6, stabilizationTime2Sec=3,
+oxidizerIgnitionFlowSlpm=0.224, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.224, nitrogenTestFlow1Slpm=0,
+oxidizerTestFlow2Slpm=oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=60,
+constantFlowTime2Sec=constantFlowTime3Sec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0
+dataCamera Zoom=30000, dataCamera Focus=13750, Analog Camera Gain=31
+
+
+
+
+                                        30
+Test 22027D3, continued
+
+
+
+
+                          31
+Test 22027D3, continued
+
+
+
+
+After test: 333 on lowest valve safety timer, 107 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         32
+Test 22027D4 (test 12 of 17, flame 11 of 16) – sustained ignition, flow variant of
+A1+D2-D3, run with intensifierGainAmplitude=70000,
+pmt1Gain=pmt2Gain=pmt3Gain=6, stabilizationTime2Sec=3,
+oxidizerIgnitionFlowSlpm=0.199, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.199, nitrogenTestFlow1Slpm=0,
+oxidizerTestFlow2Slpm=oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=60,
+constantFlowTime2Sec=constantFlowTime3Sec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0
+dataCamera Zoom=30000, dataCamera Focus=13750, Analog Camera Gain=31
+
+
+
+
+                                        33
+Test 22027D4, continued
+
+
+
+
+                          34
+Test 22027D4, continued
+
+
+
+
+After test: 285 on lowest valve safety timer, 106 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         35
+Test 22027D5 (test 13 of 17, flame 12 of 16) – sustained ignition, flow variant of
+A1+D2-D4, run with intensifierGainAmplitude=70000,
+pmt1Gain=pmt2Gain=pmt3Gain=7, stabilizationTime2Sec=0,
+oxidizerIgnitionFlowSlpm=0.172, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.172, nitrogenTestFlow1Slpm=0,
+oxidizerTestFlow2Slpm=oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=60,
+constantFlowTime2Sec=constantFlowTime3Sec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0
+dataCamera Zoom=25000, dataCamera Focus=14600, Analog Camera Gain=31
+
+
+
+
+                                        36
+Test 22027D5, continued
+
+
+
+
+                          37
+Test 22027D5, continued
+
+
+
+
+After test: 231 on lowest valve safety timer, 104 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         38
+Test 22027D6 (test 14 of 17, flame 13 of 16) – sustained ignition, flow variant of
+A1+D2-D5, run with intensifierGainAmplitude=70000,
+pmt1Gain=pmt2Gain=pmt3Gain=6, stabilizationTime2Sec=0,
+oxidizerIgnitionFlowSlpm=0.186, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.186, nitrogenTestFlow1Slpm=0,
+oxidizerTestFlow2Slpm=oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=60,
+constantFlowTime2Sec=constantFlowTime3Sec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0
+dataCamera Zoom=25000, dataCamera Focus=14600, Analog Camera Gain=31
+
+
+
+
+                                        39
+Test 22027D6, continued
+
+
+
+
+                          40
+Test 22027D6, continued
+
+
+
+
+After test: 184 on lowest valve safety timer, 103 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         41
+Test 22027B8 (test 15 of 17, flame 14 of 16) – sustained ignition, ramp down,
+run with intensifierGainAmplitude=75000, bracketingNumberOfExposures=4,
+pmt1Gain=pmt2Gain=pmt3Gain=7, stabilizationTime2Sec=0,
+oxidizerIgnitionFlowSlpm=0.172, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.172, nitrogenTestFlow1Slpm=0,
+oxidizerTestFlow2Slpm=0.086, oxidizerTestFlow3Slpm=0,
+constantFlowTime1Sec=1, constantFlowTime2Sec=30,
+constantFlowTime3Sec=0, testFlowRamp1To2TimeSec=40,
+testFlowRamp2To3TimeSec=0
+dataCamera Zoom=20000, dataCamera Focus=15400, Analog Camera Gain=31
+
+
+
+
+                                      42
+Test 22027B8, continued
+
+
+
+
+                          43
+Test 22027B8, continued
+
+
+
+
+After test: 124 on lowest valve safety timer, 102 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         44
+Test 22027C1 (test 16 of 17, flame 15 of 16) – sustained ignition, dilution variant
+of B1, run with intensifierGainAmplitude=75000,
+bracketingNumberOfExposures=4, pmt1Gain=pmt2Gain=pmt3Gain=7,
+flowTimeoutSec=90, oxidizerFlowIgnitionDeltaMs=500,
+stabilizationTime2Sec=0, oxidizerIgnitionFlowSlpm=0.172,
+nitrogenIgnitionFlowSlpm=0.13, oxidizerTestFlow1Slpm=0.172,
+nitrogenTestFlow1Slpm=0.13, oxidizerTestFlow2Slpm=0,
+oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=60,
+constantFlowTime2Sec=0, constantFlowTime3Sec=0,
+testFlowRamp1To2TimeSec=0, testFlowRamp2To3TimeSec=0,
+postExtinctionDelaySec=5
+dataCamera Zoom=25000, dataCamera Focus=14600, Analog Camera Gain=31
+
+
+
+
+                                        45
+Test 22027C1, continued
+
+
+
+
+                          46
+Test 22027C1, continued
+
+
+
+
+After test: 66 on lowest valve safety timer, 100 psia in oxidizer bottle, 59 psia in
+fuel bottle
+
+
+
+
+                                         47
+Test 22027C2 (test 17 of 17, flame 16 of 16) – sustained ignition, dilution variant
+of B1+C1, run with intensifierGainAmplitude=75000,
+bracketingNumberOfExposures=4, pmt1Gain=pmt2Gain=pmt3Gain=7,
+flowTimeoutSec=45, oxidizerFlowIgnitionDeltaMs=700,
+stabilizationTime2Sec=0, oxidizerIgnitionFlowSlpm=0.172,
+nitrogenIgnitionFlowSlpm=0.29, oxidizerTestFlow1Slpm=0.172,
+nitrogenTestFlow1Slpm=0.29, oxidizerTestFlow2Slpm=0,
+oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=24,
+constantFlowTime2Sec=constantFlowTime3Sec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0,
+postExtinctionDelaySec=0
+dataCamera Zoom=25000, dataCamera Focus=14600, Analog Camera Gain=31
+
+
+
+
+                                        48
+Test 22027C2, continued
+
+
+
+
+                          49
+Test 22027C2, continued
+
+
+
+
+After test: 24 on lowest valve safety timer, 100 psia in oxidizer bottle, 59 psia in
+fuel bottle
+
+
+
+
+                                         50
+Test 22027RAD2
+
+
+
+
+                 51
+Test 22027RAD2, continued
+
+
+
+
+                            52
+

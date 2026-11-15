@@ -1,0 +1,162 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap");
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+    --color-ascii-ink: var(--ascii-ink);
+    --color-ascii-paper: var(--ascii-paper);
+    --color-ascii-blue: var(--ascii-color-blue);
+    --color-ascii-purple: var(--ascii-color-purple);
+    --color-ascii-green: var(--ascii-color-green);
+    --color-ascii-pink: var(--ascii-color-pink);
+    --color-ascii-orange: var(--ascii-color-orange);
+    --color-ascii-red: var(--ascii-color-red);
+    --color-ascii-grey: var(--ascii-color-grey);
+    --color-dither-ink: var(--dither-ink);
+    --color-dither-paper: var(--dither-paper);
+    --color-dither-blue: var(--dither-color-blue);
+    --color-dither-purple: var(--dither-color-purple);
+    --color-dither-green: var(--dither-color-green);
+    --color-dither-pink: var(--dither-color-pink);
+    --color-dither-orange: var(--dither-color-orange);
+    --color-dither-red: var(--dither-color-red);
+    --color-dither-grey: var(--dither-color-grey);
+}
+
+@layer base {
+  :root {
+    --ascii-ink: var(--primary);
+    --ascii-paper: var(--background);
+    --ascii-cell: 12px;
+    --ascii-font: ui-monospace, "Cascadia Mono", "SF Mono", "JetBrains Mono", Menlo, Consolas, "DejaVu Sans Mono", "Noto Sans Mono", monospace;
+    --ascii-glow: 0.35;
+    --ascii-bloom: var(--ascii-glow);
+    --ascii-color-blue: oklch(0.55 0.17 250);
+    --ascii-color-purple: oklch(0.53 0.2 302);
+    --ascii-color-green: oklch(0.56 0.15 150);
+    --ascii-color-pink: oklch(0.57 0.2 355);
+    --ascii-color-orange: oklch(0.62 0.16 52);
+    --ascii-color-red: oklch(0.55 0.2 27);
+    --ascii-color-grey: oklch(0.56 0.01 250);
+    --dither-ink: var(--primary);
+    --dither-paper: var(--background);
+    --dither-cell: 3px;
+    --dither-color-blue: oklch(0.56 0.18 248);
+    --dither-color-purple: oklch(0.53 0.22 302);
+    --dither-color-green: oklch(0.58 0.15 152);
+    --dither-color-pink: oklch(0.58 0.21 355);
+    --dither-color-orange: oklch(0.64 0.17 52);
+    --dither-color-red: oklch(0.55 0.21 27);
+    --dither-color-grey: oklch(0.55 0 0);
+    --dither-bloom: 0.6;
+    }
+  .dark {
+    --ascii-ink: var(--primary);
+    --ascii-paper: var(--background);
+    --ascii-glow: 0.9;
+    --ascii-color-blue: oklch(0.72 0.14 240);
+    --ascii-color-purple: oklch(0.72 0.17 304);
+    --ascii-color-green: oklch(0.8 0.17 150);
+    --ascii-color-pink: oklch(0.74 0.17 354);
+    --ascii-color-orange: oklch(0.79 0.15 62);
+    --ascii-color-red: oklch(0.69 0.19 25);
+    --ascii-color-grey: oklch(0.66 0.01 250);
+    --dither-ink: var(--primary);
+    --dither-paper: var(--background);
+    --dither-cell: 3px;
+    --dither-color-blue: oklch(0.72 0.14 240);
+    --dither-color-purple: oklch(0.7 0.18 304);
+    --dither-color-green: oklch(0.78 0.17 152);
+    --dither-color-pink: oklch(0.74 0.17 354);
+    --dither-color-orange: oklch(0.79 0.15 62);
+    --dither-color-red: oklch(0.68 0.2 25);
+    --dither-color-grey: oklch(0.66 0 0);
+    --dither-bloom: 1;
+    }
+}
+/* ---------- Flame in Freefall design system ---------- */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-rule: var(--rule);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-signal: var(--signal);
+  --color-ok: var(--ok);
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --font-serif: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+:root {
+  --background: #ffffff;
+  --surface: #fafafa;
+  --foreground: #0a0a0a;
+  --muted: #f2f2f2;
+  --muted-foreground: #6b6b6b;
+  --border: #e6e6e6;
+  --rule: #0a0a0a;
+  --primary: oklch(0.52 0.19 260);
+  --primary-foreground: #ffffff;
+  --signal: oklch(0.6 0.18 40);
+  --ok: oklch(0.55 0.12 160);
+  --ascii-font: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  color-scheme: light;
+}
+.dark {
+  --background: #0a0a0a;
+  --surface: #111111;
+  --foreground: #ededed;
+  --muted: #1a1a1a;
+  --muted-foreground: #a1a1a1;
+  --border: #262626;
+  --rule: #ededed;
+  --primary: oklch(0.74 0.14 255);
+  --primary-foreground: #0b0c0e;
+  --signal: oklch(0.76 0.15 55);
+  --ok: oklch(0.75 0.13 160);
+  color-scheme: dark;
+}
+@layer base {
+  * { border-color: var(--border); }
+  html { background: var(--background); color: var(--foreground); }
+  body { font-family: var(--font-sans); font-size: 15px; line-height: 1.55; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-feature-settings: "cv11", "ss01"; }
+  ::selection { background: var(--primary); color: var(--primary-foreground); }
+  a { color: inherit; }
+  :focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+  input[type=range] { accent-color: var(--primary); }
+}
+@layer components {
+  .wrap { max-width: 1320px; margin-inline: auto; padding-inline: clamp(20px, 4vw, 48px); }
+  .eyebrow { font-size: 12.5px; font-weight: 500; color: var(--muted-foreground); }
+  .num { font-variant-numeric: tabular-nums; font-feature-settings: "tnum", "cv11"; }
+  .display { font-family: var(--font-sans); font-weight: 600; letter-spacing: -0.03em; line-height: 1.08; }
+  .link { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: color-mix(in oklab, currentColor 35%, transparent); transition: text-decoration-color .2s; }
+  .link:hover { text-decoration-color: currentColor; }
+  .panel { background: var(--background); border: 1px solid var(--border); border-radius: 10px; }
+  .chip { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; line-height: 1; padding: 5px 8px; border: 1px solid var(--border); border-radius: 999px; color: var(--muted-foreground); white-space: nowrap; }
+  .btn { display: inline-flex; align-items: center; gap: 8px; height: 40px; padding: 0 16px; border-radius: 8px; font-size: 14px; font-weight: 500; transition: transform .15s cubic-bezier(.23,1,.32,1), background .15s, border-color .15s; }
+  .btn:active { transform: translateY(0) scale(.98); }
+  .btn-primary { background: var(--foreground); color: var(--background); }
+  .btn-primary:hover { opacity: .85; }
+  .btn-ghost { border: 1px solid var(--border); }
+  .btn-ghost:hover { border-color: var(--foreground); }
+  .card-link { transition: transform .2s cubic-bezier(.23,1,.32,1), border-color .2s; }
+  .card-link:hover { border-color: color-mix(in oklab, var(--foreground) 40%, var(--border)); }
+  .tbl { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+  .tbl th { text-align: left; font-weight: 500; font-size: 12.5px; color: var(--muted-foreground); padding: 10px 12px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+  .tbl td { padding: 11px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  .tbl tr.row-link { cursor: pointer; transition: background .15s; }
+  .tbl tr.row-link:hover td { background: var(--muted); }
+  .prose-psi p { margin-bottom: .8em; }
+}
+@media print {
+  header.site, footer.site, .no-print { display: none !important; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  .panel { border-color: #bbb; break-inside: avoid; }
+}
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition: none !important; animation: none !important; } }

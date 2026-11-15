@@ -1,0 +1,38 @@
+[
+  {
+    "paper": "20210017835",
+    "investigation": null,
+    "platform": "normal-gravity lab",
+    "gravity_g": 1,
+    "material": "cotton",
+    "thickness_mm": null,
+    "geometry": "thin sheet",
+    "flow_mode": "opposed",
+    "flow_cm_s": 20,
+    "o2_pct": null,
+    "pressure_kpa": 40,
+    "quantity": "flammability_limit",
+    "value": 40,
+    "unit": "kPa",
+    "outcome": "extinguished",
+    "quote": "• No spread at p ≤ 40 kPa                                          No"
+  },
+  {
+    "paper": "20210017835",
+    "investigation": null,
+    "platform": "normal-gravity lab",
+    "gravity_g": 1,
+    "material": "cotton",
+    "thickness_mm": null,
+    "geometry": "thin sheet",
+    "flow_mode": "opposed",
+    "flow_cm_s": 20,
+    "o2_pct": null,
+    "pressure_kpa": null,
+    "quantity": "other",
+    "value": 20,
+    "unit": "%",
+    "outcome": null,
+    "quote": "Low decrease of Vf (~20%)"
+  }
+]

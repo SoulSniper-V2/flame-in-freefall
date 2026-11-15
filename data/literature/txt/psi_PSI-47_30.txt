@@ -1,0 +1,204 @@
+2.010 DAFT P-TRAK AND DUSTTRAK SETUP
+MGUEEXPRSDAFTN010
+
+
+
+                                                                                      Start_IMS
+
+
+OBJECTIVE:
+Dust and Aerosol measurement Feasibility Test (DAFT). This procedure assembles the P-Trak
+and DustTrak. It prepares the P-Trak and DustTrak for future sample collection.
+
+STATION PARTS:
+DustTrak               P/N DAFT-0201
+P-Trak-01              P/N DAFT-0101
+DAFT Accessories Kit         P/N DAFT-0700
+P-Trak Alcohol Wick Container-01         P/N DAFT-0601-1
+P-Trak Batteries [6]         P/N DAFT-0708
+Used P-Trak Batteries        P/N DAFT-0718
+DustTrak Batteries [4]       P/N DAFT-0709
+Used DustTrak Batteries      P/N DAFT-0719
+
+
+                                                    NOTE
+                     1. This procedure contains Near Real-Time video downlink or LAB VTR
+                        recording requirements.
+
+                     2. AOS required for POIC to configure onboard system for downlink or
+                        LAB VTR recording.
+
+              1.    P-TRAK ASSEMBLY
+
+                     1.1    Unstow:
+                                 P-Trak-01
+                                 P-Trak Batteries(Used P-Trak Batteries) (six)
+                                 DAFT Accessories Kit
+
+                            Tmpry stow:
+                                P-Trak Batteries(Used P-Trak Batteries) (six)
+                                DAFT Accessories Kit
+
+                                    Start Video Activity
+
+                     1.2    If video is required,
+                               Perform {P/TV 584 DAFT}.
+
+P-Trak-01            1.3    Remove and Tmpry stow P-Trak Battery Cover.
+
+                     1.4    Retrieve P-Trak Batteries(Used P-Trak Batteries) (six).
+
+
+
+
+06May04                               N010-1                    DAFT/PB3-01-0677A
+2.010 DAFT P-TRAK AND DUSTTRAK SETUP
+MGUEEXPRSDAFTN010
+
+
+                   1.5    Remove P-Trak battery pack from P-Trak-01
+                            (slight prying motion).
+                          Install P-Trak Batteries(Used P-Trak Batteries) (six)
+                            (per marked orientation).
+
+                   1.6    Replace P-Trak battery pack in P-Trak-01
+                           (using the alignment mark or guide).
+
+                   1.7    Retrieve and replace P-Trak Battery Cover.
+
+                   1.8    Tmpry stow P-Trak-01.
+
+                   1.9    Retrieve DAFT Accessories Kit.
+
+DAFT Accessories   1.10   Unstow P-Trak Hose Adapter.
+ Kit                      Tmpry stow DAFT Accessories Kit.
+
+                   1.11   Retrieve P-Trak-01.
+
+P-Trak-01          1.12   Connect P-Trak Hose Adapter to P-Trak-01.
+                          P-Trak Hose Adapter →|← Inlet
+                          Tmpry stow P-Trak-01.
+
+             2.    ALCOHOL WICK INSERTION
+
+                   2.1    Unstow P-Trak Alcohol Wick Container-01.
+
+                   2.2    Retrieve P-Trak-01.
+
+                                                     CAUTION
+                           To reduce the amount of alcohol released into ISS,
+                           performance of the Alcohol Wick Insertion (steps 2.3 to 2.7)
+                           must be limited to one minute.
+
+P-Trak-01          2.3    Remove For Storage Only Cap (turn 1/4 turn CCW).
+                          Tmpry stow For Storage Only Cap.
+
+                   2.4    On P-Trak Alcohol Wick Container-01, remove
+                           Alcohol Wick Cap.
+                          Tmpry stow Alcohol Wick Cap.
+
+                   2.5    Remove Alcohol Wick from P-Trak Alcohol Wick Container-01
+                            (turn 1/4 turn CCW).
+                          Tmpry stow P-Trak Alcohol Wick Container-01.
+                          Insert Alcohol Wick into P-Trak-01 using the alignment pin
+                            (turn 1/4 turn CW).
+
+
+
+
+06May04                             N010-2                     DAFT/PB3-01-0677A
+2.010 DAFT P-TRAK AND DUSTTRAK SETUP
+MGUEEXPRSDAFTN010
+
+
+                2.6    Retrieve P-Trak Alcohol Wick Container-01.
+                       Retrieve and insert For Storage Only Cap into P-Trak Alcohol
+                        Wick Container-01 using the alignment pin (turn 1/4 turn CW).
+
+                2.7    Retrieve and replace Alcohol Wick Cap on P-Trak Alcohol Wick
+                        Container-01 (finger tighten).
+
+                2.8    Stow or Tmpry stow: per Execution Notes
+                            P-Trak-01
+                            P-Trak Alcohol Wick Container-01
+
+                                                NOTE
+                 DustTrak Xµm Adapter will be used for DustTrak 10µm Adapter,
+                 DustTrak 2.5µm Adapter or DustTrak 1µm Adapter.
+
+           3.   DUSTTRAK ASSEMBLY
+
+                3.1    Unstow:
+                            DustTrak
+                            DustTrak Batteries(Used DustTrak Batteries) (four)
+
+                        Tmpry stow DustTrak Batteries(Used DustTrak Batteries) (four).
+
+DustTrak        3.2     Remove (unscrew) and Tmpry stow DustTrak Battery Cover.
+                        Retrieve DustTrak Batteries(Used DustTrak Batteries) (four).
+
+                                                   NOTE
+                        Move DustTrak battery pack wire to prevent obstruction of the
+                        DustTrak battery pack.
+
+                3.3    Remove DustTrak battery pack from DustTrak (slight prying
+                         motion).
+                       Install DustTrak Batteries(Used DustTrak Batteries) (four)
+                         (per marked orientation).
+
+                                                     NOTE
+                        1. DustTrak battery pack wire should cover the DustTrak
+                           battery pack after replacement of DustTrak battery pack.
+
+                        2. DustTrak Battery Cover must be properly inserted into the
+                           DustTrak for secure closure.
+
+                        3. DustTrak Battery Cover closure is spring loaded. Slight
+                           pressure is needed to secure DustTrak Battery Cover.
+
+                3.4    Replace DustTrak battery pack in DustTrak.
+
+                3.5    Retrieve and replace (hand tighten) DustTrak Battery Cover
+                        taking care not to pinch DustTrak battery pack wire.
+
+
+06May04                          N010-3                     DAFT/PB3-01-0677A
+2.010 DAFT P-TRAK AND DUSTTRAK SETUP
+MGUEEXPRSDAFTN010
+
+
+                       3.6     Tmpry stow DustTrak.
+
+                       3.7     Retrieve DAFT Accessories Kit.
+
+DAFT Accessories       3.8     Unstow DustTrak Xµm Adapter per Execution Notes.
+ Kit                           Remove and discard tabbed Kapton Tape (covering adapter),
+                                as required.
+
+                       3.9     Log DustTrak Xµm Adapter number on
+                                DAFT P-TRAK AND DUSTTRAK SAMPLE LOG.
+
+                       3.10    Retrieve DustTrak.
+
+                                                             NOTE
+                                 Over-tightening of the DustTrak Xµm Adapter may damage the
+                                 O-ring.
+
+DustTrak               3.11    Connect DustTrak Xµm Adapter to DustTrak Inlet by turning the
+                                DustTrak Xµm Adapter approximately 2 1/2 turns
+                                CW (hand tighten).
+
+                       3.12    Tmpry stow:
+                                   DustTrak
+                                   DAFT Accessories Kit
+
+                                       End Video Activity
+
+
+RESTOW tools, parts, materials, as required, to original locations:
+
+
+
+
+06May04                                  N010-4                       DAFT/PB3-01-0677A
+

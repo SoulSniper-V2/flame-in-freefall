@@ -1,0 +1,649 @@
+        CFI-G Round 1, day 3 with 50% n-butane (C4H10)
+            Ignition detection with pmt1 at 1 volt, averaged for 2 s
+          Extinction detection with pmt2 at 0.1 volt, averaged for 5 s
+                            Cool flame detection off
+
+Test 21106A1 (test 1 of 23) – no apparent flame, run as planned
+
+
+
+
+                                       1
+Test 21106A1, continued
+
+
+
+
+                          2
+Test 21106A1, continued
+
+
+
+
+After test: 970 on lowest valve safety timer, psia in oxidizer bottle, psia in fuel
+bottle
+
+
+
+
+                                         3
+            Ignition detection with pmt1 at 1 volt, averaged for 3.5 s
+
+Test 21106A2 (test 2 of 23) – no apparent flame, ignition variant of A1 (including
+detection setting), run with fuelFlowIgnitionDeltaMs=500
+
+
+
+
+                                        4
+Test 21106A2, continued
+
+
+
+
+                          5
+Test 21106A2, continued
+
+
+
+
+After test: 943 on lowest valve safety timer, 340 psia in oxidizer bottle, 44 psia
+in fuel bottle
+
+
+
+
+                                         6
+             Ignition detection with pmt1 at 1 volt, averaged for 5 s
+
+Test 21106A3 (test 3 of 23) – no apparent flame, ignition variant of A1-A2
+(including detection setting), run with igniterPreheatDurationMs=5000,
+fuelFlowIgnitionDeltaMs=500
+
+
+
+
+            Forgot to capture console snapshots of diagnostic displays
+After test: 912 on lowest valve safety timer, 339 psia in oxidizer bottle, 44 psia
+in fuel bottle
+                                         7
+Test 21106A4 (test 4 of 23, hot flame 1 of ) – sustained ignition, ignition variant
+of A1-A3, run with igniterPreheatDurationMs=5000, igniterIgnitionPowerV=4,
+fuelFlowIgnitionDeltaMs=500
+
+
+
+
+                                         8
+Test 21106A4, continued
+
+
+
+
+                          9
+Test 21106A4, continued
+
+
+
+
+After test: 824 on lowest valve safety timer, 339 psia in oxidizer bottle, 43 psia
+in fuel bottle
+
+
+
+
+                                         10
+Test 21106B1 (test 5 of 23, hot flame 2 of 10) – sustained ignition, run with
+igniterPreheatDurationMs=4000, igniterIgnitionPowerV=4,
+fuelFlowIgnitionDeltaMs=300
+
+
+
+
+                                        11
+Test 21106B1, continued
+
+
+
+
+                          12
+Test 21106B1, continued
+
+
+
+
+After test: 734 on lowest valve safety timer, 339 psia in oxidizer bottle, 42 psia
+in fuel bottle
+
+
+
+
+                                         13
+Test 21106C1 (test 6 of 23, hot flame 3 of 10) – sustained ignition, run with
+igniterPreheatDurationMs=3000, igniterIgnitionPowerV=4,
+fuelFlowIgnitionDeltaMs=300
+
+
+
+
+                                        14
+Test 21106C1, continued
+
+
+
+
+                          15
+Test 21106C1, continued
+
+
+
+
+After test: 651 on lowest valve safety timer, 339 psia in oxidizer bottle, 41 psia
+in fuel bottle
+
+
+
+
+                                         16
+Test 21106D1 (test 7 of 23, hot flame 4 of 10) – sustained ignition, run with
+igniterPreheatDurationMs=2500, igniterIgnitionPowerV=4,
+fuelFlowIgnitionDeltaMs=300
+
+
+
+
+                                        17
+Test 21106D1, continued
+
+
+
+
+                          18
+Test 21106D1, continued
+
+
+
+
+After test: 510 on lowest valve safety timer, 339 psia in oxidizer bottle, 39 psia
+in fuel bottle
+
+
+
+
+                                         19
+Test 21106F1 (test 8 of 23, hot flame 5 of 10) – sustained ignition, run with
+igniterPreheatDurationMs=2000, igniterIgnitionPowerV=4,
+flowTimeoutSec=210, fuelFlowIgnitionDeltaMs=300,
+constantFlowTime1Sec=180
+
+
+
+
+                                        20
+Test 21106F1, continued
+
+
+
+
+                          21
+Test 21106F1, continued
+
+
+
+
+After test: 422 on lowest valve safety timer, 341 psia in oxidizer bottle, 38 psia
+in fuel bottle
+
+
+
+
+                                         22
+Test 21106F2 (test 9 of 23) – no apparent flame, ignition variant of F1, run with
+igniterPreheatPowerV=2.4, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=2.9, igniterIgnitionDurationMs=20000,
+igniterDelayBeforeRetractMs=28000, flowTimeoutSec=150,
+fuelFlowIgnitionDeltaMs=300, constantFlowTime1Sec=120
+
+
+
+
+                                        23
+Test 21106F2, continued
+
+
+
+
+                          24
+Test 21106F2, continued
+
+
+
+
+After test: 359 on lowest valve safety timer, 341 psia in oxidizer bottle, 38 psia
+in fuel bottle
+
+
+
+
+                                         25
+Test 21106F3 (test 10 of 23, hot flame 6 of 10) – sustained ignition, run with
+igniterPreheatPowerV=2.65, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=3.15, igniterIgnitionDurationMs=20000,
+igniterDelayBeforeRetractMs=28000, flowTimeoutSec=150,
+fuelFlowIgnitionDeltaMs=300, fuelIgnitionFlowSlpm=0.060,
+fuelTestFlow1Slpm=0.060, constantFlowTime1Sec=120
+
+
+
+
+                                        26
+Test 21106F3, continued
+
+
+
+
+                          27
+Test 21106F3, continued
+
+
+
+
+After test: 305 on lowest valve safety timer, 339 psia in oxidizer bottle, 38 psia
+in fuel bottle
+
+
+
+
+                                         28
+Test 21106F4 (test 11 of 23, hot flame 7 of 10) – sustained ignition, ignition
+variant of F3, run with igniterPreheatPowerV=2.52,
+igniterPreheatDurationMs=10000, igniterIgnitionPowerV=3.02,
+igniterIgnitionDurationMs=20000,
+igniterDelayBeforeRetractMs=28000, flowTimeoutSec=150,
+fuelFlowIgnitionDeltaMs=300, fuelIgnitionFlowSlpm=0.060,
+fuelTestFlow1Slpm=0.060, constantFlowTime1Sec=120
+
+
+
+
+                                         29
+Test 21106F4, continued
+
+
+
+
+                          30
+Test 21106F4, continued
+
+
+
+
+After test: 251 on lowest valve safety timer, 340 psia in oxidizer bottle, 38 psia
+in fuel bottle
+
+
+
+
+                                         31
+Test 21106F5 (test 12 of 23) – no apparent flame, ignition variant of F3-F4, run
+with igniterPreheatPowerV=2.3, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=2.8, igniterIgnitionDurationMs=20000,
+igniterDelayBeforeRetractMs=28000, flowTimeoutSec=150,
+fuelFlowIgnitionDeltaMs=300, fuelIgnitionFlowSlpm=0.060,
+fuelTestFlow1Slpm=0.060, constantFlowTime1Sec=120
+
+
+
+
+                                        32
+Test 21106F5, continued
+
+
+
+
+                          33
+Test 21106F5, continued
+
+
+
+
+After test: 187 on lowest valve safety timer, 340 psia in oxidizer bottle, 38 psia
+in fuel bottle
+
+
+
+
+                                         34
+     Chamber vented, resetting timers, and refilled to ~21% O2, ~7.35 psia
+          Ignition detection with pmt1 at 1 volt, averaged for 2 s
+
+Test 21106G1 (test 13 of 23) – no apparent flame, run with
+igniterPreheatPowerV=3, igniterPreheatDurationMs=3000,
+igniterIgnitionPowerV=4, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.194,
+fuelTestFlow1Slpm=0.194, constantFlowTime1Sec=40
+
+
+
+
+                                      35
+Test 21106G1, continued
+
+
+
+
+                          36
+Test 21106G1, continued
+
+
+
+
+After test: 971 on lowest valve safety timer, 171 psia in oxidizer bottle, 37 psia
+in fuel bottle
+
+
+
+
+                                         37
+Test 21106G2 (test 14 of 23) – no apparent flame, ignition variant of G1, run
+with igniterPreheatPowerV=3, igniterPreheatDurationMs=7000,
+igniterIgnitionPowerV=4, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.194,
+fuelTestFlow1Slpm=0.194, constantFlowTime1Sec=40
+
+
+
+
+                                       38
+Test 21106G2, continued
+
+
+
+
+                          39
+Test 21106G2, continued
+
+
+
+
+After test: 937 on lowest valve safety timer, 171 psia in oxidizer bottle, 37 psia
+in fuel bottle
+
+
+
+
+                                         40
+Test 21106G3 (test 15 of 23) – no apparent flame, ignition variant of G1-G2, run
+with igniterVelocityCountsPerSec=40, igniterPreheatPowerV=3,
+igniterPreheatDurationMs=10000, igniterIgnitionPowerV=4,
+igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800,
+igniterRetractVelocityCountsPerSec=250, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.194,
+fuelTestFlow1Slpm=0.194, constantFlowTime1Sec=40
+
+
+
+
+                                       41
+Test 21106G3, continued
+
+
+
+
+                          42
+Test 21106G3, continued
+
+
+
+
+After test: 899 on lowest valve safety timer, 171 psia in oxidizer bottle, 36 psia
+in fuel bottle
+
+
+
+
+                                         43
+Test 21106G4 (test 16 of 23) – no apparent flame, run with
+igniterVelocityCountsPerSec=40, igniterPreheatPowerV=3,
+igniterPreheatDurationMs=10000, igniterIgnitionPowerV=4,
+igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800,
+igniterRetractVelocityCountsPerSec=250, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.097,
+fuelTestFlow1Slpm=0.097, constantFlowTime1Sec=40
+
+
+
+
+                                    44
+Test 21106G4, continued
+
+
+
+
+                          45
+Test 21106G4, continued
+
+
+
+
+After test: 861 on lowest valve safety timer, 171 psia in oxidizer bottle, 36 psia
+in fuel bottle
+
+
+
+
+                                         46
+Test 21106G5 (test 17 of 23) – no apparent flame, ignition variant of G4, run
+with igniterVelocityCountsPerSec=40, igniterPreheatPowerV=3,
+igniterPreheatDurationMs=10000, igniterIgnitionPowerV=4.1,
+igniterIgnitionDurationMs=3000, igniterDelayBeforeRetractMs=1800,
+igniterRetractVelocityCountsPerSec=250, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.097,
+fuelTestFlow1Slpm=0.097, constantFlowTime1Sec=40
+
+
+
+
+                                       47
+Test 21106G5, continued
+
+
+
+
+                          48
+Test 21106G5, continued
+
+
+
+
+After test: 822 on lowest valve safety timer, 171 psia in oxidizer bottle, 36 psia
+in fuel bottle
+
+
+
+
+                                         49
+Test 21106G6 (test 18 of 23, hot flame 8 of 10) – sustained ignition, run with
+igniterVelocityCountsPerSec=40, igniterPreheatPowerV=3,
+igniterPreheatDurationMs=10000, igniterIgnitionPowerV=4.1,
+igniterIgnitionDurationMs=3000, igniterDelayBeforeRetractMs=1800,
+igniterRetractVelocityCountsPerSec=250, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.060,
+fuelTestFlow1Slpm=0.060, constantFlowTime1Sec=40
+
+
+
+
+                                        50
+Test 21106G6, continued
+
+
+
+
+                          51
+Test 21106G6, continued
+
+
+
+
+After test: 767 on lowest valve safety timer, 171 psia in oxidizer bottle, 36 psia
+in fuel bottle
+
+
+
+
+                                         52
+Test 21106G7 (test 19 of 23, hot flame 9 of 10) – sustained ignition, unintended
+but useful repeat of G6, run with igniterVelocityCountsPerSec=40,
+igniterPreheatPowerV=3, igniterPreheatDurationMs=10000,
+igniterIgnitionPowerV=4.1, igniterIgnitionDurationMs=3000,
+igniterDelayBeforeRetractMs=1800, igniterRetractVelocityCountsPerSec=250,
+flowTimeoutSec=70, fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.060,
+fuelTestFlow1Slpm=0.060, constantFlowTime1Sec=40
+
+
+
+
+                                       53
+Test 21106G7, continued
+
+
+
+
+                          54
+Test 21106G7, continued
+
+
+
+
+Post-test status unfortunately not recorded
+
+
+
+
+                                       55
+Test 21106G8 (test 20 of 23) – unsustained ignition with only flashes evident,
+run with igniterVelocityCountsPerSec=40, igniterPreheatPowerV=3,
+igniterPreheatDurationMs=10000, igniterIgnitionPowerV=4.1,
+igniterIgnitionDurationMs=3000, igniterDelayBeforeRetractMs=1800,
+igniterRetractVelocityCountsPerSec=250, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.040,
+fuelTestFlow1Slpm=0.040, constantFlowTime1Sec=40
+
+
+
+
+                                       56
+Test 21106G8, continued
+
+
+
+
+                          57
+Test 21106G8, continued
+
+
+
+
+After test: 676 on lowest valve safety timer, 171 psia in oxidizer bottle, 36 psia
+in fuel bottle
+
+
+
+
+                                         58
+Test 21106G9 (test 21 of 23, hot flame 10 of 10) – sustained ignition, run with
+igniterVelocityCountsPerSec=40, igniterPreheatPowerV=3,
+igniterPreheatDurationMs=10000, igniterIgnitionPowerV=4.1,
+igniterIgnitionDurationMs=3000, igniterDelayBeforeRetractMs=1800,
+igniterRetractVelocityCountsPerSec=250, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.080,
+fuelTestFlow1Slpm=0.080, constantFlowTime1Sec=40
+
+
+
+
+                                        59
+Test 21106G9, continued
+
+
+
+
+                          60
+Test 21106G9, continued
+
+
+
+
+After test: 627 on lowest valve safety timer, 171 psia in oxidizer bottle, 36 psia
+in fuel bottle
+
+
+
+
+                                         61
+Test 21106H1 (test 22 of 23) – no apparent flame, run with
+igniterVelocityCountsPerSec=40, igniterPreheatPowerV=3,
+igniterPreheatDurationMs=10000, igniterIgnitionPowerV=3.2,
+igniterIgnitionDurationMs=10000, igniterDelayBeforeRetractMs=8800,
+igniterRetractVelocityCountsPerSec=250, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.060,
+fuelTestFlow1Slpm=0.060, constantFlowTime1Sec=40
+
+
+
+
+                                    62
+Test 21106H1, continued
+
+
+
+
+                          63
+Test 21106H1, continued
+
+
+
+
+After test: 584 on lowest valve safety timer, 171 psia in oxidizer bottle, 36 psia
+in fuel bottle
+
+
+
+
+                                         64
+Test 21106H2 (test 23 of 23) – no apparent flame, run with
+igniterVelocityCountsPerSec=40, igniterPreheatPowerV=3,
+igniterPreheatDurationMs=10000, igniterIgnitionPowerV=3.2,
+igniterIgnitionDurationMs=10000, igniterDelayBeforeRetractMs=8800,
+igniterRetractVelocityCountsPerSec=250, flowTimeoutSec=70,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.080,
+fuelTestFlow1Slpm=0.080, constantFlowTime1Sec=40
+
+
+
+
+                                    65
+Test 21106H2, continued
+
+
+
+
+                          66
+Test 21106H2, continued
+
+
+
+
+After test: 541 on lowest valve safety timer, 171 psia in oxidizer bottle, 36 psia
+in fuel bottle
+
+
+
+
+                                         67
+

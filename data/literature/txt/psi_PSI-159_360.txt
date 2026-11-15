@@ -1,0 +1,120 @@
+                           CFI-G Round 2, day 7
+            Chamber filled to 1 atm with ~21% propane (balance N2)
+   Extinction detection effectively turned off so tests were ended ‘manually’
+  There was no RAD1 test (as it should be very close to the prior day’s RAD2).
+
+Test 21235A1 (test 1 of 10, hot flame 1 of 9) – sustained ignition, run as planned
+(with no changes to the parameters)
+Test 21235A1, continued
+Test 21235A1, continued
+
+
+
+
+After test: 907 on lowest valve safety timer, 140 psia in oxidizer bottle
+Test 21235A2 (test 2 of 10, hot flame 2 of 9) – sustained ignition, full-flow
+variant of A1, run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.499
+Test 21235A2, continued
+Test 21235A2, continued
+
+
+
+
+After test: 813 on lowest valve safety timer, 131 psia in oxidizer bottle
+Test 21235C1 (test 3 of 10, hot flame 3 of 9) – sustained ignition, run with
+oxidizerFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.199,
+nitrogenIgnitionFlowSlpm=0.137, oxidizerTestFlow1Slpm=0.199,
+nitrogenTestFlow1Slpm=0.137
+Test 21235C1, continued
+Test 21235C1, continued
+
+
+
+
+After test: 719 on lowest valve safety timer, 128 psia in oxidizer bottle
+Test 21235F1 (test 4 of 10, hot flame 4 of 9) – sustained ignition, run with
+oxidizerFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.100,
+nitrogenIgnitionFlowSlpm=0.298, oxidizerTestFlow1Slpm=0.100,
+nitrogenTestFlow1Slpm=0.298
+Test 21235F1, continued
+Test 21235F1, continued
+
+
+
+
+After test: 625 on lowest valve safety timer, 126 psia in oxidizer bottle
+Test 21235F2 (test 5 of 10) – no ignition, full-flow variant of F1, run with
+oxidizerFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.499,
+nitrogenIgnitionFlowSlpm=1.491, oxidizerTestFlow1Slpm=0.499,
+nitrogenTestFlow1Slpm=1.491
+Test 21235F2, continued
+Test 21235F2, continued
+
+
+
+
+After test: 584 on lowest valve safety timer, 124 psia in oxidizer bottle
+Test 21235H1 (test 6 of 10, hot flame 5 of 9) – unsustained ignition (short-lived
+flame), run with oxidizerFlowIgnitionDeltaMs=0,
+oxidizerIgnitionFlowSlpm=0.075, nitrogenIgnitionFlowSlpm=0.273,
+oxidizerTestFlow1Slpm=0.075, nitrogenTestFlow1Slpm=0.273
+Test 21235H1, continued
+Test 21235H1, continued
+
+
+
+
+After test: 538 on lowest valve safety timer, 123 psia in oxidizer bottle
+Test 21235J1 (test 7 of 10, hot flame 6 of 9) – sustained ignition, diluted variant
+of F1, run with oxidizerFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.100,
+nitrogenIgnitionFlowSlpm=0.340, oxidizerTestFlow1Slpm=0.100,
+nitrogenTestFlow1Slpm=0.340
+Test 21235J1, continued
+Test 21235J1, continued
+
+
+
+
+After test: 447 on lowest valve safety timer, 122 psia in oxidizer bottle
+Test 21235B1 (test 8 of 10, hot flame 7 of 9) – sustained ignition, TFP variant of
+A1, run with flowTimeoutSec=180, oxidizerFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=30, oxidizerIgnitionFlowSlpm=0.299,
+nitrogenIgnitionFlowSlpm=0, oxidizerTestFlow1Slpm=0.299,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=120
+Test 21235B1, continued
+Test 21235B1, continued
+
+
+
+
+After test: 272 on lowest valve safety timer, 109 psia in oxidizer bottle
+        Chamber vented to 0.5 atm (with ~21% propane and N2 balance)
+
+Test 21235K1 (test 9 of 10, hot flame 8 of 9) – sustained ignition, 0.5-atm variant
+of A1, run with flowTimeoutSec=90, oxidizerFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=5, oxidizerIgnitionFlowSlpm=0.299,
+nitrogenIgnitionFlowSlpm=0, oxidizerTestFlow1Slpm=0.299,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=60
+Test 21235K1, continued
+Test 21235K1, continued
+
+
+
+
+After test: 182 on lowest valve safety timer, 104 psia in oxidizer bottle
+Test 21235L1 (test 10 of 10, hot flame 9 of 9) – sustained ignition, run with
+flowTimeoutSec=155, oxidizerFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=30, oxidizerIgnitionFlowSlpm=0.499,
+nitrogenIgnitionFlowSlpm=0, oxidizerTestFlow1Slpm=0.499,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=95
+Test 21235L1, continued
+
+
+
+
+                 Too late to get useful console data for PMTs, etc.
+After test: 32 on lowest valve safety timer, 89 psia in oxidizer bottle
+
+    Forgot to record console data for RAD2 (where there was no RAD1 test)
+

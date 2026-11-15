@@ -1,0 +1,38 @@
+[
+ {
+  "investigation": "BASS",
+  "platform": "ISS",
+  "gravity_g": 0.0,
+  "material": "cotton-fiberglass fabric (SIBAL)",
+  "thickness_mm": null,
+  "geometry": "sheet",
+  "flow_mode": "concurrent",
+  "flow_cm_s": 10.0,
+  "o2_pct": null,
+  "pressure_kpa": null,
+  "quantity": "flame_spread_rate",
+  "value": 2.55,
+  "unit": "mm/s",
+  "outcome": null,
+  "basis": "measured",
+  "quote": "Concurrent and Opposed Spread at ~ 10 cm/s\n       2.55 mm/s versus 1.21 mm/s"
+ },
+ {
+  "investigation": "BASS",
+  "platform": "ISS",
+  "gravity_g": 0.0,
+  "material": "cotton-fiberglass fabric (SIBAL)",
+  "thickness_mm": null,
+  "geometry": "sheet",
+  "flow_mode": "opposed",
+  "flow_cm_s": 10.0,
+  "o2_pct": null,
+  "pressure_kpa": null,
+  "quantity": "flame_spread_rate",
+  "value": 1.21,
+  "unit": "mm/s",
+  "outcome": null,
+  "basis": "measured",
+  "quote": "Concurrent and Opposed Spread at ~ 10 cm/s\n       2.55 mm/s versus 1.21 mm/s"
+ }
+]

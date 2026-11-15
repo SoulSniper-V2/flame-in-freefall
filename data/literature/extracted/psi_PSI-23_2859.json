@@ -1,0 +1,40 @@
+[
+  {
+    "paper": "psi_PSI-23_2859",
+    "investigation": null,
+    "platform": "Mir",
+    "gravity_g": 0,
+    "material": "candle",
+    "thickness_mm": null,
+    "geometry": null,
+    "flow_mode": "quiescent",
+    "flow_cm_s": null,
+    "o2_pct": null,
+    "pressure_kpa": null,
+    "quantity": "other",
+    "value": 45,
+    "unit": "min",
+    "outcome": null,
+    "basis": "cited",
+    "quote": "microgravity flame burned in some tests for over 45 minutes before extinguishing"
+  },
+  {
+    "paper": "psi_PSI-23_2859",
+    "investigation": "BASS",
+    "platform": "ISS",
+    "gravity_g": 0,
+    "material": "cotton-fiberglass fabric",
+    "thickness_mm": null,
+    "geometry": "thin sheet",
+    "flow_mode": "opposed",
+    "flow_cm_s": null,
+    "o2_pct": null,
+    "pressure_kpa": null,
+    "quantity": "other",
+    "value": 90,
+    "unit": "s",
+    "outcome": null,
+    "basis": "cited",
+    "quote": "flow effects on the flame and its spread rate are dramatic. Total burn time is 90 seconds."
+  }
+]

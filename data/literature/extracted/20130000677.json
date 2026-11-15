@@ -1,0 +1,20 @@
+[
+  {
+    "paper": "20130000677",
+    "investigation": null,
+    "platform": "drop tower",
+    "gravity_g": null,
+    "material": "Nomex, Mylar, Ultem",
+    "thickness_mm": null,
+    "geometry": null,
+    "flow_mode": null,
+    "flow_cm_s": null,
+    "o2_pct": null,
+    "pressure_kpa": null,
+    "quantity": "other",
+    "value": 2.6,
+    "unit": "% O2",
+    "outcome": null,
+    "quote": "AvgOMOS=2.6% 0 2"
+  }
+]

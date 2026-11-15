@@ -1,0 +1,239 @@
+2.013 DAFT P-TRAK AND DUSTTRAK RESTOW
+MGUEEXPRSDAFTN013
+
+
+
+                                                                                Start_IMS
+
+
+OBJECTIVE:
+Dust and Aerosol measurement Feasibility Test (DAFT). This procedure disassembles and
+stows the P-Trak and DustTrak. It completes the DAFT sample collection process.
+
+STATION PARTS:
+P-Trak-01      P/N DAFT-0101
+DustTrak       P/N DAFT-0201
+DAFT Accessories Kit       P/N DAFT-0700
+P-Trak Batteries [6]       P/N DAFT-0708
+Used P-Trak Batteries      P/N DAFT-0718
+DustTrak Batteries [4]     P/N DAFT-0709
+Used DustTrak Batteries    P/N DAFT-0719
+Single Strap P/N PERS0041
+Cable Straps [6]           P/N 528-43074-1
+
+STATION TOOLS:
+4X4 Ziplock Bag [2]         P/N 528-21039-2
+Fine Point Sharpie          P/N 528-40674-1
+Bar Code Kit                P/N 582-21046-3
+
+
+               1.     P-TRAK DISASSEMBLY
+
+                      1.1    Retrieve P-Trak-01.
+
+                      1.2   √P-Trak-01 power − Off
+
+P-Trak-01             1.3    Disconnect P-Trak Hose Adapter from P-Trak-01.
+                             P-Trak Hose Adapter ←|→ Inlet
+                             Tmpry stow P-Trak-01.
+
+                      1.4    Retrieve DAFT Accessories Kit.
+
+DAFT Accessories      1.5    Stow P-Trak Hose Adapter.
+ Kit
+                      1.6    Tmpry stow DAFT Accessories Kit.
+
+                      1.7    Retrieve P-Trak-01.
+
+
+
+
+06May04                               N013-1                    DAFT/PB3-01-0677
+2.013 DAFT P-TRAK AND DUSTTRAK RESTOW
+MGUEEXPRSDAFTN013
+
+
+P-Trak-01      1.8    √For Storage Only Cap is installed in P-Trak-01
+
+                        * *******************************************************************
+                        *     If For Storage Only Cap is not installed,
+                        *        Perform {2.006 DAFT P-TRAK SETUP},
+                        *        steps 2.3 to 2.8, then:
+                        * *******************************************************************
+
+               1.9     Remove and Tmpry stow P-Trak Battery Cover.
+
+               1.10    Remove P-Trak battery pack from P-Trak-01
+                        (slight prying motion).
+
+               1.11    Remove P-Trak Batteries (six).
+                       Tmpry stow P-Trak Batteries (six).
+
+               1.12    Replace P-Trak battery pack in P-Trak-01
+                        (using the alignment mark or guide).
+
+               1.13    Retrieve and replace P-Trak Battery Cover.
+
+               1.14    Stow P-Trak-01.
+
+               1.15    If first P-Trak Batteries stowage,
+                          Unstow:
+                               4X4 Ziplock Bag (2)
+                               Fine Point Sharpie
+                               Bar Code Kit
+
+                        Tmpry stow:
+                           4X4 Ziplock Bag
+                           Bar Code Kit
+
+                       If not first P-Trak Batteries stowage,
+                          Unstow Used P-Trak Batteries (P/N DAFT-0718).
+                          Go to step 1.22.
+
+               1.16    Using Fine Point Sharpie, label 4X4 Ziplock Bag,
+                        Used P-Trak Batteries      P/N DAFT-0718.
+
+                       Tmpry stow:
+                           4X4 Ziplock Bag
+                           Fine Point Sharpie
+
+               1.17    Retrieve Bar Code Kit.
+
+Bar Code Kit   1.18    Remove IMS Bar Code Label.
+
+                       Tmpry stow Bar Code Kit.
+
+
+
+06May04                          N013-2                         DAFT/PB3-01-0677
+2.013 DAFT P-TRAK AND DUSTTRAK RESTOW
+MGUEEXPRSDAFTN013
+
+                   1.19    Retrieve 4X4 Ziplock Bag.
+
+                   1.20    Place IMS Bar Code Label on Used P-Trak Batteries.
+
+                   1.21    Manually update IMS or Notify POIC with the new
+                            DAFT B/C number (as required).
+
+                   1.22    Retrieve P-Trak Batteries (six).
+                           Place P-Trak Batteries (six) in Used P-Trak Batteries.
+
+                   1.23    Stow Used P-Trak Batteries.
+
+                                                   NOTE
+                    DustTrak Xµm Adapter will be used for DustTrak 10µm Adapter,
+                    DustTrak 2.5µm Adapter or DustTrak 1µm Adapter.
+
+             2.    DUSTTRAK DISASSEMBLY
+
+                   2.1     Retrieve DustTrak.
+
+                   2.2    √DustTrak power − Off
+
+DustTrak           2.3     Disconnect DustTrak Xµm Adapter from DustTrak.
+                           DustTrak Xµm Adapter ←|→ Inlet
+
+                   2.4     Tmpry stow:
+                               DustTrak
+                               DustTrak Xµm Adapter
+
+                   2.5     Retrieve DAFT Accessories Kit.
+
+DAFT Accessories   2.6     Retrieve and stow DustTrak Xµm Adapter.
+ Kit
+
+                   2.7     Tmpry stow DAFT Accessories Kit.
+
+DustTrak           2.8     Retrieve DustTrak.
+                           Remove (unscrew) and Tmpry stow DustTrak Battery Cover.
+
+
+
+
+06May04                              N013-3                      DAFT/PB3-01-0677
+2.013 DAFT P-TRAK AND DUSTTRAK RESTOW
+MGUEEXPRSDAFTN013
+
+
+                                                 NOTE
+                      Move DustTrak battery pack wire to prevent obstruction of the
+                      DustTrak Battery Pack.
+
+               2.9    Remove DustTrak battery pack from DustTrak (slight prying
+                       motion).
+
+               2.10   Remove DustTrak Batteries (four).
+                      Tmpry stow DustTrak Batteries (four).
+
+                                                    NOTE
+                       1. DustTrak battery pack wire should cover the DustTrak
+                          battery pack after replacement of DustTrak battery pack.
+
+                       2. DustTrak Battery Cover must be properly inserted into the
+                          DustTrak for secure closure.
+
+                       3. DustTrak Battery Cover closure is spring loaded. Slight
+                          pressure is needed to secure DustTrak Battery Cover.
+
+               2.11   Replace DustTrak battery pack in DustTrak.
+
+               2.12   Retrieve and replace DustTrak Battery Cover taking care not to
+                       pinch DustTrak battery pack wire.
+
+               2.13   Stow DustTrak.
+
+               2.14   If first DustTrak Batteries stowage,
+                         Retrieve:
+                              Fine Point Sharpie
+                              4X4 Ziplock Bag
+
+                      If not first DustTrak Batteries stowage,
+                         Unstow Used DustTrak Batteries (P/N DAFT-0719).
+                         Go to step 2.21.
+
+               2.15   Using Fine Point Sharpie, label 4X4 Ziplock Bag,
+                       Used DustTrak Batteries P/N DAFT-0719.
+
+                      Tmpry stow Fine Point Sharpie.
+
+               2.16   Retrieve Bar Code Kit.
+
+Bar Code Kit   2.17   Remove IMS Bar Code Label.
+
+                      Tmpry stow Bar Code Kit.
+
+               2.18   Retrieve 4X4 Ziplock Bag.
+
+
+
+
+06May04                         N013-4                        DAFT/PB3-01-0677
+2.013 DAFT P-TRAK AND DUSTTRAK RESTOW
+MGUEEXPRSDAFTN013
+
+
+                       2.19    Place IMS Bar Code Label on Used DustTrak Batteries.
+
+                       2.20    Manually update IMS or Notify POIC with the new
+                                DAFT B/C number (as required).
+
+                       2.21    Retrieve DustTrak Batteries (four).
+                               Place DustTrak Batteries (four) in Used DustTrak Batteries.
+
+                       2.22    Stow:
+                                       Fine Point Sharpie
+                                       DAFT Accessories Kit
+                                       Used DustTrak Batteries
+                                       Bar Code Kit (as required)
+                                       Single Strap (as required)
+                                       Cable Straps (six) (as required)
+
+
+RESTOW tools, parts, materials, as required, to original locations:
+
+
+
+
+06May04                                    N013-5                         DAFT/PB3-01-0677
+

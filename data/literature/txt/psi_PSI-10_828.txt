@@ -1,0 +1,822 @@
+            Flame Design: Round 2, inverse-flame day 6
+           Chamber filled to 14.7 psia with 19% ethylene (balance N2)
+
+Test 22024A1 (test 1 of 20, flame 1 of 20) – sustained ignition, run as planned
+(without changes to the script parameters)
+
+
+
+
+                                        1
+Test 22024A1, continued
+
+
+
+
+                          2
+Test 22024A1, continued
+
+
+
+
+After test: 948 on lowest valve safety timer, 45 psia in oxidizer bottle, 196 psia
+in fuel bottle
+
+
+                                         3
+Test 22024A2 (test 2 of 20, flame 2 of 20) – sustained ignition, nominal repeat of
+A1, run with oxidizerFlowIgnitionDeltaMs=0
+
+
+
+
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                        4
+Test 22024A2, continued
+
+
+
+
+                          5
+Test 22024A2, continued
+
+
+
+
+After test: 895 on lowest valve safety timer, 43 psia in oxidizer bottle, 195 psia
+in fuel bottle
+
+
+
+                                         6
+Test 22024B1 (test 3 of 20, flame 3 of 20) – sustained ignition, TFP variant of A1-
+A2, run with fiberTestPosition=15500, oxidizerFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=4, constantFlowTime1Sec=20
+
+
+
+
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                         7
+Test 22024B1, continued
+
+
+
+
+                          8
+Test 22024B1, continued
+
+
+
+
+After test: 848 on lowest valve safety timer, 42 psia in oxidizer bottle, 196 psia
+in fuel bottle
+
+
+
+                                         9
+Test 22024C1 (test 4 of 20, flame 4 of 20) – sustained ignition, dilution variant of
+B1, run with fiberTestPosition=15700, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=1, constantFlowTime1Sec=20
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                         10
+Test 22024C1, continued
+
+
+
+
+                          11
+Test 22024C1, continued
+
+
+
+
+After test: 801 on lowest valve safety timer, 40 psia in oxidizer bottle, 196 psia
+in fuel bottle
+
+
+
+                                         12
+Test 22024D1 (test 5 of 20, flame 5 of 20) – sustained ignition, run with
+fiberTestPosition=15700, oxidizerFlowIgnitionDeltaMs=200,
+nitrogenFlowIgnitionDeltaMs=0, stabilizationTime2Sec=0,
+constantFlowTime1Sec=20
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                        13
+Test 22024D1, continued
+
+
+
+
+                          14
+Test 22024D1, continued
+
+
+
+
+After test: 755 on lowest valve safety timer, 39 psia in oxidizer bottle, 196 psia
+in fuel bottle
+
+
+
+                                         15
+Test 22024F1 (test 6 of 20, flame 6 of 20) – sustained ignition, run with
+fiberTestPosition=15700, oxidizerFlowIgnitionDeltaMs=500,
+nitrogenFlowIgnitionDeltaMs=0, stabilizationTime2Sec=0,
+constantFlowTime1Sec=20
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                        16
+Test 22024F1, continued
+
+
+
+
+                          17
+Test 22024F1, continued
+
+
+
+
+After test: 709 on lowest valve safety timer, 38 psia in oxidizer bottle, 196 psia
+in fuel bottle
+
+
+
+                                         18
+Test 22024B2 (test 7 of 20, flame 7 of 20) – sustained ignition, up/down flow
+ramping, run with fiberTestPosition=15700, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=0, stabilizationTime2Sec=8,
+oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.207,
+oxidizerTestFlow2Slpm=0.494, oxidizerTestFlow3Slpm=0.207,
+constantFlowTime1Sec=7, constantFlowTime2Sec=constantFlowTime3Sec=10,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=5,
+burnerTemperatureLimitC=500
+dataCamera Zoom=35000, dataCamera Focus=12700
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                      19
+Test
+22024
+B2,
+contin
+ued
+
+
+
+
+         20
+Test 22024B2, continued
+
+
+
+
+After test: 640 on lowest valve safety timer, 34 psia in oxidizer bottle, 196 psia
+in fuel bottle
+
+
+
+                                         21
+Test 22024B3 (test 8 of 20, flame 8 of 20) – sustained ignition, up/down/up flow
+ramping, run with dataCameraManualGain=24, useBracketedExposures=FALSE,
+fiberIgnitionPosition=fiberTestPosition=0, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=0, stabilizationTime1Sec=10,
+stabilizationTime2Sec=0, oxidizerIgnitionFlowSlpm=0.207,
+oxidizerTestFlow1Slpm=0.414, oxidizerTestFlow2Slpm=0.207,
+oxidizerTestFlow3Slpm=0.414, constantFlowTime1Sec=10,
+constantFlowTime2Sec=constantFlowTime3Sec=10,
+ignitionToTestRampTimeSec=5, testFlowRamp1To2TimeSec=5,
+testFlowRamp2To3TimeSec=5, burnerTemperatureLimitC=500
+dataCamera Zoom=35000, dataCamera Focus=12700
+use HiBMS Camera?=NO, HiBMS Illumination Level (backlight)=0
+
+
+
+
+                                       22
+Test 22024B3, continued
+
+
+
+
+                          23
+Test 22024B3, continued
+
+
+
+
+After test: 558 on lowest valve safety timer, 31 psia in oxidizer bottle, 196 psia
+in fuel bottle
+
+
+
+                                         24
+   Chamber vented and refilled to 7.35 psia with 19% ethylene (balance N2)
+                     resetting the valve safety timers
+
+Test 22024G1 (test 9 of 20, flame 9 of 20) – sustained ignition, pressure variant
+of A1, run with dataCameraManualGain=24, useBracketedExposures=FALSE,
+fiberIgnitionPosition=fiberTestPosition=0, oxidizerFlowIgnitionDeltaMs=200,
+nitrogenFlowIgnitionDeltaMs=0, stabilizationTime1Sec=0,
+stabilizationTime2Sec=0, oxidizerIgnitionFlowSlpm=0.259,
+oxidizerTestFlow1Slpm=0.259, oxidizerTestFlow2Slpm=0,
+oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=20,
+constantFlowTime2Sec=constantFlowTime3Sec=ignitionToTestRampTimeSec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0,
+burnerTemperatureLimitC=450
+dataCamera Zoom=30000, dataCamera Focus=13750
+use HiBMS Camera?=YES, HiBMS Illumination Level (backlight)=65
+
+
+
+
+                                       25
+Test 22024G1, continued
+
+
+
+
+                          26
+Test 22024G1, continued
+
+
+
+
+After test: 955 on lowest valve safety timer, 30 psia in oxidizer bottle, 86 psia in
+fuel bottle
+
+
+
+                                         27
+Test 22024H1 (test 10 of 20, flame 10 of 20) – sustained ignition, TFP variant of
+G1, run with dataCameraManualGain=0, useBracketedExposures=TRUE,
+fiberIgnitionPosition=10000, fiberTestPosition=15700,
+oxidizerFlowIgnitionDeltaMs=0, nitrogenFlowIgnitionDeltaMs=0,
+stabilizationTime1Sec=0, stabilizationTime2Sec=3,
+oxidizerIgnitionFlowSlpm=0.259, oxidizerTestFlow1Slpm=0.259,
+oxidizerTestFlow2Slpm=0, oxidizerTestFlow3Slpm=0,
+constantFlowTime1Sec=20,
+constantFlowTime2Sec=constantFlowTime3Sec=ignitionToTestRampTimeSec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0,
+burnerTemperatureLimitC=450
+dataCamera Zoom=30000, dataCamera Focus=13750
+                                                                             use
+                                                                             HiB
+                                                                             MS
+                                                                             Cam
+                                                                             era?
+                                                                             =NO,
+                                                                             HiB
+                                                                             MS
+                                                                             Illum
+                                                                             inati
+                                                                             on
+                                                                             Level
+                                                                             (back
+                                                                             light)
+                                                                             =0
+
+
+
+
+                                        28
+Test 22024H1, continued
+
+
+
+
+                          29
+Test 22024H1, continued
+
+
+
+
+After test: 906 on lowest valve safety timer, 28 psia in oxidizer bottle, 86 psia in
+fuel bottle
+
+
+
+
+                                         30
+Test 22024J1 (test 11 of 20, flame 11 of 20) – sustained ignition, dilution variant
+of H1 (pressure variant of C1), run with dataCameraManualGain=0,
+useBracketedExposures=TRUE, fiberIgnitionPosition=10000,
+fiberTestPosition=15700, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=0, stabilizationTime1Sec=0,
+stabilizationTime2Sec=0, oxidizerIgnitionFlowSlpm=0.259,
+nitrogenIgnitionFlowSlpm=0.094, oxidizerTestFlow1Slpm=0.259,
+nitrogenTestFlow1Slpm=0.094, oxidizerTestFlow2Slpm=0,
+oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=15,
+constantFlowTime2Sec=constantFlowTime3Sec=ignitionToTestRampTimeSec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0,
+burnerTemperatureLimitC=450
+dataCamera Zoom=30000, dataCamera Focus=13750
+                                                                             use
+                                                                             HiBMS
+                                                                             Camer
+                                                                             a?=NO
+                                                                             ,
+                                                                             HiBMS
+                                                                             Illumin
+                                                                             ation
+                                                                             Level
+                                                                             (backli
+                                                                             ght)=0
+
+
+
+
+                                         31
+Test 22024J1, continued
+
+
+
+
+                          32
+Test 22024J1, continued
+
+
+
+
+After test: 863 on lowest valve safety timer, 27 psia in oxidizer bottle, 86 psia in
+fuel bottle
+
+
+
+                                         33
+Test 22024K1 (test 12 of 20, flame 12 of 20) – sustained ignition, pressure
+variant of D1, run with dataCameraManualGain=0,
+useBracketedExposures=TRUE, pmt1Gain=4, fiberIgnitionPosition=10000,
+fiberTestPosition=15700, oxidizerFlowIgnitionDeltaMs=200,
+nitrogenFlowIgnitionDeltaMs=0, stabilizationTime1Sec=0,
+stabilizationTime2Sec=0, oxidizerIgnitionFlowSlpm=0.207,
+nitrogenIgnitionFlowSlpm=0.244, oxidizerTestFlow1Slpm=0.207,
+nitrogenTestFlow1Slpm=0.244, oxidizerTestFlow2Slpm=0,
+oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=15,
+constantFlowTime2Sec=constantFlowTime3Sec=ignitionToTestRampTimeSec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0,
+burnerTemperatureLimitC=450
+dataCamera Zoom=30000, dataCamera Focus=13750
+                                                                            use
+                                                                            HiBMS
+                                                                            Camer
+                                                                            a?=NO
+                                                                            ,
+                                                                            HiBMS
+                                                                            Illumin
+                                                                            ation
+                                                                            Level
+                                                                            (backli
+                                                                            ght)=0
+
+
+
+
+                                        34
+Test 22024K1, continued
+
+
+
+
+                          35
+Test 22024K1, continued
+
+
+
+
+After test: 826 on lowest valve safety timer, 27 psia in oxidizer bottle, 86 psia in
+fuel bottle
+
+
+
+                                         36
+Test 22024L1 (test 13 of 20, flame 13 of 20) – sustained ignition, pressure
+variant of F1, run with dataCameraManualGain=0,
+useBracketedExposures=TRUE, pmt1Gain=4, fiberIgnitionPosition=10000,
+fiberTestPosition=15700, oxidizerFlowIgnitionDeltaMs=500,
+nitrogenFlowIgnitionDeltaMs=0,
+stabilizationTime1Sec=stabilizationTime2Sec=0,
+oxidizerIgnitionFlowSlpm=0.172, nitrogenIgnitionFlowSlpm=0.398,
+oxidizerTestFlow1Slpm=0.172, nitrogenTestFlow1Slpm=0.398,
+oxidizerTestFlow2Slpm=oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=15,
+constantFlowTime2Sec=constantFlowTime3Sec=ignitionToTestRampTimeSec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0,
+burnerTemperatureLimitC=450
+dataCamera Zoom=30000, dataCamera Focus=13750
+use
+HiB
+MS
+Cam
+era?
+=NO,
+HiB
+MS
+Illum
+inati
+on
+Level
+(bac
+kligh
+t)=0
+
+
+
+
+                                    37
+Test 22024L1, continued
+
+
+
+
+                          38
+Test 22024L1, continued
+
+
+
+
+After test: 787 on lowest valve safety timer, 25 psia in oxidizer bottle, 86 psia in
+fuel bottle
+
+
+
+                                         39
+Test 22024L2 (test 14 of 20, flame 14 of 20) – sustained ignition, dilution variant
+of L1, run with dataCameraManualGain=0, useBracketedExposures=TRUE,
+pmt1Gain=4, fiberIgnitionPosition=10000, fiberTestPosition=15700,
+oxidizerFlowIgnitionDeltaMs=500, nitrogenFlowIgnitionDeltaMs=0,
+stabilizationTime1Sec=stabilizationTime2Sec=0,
+oxidizerIgnitionFlowSlpm=0.172, nitrogenIgnitionFlowSlpm=0.278,
+oxidizerTestFlow1Slpm=0.172, nitrogenTestFlow1Slpm=0.278,
+oxidizerTestFlow2Slpm=oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=15,
+constantFlowTime2Sec=constantFlowTime3Sec=ignitionToTestRampTimeSec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0,
+burnerTemperatureLimitC=450
+dataCamera Zoom=30000, dataCamera Focus=13750
+                                                                              use
+                                                                              HiB
+                                                                              MS
+                                                                              Cam
+                                                                              era?
+                                                                              =NO,
+                                                                              HiB
+                                                                              MS
+                                                                              Illum
+                                                                              inati
+                                                                              on
+                                                                              Level
+                                                                              (bac
+                                                                              kligh
+                                                                              t)=0
+
+
+
+
+                                        40
+Test 22024L2, continued
+
+
+
+
+                          41
+Test 22024L2, continued
+
+
+
+
+After test: 745 on lowest valve safety timer, 25 psia in oxidizer bottle, 86 psia in
+fuel bottle
+
+
+
+
+                                         42
+Test 22024L3 (test 15 of 20, flame 15 of 20) – sustained ignition, dilution variant
+of L1-L2, run with dataCameraManualGain=0, useBracketedExposures=TRUE,
+pmt1Gain=4, fiberIgnitionPosition=10000, fiberTestPosition=15700,
+oxidizerFlowIgnitionDeltaMs=500, nitrogenFlowIgnitionDeltaMs=0,
+stabilizationTime1Sec=stabilizationTime2Sec=0,
+oxidizerIgnitionFlowSlpm=0.172, nitrogenIgnitionFlowSlpm=0.188,
+oxidizerTestFlow1Slpm=0.172, nitrogenTestFlow1Slpm=0.188,
+oxidizerTestFlow2Slpm=oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=15,
+constantFlowTime2Sec=constantFlowTime3Sec=ignitionToTestRampTimeSec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0,
+burnerTemperatureLimitC=450
+dataCamera Zoom=30000, dataCamera Focus=13750
+                                                                              use
+                                                                              HiB
+                                                                              MS
+                                                                              Cam
+                                                                              era?
+                                                                              =NO,
+                                                                              HiB
+                                                                              MS
+                                                                              Illum
+                                                                              inati
+                                                                              on
+                                                                              Level
+                                                                              (bac
+                                                                              kligh
+                                                                              t)=0
+
+
+
+
+                                        43
+Test 22024L3, continued
+
+
+
+
+                          44
+Test 22024L3, continued
+
+
+
+
+After test: 705 on lowest valve safety timer, 24 psia in oxidizer bottle, 86 psia in
+fuel bottle
+
+
+
+
+                                         45
+Test 22024H2 (test 16 of 20, flame 16 of 20) – sustained ignition, nominal
+repeat of H1, run with dataCameraManualGain=0,
+useBracketedExposures=TRUE, pmt1Gain=4, fiberIgnitionPosition=10000,
+fiberTestPosition=15700, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=0, stabilizationTime1Sec=0,
+stabilizationTime2Sec=2, oxidizerIgnitionFlowSlpm=0.259,
+nitrogenIgnitionFlowSlpm=0, oxidizerTestFlow1Slpm=0.259,
+nitrogenTestFlow1Slpm=0, oxidizerTestFlow2Slpm=oxidizerTestFlow3Slpm=0,
+constantFlowTime1Sec=15, constantFlowTime2Sec=constantFlowTime3Sec=0,
+ignitionToTestRampTimeSec=0, testFlowRamp1To2TimeSec=0,
+testFlowRamp2To3TimeSec=0, burnerTemperatureLimitC=450
+dataCamera Zoom=30000, dataCamera Focus=13750
+                                                                           use
+                                                                           HiBM
+                                                                           S
+                                                                           Came
+                                                                           ra?=
+                                                                           NO,
+                                                                           HiBM
+                                                                           S
+                                                                           Illumi
+                                                                           natio
+                                                                           n
+                                                                           Level
+                                                                           (back
+                                                                           light)
+                                                                           =0
+
+
+
+
+                                       46
+Test 22024H2, continued
+
+
+
+
+                          47
+Test 22024H2, continued
+
+
+
+
+After test: 665 on lowest valve safety timer, 24 psia in oxidizer bottle, 86 psia in
+fuel bottle
+
+
+
+
+                                         48
+Test 22024M1 (test 17 of 20, flame 17 of 20) – sustained ignition, pressure
+variant of B2 (up/down ramp), run with dataCameraManualGain=0,
+useBracketedExposures=TRUE, pmt1Gain=4, fiberIgnitionPosition=10000,
+fiberTestPosition=15700, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=0, stabilizationTime1Sec=0,
+stabilizationTime2Sec=8, oxidizerIgnitionFlowSlpm=0.207,
+nitrogenIgnitionFlowSlpm=0, oxidizerTestFlow1Slpm=0.207,
+nitrogenTestFlow1Slpm=0, oxidizerTestFlow2Slpm=0.494,
+oxidizerTestFlow3Slpm=0.207, constantFlowTime1Sec=7,
+constantFlowTime2Sec=constantFlowTime3Sec=10,
+ignitionToTestRampTimeSec=0, testFlowRamp1To2TimeSec=5,
+testFlowRamp2To3TimeSec=5, burnerTemperatureLimitC=500
+dataCamera Zoom=35000, dataCamera Focus=12700
+                                                                          use
+                                                                          HiBMS
+                                                                          Camer
+                                                                          a?=NO
+                                                                          ,
+                                                                          HiBMS
+                                                                          Illumin
+                                                                          ation
+                                                                          Level
+                                                                          (backli
+                                                                          ght)=0
+
+
+
+
+                                       49
+Test 22024M1, continued
+
+
+
+
+                          50
+Test 22024M1, continued
+
+
+
+
+After test: 593 on lowest valve safety timer, 21 psia in oxidizer bottle, 86 psia in
+fuel bottle
+
+
+
+                                         51
+Test 22024M2 (test 18 of 20, flame 18 of 20) – sustained ignition, pressure
+variant of B3 (up/down/up ramp), run with dataCameraManualGain=24,
+useBracketedExposures=FALSE, pmt1Gain=4, fiberIgnitionPosition=0,
+fiberTestPosition=0, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=0, stabilizationTime1Sec=10,
+stabilizationTime2Sec=0, oxidizerIgnitionFlowSlpm=0.207,
+nitrogenIgnitionFlowSlpm=0, oxidizerTestFlow1Slpm=0.414,
+nitrogenTestFlow1Slpm=0, oxidizerTestFlow2Slpm=0.207,
+oxidizerTestFlow3Slpm=0.414, constantFlowTime1Sec=10,
+constantFlowTime2Sec=constantFlowTime3Sec=10,
+ignitionToTestRampTimeSec=5, testFlowRamp1To2TimeSec=5,
+testFlowRamp2To3TimeSec=5, burnerTemperatureLimitC=500
+dataCamera Zoom=35000, dataCamera Focus=12700
+                                                                          use
+                                                                          HiBMS
+                                                                          Camer
+                                                                          a?=NO
+                                                                          ,
+                                                                          HiBMS
+                                                                          Illumin
+                                                                          ation
+                                                                          Level
+                                                                          (backli
+                                                                          ght)=0
+
+
+
+
+                                       52
+Test 22024M2, continued
+
+
+
+
+                          53
+Test 22024M2, continued
+
+
+
+
+After test: 513 on lowest valve safety timer, 18 psia in oxidizer bottle, 86 psia in
+fuel bottle
+
+
+
+                                         54
+Test 22024K2 (test 19 of 20, flame 19 of 20) – sustained ignition, run with
+dataCameraManualGain=24, useBracketedExposures=FALSE, pmt1Gain=4,
+fiberIgnitionPosition=0, fiberTestPosition=0, oxidizerFlowIgnitionDeltaMs=500,
+nitrogenFlowIgnitionDeltaMs=0, stabilizationTime1Sec=0,
+stabilizationTime2Sec=0, oxidizerIgnitionFlowSlpm=0.3,
+nitrogenIgnitionFlowSlpm=0.244, oxidizerTestFlow1Slpm=0.3,
+nitrogenTestFlow1Slpm=0.244, oxidizerTestFlow2Slpm=0,
+oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=60,
+constantFlowTime2Sec=constantFlowTime3Sec=0
+ignitionToTestRampTimeSec=testFlowRamp1To2TimeSec=0,
+testFlowRamp2To3TimeSec=0, burnerTemperatureLimitC=450
+dataCamera Zoom=30000, dataCamera Focus=13750
+                                                                            use
+                                                                            HiB
+                                                                            MS
+                                                                            Cam
+                                                                            era?
+                                                                            =NO,
+                                                                            HiB
+                                                                            MS
+                                                                            Illum
+                                                                            inati
+                                                                            on
+                                                                            Level
+                                                                            (back
+                                                                            light)
+                                                                            =0
+
+
+
+
+                                        55
+Test 22024K2, continued
+
+
+
+
+                          56
+Test 22024K2, continued
+
+
+
+
+After test: 430 on lowest valve safety timer, 14 psia in oxidizer bottle, 86 psia in
+fuel bottle
+
+
+                                         57
+Test 22024K3 (test 20 of 20, flame 20 of 20) – sustained ignition, run with
+dataCameraTestExposureUs=100000, dataCameraManualGain=24,
+useBracketedExposures=FALSE, pmt1Gain=5, fiberIgnitionPosition=0,
+fiberTestPosition=0, flowTimeoutSec=400, oxidizerFlowIgnitionDeltaMs=500,
+nitrogenFlowIgnitionDeltaMs=0, stabilizationTime1Sec=0,
+stabilizationTime2Sec=0, oxidizerIgnitionFlowSlpm=0.4,
+nitrogenIgnitionFlowSlpm=0.2, oxidizerTestFlow1Slpm=0.4,
+nitrogenTestFlow1Slpm=0.2, oxidizerTestFlow2Slpm=0,
+oxidizerTestFlow3Slpm=0, constantFlowTime1Sec=360,
+constantFlowTime2Sec=constantFlowTime3Sec=0
+ignitionToTestRampTimeSec=testFlowRamp1To2TimeSec=0,
+testFlowRamp2To3TimeSec=0, burnerTemperatureLimitC=450
+dataCamera Zoom=30000, dataCamera Focus=13750
+                                                                            use
+                                                                            HiB
+                                                                            MS
+                                                                            Ca
+                                                                            mer
+                                                                            a?=
+                                                                            NO,
+                                                                            HiB
+                                                                            MS
+                                                                            Illu
+                                                                            min
+                                                                            atio
+                                                                            n
+                                                                            Lev
+                                                                            el
+                                                                            (bac
+                                                                            klig
+                                                                            ht)=
+                                                                            0
+
+
+
+
+                                       58
+Test 22024K3, continued
+
+
+
+
+                          59
+Test 22024K3, continued
+
+
+
+
+After test: 284 on lowest valve safety timer, 9 psia in oxidizer bottle, 86 psia in
+fuel bottle
+
+
+                                         60
+Test 22024RAD2
+
+                      Test
+                      22024
+                      RAD2,
+                      contin
+                      ued
+
+
+
+
+                 61
+62
+

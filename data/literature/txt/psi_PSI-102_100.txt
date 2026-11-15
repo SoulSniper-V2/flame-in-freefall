@@ -1,0 +1,881 @@
+                                                 SAME-DOC-008 Rev A
+
+
+
+
+Smoke Aerosol Measurement Experiment (SAME)
+
+
+         Crew Interface Description
+
+
+
+
+ February, 2006
+
+
+
+
+ Prepared For:
+ National Aeronautics and Space Administration
+ John H. Glenn Research Center at Lewis Field
+ Microgravity Science Division
+ Cleveland, Ohio 44135
+
+ Prepared By:
+ ZIN Technologies, Incorporated
+ 2001 Aerospace Parkway
+ Brook Park, Ohio 44142
+ Under Contract NAS3-99155, 60089-DO-084
+                                                         SAME-DOC-008 Rev A
+
+
+                                     APPROVALS
+
+Prepared by:   /s/ Jeff Eggers for GAF           Date:     01-06-06
+               Gregory A. Fedor
+               ZIN Technologies, Inc.
+               SAME Software Engineer
+
+Reviewed by:   /s/ Jeff C. Eggers                Date:     01-06-06
+               Jeffrey C. Eggers
+               ZIN Technologies, Inc.
+               SAME Software Lead
+
+Reviewed by:   /s/ Kimesha M. Calaway            Date:     01-06-06
+               Kimesha M. Calaway
+               ZIN Technologies, Inc.
+               SAME Systems Engineer
+
+Approved by:   /s/ Greg Funk                     Date:     01-06-06
+               Gregory P. Funk
+               ZIN Technologies, Inc.
+               SAME Project Lead
+                                                                            SAME-DOC-008 Rev A
+
+
+                                        REVISIONS
+
+Revision Letter   Publication Date   Change Description                             Approval
+                       06/05         Draft
+       --              01/06         Baseline Release
+       A               02/06         SAME-ECO-105: To reflect changes made when     SYC 2/22/06
+                                                   converting interface from Java
+                                                                                    GF 2/22/06
+                                                   to C++.
+
+
+
+
+                                                  iii
+                                                                                                                                                    SAME-DOC-008 Rev A
+
+
+                                                              TABLE OF CONTENTS
+
+1.0 INTRODUCTION .................................................................................................................................................1
+   1.1        PURPOSE .........................................................................................................................................................1
+   1.2        SCOPE .............................................................................................................................................................1
+2.0 CREW INTERFACE ............................................................................................................................................2
+   2.1     PURPOSE .........................................................................................................................................................2
+   2.2     DESCRIPTION ..................................................................................................................................................3
+      2.2.1    Primary Button Panel ............................................................................................................................3
+      2.2.2    Menu Bar ...............................................................................................................................................3
+      2.2.3    Payload Status Area...............................................................................................................................4
+      2.2.4    Status Bar ..............................................................................................................................................4
+      2.2.5    Workspace..............................................................................................................................................5
+          2.2.5.1     Welcome Screen ................................................................................................................................................ 5
+          2.2.5.2     Status Screen ...................................................................................................................................................... 6
+          2.2.5.3     Operations .......................................................................................................................................................... 7
+             2.2.5.3.6 System Group ................................................................................................................................................... 7
+             2.2.5.3.7 Test Group ........................................................................................................................................................ 8
+          2.2.5.4     Commercial Diagnostics .................................................................................................................................... 9
+          2.2.5.5     P-Trak .............................................................................................................................................................. 11
+       2.2.6          Log ....................................................................................................................................................... 12
+       2.2.7          Help ..................................................................................................................................................... 12
+       2.2.8          Exit ....................................................................................................................................................... 13
+3.0 FLOW DIAGRAMS ............................................................................................................................................ 14
+
+
+                                                                     LIST OF FIGURES
+Figure 1- Display Components ......................................................................................................................................3
+Figure 2 - Welcome Screen............................................................................................................................................5
+Figure 3 - Status Screen ................................................................................................................................................6
+Figure 4 - Operations Screen ........................................................................................................................................7
+Figure 5 – Commerical Diagnostics Screen ..................................................................................................................9
+Figure 6 – P-Trak Screen ............................................................................................................................................ 11
+Figure 7 - Log Window ................................................................................................................................................ 12
+Figure 8 - Help Window .............................................................................................................................................. 12
+Figure 9 - Exit Confirmation ....................................................................................................................................... 13
+
+
+                                                                      LIST OF TABLES
+Table 1 - Primary Buttons .............................................................................................................................................3
+Table 2 - Run Mode Values ...........................................................................................................................................4
+Table 3 - Ethernet Switch Position Values ....................................................................................................................7
+Table 4 - SAME System Command Buttons ...................................................................................................................8
+Table 5 - SAME Test Commands ...................................................................................................................................8
+Table 6 - DustTrak Buttons.......................................................................................................................................... 10
+Table 7 – P-Trak Buttons............................................................................................................................................. 11
+
+
+
+
+                                                                                               iv
+                                                                                        SAME-DOC-008 Rev A
+
+
+
+1.0 INTRODUCTION
+Smoke Aerosol Measurement Experiment (SAME) is an experiment payload planned for the Microgravity Science
+Glovebox (MSG) located on the International Space Station (ISS). The Crew Display (a.k.a. Human-Computer
+Interface or HCI) will operate on the MSG Laptop Computer MLC. It provides the crew with information about the
+current status of the experiment and an ability to issue commands to control the system.
+The crew interface for SAME is intended to be used only in off-nominal conditions. The nominal operation of the
+experiment will occur via ground commanding.
+
+1.1     Purpose
+The purpose of this document is to describe the SAME Crew Display and to:
+
+      1) Provide details about the implementation of the SAME Crew Display requirements found in SAME-DOC-
+         004, Section 7.0
+      2) Satisfy the Preliminary and Candidate Display Deliveries as required for the Payload Display Review Team
+         (PDRT)
+
+1.2     Scope
+This document is limited to the operation of the SAME Crew Display. Issues concerning general operation of the
+experiment via the software operating on the DACU or ground systems are not discussed here.
+
+
+
+
+                                                          1
+                                                                                          SAME-DOC-008 Rev A
+
+
+
+2.0 CREW INTERFACE
+2.1       Purpose
+The purpose of the crew interface on SAME is to provide some basic information about the status of the experiment
+during off-nominal conditions, especially in case of loss of data telemetry and/or commanding from and to the
+ground. This information is minimal in nature. It represents the basic information that a crew member may be
+asked to report and commands they are asked to issue during off-nominal conditions.
+Section 3.0 provides flow diagrams showing the typical use of the crew interface. In summary, those uses are:
+      •    Commanding and Telemetry Check. Verification of SAME data transmittal and command reception.
+      •    Sample Positioning Check. Used to debug unexpected sample positioning behavior that could use a crew
+           member’s eye.
+      •    Gate Valve Check. Used to debug unexpected gate valve behavior.
+      •    P-Trak Configure. Execute specified commands and verify specified results on the P-Trak to achieve
+           reconfiguration and/or debugging.
+      •    Commercial Diagnostics Configure. Execute specified commands and verify specified results on the
+           Commercial Diagnostics unit to achieve reconfiguration and/or debugging.
+      •    Attended Operations. Ability to power-up the SAME DACU, initialize the instrument, run a specified
+           test, and shut down.
+
+
+
+
+                                                           2
+                                                                                           SAME-DOC-008 Rev A
+
+
+
+2.2       Description
+The basic layout of the Crew Display is dictated by the requirements found in the Display and Graphics
+Commonality Standard (DGCS) (SSP 50313 Rev B). The standard describes the look-and-feel and deals with items
+such as colors, button type and placement, and major layout elements. Figure 1 below identifies the major layout
+elements.
+  Menu
+   Bar
+Payload
+ Status
+   Area
+
+
+
+
+      Workspac                                                                                             Primary
+                                                                                                           Button
+      e
+                                                                                                           Panel
+
+
+
+
+ Status
+    Bar
+                                           Figure 1- Display Components
+
+
+2.2.1 Primary Button Panel
+These buttons represent the major functions and operations of the interface.
+
+                    Button     Description
+                   Status      The Status summary display is shown in the workspace. See 2.2.5.2
+                 Operations    The Test display is shown in the workspace. See 2.2.5.3
+                 Commercial    The Commercial Diagnostics display is shown in the workspace. See 2.2.5.4
+                 Diagnostics
+                   P-Trak      The P-Trak display is shown in the workspace. See 2.2.5.5
+                     Log       Displays the message log dialog panel. See 2.2.6
+                     Help      See 2.2.7
+                     Exit      Terminates the crew interface program. See 2.2.8
+                                            Table 1 - Primary Buttons
+2.2.2 Menu Bar
+As required by SSP50313 the menu bar replicates the functionality of buttons and commands that appear in other
+parts of the interface.
+
+
+
+                                                            3
+                                                                                           SAME-DOC-008 Rev A
+
+
+2.2.3 Payload Status Area
+This is an area reserved in the DGCS for payloads to present critical information that is shown at all times. SAME
+will use this area to display information about the experiment and testing status.
+The Run Mode field displays the current running status of the SAME experiment. Possible values are:
+               STARTUP     The DACU software is starting
+             UNINITIALIZED The DACU software is waiting for the System Initialize command
+               STANDBY     The DACU software has been successfully initialized and is waiting for
+                           commands and is emitting housekeeping data.
+             TEST RUNNING A test is currently in progress
+             TEST PAUSED A test is paused
+              SHUTDOWN The DACU software is in the process of shutting down.
+                                        Table 2 - Run Mode Values
+
+The OK Status indicator replicates the physical LED labeled OK on the DACU housing. It represents the physical
+status of the experiment. When the indicator is lit the system is operational (e,g, powered, booted, ready to run);
+unlit indicates the system is not operational (e.g. not powered, in error).
+
+The Test Number field displays the current test number the DACU is running or prepared to run.
+
+The Elapsed Time field displays how long the current test has been running (HH:MM:SS). If no test is running the
+field will be blank
+
+The GPS field is required by SSP50313. It provides a time reference for payload operations.
+2.2.4 Status Bar
+
+
+
+                       Message Text          Details
+ Timestamp     Level
+                               Description
+
+
+The latest information message received from the DACU will be displayed here. In addition, it is added to the
+general message log (see 2.2.6). The message is specific to SAME and is composed of four comma-separated parts.
+The first part is the GPS time the message was generated on the DACU. Next is the level of the message which is
+either INFO or ERROR. This is followed by the message text and optional detail text. The last two fields make up
+the Description field in the general message log.
+
+
+
+
+                                                           4
+                                                                                             SAME-DOC-008 Rev A
+
+
+
+2.2.5 Workspace
+The workspace area is used for displaying information and controls for a given function. The contents will change
+based on the primary function selected.
+
+2.2.5.1 Welcome Screen
+The welcome screen is the first thing displayed when the crew display is started. There is no real content display, but
+it serves the purpose of positively identifying the SAME experiment. Once the operator selects a function from the
+primary button panel, the workspace will change to the new display. There is no way of displaying the welcome
+screen again without exiting and restarting the program.
+
+
+
+
+                                             Figure 2 - Welcome Screen
+
+
+
+
+                                                            5
+                                                                                          SAME-DOC-008 Rev A
+
+
+2.2.5.2 Status Screen
+The summary status display is shown when the operator presses the Status button. It shows information about the
+state of SAME in addition to what is shown in the Payload Status Area (see 2.2.3).
+
+
+
+
+                                             Figure 3 - Status Screen
+
+
+2.2.5.2.1 Sample Positioning Group
+The sample group consists of 3 fields. The Sample Number field is the number of the sample within the carousel
+being tested at that time. The Carousel Number field is the number of the carousel that is installed. A carousel
+holds six samples. The combination of the carousel and sample number uniquely identifies a particular test item. The
+Resistance field displays the measured resistance of the heater wire coil for the sample. This is used as a unique
+physical indicator of which sample is being tested.
+2.2.5.2.2 SAME Power Group
+MSG provides SAME with 120VDC. SAME converts this into 5 separate voltages using DC/DC converters. The
+SAME Power group consists of fields indicating the state of the 5 voltages. For all voltages, the possible state
+include ON and OFF. In addtion the 12 VDC Heater, 12 VDC Misc, and 5 VDC can have a state of Enabled, which
+means that it was turned on, but has not yet been sensed as on.
+2.2.5.2.3 Ethernet Switch Group
+The MLC Ethernet connection is routed through a switch inside SAME. The switch connects the MLC to either the
+ISS LAN Backbone or to the SAME DACU. The purpose of this is to allow the DACU to transfer data files to the
+MLC via FTP. The switch is nominally controlled by the DACU; however the crew can manually activate the switch
+if necessary. When the DACU is unpowered, the switch connects the MLC to the ISS LAN. The Ethernet Switch
+group reports the state of the switch. There are three possible values:
+
+
+
+                                                           6
+                                                                                              SAME-DOC-008 Rev A
+
+
+
+
+                MLC to SAME          The MLC network connection is connected to the SAME DACU
+                                     (for the purpose of transferring files)
+                 MLC to LAN          The MLC network connection is connected to the ISS LAN
+                          The above two states are achieved electronically by DACU commands
+           Manual: MLC to SAME The manual switch has been used to force the MLC network
+                               connection to the SAME DACU.
+                              Table 3 - Ethernet Switch Position Values
+2.2.5.2.4 Gate Valves Group
+The Gate Valves group displays the status of two valves; the Inlet and Outlet valves. These can either be OPEN or
+CLOSED.
+2.2.5.2.5 Supply Group
+SAME uses the GN2 and vacuum resources supplied by MSG. SAME regulates the GN2 supply as needed. The
+Supply Group displays the status of these gas supplies and the vacuum state. The Main GN2 and Main Vacuum
+resources both have valves that are controlled by the DACU. The valve indicator fields show the state of these
+valves; OPEN or CLOSED. The pressure of the main GN2 supply, the vacuum, and the regulated GN2 are
+reported.
+
+2.2.5.3 Operations
+The Operations display allows for sending commands that affect the operation of the SAME experiment. There are
+two groups of these commands.
+
+
+
+
+                                           Figure 4 - Operations Screen
+
+
+2.2.5.3.6 System Group
+These commands affect the entire SAME experiment.
+                                                           7
+                                                                                              SAME-DOC-008 Rev A
+
+
+       Button Name          Description
+                            Causes an innoculous command to be sent to the DACU to verify the ability of the
+                            interface to communicate with the DACU in the crew interface-to-DACU direction. If the
+       Check
+                            message is successfully transmitted and received by the DACU, the DACU will send a
+    Communications
+                            reply message which will appear in the status bar. Communication in the DACU-to-crew
+                            interface direction is checked by verifying that the GPS is updating correctly.
+                            Causes a System Initialization command to be sent to the DACU causing it to initialize
+         Initialize         the hardware component and prepare for test operations. Successful execution of this
+                            command will cause the Run Mode to change from UNINITIALIZED to STANDBY.
+                            Causes a System Shutdown command to be sent to the DACU causing it to perform an
+                            orderly shutdown. The Run Mode will change to SHUTDOWN just prior to actual
+                            shutdown. This action must be confirmed using the following dialog box:
+
+       Shutdown…
+
+
+
+
+                                       Table 4 - SAME System Command Buttons
+
+2.2.5.3.7 Test Group
+These commands affect a SAME test.
+   Button/Field       Description
+      Name
+                      This is a field where the user enters the desired test number to be used during execution of the
+  Test Number
+                      Start… command.
+                      Causes the DACU to start the test specified by the Test Number field. The response will be seen by
+                      a change of value in the Test Number field in the Payload Status Area. Also, the Run Mode field
+                      will change to TEST RUNNING. This action must be confirmed using the following dialog:
+
+     Start…
+
+
+
+
+     Pause            Causes the DACU to suspend the current test. The Run Mode will change to TEST PAUSED.
+    Resume            Causes the DACU to resume a paused test. The Run Mode field will change to TEST RUNNING.
+                      Causes the DACU to abort a test that has been started. This action must be confirmed using the
+                      following dialog box:
+
+     Abort…
+
+
+
+
+                                            Table 5 - SAME Test Commands
+
+
+
+
+                                                              8
+                                                                                           SAME-DOC-008 Rev A
+
+
+
+2.2.5.4 Commercial Diagnostics
+This display is shown when the operator clicks the Commercial Diagnostics button on the primary button panel. It
+provides a set of commands to control the Commercial Diagnostics apparatus.
+
+
+
+
+                                    Figure 5 – Commerical Diagnostics Screen
+
+                                                 The Commercial Diagnostics unit contains a COTS instrument
+                                                 called a DustTrak. The DustTrak has a keypad and LCD as its
+                                                 primary user interface. For SAME, the keypad has been removed
+                                                 and replaced with an electronic interface that is controlled by the
+                                                 DACU. The LCD has been retained and is located on the
+                                                 Commercial Diagnostics package and serves as the mechanism to
+                                                 view the status of the unit. The picture at left shows the COTS
+                                                 packaging, not as repackaged for SAME.
+                                                 The interface display replicates the functions that would normally
+                                                 be found on the keypad. When a button is clicked on the display, a
+                                                 command is sent to the DACU which in turn sends a signal to the
+                                                 DustTrak unit. The unit will act on the signal and the response
+                                                 will be viewed on the LCD. There is no feedback to the crew
+interface itself.
+
+
+          Button Name             Description
+               Power On           Turns the unit on.
+               Power Off          Turns the unit off.
+          Increment Sampling      Each click of this button causes the next in a series of 4 modes to be
+                 Mode             displayed on the LCD. The modes are Survey, Log1, Log2, and Log3.
+                                                          9
+                                                                               SAME-DOC-008 Rev A
+
+
+Button Name           Description
+Start/Stop Sampling   If the unit is sampling, clicking the button causes the unit to stop
+                      sampling. Otherwise, clicking the button will cause the unit to start
+                      sampling.
+  View Statistics     Each click of the button will cause the next in a series of 4 values to be
+                      displayed on the LCD. The values are the average, minimum, maximum
+                      readings, and the elapsed time of the most recently sampled data.
+       Up             These two buttons are used to changed values displayed on the LCD
+      Down            during calibration.
+    Calibrate         Causes the unit to enter its calibration mode.
+  Clear Memory        This will erase all data stored in the unit’s memory. This action must be
+                      confirmed using the following dialog box:
+
+
+
+
+ View Log Interval    View the current frequency/averaging period for recording data in LOG
+                      modes.
+   Increment Log      Effectively presses and holds the View Log Interval key so that it
+       Interval       increments to the next available Log Interval setting.
+View Time Constant    View the current time-constant on the LCD.
+  Increment Time      Effectively presses and holds the View Time Constant key so that it
+      Constant        increments to the next available Time Constant setting.
+                                Table 6 - DustTrak Buttons
+
+
+
+
+                                              10
+                                                                                            SAME-DOC-008 Rev A
+
+
+
+2.2.5.5 P-Trak
+This display is shown when the operator clicks the P-Trak button on the primary button panel. It provides a set of
+commands to control the P-Trak apparatus.
+
+
+
+
+                                             Figure 6 – P-Trak Screen
+
+                                       The P-Trak unit is a COTS item. It has a keypad and LCD as its primary user
+                                       interface. For SAME, the keypad has been removed and replaced with an
+                                       electronic interface that is controlled by the DACU. The LCD has been
+                                       retained and is located on the SAME experiment package and serves as the
+                                       mechanism to view the status of the unit. The picture at left shows the COTS
+                                       packaging, not as repackaged for SAME.
+                                       The interface display replicates the functions that would normally be found
+                                       on the keypad. When a button is clicked on the display, a command is sent to
+                                       the DACU which in turn sends a signal to the P-Trak unit. The unit will act
+                                       on the signal and the response will be viewed on the LCD. There is no
+                                       feedback to the crew interface itself.
+           Button Name                Description
+                 Power On             Turns the unit on.
+                 Power Off            Turns the unit off.
+                 Up, Down             These four buttons are used to changed values displayed on the
+                 Left, Right          LCD when such behavior is allowed.
+                   Enter              Used with the arrow keys to navigate the LCD and change values
+                                      when such behavior is allowed.
+                 View Setup           Effectively presses the left and right buttons simultaneously
+                                      causing the P-Trak to display setup information on the LCD.
+                                              Table 7 – P-Trak Buttons
+
+                                                           11
+                                                                                            SAME-DOC-008 Rev A
+
+
+2.2.6 Log
+The message log lists all the messages that have been received or generated by the interface. Messages originate
+from two sources: the DACU and the interface itself. The latest DACU message also appears on the Status Bar (see
+2.2.4). By default messages are sorted by GPS with the latest messages at the top. The window may be scrolled to
+see earlier messages. Sorting order and column can be changed by selecting the column heading. Sub-sorts are
+achieved by holding <CTRL> while selecting two or more headings. An arrow in the heading indicates whether
+sorting is by decreasing (down arrow) or increasing (up arrow) order.
+
+Messages appear in the list with three pieces of information. First is the GPS timestamp of the message. Second is a
+Level indicator. Messages are assigned one of the following levels: INFO, ERROR, or CONFIG. The final piece of
+information is the message description itself.
+
+Messages that originated from the DACU are always assigned an INFO or ERROR level. The DACU message is
+then summarized in a single text string with all the individual message fields identified. Messages originating from
+the interface can be CONFIG or ERROR level.
+
+
+
+
+                                               Figure 7 - Log Window
+
+
+2.2.7 Help
+Selecting Help opens the Help window containing information similar to this document.
+
+
+
+
+                                              Figure 8 - Help Window
+
+
+
+                                                           12
+                                                                                           SAME-DOC-008 Rev A
+
+
+2.2.8 Exit
+In order to stop the crew interface program, select the Exit button on the Primary Button Panel. The following
+confirmation dialog panel will be displayed.
+
+
+
+
+                                            Figure 9 - Exit Confirmation
+
+
+
+
+                                                           13
+                                                                                    SAME-DOC-008 Rev A
+
+
+
+3.0 FLOW DIAGRAMS
+      Commanding and Telemetry Check
+
+
+               Start SAME                   Confirm: Select            Confirm:
+ in            Crew Display                       Yes                 Select Yes
+
+
+
+
+                Power On                        Select                  Wait
+                 SAME                            Log                  3 minutes
+
+
+
+                  Wait                         Check
+                3 minutes                                 no          Power Off
+                                            Communication       √
+                                                                       SAME
+                                              Success          POIC
+                                              message
+                                                 ?
+                GPS           no
+                                    √
+               Updating
+                                   POIC                               Select Exit
+                  ?
+                                             Log: Select
+                                                 OK
+
+
+               Operations:
+              Select Check                                             Confirm:
+                                             Operations:
+             Communications                                           Select Yes
+                                               Select
+                                             Shutdown
+       Crew operations, SAME crew display
+       Crew operations, other                                            out
+       Ground operations
+
+                                                         14
+                                                                                         SAME-DOC-008 Rev A
+
+
+
+Sample Positioning Check
+
+                                                                 Status: Verify that
+                             SAME is                            the sample number
+in                         powered &                             displayed matches
+                         initialized from                     the actual position and
+                              ground                         that sample resistance is
+                                                              good when carousel is
+                                                                      engaged.
+
+
+                         Start SAME
+                         Crew Display                            Report results
+                                                                   to POIC
+
+
+
+                           GPS              no
+                                                  √
+                          Updating                                 Select Exit
+                                                 POIC
+                             ?
+
+
+
+
+                     Sample carousel is                              Confirm:
+                        manipulated                                 Select Yes
+                      from the ground
+
+
+
+
+     Crew operations, SAME crew display                                out
+     Crew operations, other
+     Ground operations
+                                                        15
+                                                                                            SAME-DOC-008 Rev A
+
+
+
+Gate Valve Check
+Type
+
+
+
+
+                   Position Commerical                        Gate valves are
+       in            Diagnostics unit                           manipulated
+                      to view LCD.                            from the ground
+
+
+
+                   Priority
+
+                            SAME is
+                                                                     Status:
+                          powered &
+                                                               Verify actual gate
+                        initialized from
+                                                            valve position(s) match
+                             ground
+                                                             those on crew display
+
+
+
+                        Start SAME
+                        Crew Display
+                                                                 Report result
+                                                                   to POIC
+
+
+                                           no
+                               GPS               √
+                              Updating          POIC              Select Exit
+                                 ?
+
+
+
+   Crew operations, SAME crew display                              Confirm:
+                                                                                      out
+                                                                  Select Yes
+   Crew operations, other
+   Ground operations
+                                                       16
+                                                                                       SAME-DOC-008 Rev A
+
+
+
+P-Trak Configure
+
+                                                                   P-Trak:
+                     Position P-Trak                     select buttons as specified
+  in                  to view LCD.                           by execution notes.
+                                                           Observe LCD on actual
+                                                                 P-Trak unit.
+
+                         SAME is
+                       powered &
+                     initialized from
+                          ground
+                                                               Report results
+                                                                 to POIC
+
+                      Start SAME
+                      Crew Display
+                                                                 Select Exit
+
+
+
+
+                                        no
+                           GPS                √                   Confirm:
+                          Updating           POIC                Select Yes
+                             ?
+
+
+
+
+                                                                     out
+ Crew operations, SAME crew display
+ Crew operations, other
+ Ground operations
+                                                    17
+                                                                                          SAME-DOC-008 Rev A
+
+
+
+Commercial Diagnostics Configure
+
+                                                          Commercial Diagnostics:
+                  Position Commerical                       Select Unit A or B
+                    Diagnostics unit                           as directed
+ in
+                     to view LCD.
+
+
+
+                                                           Commercial Diagnostics:
+                         SAME is                          select buttons as specified
+                       powered &                         by execution notes. Observe
+                     initialized from                           LCD on actual
+                          ground                         Commercial Diagnostics unit.
+
+
+
+                      Start SAME
+                      Crew Display
+                                                            Report LCD results
+                                                                to POIC
+
+
+                                        no
+                           GPS                √
+                                                                Select Exit
+                          Updating           POIC
+                             ?
+
+
+
+                                                                 Confirm:
+ Crew operations, SAME crew display                             Select Yes              out
+ Crew operations, other
+ Ground operations
+                                                    18
+                                                                                    SAME-DOC-008 Rev A
+
+
+
+Attended Operations
+                                                                    Operations:
+         in                                                           Enter
+                                                                   Test Number
+                                           Wait
+    Start Crew                           1 minute
+      Display                                                      Operations:
+                                                                     Select
+                                                                     Start
+                                                      no
+    Power On                            Run Mode            √
+     SAME                              = STANDBY           POIC
+                                            ?
+
+                                                                  Confirm: Select
+                                                                        Yes
+      GPS            no
+                           √          Status: check
+     Updating
+                          POIC        some values
+        ?
+                                          (TBD)
+
+                                                                     Run Mode no
+                                                                                          √
+                                                                      = TEST
+                                                                                         POIC
+  Operations:                                                        RUNNING
+                                        Good          no                 ?
+ Select Initialize                                          √
+                                        Values
+                                                           POIC
+                                          ?
+
+                                                                        A
+ Crew operations, SAME crew display
+ Crew operations, other
+ Ground operations
+                                                      19
+                                                                                  SAME-DOC-008 Rev A
+
+
+
+Attended Operations (continued)
+
+                                                                   Confirm: Select
+                                      Operations:                        Yes
+    A
+                                        Select
+                                       Resume
+
+  Wait
+3 minutes                                                            Wait 2 min
+
+
+                                      Run Mode       no
+                                       = TEST                √
+                                      RUNNING               POIC       Select
+Run Mode     no                           ?                             Exit
+                      √
+ = TEST
+                     POIC
+PAUSED
+    ?
+                                                                      Confirm:
+                                        Wait for
+                                                                     Select Yes
+                                      Run Mode =
+                                       STANDBY
+ Status:                              (20-50 min)         Check
+Sample #     no
+                      √                                   Every
+matches                                                   10 min
+ actual              POIC                                            Power OFF
+    ?                                                                  SAME
+
+                                      Operations:
+                                        Select
+                                      Shutdown
+ Crew operations, SAME crew display                                      out
+ Crew operations, other
+ Ground operations
+                                                    20
+

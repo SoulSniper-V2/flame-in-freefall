@@ -1,0 +1,38 @@
+[
+ {
+  "investigation": "FLEX",
+  "platform": "ISS",
+  "gravity_g": 0.0,
+  "material": "methanol",
+  "thickness_mm": null,
+  "geometry": "droplet",
+  "flow_mode": "quiescent",
+  "flow_cm_s": null,
+  "o2_pct": null,
+  "pressure_kpa": 101.3,
+  "quantity": "flammability_limit",
+  "value": 12,
+  "unit": "%",
+  "outcome": null,
+  "basis": "measured",
+  "quote": "index (LOI) ~ 12-13% oxygen at atmospheric pressure."
+ },
+ {
+  "investigation": "FLEX",
+  "platform": "ISS",
+  "gravity_g": 0.0,
+  "material": "methanol",
+  "thickness_mm": null,
+  "geometry": "droplet",
+  "flow_mode": "quiescent",
+  "flow_cm_s": null,
+  "o2_pct": null,
+  "pressure_kpa": 101.3,
+  "quantity": "flammability_limit",
+  "value": 13,
+  "unit": "%",
+  "outcome": null,
+  "basis": "measured",
+  "quote": "index (LOI) ~ 12-13% oxygen at atmospheric pressure."
+ }
+]

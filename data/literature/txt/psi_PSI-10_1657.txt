@@ -1,0 +1,273 @@
+            Flame Design: Round 2, inverse-flame day 1
+           Chamber filled to 14.7 psia with 27% ethylene (balance N2)
+
+Test 21328A1 (test 1 of 9, flame 1 of 9) – sustained ignition, run with
+stabilizationTime2Sec=5, constantFlowTime1Sec=15,
+burnerTemperatureLimitDurationSecs=1
+
+
+
+
+                                         1
+Test 21328A1, continued
+
+
+
+
+                          2
+Test 21328A1, continued
+
+
+
+
+After test: 953 on lowest valve safety timer, 117 psia in oxidizer bottle, 92 psia
+in fuel bottle
+
+
+
+                                         3
+Test 21328A2 (test 2 of 9, flame 2 of 9) – sustained ignition, nominal repeat of
+A1, run with oxidizerFlowIgnitionDeltaMs=nitrogenFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=15, constantFlowTime1Sec=5,
+burnerTemperatureLimitDurationSecs=1
+
+
+
+
+                                        4
+Test 21328A2, continued
+
+
+
+
+                          5
+Test 21328A2, continued
+
+
+
+
+After test: 908 on lowest valve safety timer, 115 psia in oxidizer bottle, 92 psia
+in fuel bottle
+
+
+
+
+                                         6
+Test 21328D1 (test 3 of 9, flame 3 of 9) – sustained ignition, long-duration test,
+run with flowTimeoutSec=890, oxidizerFlowIgnitionDeltaMs=500,
+nitrogenFlowIgnitionDeltaMs=500, stabilizationTime2Sec=5,
+constantFlowTime1Sec=860, burnerTemperatureLimitDurationSecs=1
+dataCamera Zoom~15000, dataCamera Focus~16050
+
+
+
+
+                                         7
+Test 21328D1, continued
+
+
+
+
+                          8
+Test 21328D1, continued
+
+
+
+
+After test: 23 on lowest valve safety timer, 90 psia in oxidizer bottle, 92 psia in
+fuel bottle
+
+
+
+
+                                          9
+    Chamber vented and re-filled to 14.0 psia with 8% ethylene (balance N2)
+                    which reset the valve safety timers
+
+Test 21328N1 (test 4 of 9, flame 4 of 9) – sustained ignition, variant of the as-
+planned M1, run with bracketingExposureStartUsec=3000, flowTimeoutSec=90,
+oxidizerFlowIgnitionDeltaMs=nitrogenFlowIgnitionDeltaMs=500,
+stabilizationTime2Sec=1, oxidizerIgnitionFlowSlpm=0.494,
+oxidizerTestFlow1Slpm=0.494, constantFlowTime1Sec=60,
+burnerTemperatureLimitDurationSecs=1
+dataCamera Zoom~40000, dataCamera Focus~11525
+
+
+
+
+                                        10
+Test 21328N1, continued
+
+
+
+
+                          11
+Test 21328N1, continued
+
+
+
+
+After test: 959 on lowest valve safety timer, 89 psia in oxidizer bottle, ~0 psia in
+fuel bottle
+
+
+                                         12
+Test 21328N2 (test 5 of 9, flame 5 of 9) – sustained ignition, flow variant of N1,
+run with bracketingExposureStartUsec=3000, flowTimeoutSec=90,
+oxidizerFlowIgnitionDeltaMs=nitrogenFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=1, oxidizerIgnitionFlowSlpm=0.403,
+oxidizerTestFlow1Slpm=0.403, constantFlowTime1Sec=60,
+burnerTemperatureLimitDurationSecs=1
+dataCamera Zoom~35000, dataCamera Focus~12700
+
+
+
+
+                                         13
+Test 21328N2, continued
+
+
+
+
+                          14
+Test 21328N2, continued
+
+
+
+
+After test: 925 on lowest valve safety timer, 86 psia in oxidizer bottle, ~0 psia in
+fuel bottle
+
+
+
+
+                                         15
+Test 21328N3 (test 6 of 9, flame 6 of 9) – sustained ignition, flow variant of N1-
+N2, run with bracketingExposureStartUsec=3000, flowTimeoutSec=120,
+oxidizerFlowIgnitionDeltaMs=nitrogenFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=1, oxidizerIgnitionFlowSlpm=0.302,
+oxidizerTestFlow1Slpm=0.302, constantFlowTime1Sec=90,
+burnerTemperatureLimitDurationSecs=1
+dataCamera Zoom~30000, dataCamera Focus~13750
+
+
+
+
+                                        16
+Test 21328N3, continued
+
+
+
+
+                          17
+Test 21328N3, continued
+
+
+
+
+After test: 884 on lowest valve safety timer, 84 psia in oxidizer bottle, ~0 psia in
+fuel bottle
+
+
+
+
+                                         18
+Test 21328N4 (test 7 of 9, flame 7 of 9) – sustained ignition, flow variant of N1-
+N3, run with bracketingExposureStartUsec=3000, flowTimeoutSec=120,
+oxidizerFlowIgnitionDeltaMs=nitrogenFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=1, oxidizerIgnitionFlowSlpm=0.202,
+oxidizerTestFlow1Slpm=0.202, constantFlowTime1Sec=90,
+burnerTemperatureLimitDurationSecs=1
+dataCamera Zoom~25000, dataCamera Focus~14600
+
+
+
+
+                                        19
+Test 21328N4, continued
+
+
+
+
+                          20
+Test 21328N4, continued
+
+
+
+
+After test: 844 on lowest valve safety timer, 84 psia in oxidizer bottle, ~0 psia in
+fuel bottle
+
+
+
+
+                                         21
+Test 21328N5 (test 8 of 9, flame 8 of 9) – sustained ignition, flow variant of N1-
+N4, run with bracketingExposureStartUsec=3000, flowTimeoutSec=250,
+oxidizerFlowIgnitionDeltaMs=nitrogenFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=1, oxidizerIgnitionFlowSlpm=0.101,
+oxidizerTestFlow1Slpm=0.101, constantFlowTime1Sec=200,
+burnerTemperatureLimitDurationSecs=1
+dataCamera Zoom~20000, dataCamera Focus~15400
+
+
+
+
+                                        22
+Test 21328N5, continued
+
+
+
+
+                          23
+Test 21328N5, continued
+
+
+
+
+After test: 781 on lowest valve safety timer, 83 psia in oxidizer bottle, ~0 psia in
+fuel bottle
+
+
+
+
+                                         24
+Test 21328P1 (test 9 of 9, flame 9 of 9) – sustained ignition, flow variant of N1-
+N4, run with bracketingExposureStartUsec=3000, flowTimeoutSec=250,
+oxidizerFlowIgnitionDeltaMs=nitrogenFlowIgnitionDeltaMs=0,
+stabilizationTime2Sec=1, oxidizerIgnitionFlowSlpm=0.101,
+nitrogenIgnitionFlowSlpm=0.12, oxidizerTestFlow1Slpm=0.101,
+nitrogenTestFlow1Slpm=0.12, constantFlowTime1Sec=200,
+burnerTemperatureLimitDurationSecs=1
+dataCamera Zoom~20000, dataCamera Focus~15400
+
+
+
+
+                                         25
+Test 21328P1, continued
+
+
+
+
+                          26
+Test 21328P1, continued
+
+
+
+
+After test: 735 on lowest valve safety timer, 83 psia in oxidizer bottle, ~0 psia in
+fuel bottle
+
+
+
+
+                                         27
+Test 21328RAD2
+                 Console data not recorded for this test
+
+
+
+
+                                   28
+

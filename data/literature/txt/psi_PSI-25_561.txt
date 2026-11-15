@@ -1,0 +1,94 @@
+ iss040e088211             12:13:17      iss040e088212             12:13:18      iss040e088213             12:13:19      iss040e088214             12:13:20      iss040e088215             12:13:21      iss040e088216             12:13:22      iss040e088217             12:13:23
+ GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014
+   1/8 sec at f / 2.0        0 EV        1/125 sec at f / 2.0         -4 EV       1/60 sec at f / 2.0        -3 EV        1/30 sec at f / 2.0        -2 EV        1/15 sec at f / 2.0        -1 EV         1/4 sec at f / 2.0        1 EV          0.5 sec at f / 2.0        2 EV
+     Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e088218             12:13:25      iss040e088219             12:13:27      iss040e088220             12:13:37      iss040e088221             12:13:38      iss040e088222             12:13:39      iss040e088223             12:13:40      iss040e088224             12:13:41
+ GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014
+   1.0 sec at f / 2.0        3 EV          2.0 sec at f / 2.0        4 EV          1/8 sec at f / 2.0        0 EV        1/125 sec at f / 2.0         -4 EV       1/60 sec at f / 2.0        -3 EV        1/30 sec at f / 2.0        -2 EV        1/15 sec at f / 2.0        -1 EV
+     Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e088225             12:13:42      iss040e088226             12:13:43      iss040e088227             12:13:45      iss040e088228             12:13:47      iss040e088229             12:13:49      iss040e088230             12:13:50      iss040e088231             12:13:51
+ GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014
+   1/4 sec at f / 2.0        1 EV          0.5 sec at f / 2.0        2 EV          1.0 sec at f / 2.0        3 EV          2.0 sec at f / 2.0        4 EV          1/8 sec at f / 2.0        0 EV        1/125 sec at f / 2.0         -4 EV       1/60 sec at f / 2.0        -3 EV
+     Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e088232             12:13:52      iss040e088233             12:13:53      iss040e088234             12:13:54      iss040e088235             12:13:55      iss040e088236             12:13:56      iss040e088237             12:13:59      iss040e088238             12:14:02
+ GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014
+  1/30 sec at f / 2.0        -2 EV        1/15 sec at f / 2.0        -1 EV         1/4 sec at f / 2.0        1 EV          0.5 sec at f / 2.0        2 EV          1.0 sec at f / 2.0        3 EV          2.0 sec at f / 2.0        4 EV          1/8 sec at f / 2.0        0 EV
+     Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        1
+ iss040e088239             12:14:03      iss040e088240             12:14:03      iss040e088241             12:14:04      iss040e088242             12:14:05      iss040e088243             12:14:06      iss040e088244             12:14:06      iss040e088245             12:14:07
+ GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014
+ 1/125 sec at f / 2.0         -4 EV       1/60 sec at f / 2.0        -3 EV        1/30 sec at f / 2.0        -2 EV        1/15 sec at f / 2.0        -1 EV         1/4 sec at f / 2.0        1 EV          0.5 sec at f / 2.0        2 EV          1.0 sec at f / 2.0        3 EV
+     Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e088246             12:14:09      iss040e088247             12:14:14      iss040e088248             12:14:15      iss040e088249             12:15:10      iss040e088250             12:15:12      iss040e088251             12:15:14      iss040e088252             12:15:15
+ GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014
+   2.0 sec at f / 2.0        4 EV          1/8 sec at f / 2.0        0 EV        1/125 sec at f / 2.0         -4 EV       1/60 sec at f / 2.0        -3 EV        1/30 sec at f / 2.0        -2 EV        1/15 sec at f / 2.0        -1 EV         1/4 sec at f / 2.0        1 EV
+     Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e088253             12:15:18      iss040e088254             12:15:22      iss040e088255             12:15:24      iss040e088256             12:15:38      iss040e088257             12:15:45      iss040e088258             12:15:54      iss040e088259             12:19:25
+ GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014
+   0.5 sec at f / 2.0        2 EV          1.0 sec at f / 2.0        3 EV          2.0 sec at f / 2.0        4 EV          1/8 sec at f / 2.0        0 EV        1/125 sec at f / 2.0         -4 EV       1/60 sec at f / 2.0        -3 EV        1/30 sec at f / 2.0        -2 EV
+     Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e088260             12:19:27      iss040e088261             12:19:27      iss040e088262             12:19:28      iss040e088263             12:19:29      iss040e088264             12:19:31      iss040e088265             12:19:36      iss040e088266             12:19:37
+ GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014
+  1/15 sec at f / 2.0        -1 EV         1/4 sec at f / 2.0        1 EV          0.5 sec at f / 2.0        2 EV          1.0 sec at f / 2.0        3 EV          2.0 sec at f / 2.0        4 EV          1/8 sec at f / 2.0        0 EV        1/125 sec at f / 2.0         -4 EV
+     Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        2
+ iss040e088267             12:19:38      iss040e088268             12:19:39      iss040e088269             12:19:41      iss040e088270             12:19:42      iss040e088271             12:19:43      iss040e088272             12:19:44      iss040e088273             12:20:50
+ GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014
+  1/60 sec at f / 2.0        -3 EV        1/30 sec at f / 2.0        -2 EV        1/15 sec at f / 2.0        -1 EV         1/4 sec at f / 2.0        1 EV          0.5 sec at f / 2.0        2 EV          1.0 sec at f / 2.0        3 EV          1/8 sec at f / 2.0        0 EV
+     Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e088274             12:25:42      iss040e088275             12:25:43      iss040e088276             12:25:44
+ GMT 217                 08-05-2014      GMT 217                 08-05-2014      GMT 217                 08-05-2014
+   1/8 sec at f / 2.0        0 EV          1/8 sec at f / 2.0        0 EV          1/8 sec at f / 2.0        0 EV
+     Mode: Manual      ISO 1000              Mode: Manual      ISO 1000              Mode: Manual      ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        3
+

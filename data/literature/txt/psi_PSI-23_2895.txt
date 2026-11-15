@@ -1,0 +1,148 @@
+                                     4                                                                                                                 3                                                                                                               2                                                                                                           1
+
+
+
+
+D                                                                                                                                                                                                                                                                                                                                                                                                                                            D
+                                                                                                                                                                                                       ACME     Matrix
+
+                                                                                                                                                                                                       S1101XXXXXXX
+
+
+
+
+                                                Chamber                                                                                                             Color Camera                                                                            Avionics                                                            Ground Support and                                          Shipping
+                                                 Insert                                                                                                               Package                                                                                                                                                       Non-Deliverable
+                                                                                                                                                                                                                                                           Package                                                                                                                                 and
+                                                Assembly
+                                              S1101XXX0001-1999
+                                                                                                                                                                    S1101XXX2000-2999                                                                   S1101XXX3000-3999                                                          Test Equipment                                           Stowage
+                                                                                                                                                                                                                                                                                                                                     S1101XXX4000-4999                                  S1101XXX5000-5999
+
+
+
+
+      On-Orbit                    Launch                        Common                           Hoses                                  Assembly                                                   Common                     Assembly                          Main                       Power                           Ground                Non-Deliverable
+                                                                                                                                                                      Camera                                                                                                                                                                                                    Flight                     Shipping
+C   Configuration
+    S1101XXX0003-0099
+                               Configuration
+                               S1101XXX0100-0199
+                                                                Electrical
+
+                                                                 System
+                                                                                             and QD
+                                                                                           Assemblies
+                                                                                                                                       Configuration
+                                                                                                                                        S1101XXX2000-2099
+                                                                                                                                                                      System
+                                                                                                                                                                    S1101XXX2200-2299
+                                                                                                                                                                                                  Electrical
+
+                                                                                                                                                                                                   System
+                                                                                                                                                                                                                             Configuration
+                                                                                                                                                                                                                              S1101XXX3000-3099
+                                                                                                                                                                                                                                                           Computer
+                                                                                                                                                                                                                                                           System
+                                                                                                                                                                                                                                                                                       Distribution
+
+                                                                                                                                                                                                                                                                                           System
+                                                                                                                                                                                                                                                                                                                           Support
+                                                                                                                                                                                                                                                                                                                          Hardware
+                                                                                                                                                                                                                                                                                                                                                   Test/Support
+                                                                                                                                                                                                                                                                                                                                                         Equipment
+                                                                                                                                                                                                                                                                                                                                                                               Stowage
+                                                                                                                                                                                                                                                                                                                                                                               Containers
+                                                                                                                                                                                                                                                                                                                                                                                                          Containers
+
+                                                                                                                                                                                                                                                                                                                                                                                                         S1101XXX5500-5999
+                                                                                                                                                                                                                                                                                                                                                                                                                                             C
+                                                              S1101XXX0200-0499           S1101XXX0500-0599                                                                                      S1101XXX2400-2499                                       S1101XXX3200-3299            S1101XXX3400-3499                 S1101XXX4000-4499          S1101XXX4500-4999       S1101XXX5000-5499
+
+
+
+
+                                                                                                                                                        Housing                         Filter                                                Housing                         Data                    Common
+                                                                                                                                                                                    Mechanism                                                                                Storage                  Electrical
+
+                                                                  Analog                                                                                                                System                                                                               System                   System
+    Experiment                       Burner                                               Measurement                     Cooling                     S1101XXX2100-2199
+                                                                                                                                                                                  S1101XXX2300-2399
+                                                                                                                                                                                                                                            S1101XXX3100-3199
+                                                                                                                                                                                                                                                                       S1101XXX3300-3399            S1101XXX3500-3599
+     Mounting                     System                         Camera                      System                       System
+     Structure
+                               S1101XXX1200-1299
+                                                                 System                   S1101XXX1600-1699             S1101XXX1800-1899
+    S1101XXX1000-1099                                         S1101XXX1400-1499
+
+
+
+
+                        Flow                       Ignition                   Diagnostic                      E-Field
+
+                    System                         System                      System                         System
+                 S1101XXX1100-1199            S1101XXX1300-1399              S1101XXX1500-1599            S1101XXX1700-1799
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                       REV              -
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                 S1101MFB0001
+B
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                       NUMBER
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                       DRAWING
+                                                                                                                                                                                                                                                                                                                            CHG       ZONE                              DESCRIPTION                                      APP/DATE
+                                                                                                                                                                                                                                                                                                                                                                         REVISIONS
+
+                                                                                                                                                                                                                                                                               ZIN    TECHNOLOGIES
+                                                                                                                                                                                                    UNLESS           OTHERWISE           SPECIFIED                                                                                                         NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+                                                                                                                                                                                                                                                                              6745 ENGLE ROAD
+                                                                                                                                                                                                                                                                                                                                                                                                                                       SIZE
+                                                                                                                                                                                                                                                                                                                                                                       JOHN H. GLENN RESEARCH CENTER
+                                                                                                                                                                                                      DIMENSIONS             ARE     IN    INCHES
+                                                                                                                                                                                                                                                                               AIRPORT       EXECUTIVE PARK                                                                       LEWIS FIELD
+                                                                                                                                                                                                                                                                                                                                                                                                                                                 C
+                                                                                                                                                                                                                                                                              CLEVELAND, OHIO 44130                                                                             CLEVELAND, OHIO
+                                                                                                                                                                                                                     TOLERANCE         ON                                     440 625-2200
+
+                                                                                                                                                                                                    .X                   ±   .XX                                DESIGNER             P.GALANT 11/09/10
+                                                                                                                                                                                                                                                                  LEAD
+                                                                                                                                                                                                    .XX                  ±   .XX
+                                                                                                                                                                                                                                                                ENGINEER             A.DRAKE 11/09/10
+                                                                                                                                                                                                                                                             MATERIALS
+                                                                                                                                                                                                                                                                                     A.DRAKE 11/09/10
+A                                                                                                                                                                                                                                                                                                                                                                                                                                            A
+                                                                                                                                                                                                    .XXX                 ±   .XXX
+                                                                                                                                                                                                                                                           REPRESENTIVE
+
+                                                                                                                                                                                                    FRACTION             ±   X/X                                QUALITY              D.SEELEY 11/09/10
+                                                                                                                                                                                                                                                                                                                                                                    ACME
+                                                                                                                                                                                                    ANGULAR              ±   X° XX'                              SAFETY              N/A                                                                    FLIGHT DRAWING TREE
+                                                                                                         THIS    DRAWING IS             UNDER        CONFIGURATION                                                                                              PROJECT
+                                                                                            CONTROL:            DO NOT          REVISE WITHOUT                 APPROVED             ECO
+                                                                                                                                                                                                    BREAK        EDGES .XX-.XX
+                                                                                                                                                                                                                                                                  LEAD               B.BOROWSKI 11/09/10
+                                                                                                                                                                                                                                                            CONTRACT                   NO.                                SIZE                           DRAWING       NUMBER                            REV       BLDG         AREA
+                                                                                                                                                                                                            DIMENSIONING AND                                    NNC09BA02B                                                                                                                                          ZIN         GRC
+                                                                                            APPROVED:
+                                                                                                                L.FOLGER                                    DATE:    11/09/10                                TOLERANCING                PER                 DELIVERY ORDER                                                   C              S1101MFB0001                                                  -
+                                                                                                                                                                                                                                                                                                                                                                                                                  UNITS:       INCH
+                                                                                                                                                                                                            ASME Y14.5M-1994                                    SPACE 110                                                          SCALE:                     INITIAL    REL    DATE               SHEET            DISCIPLINE
+                                                                                                                                                                                                         PRIOR TO USE CHECK FOR ANY OUTSTANDING ECO'S WITH CONFIGURATION MANAGEMENT OFFICE                                         NONE                          11/09/2010                    1     OF       1              MECH
+                                                                                                                                                                                                                                                                                                                                                                                                                             AutoCad
+
+                                     4                                                                                                                 3                                                                                                               2                                                                                                   1
+

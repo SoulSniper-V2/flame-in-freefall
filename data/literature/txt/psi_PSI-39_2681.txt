@@ -1,0 +1,55 @@
+                                                                Thu, Mar 9, 2017                                        2
+                                                                FLEX-1210
+             1.0                                                F068A11
+                                                                P = 775.346 mmHg
+                                                                YO2 = 0.207
+                                                                YN2 = 0.789
+                                                                                             20                             10
+                                                                YCO2 = 0.002                                            9
+                                                                Dodecane                                                8
+             0.8                                                D0 = 3.793 mm                                           7
+                                                                Dext = 3.280 mm                                         6
+                                                                                2
+                                                                kavg = 0.403 mm /sec                                    5
+
+
+
+
+                                                                                                                                 Flame Radiance ( W )
+                                                                                      2      15
+
+
+
+
+                                                                                                  Df ( mm ) , Df / Dd
+                                                                kavg, cool = 0.383 mm /sec                              4
+2
+             0.6                                                Dext, cool = nan mm
+
+( D / D0 )
+                                                                                                                        3
+
+
+
+
+                                                                                             10                         2
+
+             0.4
+
+
+
+                                                                                                                            1
+                                                                                             5                          9
+             0.2                                                                                                        8
+                                                                                                                        7
+                                                                                                                        6
+
+                                                                                                                        5
+
+
+             0.0                                                                             0                          4
+
+                   0.0   0.5   1.0                  1.5   2.0                       2.5
+                                          2        2
+                                     t / D0 ( s / mm )
+

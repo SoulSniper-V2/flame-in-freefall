@@ -1,0 +1,528 @@
+         SPICE, SLICE, and BASS Crew Training
+                               March 2011
+
+Dr. Marshall Long                                        Chuck Bunnell
+SLICE Principal Investigator                              Technical Lead
+Yale University                                   Glenn Research Center
+marshall.long@yale.edu                           bunnellc@ZIN-Tech.com
+(203) 432-4229                                            (440)625-2280
+
+Dr. Paul Ferkul                                          Carol Reynolds
+BASS Principal Investigator                     MSG Investigations Lead
+Glenn Research Center                        Marshall Space Flight Center
+paul.v.ferkul@nasa.gov                          carol.reynolds@nasa.gov
+(216)433-8107                                              (256)961-0205
+
+Dr. David Urban                                        Robert Hawersaat
+SPICE Principal Investigator                             Project Manager
+Glenn Research Center                              Glenn Research Center
+david.l.urban@nasa.gov                      robert.w.hawersaat@nasa.gov
+(216)433-2835                                              (216)433-8157
+                                                                   1
+                Training Objectives
+
+• A brief description of the SPICE, SLICE, and BASS
+  investigations, predecessor experiments and science objectives.
+
+• An overview and description of the SPICE, SLICE, and BASS
+  hardware.
+
+• An overview of the astronaut’s importance to the experiment,
+  Micro-gravity Science Glovebox (MSG) interfaces, and science
+  data collection operations.
+
+• Step-by-step discussion of the science data collection process,
+  by completing portions of the crew procedures for each
+  investigation
+
+
+                                                                    2
+                                Introduction
+
+•   Three investigations will be performed: SPICE, SLICE, and BASS.
+•   These investigations will be performed inside the Microgravity Science
+    Glovebox (MSG).
+•   SPICE is based on the Enclosed Laminar Flames (ELF) hardware which
+    flew on STS-87 in 1997.
+•   SPICE hardware is already on-orbit. It has successfully completed all of its
+    objectives with the collection of 200 data points in the first half of 2009. New
+    fuel is being flown on ULF5 to support the SLICE and BASS experiments.
+•   SPICE hardware will also be used to perform SLICE and BASS.
+•   SPICE burns different fuels to investigate the point at which they begin to
+    smoke.
+•   SLICE burns different fuels to investigate the structure of flames when lifted
+    from the fuel nozzle.
+•   BASS burns different materials to investigate how they burn in microgravity.
+SPICE Science Overview
+
+
+
+
+            The objective of the SPICE experiment is to find
+            the laminar smoke-point properties of
+            nonbuoyant jet diffusion flames (i.e., the
+            properties of the largest laminar jet diffusion
+            flames that do not emit soot) for two fuel types
+            under different nozzle diameter / co-flow velocity
+            configurations.
+
+            SPICE will stabilize an enclosed laminar flame,
+            measure the overall flame shape to validate the
+            theoretical and numerical predictions, measure
+            the flame stabilization heights, and measure the
+            temperature field to verify flame structure
+                                                        4
+            predictions.
+           SPICE Smoke Point Determination Cue Card
+                         Look for the transition between a distinct flame tip and dull
+                         red/orange breaking through the flame tip (indistinct tip).
+
+Target Setting: The target setting is just above the setting that     Background: The smoke point is the flame length,
+produces a distinct edge (only a small portion of the tip will emit   above which, soot particles are no longer consumed in
+smoke). The smoke will probably emerge from the center of the tip     the flame and instead emerge through the flame tip
+but may emerge at the tip edges (horns) for the larger nozzle. The    and glow as they cool. The glowing soot causes a
+pictures show the onset of smoke points for various fuels on the      change from a sharp edge to a gradual transition
+KC-135. The size of the flame when it emits smoke is a fuel           between the bright flame and black background.
+property. The expected size sequence will be Propylene, Ethylene,
+Propane and Methane (probably no smoke point). The diluted            Advisory note: For the test points with the 0.4 mm
+propylene smoke points will be longer than pure propylene.            nozzle, the possibility exists that the flame could blow
+                                                                      off. When this happens, the blue flame-base no longer
+                                                                      touches the nozzle. When the base of the flame starts
+                                                                      to separate from the nozzle, reduce the flow rate until
+                                                                      it is well attached as the smoke height is not
+                                                                      achievable.
+
+                                                                                             Note: Relative sizes
+                                                                                             correspond to expected result
+
+
+
+
+          Propane, 1.6 mm nozzle,    Propane, 0.8 mm nozzle,      Ethylene, 1.6 mm nozzle,     50% Propylene 1.6 mm
+          Smoke point just below     Smoke point indicated by     smoke point indicated by     nozzle, smoke point
+          smaller flame              the arrow                    the arrow                    indicated by the arrow
+                  SLICE Science Background
+
+•   The goal of the SLICE investigation is to investigate the structure of lifting
+    and lifted flames; whereby the flame detaches from the nozzle and
+    stabilizes at a downstream position.
+•   The results of the SLICE experiment will be used to minimize risk and
+    maximize the scientific return of the CLD (Coflow Laminar Diffusion)
+    Flame experiment, which is one of the four ACME (Advanced Combustion
+    via Microgravity Experiments) investigations that are currently in
+    development for conduct within the Combustion Integrated Rack (CIR).
+
+
+
+
+The lifted nature of the flames can be discerned from the outward flare of the
+flame base in the example images below (which are not at the same scale) and
+the distance from the nozzle tip (which is not visible).
+
+                                                                                 6
+                    BASS Science Background
+•   The BASS investigation tests the hypothesis that materials in microgravity burn as well
+    if not better than the same material in normal gravity with other conditions being
+    identical (ie. pressure, oxygen concentration, temperature).
+•   To test this hypothesis with any but the thinnest materials requires extended
+    microgravity time – longer than available in drop towers or parabolic aircraft. If this
+    hypothesis is true, it implies serious safety concerns over the utility and margin of
+    safety provided NASA-STD-6001 Test #1 (upward flammability test used to evaluate
+    materials intended for use in the habitable environments of US spacecraft). Practical,
+    realistic (thicker) fuels in typical geometries will be examined, including wake flames
+    which have characteristics of a fire burning behind another object (for example, a fire
+    burning in tight area which may not be easily accessible).
+•   There are important differences in the suppression of fires in space compared to on
+    Earth. On Earth it is understood that best results are generally obtained when the
+    extinguisher “attacks” the base of the flame, which is both the stabilization point and
+    the point of fresh air entrainment. For a fire burning in microgravity, the best point of
+    application of suppressant may not be immediately apparent, especially for a partially
+    obstructed flame or a wake-stabilized flame. Depending on the geometry of the flame
+    and the characteristics of the extinguisher (distance from flame, dispersion angle) it is
+    possible that the suppressant stream will be ineffective or might actually make the
+    flame worse through the entrainment of oxygen.
+
+                                                                                         7
+                       BASS Samples
+   Double click each image below.
+
+
+
+
+                                         Zero-g facility test burning 2-cm-diameter PMMA
+                                         sphere in 30 cm/s airflow. Left: 1 g; Middle: 0 g, 1 s
+                                         after drop; right: 0 g, 4 s after application of nitrogen
+                                         extinguishing agent.
+
+
+
+
+1cm Flat Sample
+                     2cm Sphere Sample
+                        Wake Flame
+
+
+                                                                                         8
+                            Earth Applications
+•   SPICE
+    The smoke-point phenomena is a classical metric in the understanding of the heat
+    release and spread rate of fires. It is commonly used in fire modeling on Earth and to
+    understand the soot growth and emission by flames. The dominant characteristics of
+    many flames of practical interest are nonbuoyant. SPICE seeks to extend our
+    understanding by looking at the interaction of ambient flow with the smoke point,
+    enabling us to better predict heat release from non-buoyant flames in practical
+    combustors (e.g. jet engines and furnaces).
+•   SLICE
+    The twin purposes for the SLICE research are increased efficiency and reduced
+    pollutant emission in practical combustion devices. More explicitly, the experiment is
+    being conducted to advance combustion modeling capability, which “allows system
+    designers to improve efficiency and reduce harmful pollutants in ways never before
+    possible” (as stated by an external reviewer of the SLICE experiment). In other
+    words, the SLICE research is being conducted to advance energy technology and
+    improve our global environment.
+•   BASS
+    It is highly desirable to develop a new and/or improved Earth-based test method for
+    material flammability. The data obtained in this experiment will begin to bridge the
+    gap between the normal gravity method, ground-based microgravity tests, and actual
+    material flammability in microgravity
+                                                                                        9
+      SPICE Hardware Overview
+
+
+
+
+SPICE Hardware installed in MSG Work Volume   10
+SPICE Hardware Overview (continued)
+
+
+                           SPICE science
+                           objectives are met
+                           solely through photo
+                           and video downlink.
+
+                           SPICE is a very crew
+                           intensive experiment
+                           as the crew must
+                           adjust fuel flow and
+                           fan speed as well as
+                           take photos.
+
+                           MSG Work Volume
+                           should be retracted
+                           throughout all SPICE
+                           operations except
+                           Setup and Stow.
+                                           11
+         SPICE Hardware – Experiment Assembly
+
+
+                                            Top window
+
+
+
+
+                                            Heat sink and
+Fan and flow                                soot trap
+ straightener
+
+
+
+
+                                            Scale and
+                                            ignitor
+                                            actuators.
+                                            Fuel enable
+                                            not visible
+
+
+                       Flow tunnel behind
+                           front door            12
+SPICE Hardware – Experiment Assembly cont’d
+
+ Experiment Assembly features:
+ • Mounts to floor of MSG bridging cold plate and airlock lid
+ • Flow tunnel for flame and air stream
+ • Air stream fan driven with ceramic flow straightener
+ • Anemometer for air stream
+ • Soot trap on air stream exit of flow tunnel
+ • Top and front windows for flame view
+ • Front window opens for burner tube and igniter changeout
+ • Redundant fuel enable switch
+ • Levers for focus target deploy and igniter actuation
+ • Front window interlocks to prevent igniter or fuel actuation
+                                                                  13
+SPICE Hardware – Experiment Assembly cont’d
+
+   7 SLICE Fuels (in 12 Gas Bottles)   6 Burner Tubes
+
+
+
+
+   Ethylene 100% (1)
+                                       (Diameters 3.2mm,
+   Ethylene 20%/Diluent GN2 (2)
+                                        2.1mm, 1.6mm,
+   Propane 100% (1)
+                                        0.8mm, 0.4mm)
+   Methane 100% (3)
+   Methane 70% / Diluent GN2 (2)
+   Methane 40% / Diluent GN2 (2)       0.4mm Burner Tube is
+   Ethane 100% (1)                      a sharp edge hazard
+
+                                                           14
+SPICE Hardware – Experiment Assembly cont’d
+         Fuel plumbing pictorial schematic
+
+
+                      Flow                   Pressure
+                      Controller             Regulator
+
+
+
+
+                                                          Filter
+
+                                                         Quick
+                                                         Disconnec
+                                                         t
+
+
+
+
+         Gas Bottle                Valve                           15
+SPICE Hardware - Power/Video Box Assembly
+
+Power/Video Box features:
+• Mounts to back wall of MSG
+• Power Conversion &
+  Distribution
+• Composite to S-Video
+  Converters
+   – Still Camera
+   – Color Video Camera
+• Video Titler Data Overlay
+   – Date/Time
+   – Fan Speed/Airflow
+   – Radiometer
+   – Fuel Flow
+                                       16
+              SPICE Hardware – Control Box
+Control Box features:
+• Located External to the MSG Work
+  Volume – mates to a feed-through
+  connector
+• Allows crew to make experiment
+  adjustments
+    – Radiometer Gain
+    – Fan Speed/Air flow rate
+    – Fuel Flow Rate
+    – Fuel/Ignitor Enable
+    – Data Record Enable
+• Still Camera Shutter
+• SPICE Control Box used for SPICE
+  and SLICE
+• BASS has its own Control Box
+
+                                             17
+SPICE Hardware – Control Box cont’d
+
+
+
+
+                                      18
+            SPICE Hardware – Still Camera
+Nikon DX-300 Digital Still High Resolution Camera
+
+–    Acquires images from above
+     Experiment Assembly
+–    Image sent to MSG via Power/Video
+     Unit
+–    Removable Flash Card for Image
+     Storage
+–    Programmable for multiple exposures
+–    Focus is preset
+–    Writes to removable drives
+–    Supported by bracket mounted to
+     cold plate and Experiment Assembly
+–    Slides over guide pins and secured
+     with spring pin
+                                                    19
+           SPICE Hardware – Video Camera
+
+
+Color Video Camera
+    – Auto Gain
+    – Acquires images from
+      front of Experiment
+      Assembly
+    – Image sent to MSG via
+      Power/Video Unit
+
+
+
+
+                                           20
+                    BASS Hardware – Samples
+
+
+
+
+                                            2cm and 1cm Sphere Samples
+                                                       PMMA
+                                       Poly(methyl methacrylate) - Acrylic glass
+
+
+
+2cm and 1cm Flat Samples
+• SIBAL- cotton-fiberglass
+fabric
+• Nomex- flame resistant
+material related to nylon
+• Ultem - thermoplastic resins
+used in medical and chemical          Candle Samples          Thick Flat Samples
+                                                                               21
+instrumentation                  Japan Wax and Paraffin Wax   Acrylic and Flat Wax
+             SLICE and BASS Crew procedures
+
+
+•   2.001 SLICE Hardware Setup                     •    2.001 BASS Hardware Setup
+•   2.002 SLICE Soot Removal                       •    2.002 BASS GN2 Leak Test
+•   2.003 SLICE Fan Calibration                    •    2.003 BASS Fan Calibration
+•   2.004 SLICE Ops Prep                           •    2.004 BASS Ops Prep
+•   2.005 SLICE Operations                         •    2.005 BASS Operations
+•   2.006 SLICE Videotape Exchange                 •    2.006 BASS Videotape Exchange
+•   2.007 SLICE Flash Card Exchange                •    2.007 BASS Flash Card Exchange
+•   2.008 SLICE Stow                               •    2.008 BASS Stow
+                                                   •    2.009 BASS Hardware Setup Following
+                                                        SLICE Operations
+
+
+
+
+       Procedures in red will be performed during crew training session.
+                                                                                    22
+Ground
+
+Crew
+                                                             SLICE
+Time Critical
+                                                         Hardware Setup
+
+
+
+
+                              PRO-MSG ACT-CMD
+  SLICE-PROC-REVIEW           MSG-RACK PWRUP-CMD
+                                                                                           SLICE-FAN-CAL         PRO-MSG DACT-CMD
+                                                SLICE-VIDEO-SETUP
+
+
+                                                                                                                              >2
+                  :15     :15            1:00      :10   :10              2:00                  :20                1:00       days   A
+                                                                                                           :05
+
+         SLICE-PL CREW-CONF       MSG-FACILITY-ACT
+                                                                    SLICE-H/W-SETUP
+                                                                                               MSG-FACILITY-PWR DN
+
+
+
+
+                                                                    MSG-FAC-OPS MODE 4
+
+                                                                       MSG/SLICE-OPS-CMD
+
+                                                                                      SLICE-H/W-PWR 142.5
+  Ground
+
+  Crew
+                                                                     SLICE
+  Time Critical
+                                                               Daily Operations*
+
+                                                                                                              SLICE-FAN-CAL
+       PRO-MSG ACT-CMD
+       MSG-RACK PWRUP-CMD                                           SLICE-BURNER-EXCH++
+                                          SLICE-OPS-
+                                          PREP           SLICE-EXP-OPS                SLICE-FLASHCARD-EXCH                                        MSG-FACILITY-PWR DN
+
+
+  A                   1:00     :10
+                                     SLICE Ops
+                                                 :30           :40            :10        :10                        :20    :10      :15           1:00
+
+                                                                                                                                          :05
+                                                               :10
+
+           MSG-FACILITY-ACT                                                                                SLICE-VIDEOTAPE-EXCH
+                                                       SLICE-GAS BTL-EXCH+                                                                          PRO-MSG DACT-CMD
+
+                                                                                                                            MSG/SLICE-PWR DN-CMD
+                                                                    3 – 5 runs per
+                                                                    day**
+                                                  SLICE-PYROMETRY-OPS
+
+                                     Pyrometry
+                                     Ops***
+                                                 :30          :15           :20          :10
+
+
+
+
+                                      SLICE-PYROMETRY-PREP                                     SLICE-FLASHCARD-EXCH
+
+                                                              SLICE-PYROMETRY-END
+
+
+
+
+                                                                             MSG-FAC-OPS MODE 4
+
+                                                                         MSG/SLICE-OPS-CMD
+
+                                                                      MSG-MLC                           MSG-MLC
+                                                                    CLEANUP-CMD                       CLEANUP-CMD
+
+                                                                                     SLICE-H/W-PWR 142.5
+
+
+
+*Request 2 days per week with 2-3 days between sessions                                                                           +Scheduled on an as-needed basis
+during RT ops
+**Based on PD-supplied SLICE Test Matrix                                                                        ++Not scheduled for last session of the day
+***Pyrometry Ops will replace SLICE EXP OPS for two days as indicated in SLICE Test Matrix
+            Major Unique Hazard Controls
+• After every 2 burns the MSG Work Volume must be purged for 3
+  minutes to promote air mixing to dilute any HF concentration
+  byproduct produced during combustion.
+   – MSG Glove Port open
+   – MSG Air Cir ON
+• Each Gas Bottle Assembly must have a tie wrap valve restraint
+  in place before stowing.
+• Prior to crew access into MSG, the Gas Bottle Assembly valve
+  must be closed.
+• When the MSG Work Volume is open and a Gas Bottle
+  Assembly is present, MSG Air Cir must be ON.
+• The inside of the Experiment Assembly must be permitted to
+  cool to a temp below 49°C before crew access is permitted.
+   – Wait time for SLICE is 1 minute (covered by 3 minute purge)
+   – Wait time for BASS thin and candle samples is 2 minutes (covered by 3
+     minute purge)
+   – Wait time for BASS sphere and thick samples is 9 minutes
+                                                                             25
+                         Acronyms
+
+•   ACME - Advanced Combustion via Microgravity Experiments
+•   BASS – Burning and Suppression of Solids
+•   CLD - Coflow Laminar Diffusion
+•   CIR - Combustion Integrated Rack
+•   ELF- Enclosed Laminar Flames
+•   MSG – Microgravity Science Glovebox
+•   SLICE – Structure and Liftoff In Combustion Experiment
+•   SPICE – Smoke Point in Coflow Experiment
+
+
+
+
+                                                              26
+

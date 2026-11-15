@@ -1,0 +1,20 @@
+ iss040e082858              17:47:00     iss040e082859              17:47:02     iss040e082860              17:47:04     iss040e082861              17:47:05     iss040e082862              17:47:06     iss040e082863              17:47:07     iss040e082864              17:47:08
+ GMT 211                 07-30-2014      GMT 211                 07-30-2014      GMT 211                 07-30-2014      GMT 211                 07-30-2014      GMT 211                 07-30-2014      GMT 211                 07-30-2014      GMT 211                 07-30-2014
+  1/40 sec at f / 2.0         -3 EV       1/50 sec at f / 2.0         -3 EV      1/500 sec at f / 2.0          -3 EV     1/125 sec at f / 2.0          -3 EV      1/40 sec at f / 2.0         -3 EV       1/50 sec at f / 2.0         -3 EV       1/40 sec at f / 2.0         -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+ iss040e082865              17:47:09      iss040e082866             17:47:17      iss040e082867             17:47:19
+ GMT 211                 07-30-2014      GMT 211                 07-30-2014      GMT 211                 07-30-2014
+  1/40 sec at f / 2.0         -3 EV      1/6400 sec at f / 2.0          -3 EV    1/6400 sec at f / 2.0          -3 EV
+ Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000      Mode: Aperture priority   ISO 1000
+(Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)   (Date/Time set to BASS Video Display)
+
+
+
+
+                                                                                                                                                                                                                                                                                        1
+

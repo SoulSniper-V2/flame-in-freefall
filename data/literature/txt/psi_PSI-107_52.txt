@@ -1,0 +1,53 @@
+                                                         Memorandum SPICE-MEM-010
+
+
+
+TO:            Tibor Lorik, SPICE Project Lead, ZIN Technologies, Inc.
+
+FROM:          Kevin Magee, Project Engineer, ZIN Technologies, Inc.
+
+SUBJECT:       SPICE Flow Duct Velocity Measurements
+
+DATE:          July 6, 2009
+______________________________________________________________
+
+This Memo addresses the SPICE flow duct velocity measurements, which were performed by Kevin
+Magee on the flight hardware from June 16-24, 2008. A hot wire anemometer probe was used to
+measure the air velocity at various points within the flow duct. This probe was passed into the duct
+through a special multi-piece top window with probe ports at the desired locations. Unused ports were
+taped shut on the inside and outside to prevent leakage and minimize flow disturbances. The window
+itself was assembled and sealed with Kapton tape around its perimeter.
+
+The probe used was a TSI, Inc., Model 1261A miniature boundary layer probe (S/N# 012077) with a
+T1.5 (coated tungsten platinum) wire and a 56 ohm control resistor to give a 260oC operating
+temperature. Its calibration was performed in a free jet facility on April 28, 2006.
+
+Measurements were taken at two axial stations of 13 and 56 mm as measured by the permanent scale
+bonded to the floor of the duct. These locations are where the tip of the probe was located, not where
+the ports were located since the probe curves forward into the air flow. At each axial station,
+measurements were taken at three width locations: the duct centerline, 20 mm off the centerline
+towards the back wall (called the “inside” position), and 20 mm off the centerline towards the front
+window (called the “outside” position). At each width position, measurements were taken at three
+heights: 19, 36, and 57 mm off the floor of the duct. It should be noted that the 36 mm height
+corresponds to the height of the nozzle, which was installed for the tests. However, no flow out of the
+nozzle was done during the tests. All locations are shown in Figure 1.
+
+At each measured position, the anemometer probe’s velocity readings were recorded for FAN dial
+settings of 0, 2, 4, 6, 8, and 10. The FAN and AIR readings were also noted. Plots were then created
+to compare the probe velocity, AIR reading, and FAN reading for the different FAN dial settings.
+Velocity profile plots were also generated at the various axial stations in both width and height. These
+plots and the raw data can be found in the spreadsheets at the following location.
+
+(Z:) Zindata1\zinapp\Shares\MRDOC\60107_086_SPP\SPICE\Duct Flow Data
+
+
+
+
+SPICE-MEM-010                                                                             Page 1 of 2
+Figure 1 - SPICE Flow Duct Measurement Locations
+
+
+
+
+SPICE-MEM-010                                      Page 2 of 2
+

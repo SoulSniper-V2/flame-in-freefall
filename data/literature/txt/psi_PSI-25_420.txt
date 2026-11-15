@@ -1,0 +1,94 @@
+ iss038e051208               12:08:19     iss038e051209               12:08:21     iss038e051210               12:08:22      iss038e051211              12:08:23      iss038e051212              12:08:24      iss038e051213              12:08:25     iss038e051214               12:08:26
+ GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014
+   1/8 sec at f / 2.0          -4 EV        1/6 sec at f / 2.0          -4 EV       1/15 sec at f / 2.0          -4 EV      1/1250 sec at f / 2.0           -4 EV    1/1600 sec at f / 2.0           -4 EV    1/1600 sec at f / 2.0           -4 EV    1/640 sec at f / 2.0           -4 EV
+ Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+        from BASS Video Clock)                   from BASS Video Clock)                  from BASS Video Clock)                    from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                  from BASS Video Clock)
+
+
+
+
+ iss038e051215               12:08:27     iss038e051216               12:08:28     iss038e051217               12:08:29     iss038e051218               12:08:30     iss038e051219               12:08:31     iss038e051220               12:08:32     iss038e051221               12:08:33
+ GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014
+ 1/200 sec at f / 2.0           -4 EV     1/160 sec at f / 2.0           -4 EV     1/250 sec at f / 2.0           -4 EV     1/200 sec at f / 2.0           -4 EV     1/250 sec at f / 2.0           -4 EV     1/160 sec at f / 2.0           -4 EV     1/160 sec at f / 2.0           -4 EV
+ Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+       from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+ iss038e051222               12:08:34     iss038e051223               12:08:35     iss038e051224               12:08:36     iss038e051225               12:08:37     iss038e051226               12:08:38     iss038e051227               12:08:39     iss038e051228               12:08:40
+ GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014
+ 1/125 sec at f / 2.0           -4 EV     1/250 sec at f / 2.0           -4 EV     1/320 sec at f / 2.0           -4 EV     1/160 sec at f / 2.0           -4 EV     1/200 sec at f / 2.0           -4 EV     1/160 sec at f / 2.0           -4 EV     1/160 sec at f / 2.0           -4 EV
+ Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+       from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+ iss038e051229               12:08:41     iss038e051230               12:08:42     iss038e051231               12:08:43     iss038e051232               12:08:44     iss038e051233               12:08:45     iss038e051234               12:08:46     iss038e051235               12:08:47
+ GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014
+ 1/200 sec at f / 2.0           -4 EV     1/320 sec at f / 2.0           -4 EV     1/250 sec at f / 2.0           -4 EV     1/250 sec at f / 2.0           -4 EV     1/250 sec at f / 2.0           -4 EV     1/200 sec at f / 2.0           -4 EV     1/200 sec at f / 2.0           -4 EV
+ Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+       from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+                                                                                                                                                                                                                                                                                               1
+ iss038e051236               12:08:48     iss038e051237               12:08:49     iss038e051238               12:08:50     iss038e051239               12:08:51     iss038e051240               12:08:52     iss038e051241               12:08:53     iss038e051242               12:08:54
+ GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014
+ 1/200 sec at f / 2.0           -4 EV     1/200 sec at f / 2.0           -4 EV     1/200 sec at f / 2.0           -4 EV     1/200 sec at f / 2.0           -4 EV     1/200 sec at f / 2.0           -4 EV     1/250 sec at f / 2.0           -4 EV     1/250 sec at f / 2.0           -4 EV
+ Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+       from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+ iss038e051243               12:08:55     iss038e051244               12:08:56     iss038e051245               12:08:57     iss038e051246               12:08:58     iss038e051247               12:08:59     iss038e051248               12:09:00     iss038e051249               12:09:01
+ GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014
+ 1/250 sec at f / 2.0           -4 EV     1/320 sec at f / 2.0           -4 EV     1/250 sec at f / 2.0           -4 EV     1/200 sec at f / 2.0           -4 EV     1/320 sec at f / 2.0           -4 EV     1/250 sec at f / 2.0           -4 EV     1/250 sec at f / 2.0           -4 EV
+ Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+       from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+ iss038e051250               12:09:02     iss038e051251               12:09:03     iss038e051252               12:09:04     iss038e051253               12:09:05     iss038e051254               12:09:06     iss038e051255               12:09:07     iss038e051256               12:09:08
+ GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014
+ 1/320 sec at f / 2.0           -4 EV     1/160 sec at f / 2.0           -4 EV      1/40 sec at f / 2.0          -4 EV        1/6 sec at f / 2.0          -4 EV        1/6 sec at f / 2.0          -4 EV        1/6 sec at f / 2.0          -4 EV        1/6 sec at f / 2.0          -4 EV
+ Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+       from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                    from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+ iss038e051257               12:09:10     iss038e051258               12:09:11     iss038e051259               12:09:12     iss038e051260               12:09:13     iss038e051261               12:09:14     iss038e051262               12:09:15      iss038e051263              12:11:00
+ GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014
+   1/6 sec at f / 2.0          -4 EV        1/6 sec at f / 2.0          -4 EV        1/6 sec at f / 2.0          -4 EV        1/6 sec at f / 2.0          -4 EV        1/6 sec at f / 2.0          -4 EV        1/6 sec at f / 2.0          -4 EV      1/8000 sec at f / 2.0           -4 EV
+ Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+        from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+                                                                                                                                                                                                                                                                                               2
+  iss038e051264              12:11:04      iss038e051265              12:11:08      iss038e051266              12:11:12
+ GMT 050                  02-19-2014      GMT 050                  02-19-2014      GMT 050                  02-19-2014
+ 1/8000 sec at f / 2.0           -4 EV    1/8000 sec at f / 2.0           -4 EV    1/8000 sec at f / 2.0           -4 EV
+ Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000      Mode: Aperture priority    ISO 1000
+(Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec   (Date/Time is minus 1 day 6 min 10 sec
+        from BASS Video Clock)                   from BASS Video Clock)                   from BASS Video Clock)
+
+
+
+
+                                                                                                                           3
+

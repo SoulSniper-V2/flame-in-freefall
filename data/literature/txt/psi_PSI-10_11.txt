@@ -1,0 +1,332 @@
+Flame Design Round 2, day 1, added TFP calibration with normal flames
+         Chamber filled to 13.7 psia with ~40% oxygen (balance N2)
+Through much of the test day, pressure transducer (PT) output was accidentally
+        plotted and captured in these notes rather than PMT output.
+
+Test 21301A1 (test 1 of 20, flame 1 of 18) – sustained ignition, run with
+fiberTestPosition=16200, fuelFlowIgnitionDeltaMs=3000,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.105
+Test 21301A1, continued
+Test 21301A1, continued
+
+
+
+
+After test: 951 on lowest valve safety timer, 1233 psia in oxidizer bottle, 41 psia
+in fuel bottle
+Test 21301A2 (test 2 of 20, flame 2 of 18) – sustained ignition, nominal repeat of
+A1, run with fiberTestPosition=16200, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.105
+Test 21301A2, continued
+Test 21301A2, continued
+
+
+
+
+After test: 903 on lowest valve safety timer, 1241 psia in oxidizer bottle, 39 psia
+in fuel bottle
+Test 21301A3 (test 3 of 20, flame 3 of 18) – sustained ignition, flow variant of
+A1+A2, run with fiberTestPosition=16200, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.153
+Test 21301A3, continued
+Test 21301A3, continued
+
+
+
+
+After test: 849 on lowest valve safety timer, 1246 psia in oxidizer bottle, 39 psia
+in fuel bottle
+Test 21301A4 (test 4 of 20, flame 4 of 18) – sustained ignition, flow variant of
+A1-A3, run with fiberTestPosition=16800, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.139, constantFlowTime1Sec=45
+Test 21301A4, continued
+Test 21301A4, continued
+
+
+
+
+After test: 782 on lowest valve safety timer, 1248 psia in oxidizer bottle, 38 psia
+in fuel bottle
+Test 21301A5 (test 5 of 20, flame 5 of 18) – sustained ignition, flow and imaging
+variant of A1-A4, run with bracketingExposureStartUsec=16000,
+bracketingExposureMultiplierTimes100=230, fiberTestPosition=17000,
+fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.096, constantFlowTime1Sec=45
+Test 21301A5, continued
+Test 21301A5, continued
+
+
+
+
+After test: 714 on lowest valve safety timer, 1249 psia in oxidizer bottle, 38 psia
+in fuel bottle
+Test 21301A6 (test 6 of 20, flame 6 of 18) – sustained ignition, flow and imaging
+variant of A1-A5 (but the A6 fuel flow is almost the same as in A5), run with
+bracketingExposureStartUsec=2000,
+bracketingExposureMultiplierTimes100=300, fiberTestPosition=17000,
+fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.092, constantFlowTime1Sec=45
+Test 21301A6, continued
+Test 21301A6, continued
+
+
+
+
+After test: 650 on lowest valve safety timer, 1249 psia in oxidizer bottle, 37 psia
+in fuel bottle
+Test 21301C1 (test 7 of 20, flame 7 of 18) – sustained ignition, dilution variant of
+A6, run with bracketingExposureStartUsec=2000,
+bracketingExposureMultiplierTimes100=300, fiberTestPosition=17000,
+flowTimeoutSec=90, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=0.092, nitrogenIgnitionFlowSlpm=0.097,
+fuelTestFlow1Slpm=0.092, nitrogenTestFlow1Slpm=0.097,
+constantFlowTime1Sec=45
+Test 21301C1, continued
+Test 21301C1, continued
+
+
+
+
+After test: 585 on lowest valve safety timer, 1249 psia in oxidizer bottle, 36 psia
+in fuel bottle
+Test 21301C2 (test 8 of 20, flame 8 of 18) – sustained ignition, imaging variant of
+C1, run with bracketingExposureStartUsec=2000,
+bracketingExposureMultiplierTimes100=200, fiberTestPosition=17000,
+flowTimeoutSec=60, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=0.092, nitrogenIgnitionFlowSlpm=0.097,
+fuelTestFlow1Slpm=0.092, nitrogenTestFlow1Slpm=0.097,
+constantFlowTime1Sec=30
+Test 21301C2, continued
+Test 21301C2, continued
+
+
+
+
+After test: 534 on lowest valve safety timer, 1250 psia in oxidizer bottle, 36 psia
+in fuel bottle
+Test 21301D1 (test 9 of 20, flame 9 of 18) – sustained ignition, run with
+bracketingExposureStartUsec=3000,
+bracketingExposureMultiplierTimes100=200, fiberTestPosition=17200,
+flowTimeoutSec=70, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=0.087, nitrogenIgnitionFlowSlpm=0.152,
+fuelTestFlow1Slpm=0.087, nitrogenTestFlow1Slpm=0.152,
+constantFlowTime1Sec=40
+Test 21301D1, continued
+Test 21301D1, continued
+
+
+
+
+After test: 474 on lowest valve safety timer, 1250 psia in oxidizer bottle, 35 psia
+in fuel bottle
+Test 21301D2 (test 10 of 20, flame of 18) – sustained ignition, nominal repeat of
+D1, run with bracketingExposureStartUsec=3000,
+bracketingExposureMultiplierTimes100=200, fiberTestPosition=17200,
+flowTimeoutSec=60, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=0.087, nitrogenIgnitionFlowSlpm=0.152,
+fuelTestFlow1Slpm=0.087, nitrogenTestFlow1Slpm=0.152,
+constantFlowTime1Sec=30
+Test 21301D2, continued
+Test 21301D2, continued
+
+
+
+
+After test: 422 on lowest valve safety timer, 1251 psia in oxidizer bottle, 35 psia
+in fuel bottle
+Test 21301A7 (test 11 of 20, flame of 18) – sustained ignition, imaging variant of
+A1, run with bracketingExposureStartUsec=3000,
+bracketingExposureMultiplierTimes100=200, fiberTestPosition=16300,
+flowTimeoutSec=50, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=0.105, nitrogenIgnitionFlowSlpm=0,
+fuelTestFlow1Slpm=0.105, nitrogenTestFlow1Slpm=0,
+constantFlowTime1Sec=20
+Test 21301A7, continued
+Test 21301A7, continued
+
+
+
+
+After test: 379 on lowest valve safety timer, 1251 psia in oxidizer bottle, 35 psia
+in fuel bottle
+Test 21301A8 (test 12 of 20, flame of 18) – sustained ignition, flow variant of A1-
+A7, run with bracketingExposureStartUsec=2000,
+bracketingExposureMultiplierTimes100=250, fiberTestPosition=16600,
+flowTimeoutSec=50, fuelFlowIgnitionDeltaMs=0, stabilizationTime2Sec=3,
+fuelIgnitionFlowSlpm=0.113, nitrogenIgnitionFlowSlpm=0,
+fuelTestFlow1Slpm=0.113, nitrogenTestFlow1Slpm=0,
+constantFlowTime1Sec=20
+Test 21301A8, continued
+Test 21301A8, continued
+
+
+
+
+After test: 338 on lowest valve safety timer, 1251 psia in oxidizer bottle, 34 psia
+in fuel bottle
+Test 21301A9 (test 13 of 20, flame of 18) – sustained ignition, ramping flow
+variant of A1-A8, run with dataCameraTestExposureUs=50000,
+dataCameraManualGain=26, useBracketedExposures=FALSE,
+bracketingExposureStartUsec=2000,
+bracketingExposureMultiplierTimes100=250,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=80,
+fuelFlowIgnitionDeltaMs=0, stabilizationTime2Sec=0,
+fuelIgnitionFlowSlpm=0.125, nitrogenIgnitionFlowSlpm=0,
+fuelTestFlow1Slpm=0.125, nitrogenTestFlow1Slpm=0,
+fuelTestFlow2Slpm=0.140, fuelTestFlow3Slpm=0.039,
+constantFlowTime1Sec=5, constantFlowTime2Sec=constantFlowTime3Sec=1,
+testFlowRamp1To2TimeSec=2, testFlowRamp2To3TimeSec=30
+Test 21301A9, continued
+Test 21301A9, continued
+
+
+
+
+After test: 277 on lowest valve safety timer, 1251 psia in oxidizer bottle, 33 psia
+in fuel bottle
+   Chamber vented and refilled to 13.7 psia with ~40% oxygen (balance N2)
+                resetting the valve safety timers to 999 sec
+
+Test 21301H1 (test 14 of 20, flame of 18) – sustained ignition, ramping flow
+variant of A1-A8, run with dataCameraTestExposureUs=1000000,
+dataCameraManualGain=0, useBracketedExposures=TRUE,
+bracketingExposureStartUsec=2000,
+bracketingExposureMultiplierTimes100=250, fiberIgnitionPosition=10000,
+fiberTestPosition=16600, flowTimeoutSec=90, fuelFlowIgnitionDeltaMs=1000,
+stabilizationTime2Sec=3, fuelIgnitionFlowSlpm=0.122,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.122,
+nitrogenTestFlow1Slpm=0, fuelTestFlow2Slpm=0.060, fuelTestFlow3Slpm=0,
+constantFlowTime1Sec=5, constantFlowTime2Sec=3, constantFlowTime3Sec=0,
+testFlowRamp1To2TimeSec=45, testFlowRamp2To3TimeSec=0
+Test 21301H1, continued
+Test 21301H1, continued
+
+
+
+
+After test: 927 on lowest valve safety timer, 673 psia in oxidizer bottle, 33 psia
+in fuel bottle
+Test 21301H2 (test 15 of 20, flame of 18) – sustained ignition, flow variant of A1-
+A8 without TFP, run with dataCameraTestExposureUs=40000,
+dataCameraManualGain=25, useBracketedExposures=FALSE,
+bracketingExposureStartUsec=2000,
+bracketingExposureMultiplierTimes100=250, fiberIgnitionPosition=0,
+fiberTestPosition=0, flowTimeoutSec=90, fuelFlowIgnitionDeltaMs=500,
+stabilizationTime2Sec=0, fuelIgnitionFlowSlpm=0.082,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.082,
+nitrogenTestFlow1Slpm=0, fuelTestFlow2Slpm=0, fuelTestFlow3Slpm=0,
+constantFlowTime1Sec=60, constantFlowTime2Sec=0,
+constantFlowTime3Sec=0, testFlowRamp1To2TimeSec=0,
+testFlowRamp2To3TimeSec=0
+Test 21301H2, continued
+Test 21301H2, continued
+
+
+
+
+After test: 870 on lowest valve safety timer, 686 psia in oxidizer bottle, 32 psia
+in fuel bottle
+Test 21301H3 (test 16 of 20, flame of 18) – sustained ignition, imaging variant of
+A6 without TFP, run with dataCameraTestExposureUs=35000,
+dataCameraManualGain=26, useBracketedExposures=FALSE,
+bracketingExposureStartUsec=2000,
+bracketingExposureMultiplierTimes100=250, fiberIgnitionPosition=0,
+fiberTestPosition=0, flowTimeoutSec=90, fuelFlowIgnitionDeltaMs=500,
+stabilizationTime2Sec=0, fuelIgnitionFlowSlpm=0.092,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.092,
+nitrogenTestFlow1Slpm=fuelTestFlow2Slpm=fuelTestFlow3Slpm=0,
+constantFlowTime1Sec=60, constantFlowTime2Sec=constantFlowTime3Sec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0
+Test 21301H3, continued
+Test 21301H3, continued
+
+
+
+
+After test: 804 on lowest valve safety timer, 688 psia in oxidizer bottle, 32 psia
+in fuel bottle
+Test 21301J1 (test 17 of 20) – unsustained ignition, run with
+dataCameraTestExposureUs=1000000, dataCameraManualGain=0,
+useBracketedExposures=TRUE, bracketingNumberOfExposures=5,
+bracketingExposureStartUsec=2000,
+bracketingExposureMultiplierTimes100=300, fiberIgnitionPosition=10000,
+fiberTestPosition=17200, flowTimeoutSec=780, fuelFlowIgnitionDeltaMs=1500,
+stabilizationTime2Sec=1, fuelIgnitionFlowSlpm=0.048,
+nitrogenIgnitionFlowSlpm=0.151, fuelTestFlow1Slpm=0.048,
+nitrogenTestFlow1Slpm=0.151, fuelTestFlow2Slpm=fuelTestFlow3Slpm=0,
+constantFlowTime1Sec=750, constantFlowTime2Sec=constantFlowTime3Sec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0
+Test 21301J1, continued
+Test 21301J1, continued
+
+
+
+
+After test: 784 on lowest valve safety timer, 688 psia in oxidizer bottle, 32 psia
+in fuel bottle
+Test 21301J2 (test 18 of 20, flame of 18) – unsustained ignition, run with
+dataCameraTestExposureUs=1000000, dataCameraManualGain=0,
+useBracketedExposures=TRUE, bracketingNumberOfExposures=5,
+bracketingExposureStartUsec=2000,
+bracketingExposureMultiplierTimes100=300, igniterIgnitionDurationMs=3500,
+fiberIgnitionPosition=10000, fiberTestPosition=17200, flowTimeoutSec=760,
+fuelFlowIgnitionDeltaMs=1500, stabilizationTime2Sec=1,
+fuelIgnitionFlowSlpm=0.052, nitrogenIgnitionFlowSlpm=0.146,
+fuelTestFlow1Slpm=0.052, nitrogenTestFlow1Slpm=0.146,
+fuelTestFlow2Slpm=fuelTestFlow3Slpm=0,
+constantFlowTime1Sec=730, constantFlowTime2Sec=constantFlowTime3Sec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0
+Test 21301J2, continued
+Test 21301J2, continued
+
+
+
+
+After test: 760 on lowest valve safety timer, 687 psia in oxidizer bottle, 32 psia
+in fuel bottle
+Test 21301J3 (test 19 of 20, flame 17 of 18) – sustained ignition, run with
+dataCameraTestExposureUs=1000000, dataCameraManualGain=0,
+useBracketedExposures=TRUE, bracketingNumberOfExposures=5,
+bracketingExposureStartUsec=2000,
+bracketingExposureMultiplierTimes100=300, igniterIgnitionDurationMs=3000,
+fiberIgnitionPosition=10000, fiberTestPosition=17200, flowTimeoutSec=740,
+fuelFlowIgnitionDeltaMs=1500, stabilizationTime2Sec=1,
+fuelIgnitionFlowSlpm=0.057, nitrogenIgnitionFlowSlpm=0.140,
+fuelTestFlow1Slpm=0.057, nitrogenTestFlow1Slpm=0.140,
+fuelTestFlow2Slpm=fuelTestFlow3Slpm=0,
+constantFlowTime1Sec=710, constantFlowTime2Sec=constantFlowTime3Sec=0,
+testFlowRamp1To2TimeSec=testFlowRamp2To3TimeSec=0
+Ignition detection averagingDurationSecs=7 (to effectively turn off detection)
+Test 21301J3, continued
+Test 21301J3, continued
+
+
+
+
+After test: 662 on lowest valve safety timer, 687 psia in oxidizer bottle, 31 psia
+in fuel bottle
+Test 21301J4 (test 20 of 20, flame of 18) – sustained ignition, run with
+dataCameraTestExposureUs=1000000, dataCameraManualGain=0,
+useBracketedExposures=TRUE, bracketingNumberOfExposures=5,
+bracketingExposureStartUsec=2000,
+bracketingExposureMultiplierTimes100=300, igniterIgnitionDurationMs=3000,
+fiberIgnitionPosition=10000, fiberTestPosition=17200, flowTimeoutSec=640,
+fuelFlowIgnitionDeltaMs=1500, stabilizationTime2Sec=1,
+fuelIgnitionFlowSlpm=0.057, nitrogenIgnitionFlowSlpm=0.140,
+fuelTestFlow1Slpm=0.057, nitrogenTestFlow1Slpm=0.140,
+fuelTestFlow2Slpm=0.057, nitrogenTestFlow2Slpm=0.179,
+fuelTestFlow3Slpm=0, constantFlowTime1Sec=1, constantFlowTime2Sec=605,
+constantFlowTime3Sec=0, testFlowRamp1To2TimeSec=3,
+testFlowRamp2To3TimeSec=0
+Ignition detection averagingDurationSecs=7 (to effectively turn off detection)
+Test 21301J4, continued
+Test 21301J4, continued
+
+
+
+
+After test: 321 on lowest valve safety timer, 687 psia in oxidizer bottle, 29 psia
+in fuel bottle
+Test 21301RAD2
+Test 21301RAD2, continued
+

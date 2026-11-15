@@ -1,0 +1,562 @@
+Oscillatory cool flame behavior of submillimeter
+            sized n-heptane droplets
+
+
+        Fahd E. Alama, Frederick L. Dryera,b, Tanvir I. Farouka
+                   a Department of Mechanical Engineering
+
+           University of South Carolina, Columbia, SC 29208, USA
+
+            b Department of Mechanical & Aerospace Engineering
+
+                Princeton University, Princeton NJ 08544, USA
+
+
+
+
+         34th Annual Meeting of the American Society for Gravitational and
+                             Space Research (ASGSR),
+                Bethesda North Marriott Hotel & Conference Center,
+                    10/31/2018 – 11/03/2018, Bethesda, MD, USA
+                                                                             1
+Motivation
+
+Cool flame has practical                             Recent research
+relevance to-                                        interest triggers           Multiphase                  Gas phase
+ Engine knock & multi-stage auto-ignition [1]
+ Lean flammability limit [2]                                                                                 Theory &
+                                                                                 Experiment
+ Spacecraft fire safety [3]                                                                                  Analysis
+ Low and NTC kinetics [4]
+
+                                                                                                    Farouk et al. (PROCI 2015)
+                                 Nayagam et al. (CNF 2012)
+                                                                                                    Microgravity droplet experiment
+                                 Microgravity droplet experiment
+                                                                                                    n-C7H16 pulsation behavior
+                                 Steady cool flame n-C7H16 droplet
+                                                                                                    High pressure (3 atm)
+                                 Atmospheric pressure
+
+
+
+
+                                Reuter et al. (CNF 2017)                                             Deng et al. (CNF 2017)
+                                Counter flow burner experiments                                      Hysteretic Nature of DME Cool
+                                Extinction limit of cool flame for                                   flame
+                                various n-Alkanes                                                    Opposed diffusion flame
+                                                                                                     experiments at 2 and 3 atm
+
+
+
+
+[1] Dec (PROCI 2009) [2] Reuter et al. (CNF 2016) [3] Nayagam et al. (CNF 2012) [4] Liang & Law (CNF 2017)                  2
+Motivation …
+               Katta et al. (PROCI 2017)
+               CFD    study     to     explore    self
+               supporting       cool      flame   for
+               opposed diffusion arrangement
+
+
+
+
+                                       Alam et al. (C&F 2018)
+                       1-D CFD study for smaller n-
+                       alkane droplet to          investigate
+                       direct initiation of cool flame
+
+
+
+
+                                                             Cool flame behavior
+                                                            for smaller droplets at
+                                                             near-limit condition
+               Sohn et al. (PROCI 2017)                       without significant
+               Cool flame study of n-Heptane at
+                                                                  heat loss?
+               high    strain     rates      (limiting
+               condition) and flame instability                                3
+Droplet Combustion Model
+
+Kinetic Schemes                                                                                          Do                                          (D/Do)2
+Detailed model O(100 species) &
+                                                     Gas Phase:
+O(1000) elementary reactions)
+                                                     • Multi-component molecular diffusion                D           D              D        D D
+                                                     • Detailed chemical kinetics
+                                                                                                                                                   Flame
+                                                     • Statistical narrow band (SNB) radiation
+                                                     • Mass conservation                                                             D        Df Stand-off
+ Droplet Surface:                                    • Species equation                                                                          Ratio =D/Df
+ • Surface regression                                • Energy conservation
+ • Evaporation of fuel
+ • Condensation/Dissolution
+                                                                                            Fiber Model
+  of products
+ • Radiative heat exchange                                                                  Biot number in the order of 10-2
+                                                            Liquid Phase:                   One dimensional temperature distribution
+                                      mv                    • Mass conservation                  ∂ ( ρ f c p , f T f ) ∂  ∂T f  4hconv , j
+                                           mp               • Species equation
+                                                                                                         ∂t
+                                                                                                                      =    kf
+                                                                                                                        ∂x 
+                                                                                                                                  +
+                                                                                                                               ∂x  d fiber
+                                                                                                                                             (T − T f )
+      drs                                                   • Energy conservation
+                                                qR                                                                  4σε f
+      dt
+                    ∂Yl ,i
+                                                                                                                −
+                                                                                                                    d fiber
+                                                                                                                              (T − T )
+                                                                                                                                f
+                                                                                                                                 4
+                                                                                                                                         ∞
+                                                                                                                                          4
+
+                                                     ∂T
+            Dl ,i                                λ
+                      ∂r                             ∂r
+       qambient                  ∂T                                     qambient                        Fiber:
+                            λl
+                    qloss        ∂r                                                qloss                • Energy conservation
+                                                          q fib                                                         q fib
+
+    T. Farouk and F. L. Dryer Combust. and Flame (2012) 159, 200 – 209
+    T. Farouk and F. L. Dryer Combust Theory & Modelling (2011), 15, 487 – 515                                                                      4
+Direct Initiation of Cool Flame
+                                                                                                                     XN2 =          P = 1 atm,
+                                                                           XO2 = 21%        XO3 = 5%
+                                                                                                                    Balance         T = 298 K
+
+                                                                                                            Model           Species      Rxn
+
+
+
+                                                                                        O3 n-C7H16
+                                                                         Do =                        Sun et al. (2010)        128        565
+                                                                         0.5
+                                                                                                     Mehl et al. (2011)       652        2827
+                                                                         mm
+                                                                                                     Reuter et al. (2017)     11          26
+
+                                                                     Radial direction
+                                                                           rgas
+
+
+
+
+          Rapid inception
+           of cool flame
+                                                                       Ignition
+                                                                       energy
+
+
+
+
+Ozone assisted cool flame combustion of sub-millimeter sized n-alkane droplets
+at atmospheric and higher pressure. Alam et al. (Combust. Flame 2018)                                                                            5
+Cool Flame Under Near Limit Conditions?
+                                                                                        Do =
+                                                          XN2 =       P = 1 atm,
+                                 XO2 = 10%   XO3 = 5%                                   0.5
+                                                         Balance      T = 298 K         mm
+
+
+
+
+                                             Attempt to establish direct cool flame
+                                                        Drop in Tpeak, gas
+
+                                                               Rise in Tpeak, gas
+
+
+
+
+  Blue: Oscillatory cool flame
+    Red: Stable cool flame                                                          6
+Oscillatory Cool Flame: Primary Observations
+
+
+
+
+                                                                       Temperature
+
+
+
+
+                                                                                 80 x Ddrop
+
+  Initiation energy results in Tpeak, gas exceeding ~1150 K locally
+
+  Flame expands radially  gradual decrease in flame T 
+   Contracts (t < 0.1 s)
+
+  Stable cool flame for brief period of time (~0.12 s @ ~710 K)
+
+                                                                       Ketohydroperoxides
+           How does the oscillation start?
+           Role of LT chemistry?
+           Why does the oscillation grow?                                                    7
+Inception of oscillation
+
+
+                             O3 kinetics (dissociation/recombination) elevates
+                              local O2 mole fraction
+
+                             Initial local XO2 : 0.10  0.16 (at flame location)
+
+
+
+
+                             Gradient in O2 mole fraction compels O2 to diffuse
+                              radially outward direction  causing local
+                              depletion
+
+
+
+
+                                                             Flame temperature
+         As time
+                            Pulsing starts at                 increases due to
+     progresses, local
+                              XO2 < ~0.135                        higher O2
+        O2 depletes
+                                                                 availability
+
+                            Flame contracts
+        Oscillations                                            Flame moves
+                                due to
+          repeats                                                radially out
+                           consumption of O2
+                                                                                    8
+   Role of Low Temperature Chemistry on the Oscillation
+                                 RH                                             Consumption of C7H14OOH depends on the extend of
+                                     +X                                         reactivity from chain propagation/termination reactions
+                                     -XH                                        and degenerate chain branching reactions
+                                                           RO + OH
+             Alkyl radical       Ṙ
+                                                                 Chain
+                                                                 branching
+             first O2 addition       + O2
+                                                            ROOH + O2
+      Alkylperoxy radical        ṘOO
+       Internal H abstraction                              Alkene + HȮ2
+
+Hydroperoxy alkyl radical        QOOH
+                                                           ȮH+ cyclic ethers,
+         second O2 addition          + O2
+                                                              aldehydes
+                                                              or ketones
+                                 OOQOOH
+       internal H abstraction
+
+                                 HOOQ-HOOH
+
+
+     Ketohydroperoxide           HOOQ-HO + ȮH
+              Degenerate
+          chain branching                                                                                       Chain branching
+                                                                                    Chain propagation /
+                                 ȮQ-HO + 2ȮH                                        termination reaction         reaction class
+                                                                                    class correlates with       undergoes three
+  Low-temperature oxidation and autoignition chemistry of large hydrocarbons.           temperature              distinct stages      9
+                 Combustion (5th Edition), Chapter 3, Page 104
+Role of LT Chemistry: Stage # 1
+
+
+                                                     Drop in O2C7H14OOH mole fraction, and shutting
+                                                               down HR contribution from
+                                                              O2C7H14OOH    C7H14O3 + OH
+
+
+
+
+                                                      Initial high temperature decompose C7H14O3 via
+                                                               endothermic reaction (stage # 1)
+                                                              C7H14O3   R’CHO + R’(CO) R’’ +OH
+
+
+
+
+                                                                C7H14OOH      C7H14O + OH
+                                                             O2C7H14OOH       C7H14OOH + O2
+                                                    Exothermicity from other classes are not enough to
+                                                      maintain same Tgas w/o additional contribution
+
+                Stage # 1
+ Favorable Tmax for O2C7H14OOH production @ 1 atm
+                    hovers ~700 K
+
+
+     𝐝𝐝𝐝𝐝                                           Steep fall in peak gas temperature (stage #
+           𝐎𝐎𝟐𝟐𝐂𝐂𝟕𝟕𝐇𝐇𝐇𝐇𝐇𝐇𝐇𝐇𝐇𝐇𝐇𝐇   Tgas
+      𝐝𝐝𝐝𝐝                                               1)  drop in C7H14 mole fraction
+
+                                                                                               10
+Role of LT Chemistry: Stage # 2 & 3
+
+                                              Gas phase temperature starts to increase
+                                              (change slope)  Reflection of C7H14
+
+
+                                              Simultaneous exothermic contributions
+                                              from degenerate branching and chain
+                                              propagation  sharp increase in Tgas
+
+
+                                              Tgas > Tthreshold  degenerate branching
+                                              contribution starts to diminish  abrupt
+                                              change in C7H14O3
+
+
+
+
+                                                         Stage # 3
+                                              Balance between two classes of reactions
+            Stage # 2                         continue for brief period of time 
+                                              Temperature increases to ~750 K
+ Drop in Tgas beyond a threshold ( point A,
+ ~712 K)  changes C7H14O3 profile slope     Insufficient heat release from the chain
+ Reactivates                                  branching/termination route compels the
+ O2C7H14OOH     C7H14O3 + OH (exothermic)     gas temperature to fall @ t~0.638 s
+
+                                                                                11
+Dynamic Competition of LTC & Fuel Leakage
+
+
+
+
+                                    Radial Growth of Oscillation:
+                                            Fuel Leakage
+
+
+
+
+                                                                12
+Summary
+
+
+   Dynamics of near-limit cool flame burning of isolated submillimeter (Do =
+    0.5 mm) n-C7H16 droplet is numerically studied.
+
+   Reduced ambient O2 mole fraction (10%) is considered to facilitate near-
+    limit condition.
+
+   Under selective O3 seeding (5%), the droplet briefly attempts to initiate
+    stable cool flame before entering continuous oscillatory cool flame burn.
+
+   Local depletion of O2 (<13.5%) near the droplet initiates the pulsing
+    behavior with initial small fluctuation in flame temperature.
+
+   The oscillation is found to increase in magnitude with time, and at each
+    successive cycle.
+
+   Dynamic interaction of degenerate chain branching and chain propagation
+    / termination reaction classes of QOOH (within NTC region) is responsible
+    for the observed oscillation.
+
+   Continuous fuel leakage through the flame location assists the oscillation
+    to grow in radial direction with time.
+                                                                                 13
+Acknowledgement
+
+
+
+
+              This work was supported by the National
+              Aeronautics and Space Administration
+              through grant NNX17AF97A
+
+
+
+
+                                                 14
+Backup slide # 1: Direct Initiation of Cool Flame: Initial Dynamics
+
+
+
+                                                     Flash point 269.3 K
+                                                           (NOAA)
+
+
+
+
+       Initiation energy      Premixed  Diffusive
+          dissipation                burn
+
+
+    Reaction with partially
+                               Steady ‘cool flame’
+   premixed gas phase fuel
+
+
+                                                                           15
+Backup slide # 2: Dynamic Competition of LTC & Fuel Leakage
+
+
+
+
+                                     Radial Growth of Oscillation:
+                                             Fuel Leakage
+
+
+
+
+                                                                 16
+          Governing Equations & Boundary Conditions
+
+  Species Conservation Equation
+                                          𝑟𝑟
+    𝑟𝑟+
+     𝜕𝜕(𝑦𝑦𝑖𝑖 𝜌𝜌) 2        𝑟𝑟 2 𝑟𝑟̇ |𝑟𝑟+− 𝑟𝑟+        2
+                                                                                  𝑟𝑟                𝑟𝑟
+                                                                                2 + = −𝑦𝑦 𝜌𝜌𝑉𝑉 𝑟𝑟 2 + +
+                                                                                                           𝑟𝑟+
+�               𝑟𝑟 𝑑𝑑𝑑𝑑 +            𝑟𝑟+ � 𝑦𝑦𝑖𝑖 𝜌𝜌𝑟𝑟 𝑑𝑑𝑑𝑑 + 𝑦𝑦𝑖𝑖 𝜌𝜌𝜌𝜌 − 𝜌𝜌𝑟𝑟̇ 𝑟𝑟 �       𝑖𝑖   𝑖𝑖 �      � 𝜔𝜔̇ 𝑖𝑖 𝑟𝑟 2 𝑑𝑑𝑑𝑑
+        𝜕𝜕𝑡𝑡              1 3                                                     𝑟𝑟−               𝑟𝑟−
+
+                                                                                                                                                                                                                                                           G
+ 𝑟𝑟−                         𝑟𝑟           𝑟𝑟−                                                            𝑟𝑟−
+                          3 �𝑟𝑟−
+
+  Energy Conservation Equation                                                                                                                                                                  At ∞ (200 x Do)
+                                                                                                                                                                                                                                                 L
+                                                                             𝑟𝑟
+                                                𝑟𝑟+
+                                               𝜕𝜕(ℎ𝜌𝜌) 2            𝑟𝑟 2𝑟𝑟̇ |𝑟𝑟+− 𝑟𝑟+                               𝑟𝑟+
+                                          �               𝑟𝑟 𝑑𝑑𝑑𝑑 +                           2                   2
+                                                                              𝑟𝑟+ � ℎ𝜌𝜌𝑟𝑟 𝑑𝑑𝑑𝑑 + ℎ 𝜌𝜌𝜌𝜌 − 𝜌𝜌𝑟𝑟̇ 𝑟𝑟 �
+                                                                                                                                                                                                XO2 = 0.21
+                                                  𝜕𝜕𝑡𝑡              1                                               𝑟𝑟−
+                                           𝑟𝑟−                         𝑟𝑟 3 � 𝑟𝑟−
+                                                                    3 𝑟𝑟
+                                                                                                                                                                                                XN2 = 0.79
+                                                       𝑟𝑟+
+                                                                                −
+                                                                                                                                                                                                T = 298 K
+                                          = −𝑞𝑞𝑟𝑟 2 � + 𝑆𝑆𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑜𝑜𝑜𝑜 𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔−𝑡𝑡𝑡𝑡𝑡𝑡𝑡−𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓
+ Conservation of Mass Fraction                         𝑟𝑟−                                               Diffusive Heat Flux Equation
+                                                                                                                                                                                                                                             +                 +
+     � yi = 1                                                                                               𝑞𝑞𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑 =       � ℎ𝑖𝑖 𝜌𝜌𝑦𝑦𝑖𝑖 𝑉𝑉𝑖𝑖 − 𝜆𝜆𝛻𝛻𝑇𝑇𝑔𝑔 − 𝑝𝑝 � 𝜃𝜃𝑖𝑖 𝒅𝒅𝑖𝑖                   Flux Balance       𝑦𝑦𝑖𝑖 𝜌𝜌𝜌𝜌 − 𝑝𝑝𝑟𝑟̇ � = −𝑦𝑦𝑖𝑖 𝜌𝜌𝑉𝑉𝑖𝑖 �
+                                                                                                                                                                                                                                             −                 −
+      ∀i                                                                                                                   𝑖𝑖 𝜖𝜖 𝑆𝑆,𝑔𝑔𝑔𝑔𝑔𝑔                                𝑖𝑖 𝜖𝜖 𝑆𝑆,𝑔𝑔𝑔𝑔𝑔𝑔
+                                                                                                                                                                                                                                                                                           +
+                                                                                                           𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻, 𝜃𝜃𝑖𝑖 = 𝐷𝐷𝑖𝑖𝑖𝑖 𝜒𝜒𝑗𝑗                                                        Energy Balance          �               ℎ𝑣𝑣𝑣𝑣𝑣𝑣,𝑖𝑖 𝑦𝑦𝑖𝑖 𝜌𝜌𝜌𝜌 − 𝜌𝜌𝑟𝑟̇ + 𝑦𝑦𝑖𝑖 𝜌𝜌𝑉𝑉𝑖𝑖 + = −𝑞𝑞 � − 𝑞𝑞𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓
+                                                                                                                                                                                                                                                                                           −
+ Radiative Heat Flux Equation                                                                                                                                                                                     𝑖𝑖 𝜖𝜖 𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙
+
+
+                           ∞                                                                                                                                                                   Liquid & Gas         � 𝑦𝑦𝑖𝑖,+ = 1
+  𝛻𝛻 . 𝑞𝑞⃗𝑟𝑟𝑟𝑟𝑟𝑟 = � 𝑎𝑎(𝜂𝜂, ⃗𝑟𝑟) 4𝜋𝜋𝐼𝐼𝑏𝑏 𝜂𝜂, 𝑟𝑟⃗ − � 𝐼𝐼 𝜂𝜂, ⃗𝑟𝑟, 𝜔𝜔 𝑑𝑑𝑑𝑑 𝑑𝑑𝑑𝑑                                                                                                                  Phase Mass         𝑖𝑖 𝜖𝜖 𝑔𝑔𝑔𝑔𝑔𝑔
+                         0                                                  4𝜋𝜋
+                                                                                                                                                                                               Fraction Balance
+ Fiber Model                                                                                                                                                                                                           �               𝑦𝑦𝑖𝑖,− = 1
+                                                                                                                                                                                                                  𝑖𝑖 𝜖𝜖 𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙
+ 𝜕𝜕 𝜌𝜌𝑓𝑓 𝐶𝐶𝑝𝑝,𝑓𝑓 𝑇𝑇𝑓𝑓    𝜕𝜕       𝜕𝜕𝑇𝑇𝑓𝑓   4ℎ𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐,𝑗𝑗              4𝜎𝜎𝜀𝜀𝑓𝑓
+                      =      𝑘𝑘𝑓𝑓        +               𝑇𝑇 − 𝑇𝑇𝑓𝑓 −              𝑇𝑇 4 − 𝑇𝑇∞4
+         𝜕𝜕𝜕𝜕           𝜕𝜕𝜕𝜕       𝜕𝜕𝜕𝜕     𝑑𝑑𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓             𝑑𝑑𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓 𝑓𝑓                                                                                                           Temp Balance       𝑇𝑇+ = 𝑇𝑇−
+                                                      𝑟𝑟+
+                                                            4ℎ∞ 𝑛𝑛𝑓𝑓                𝐴𝐴𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓 𝐼𝐼𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓                                  2
+                                                                                                                                                                                     4 3
+𝑆𝑆𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑜𝑜𝑜𝑜 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝑡𝑡𝑡𝑡𝑡𝑡𝑡 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓 =         �              𝑇𝑇 − 𝑇𝑇𝑓𝑓 𝑟𝑟 2                           𝑑𝑑𝑑𝑑         𝐴𝐴𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓 = 𝜋𝜋𝑟𝑟𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓   𝑉𝑉𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙/𝑔𝑔𝑔𝑔𝑔𝑔 =    𝜋𝜋𝑟𝑟
+                                                                                                                                                                                                Phase Balance
+                                                                                                                                                                                                                  𝑥𝑥𝑖𝑖,+ 𝑝𝑝 = 𝑥𝑥𝑖𝑖,− 𝛾𝛾𝑖𝑖 𝑇𝑇, 𝑥𝑥𝑗𝑗,− 𝑝𝑝𝑣𝑣𝑣𝑣𝑣𝑣,𝑖𝑖 (𝑇𝑇�
+                                                              𝑑𝑑𝑓𝑓                   𝑉𝑉𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙/𝑔𝑔𝑔𝑔𝑔𝑔                                                                           3 𝑙𝑙/𝑔𝑔
+                                                  𝑟𝑟−
+
+          * T. Farouk and F. L. Dryer Combust. and Flame (2012) 159, 200 – 209
+          + T. Farouk and F. L. Dryer Combust Theory &                                         Modelling (2011), 15, 487 – 515
+
+
+
+
+                                                                                                                                                                                                                                                                              17
+          Supplementary Slide # Governing Equations
+
+ Species Conservation Equation
+                                        𝑟𝑟
+    𝑟𝑟+
+    𝜕𝜕(𝑦𝑦𝑖𝑖 𝜌𝜌) 2        𝑟𝑟 2 𝑟𝑟̇ |𝑟𝑟+− 𝑟𝑟+        2
+                                                                                 𝑟𝑟                𝑟𝑟
+                                                                               2 + = −𝑦𝑦 𝜌𝜌𝑉𝑉 𝑟𝑟 2 + +
+                                                                                                          𝑟𝑟+
+�              𝑟𝑟 𝑑𝑑𝑑𝑑 +            𝑟𝑟+ � 𝑦𝑦𝑖𝑖 𝜌𝜌𝑟𝑟 𝑑𝑑𝑑𝑑 + 𝑦𝑦𝑖𝑖 𝜌𝜌𝜌𝜌 − 𝜌𝜌𝑟𝑟̇ 𝑟𝑟 �       𝑖𝑖   𝑖𝑖 �      � 𝜔𝜔̇ 𝑖𝑖 𝑟𝑟 2 𝑑𝑑𝑑𝑑
+       𝜕𝜕𝑡𝑡              1 3
+𝑟𝑟−                         𝑟𝑟           𝑟𝑟−                                     𝑟𝑟−               𝑟𝑟−  𝑟𝑟−                                                                                        yi = Mass fraction
+                         3 �𝑟𝑟−
+                                                                                                                                                                                                   ρ = Mass density
+ Energy Conservation Equation                                                                                                                                                                      ṙ = Radius
+                                                                            𝑟𝑟
+                                                                                                                                                                                                   U = Bulk fluid velocity
+                                              𝑟𝑟+
+                                                 𝜕𝜕(ℎ𝜌𝜌) 2         𝑟𝑟 2𝑟𝑟̇ |𝑟𝑟+− 𝑟𝑟+    2                        2
+                                                                                                                   𝑟𝑟+
+                                                                                                                                                                                                   Vi = Diffusion velocity,
+                                        �                𝑟𝑟 𝑑𝑑𝑑𝑑 +           𝑟𝑟+ � ℎ𝜌𝜌𝑟𝑟 𝑑𝑑𝑑𝑑 + ℎ 𝜌𝜌𝜌𝜌 − 𝜌𝜌𝑟𝑟̇ 𝑟𝑟 �
+                                             𝑟𝑟−    𝜕𝜕𝑡𝑡           1                                               𝑟𝑟−                                                                             ωi = Rate of species production due to chemical reaction
+                                                                      𝑟𝑟 3 � 𝑟𝑟−
+                                                                   3 𝑟𝑟
+                                                             𝑟𝑟+
+                                                                                         −                                                                                                         h = Enthalpy per unit mass
+                                        = −𝑞𝑞𝑟𝑟 2 �                + 𝑆𝑆𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑜𝑜𝑜𝑜 𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔−𝑡𝑡𝑡𝑡𝑡𝑡𝑡−𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓                                                                                   q = Heat flux
+Conservation of Mass Fraction
+                          𝑟𝑟−                                                                              Diffusive Heat Flux Equation                                                            Sloss/gain due to fiber = Loss and gain due to the presence of the
+     � yi = 1                                                                                                  𝑞𝑞𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑 =       � ℎ𝑖𝑖 𝜌𝜌𝑦𝑦𝑖𝑖 𝑉𝑉𝑖𝑖 − 𝜆𝜆𝛻𝛻𝑇𝑇𝑔𝑔 − 𝑝𝑝 � 𝜃𝜃𝑖𝑖 𝒅𝒅𝑖𝑖                    tether fiber
+      ∀i                                                                                                                      𝑖𝑖 𝜖𝜖 𝑆𝑆,𝑔𝑔𝑔𝑔𝑔𝑔                               𝑖𝑖 𝜖𝜖 𝑆𝑆,𝑔𝑔𝑔𝑔𝑔𝑔        k = Thermal conductivity
+                                                                                                              𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻, 𝜃𝜃𝑖𝑖 = 𝐷𝐷𝑖𝑖𝑖𝑖 𝜒𝜒𝑗𝑗
+                                                                                                                                                                                                   Tg = Gas temperature,
+Radiative Heat Flux Equation                                                                                                                                                                       θi = Thermal diffusion coefficient
+                         ∞                                                                                                                                                                         θi = DijXj
+ 𝛻𝛻 . 𝑞𝑞⃗𝑟𝑟𝑟𝑟𝑟𝑟 = � 𝑎𝑎(𝜂𝜂, ⃗𝑟𝑟) 4𝜋𝜋𝐼𝐼𝑏𝑏 𝜂𝜂, 𝑟𝑟⃗ − � 𝐼𝐼 𝜂𝜂, ⃗𝑟𝑟, 𝜔𝜔 𝑑𝑑𝑑𝑑 𝑑𝑑𝑑𝑑                                                                                                                       di = Thermodynamic driving force
+                       0                                                    4𝜋𝜋
+Fiber Model
+                                                                                                                                                                                                   hvap,i = Enthalpy of vaporization
+𝜕𝜕 𝜌𝜌𝑓𝑓 𝐶𝐶𝑝𝑝,𝑓𝑓 𝑇𝑇𝑓𝑓
+                     =
+                        𝜕𝜕
+                            𝑘𝑘𝑓𝑓
+                                 𝜕𝜕𝑇𝑇𝑓𝑓
+                                        +
+                                          4ℎ𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐,𝑗𝑗
+                                                        𝑇𝑇 − 𝑇𝑇𝑓𝑓 −
+                                                                     4𝜎𝜎𝜀𝜀𝑓𝑓
+                                                                                 𝑇𝑇 4 − 𝑇𝑇∞4
+                                                                                                                                                                                                   p = System pressure,
+        𝜕𝜕𝜕𝜕           𝜕𝜕𝜕𝜕       𝜕𝜕𝜕𝜕     𝑑𝑑𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓             𝑑𝑑𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓 𝑓𝑓                                                                                                                xi = Mole fraction,
+                                                     𝑟𝑟+
+                                                                                                                                                                                         4 3       γi = Activity coefficient
+                                                           4ℎ∞ 𝑛𝑛𝑓𝑓                𝐴𝐴𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓 𝐼𝐼𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓                                         2
+                                                                                                                                 𝐴𝐴𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓 = 𝜋𝜋𝑟𝑟𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓 𝑉𝑉𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙/𝑔𝑔𝑔𝑔𝑔𝑔 =    𝜋𝜋𝑟𝑟
+𝑆𝑆𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿 𝑜𝑜𝑜𝑜 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝑡𝑡𝑡𝑡𝑡𝑡𝑡 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓 =       �               𝑇𝑇 − 𝑇𝑇𝑓𝑓 𝑟𝑟 2                           𝑑𝑑𝑑𝑑                                                                        3 𝑙𝑙/𝑔𝑔   pvap,i = Vapor pressure of the i-th component
+                                                             𝑑𝑑𝑓𝑓                   𝑉𝑉𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙/𝑔𝑔𝑔𝑔𝑔𝑔
+                                                    𝑟𝑟−                                                                                                                                            ‘+’ and ‘-’ denote location in the gas and liquid phase
+
+
+
+
+                                                                                                                                                                                                                                                          18
+Supplementary Slide # Governing Equations
+
+
+
+  The complete set of coupled partial differential and algebraic equations are
+   discretized first in space and then integrated in an automated fashion as a set
+   of coupled ordinary differential-algebraic equations in time.
+
+  Spatial discretization is performed according to a node-centered finite
+   volume scheme with a second order accuracy.
+
+  The innermost liquid node is centered at the origin, providing the required
+   no-flux condition.
+
+  The discretized mass flux is represented on cell interfaces and not cell
+   centers, in the manner traditionally referred to as a staggered grid to avoid
+   oscillatory solutions.
+
+  Numerical integration of the final set of discretized equations is performed
+   using a backward difference formula with a variable order of up to fifth order
+   and a variable time step utilizing a fully implicit multipoint interpolation.
+                                                                            19
+

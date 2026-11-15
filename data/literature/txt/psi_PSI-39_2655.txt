@@ -1,0 +1,81 @@
+                                                                                                                     600
+
+                      14                                                                                             550
+
+                      12
+
+
+
+
+                                                                                                                                                      Cool Flame Peak Grayscale
+                                                                                                                     500
+
+                      10
+
+
+    Df, cool ( mm )
+                                                                                                                     450
+
+                       8
+                                                                                                                     400
+                       6
+                                                                                                                     350
+                       4
+                                                                                                                     300
+                       2
+                                                                                                                     250
+                                                                                                                     30                                                           3
+                                                                                  Tue, Mar 21, 2017
+                                                                                  FLEX-1211
+                      1.0                                                         F080A01                                                                                         2
+                                                                                  P = 769.992 mmHg
+                                                                                  YO2 = 0.210
+                                                                                  YN2 = 0.790                        25
+                                                                                  Dodecane                                                                                            10
+                                                                                  D0 = 4.268 mm                                                                                   9
+                                                                                                                                                                                  8
+                      0.8                                                         Dext = 3.934 mm                                                                                 7
+                                                                                                  2                                                                               6
+                                                                                  kavg = 0.339 mm /sec               20
+                                                                                                       2                                                                          5
+                                                                                  kavg, cool = 0.398 mm /sec
+
+
+
+
+                                                                                                                                                                                           Flame Radiance ( W )
+                                                                                                                           Df, hot ( mm ) , Df / Dd
+                                                                                                                                                                                  4
+                                                                                  Dext, cool ~ 0.380 mm
+2
+                      0.6                                                                                                                                                         3
+
+
+( D / D0 )
+                                                                                                                     15
+                                                                                                                                                                                  2
+
+
+
+
+                      0.4
+                                                                                                                     10                                                               1
+                                                                                                                                                                                  9
+                                                                                                                                                                                  8
+                                        Droplet History                                                                                                                           7
+                                        Hot Flame Diameter                                                                                                                        6
+
+                      0.2               Hot Flame FSR                                                                                                                             5
+                                        Flame Radiance (wideband)                                                    5
+                                                                                                                                                                                  4
+                                        Water Vapor Radiance (narrowband)
+                                        Cool Flame Diameter (FWHM)                                                                                                                3
+                                        Cool Flame Diameter (Peak-Peak)
+                                        Peak Cool Flame Grayscale
+                      0.0                                                                                            0                                                            2
+
+
+                            0.0   0.5         1.0               1.5         2.0         2.5                    3.0
+                                                            2         2
+                                                       t / D0 ( s / mm )
+

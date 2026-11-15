@@ -1,0 +1,205 @@
+Test 19171D1 – successful ignition, run with useBracketedExposuress=FALSE,
+fiberIgnitionPosition=fiberTestPosition=0, fiberMoveDuringTest=FALSE,
+nitrogenIgnitionFlowRateN2Slpm=nitrogenTestRateN2Slpm=0
+Use HiBMs camera = Yes, HiBMs illumination = 65, analog camera gain = 12 dB
+
+
+
+
+After test, 880 on lowest valve safety timer, 1224 psia in oxidizer bottle
+
+
+
+
+                                         1
+Test 19171D2 – successful ignition, run with useBracketedExposuress=TRUE,
+bracketingNumberOfExposures=2, bracketingExposureStartUsec=60000,
+bracketingExposureMultiplierTimes100=200, igniterIgnitionPosition=2250,
+fiberIgnitionPosition=fiberTestPosition=0, fiberMoveDuringTest=FALSE,
+nitrogenIgnitionFlowRateN2Slpm=nitrogenTestRateN2Slpm=0
+Use HiBMs camera = Yes, HiBMs illumination = 65, analog camera gain = 12 dB
+igniter/off retract upon ignition detection = 50 ms
+
+
+
+
+After test, 791 on lowest valve safety timer, 1298 psia in oxidizer bottle
+
+
+                                         2
+Test 19171D3 – successful ignition, run with useBracketedExposuress=FALSE,
+bracketingNumberOfExposures=2, bracketingExposureStartUsec=60000,
+bracketingExposureMultiplierTimes100=200, igniterIgnitionPosition=2250,
+fiberIgnitionPosition=fiberTestPosition=0, fiberMoveDuringTest=FALSE,
+nitrogenIgnitionFlowRateN2Slpm=nitrogenTestRateN2Slpm=0,
+constantFlowTimeSec=30
+Use HiBMs camera = Yes, HiBMs illumination = 65, dataCamera Iris=72500,
+analog camera gain = 12 dB, igniter/off retract upon ignition detection = 50 ms
+
+
+
+
+After test, 742 on lowest valve safety timer, 1300 psia in oxidizer bottle
+
+                                         3
+Test 19171D4 – run with useBracketedExposuress=TRUE,
+bracketingNumberOfExposures=4, bracketingExposureStartUsec=50000,
+bracketingExposureMultiplierTimes100=280, igniterIgnitionPosition=2250,
+fiberIgnitionPosition=11000, fiberTestPosition=15100,
+fiberMoveDuringTest=TRUE, fiberSegmentDistance=600, fiberVelocity=500,
+stabilizationTime2Sec=25, nitrogenIgnitionFlowRateN2Slpm=0,
+nitrogenTestRateN2Slpm=0, constantFlowTimeSec=120
+Use HiBMs camera = Yes, HiBMs illumination = 65, dataCamera Gain=0 dB,
+dataCamera Focus=9525, dataCamera Iris=0, analog camera gain = 12 dB,
+dataCamera Gain=0, igniter/off retract upon ignition detection = 50 ms
+
+
+
+
+After test, 660 on lowest valve safety timer, 1300 psia in oxidizer bottle
+                                         4
+Test 19171D5 – successful ignition, run just like D1 neglecting chamber vitiation
+(although some inactive parameters differed), where D5 flame lasted for ~58 s,
+while D1 lasted ~100 s while D2-D4 lasted ~60 s,
+run with useBracketedExposures=FALSE (but bracketingNumberOfExposures=4,
+bracketingExposureStartUsec=50000,
+bracketingExposureMultiplierTimes100=280), igniterIgnitionPosition=2260,
+fiberIgnitionPosition=fiberTestPosition=0, fiberMoveDuringTest=FALSE (but
+fiberSegmentDistance=600, fiberVelocity=500), stabilizationTime2Sec=0,
+nitrogenIgnitionFlowRateN2Slpm=nitrogenTestRateN2Slpm=0,
+constantFlowTimeSec=120
+Use HiBMs camera = Yes, HiBMs illumination = 65, dataCamera Gain=0 dB,
+dataCamera Focus=10025, dataCamera Zoom=45000, dataCamera Iris=0,
+analog camera gain = 12 dB, igniter/off retract upon ignition detection = 500 ms
+
+
+
+
+After test, 582 on lowest valve safety timer, 1300 psia in oxidizer bottle
+                                         5
+Test 19171S1 – successful ignition, a variant of the D flames, run with
+useBracketedExposures=TRUE, bracketingNumberOfExposures=4,
+bracketingExposureStartUsec=50000,
+bracketingExposureMultiplierTimes100=280, igniterIgnitionPosition=2280,
+fiberIgnitionPosition=11000, fiberTestPosition=15100,
+fiberMoveDuringTest=TRUE, fiberSegmentDistance=600, fiberVelocity=500
+fuelFlowIgnitionDeltaMs=1000, fuelBottleIgnitionFlowRateN2Slpm=0.078,
+nitrogenIgnitionFlowRateN2Slpm=0.117, fuelBottleTestFlowRateN2Slpm=0.078,
+nitrogenIgnitionTestRateN2Slpm=0.117, constantFlowTimeSec=40,
+useRampFlowToZero=TRUE
+Use HiBMs camera = Yes, HiBMs illumination = 65, dataCamera Gain=0 dB,
+dataCamera Focus=13250, dataCamera Zoom=30000, dataCamera Iris=0,
+analog camera gain = 21 dB, igniter/off retract upon ignition detection = 500 ms
+
+
+
+
+After test, 494__ on lowest valve safety timer, _1301_ psia in oxidizer bottle
+                                        6
+Test 19171B1 – successful ignition, but ASYMMETRIC FLAME with its higher
+flow, run with fiberTestPostition=15100, fiberSegmentDistance=600,
+fiberVelocity=500, fuelBottleIgnitionFlowRateN2Slpm=0.117,
+nitrogenIgnitionFlowRateN2Slpm=0.176, fuelBottleTestFlowRateN2Slpm=0.117,
+nitrogenIgnitionTestRateN2Slpm=0.9, useRampFlowToZero=TRUE
+Use HiBMs camera = Yes, HiBMs illumination = 65, dataCamera Gain=0,
+dataCamera Focus=12200, dataCamera Zoom=35000
+analog camera gain = 21 dB, igniter/off retract upon ignition detection = 500 ms
+
+
+
+
+After test, 398 on lowest valve safety timer, 1301 psia in oxidizer bottle
+
+                                         7
+Test 19171B2 – ABORTED PRIOR TO GAS FLOW, possibly due to IPSU-G issue,
+run with bracketingExposureStartUsec=30000, fiberTestPostition=15100,
+fiberSegmentDistance=600, fiberVelocity=500,
+fuelBottleIgnitionFlowRateN2Slpm=0.104,
+nitrogenIgnitionFlowRateN2Slpm=0.243, fuelBottleTestFlowRateN2Slpm=0.104,
+nitrogenIgnitionTestRateN2Slpm=0.991, useRampFlowToZero=TRUE
+Use HiBMs camera = Yes, HiBMs illumination = 65, dataCamera Gain=0,
+dataCamera Focus=12200, dataCamera Zoom=35000
+analog camera gain = 21 dB, igniter/off retract upon ignition detection = 500 ms
+
+After test, 398 on lowest valve safety timer, 1301 psia in oxidizer bottle
+
+
+
+
+                                         8
+Test 19171B3 – successful ignition, same conditions as the aborted B2, run with
+bracketingExposureStartUsec=30000, fiberTestPostition=15100,
+fiberSegmentDistance=600, fiberVelocity=500,
+fuelBottleIgnitionFlowRateN2Slpm=0.104,
+nitrogenIgnitionFlowRateN2Slpm=0.243, fuelBottleTestFlowRateN2Slpm=0.104,
+nitrogenIgnitionTestRateN2Slpm=0.991, useRampFlowToZero=TRUE
+Use HiBMs camera = Yes, HiBMs illumination = 65, dataCamera Gain=0,
+dataCamera Focus=12200, dataCamera Zoom=35000
+analog camera gain = 21 dB, igniter/off retract upon ignition detection = 500 ms
+
+
+
+
+After test, 304 on lowest valve safety timer, 1300 psia in oxidizer bottle
+                                         9
+Test 19171J1 – successful ignition, run with useBracketedExposures=FALSE,
+stabilizationTime1Sec=10, stabilizationTime2Sec=0,
+Use HiBMs camera = Yes, HiBMs illumination = 65, dataCamera Gain=0,
+dataCamera Focus=13750, dataCamera Zoom=30000
+analog camera gain = 12 dB, igniter/off retract upon ignition detection = 500 ms
+
+
+
+
+After test, 223 on lowest valve safety timer, 1300 psia in oxidizer bottle
+
+
+
+
+                                        10
+Test 19171J2 – successful ignition, run with useBracketedExposures=FALSE,
+stabilizationTime1Sec=0, stabilizationTime2Sec=5, nitrogenTestRateN2Slpm=0,
+ignitionToTestRampTimeSec=0, constantFlowTimeSec=30
+Use HiBMs camera = Yes, HiBMs illumination = 65, dataCamera Gain=0,
+dataCamera Focus=13750, dataCamera Zoom=30000
+analog camera gain = 12 dB, igniter/off retract upon ignition detection = 500 ms
+
+
+
+
+After test, 172 on lowest valve safety timer, 1300 psia in oxidizer bottle
+
+
+
+                                        11
+Test 19171J3 – successful ignition, run with useBracketedExposures=FALSE,
+stabilizationTime1Sec=5, stabilizationTime2Sec=0,
+nitrogenIgnitionRateN2Slpm=0.083, nitrogenTestRateN2Slpm=0.332,
+ignitionToTestRampTimeSec=30, constantFlowTimeSec=5
+Use HiBMs camera = Yes, HiBMs illumination = 65, dataCamera Gain=0,
+dataCamera Focus=13750, dataCamera Zoom=30000
+analog camera gain = 12 dB, igniter/off retract upon ignition detection = 500 ms
+
+
+
+
+After test, 117 on lowest valve safety timer, 1301 psia in oxidizer bottle
+
+
+                                        12
+Test 19171J4 – run with useBracketedExposures=FALSE,
+stabilizationTime1Sec=20, stabilizationTime2Sec=0,
+nitrogenIgnitionRateN2Slpm=0.083, nitrogenTestRateN2Slpm=0.332,
+ignitionToTestRampTimeSec=40, constantFlowTimeSec=2
+Use HiBMs camera = Yes, HiBMs illumination = 65, dataCamera Gain=0,
+dataCamera Focus=13750, dataCamera Zoom=30000
+analog camera gain = 12 dB, igniter/off retract upon ignition detection = 500 ms
+
+
+
+
+After test, 40 on lowest valve safety timer, 1301 psia in oxidizer bottle
+
+
+                                        13
+

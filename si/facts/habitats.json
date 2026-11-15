@@ -1,0 +1,252 @@
+{
+ "spacecraft": {
+  "label": "Spacecraft cabin",
+  "facts": [
+   {
+    "id": "H1",
+    "text": "Design atmosphere: 21% O2 at 14.7 psia and 0.0 g.",
+    "src": "challenge brief / meta.json"
+   },
+   {
+    "id": "H2",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "H3",
+    "text": "In the 26-40% O2, 7-10.6 psia exploration band PSI holds 84 conditions, 0 of them solid-material flames.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "H4",
+    "text": "Top-ranked investigations for this habitat: ACME BRE (91/100), FLEX (82/100).",
+    "src": "investigations.json habitat scores"
+   },
+   {
+    "id": "H5",
+    "text": "Closest condition measured in orbit: FLEX at 21.0% O2 and 14.7 psia.",
+    "src": "PSI-69_Experimental_table_FLEX.csv line 5"
+   },
+   {
+    "id": "H6",
+    "text": "Oxygen margin of safety (NASA Eq. 1) for thin materials: mean -2.62 points, largest loss -3.9 points (Mylar).",
+    "src": "literature.json, NASA/TM-2008-215260"
+   },
+   {
+    "id": "H7",
+    "text": "A thin material rated at 1 g between 21.0% and 24.9% O2 passes the 1-g test for this air but could burn in reduced gravity at the largest loss measured.",
+    "src": "derived from H1 and H6"
+   },
+   {
+    "id": "H8",
+    "text": "The verified literature holds 153 records within 4 points of 21% O2 and 12 records at partial gravity, 8 of them from LUCI at 0.167 g.",
+    "src": "literature.json"
+   },
+   {
+    "id": "H9",
+    "text": "PSI holds no partial-gravity combustion data.",
+    "src": "challenge brief"
+   }
+  ]
+ },
+ "iss": {
+  "label": "ISS",
+  "facts": [
+   {
+    "id": "H1",
+    "text": "Design atmosphere: 21% O2 at 14.7 psia and 0.0 g.",
+    "src": "challenge brief / meta.json"
+   },
+   {
+    "id": "H2",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "H3",
+    "text": "In the 26-40% O2, 7-10.6 psia exploration band PSI holds 84 conditions, 0 of them solid-material flames.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "H4",
+    "text": "Top-ranked investigations for this habitat: ACME BRE (91/100), FLEX (82/100).",
+    "src": "investigations.json habitat scores"
+   },
+   {
+    "id": "H5",
+    "text": "Closest condition measured in orbit: FLEX at 21.0% O2 and 14.7 psia.",
+    "src": "PSI-69_Experimental_table_FLEX.csv line 5"
+   },
+   {
+    "id": "H6",
+    "text": "Oxygen margin of safety (NASA Eq. 1) for thin materials: mean -2.62 points, largest loss -3.9 points (Mylar).",
+    "src": "literature.json, NASA/TM-2008-215260"
+   },
+   {
+    "id": "H7",
+    "text": "A thin material rated at 1 g between 21.0% and 24.9% O2 passes the 1-g test for this air but could burn in reduced gravity at the largest loss measured.",
+    "src": "derived from H1 and H6"
+   },
+   {
+    "id": "H8",
+    "text": "The verified literature holds 153 records within 4 points of 21% O2 and 12 records at partial gravity, 8 of them from LUCI at 0.167 g.",
+    "src": "literature.json"
+   },
+   {
+    "id": "H9",
+    "text": "PSI holds no partial-gravity combustion data.",
+    "src": "challenge brief"
+   }
+  ]
+ },
+ "lunar": {
+  "label": "Lunar base",
+  "facts": [
+   {
+    "id": "H1",
+    "text": "Design atmosphere: 30% O2 at 10.2 psia and 0.166 g.",
+    "src": "challenge brief / meta.json"
+   },
+   {
+    "id": "H2",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "H3",
+    "text": "In the 26-40% O2, 7-10.6 psia exploration band PSI holds 84 conditions, 0 of them solid-material flames.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "H4",
+    "text": "Top-ranked investigations for this habitat: ACME BRE (80/100), FLEX (77/100).",
+    "src": "investigations.json habitat scores"
+   },
+   {
+    "id": "H5",
+    "text": "Closest condition measured in orbit: FLEX at 30.0% O2 and 10.3 psia.",
+    "src": "PSI-69_Experimental_table_FLEX.csv line 42"
+   },
+   {
+    "id": "H6",
+    "text": "Oxygen margin of safety (NASA Eq. 1) for thin materials: mean -2.62 points, largest loss -3.9 points (Mylar).",
+    "src": "literature.json, NASA/TM-2008-215260"
+   },
+   {
+    "id": "H7",
+    "text": "A thin material rated at 1 g between 30.0% and 33.9% O2 passes the 1-g test for this air but could burn in reduced gravity at the largest loss measured.",
+    "src": "derived from H1 and H6"
+   },
+   {
+    "id": "H8",
+    "text": "The verified literature holds 21 records within 4 points of 30% O2 and 12 records at partial gravity, 8 of them from LUCI at 0.167 g.",
+    "src": "literature.json"
+   },
+   {
+    "id": "H9",
+    "text": "PSI holds no partial-gravity combustion data.",
+    "src": "challenge brief"
+   }
+  ]
+ },
+ "mars": {
+  "label": "Mars base",
+  "facts": [
+   {
+    "id": "H1",
+    "text": "Design atmosphere: 30% O2 at 10.2 psia and 0.38 g.",
+    "src": "challenge brief / meta.json"
+   },
+   {
+    "id": "H2",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "H3",
+    "text": "In the 26-40% O2, 7-10.6 psia exploration band PSI holds 84 conditions, 0 of them solid-material flames.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "H4",
+    "text": "Top-ranked investigations for this habitat: ACME BRE (80/100), FLEX (77/100).",
+    "src": "investigations.json habitat scores"
+   },
+   {
+    "id": "H5",
+    "text": "Closest condition measured in orbit: FLEX at 30.0% O2 and 10.3 psia.",
+    "src": "PSI-69_Experimental_table_FLEX.csv line 42"
+   },
+   {
+    "id": "H6",
+    "text": "Oxygen margin of safety (NASA Eq. 1) for thin materials: mean -2.62 points, largest loss -3.9 points (Mylar).",
+    "src": "literature.json, NASA/TM-2008-215260"
+   },
+   {
+    "id": "H7",
+    "text": "A thin material rated at 1 g between 30.0% and 33.9% O2 passes the 1-g test for this air but could burn in reduced gravity at the largest loss measured.",
+    "src": "derived from H1 and H6"
+   },
+   {
+    "id": "H8",
+    "text": "The verified literature holds 21 records within 4 points of 30% O2 and 12 records at partial gravity, 8 of them from LUCI at 0.167 g.",
+    "src": "literature.json"
+   },
+   {
+    "id": "H9",
+    "text": "PSI holds no partial-gravity combustion data.",
+    "src": "challenge brief"
+   }
+  ]
+ },
+ "rover": {
+  "label": "Pressurized rover",
+  "facts": [
+   {
+    "id": "H1",
+    "text": "Design atmosphere: 34% O2 at 8.2 psia and 0.166 g.",
+    "src": "challenge brief / meta.json"
+   },
+   {
+    "id": "H2",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "H3",
+    "text": "In the 26-40% O2, 7-10.6 psia exploration band PSI holds 84 conditions, 0 of them solid-material flames.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "H4",
+    "text": "Top-ranked investigations for this habitat: ACME BRE (87/100), FLEX (69/100).",
+    "src": "investigations.json habitat scores"
+   },
+   {
+    "id": "H5",
+    "text": "Closest condition measured in orbit: ACME CFI-G at 34.1% O2 and 7.3 psia.",
+    "src": "PSI-159_Experimental_table_CFI-G_Normal_Flames.csv line 129"
+   },
+   {
+    "id": "H6",
+    "text": "Oxygen margin of safety (NASA Eq. 1) for thin materials: mean -2.62 points, largest loss -3.9 points (Mylar).",
+    "src": "literature.json, NASA/TM-2008-215260"
+   },
+   {
+    "id": "H7",
+    "text": "A thin material rated at 1 g between 34.0% and 37.9% O2 passes the 1-g test for this air but could burn in reduced gravity at the largest loss measured.",
+    "src": "derived from H1 and H6"
+   },
+   {
+    "id": "H8",
+    "text": "The verified literature holds 30 records within 4 points of 34% O2 and 12 records at partial gravity, 8 of them from LUCI at 0.167 g.",
+    "src": "literature.json"
+   },
+   {
+    "id": "H9",
+    "text": "PSI holds no partial-gravity combustion data.",
+    "src": "challenge brief"
+   }
+  ]
+ }
+}

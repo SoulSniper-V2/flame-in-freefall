@@ -1,0 +1,1257 @@
+{
+ "PSI-20": {
+  "label": "ACME BRE",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "ACME BRE (PSI-20): Advanced Combustion via Microgravity Experiments - Burning Rate Emulator; platform International Space Station (ISS); 01-01-2010 to 02-08-2025.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: BRE used a gas burner to mimic burning solids under the exact atmospheres planned for exploration (up to 34-40% O2 at reduced pressure). Key result: turning off ventilation - a standard step in fighting spacecraft fires - may not put fires out at elevated oxygen.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: C2H4/N2, CH4/N2 mixtures; oxygen: 21-40% (PSI table); pressure: Targeted 14.7, 10.2 and 8.2 psia exploration atmospheres (objective); table pressures not listed; flow: Quiescent (no ventilation).",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "3 tabulated conditions with O2, O2 from 21.0% to 34.0%.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 88/100; prevention 10/10, detection 3/10, suppression 9/10, modeling 8/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 91/100; lunar base 80/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "0 verified literature records name ACME BRE.",
+    "src": "literature.json"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-26": {
+  "label": "BASS",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "BASS (PSI-26): Burning and Suppression of Solids; platform International Space Station (ISS); 10-01-2009 to 06-30-2013.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: BASS burned real spacecraft-type materials (cotton/fiberglass fabric, Nomex, PMMA shapes) in a small wind tunnel on ISS, varying airflow up to 40 cm/s, and tried putting flames out with nitrogen. It asks whether NASA's 1-g upward-burn screening test is really worst-case for space.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: SIBAL (75% cotton / 25% fiberglass) fabric, Nomex blend, Ultem sheet, PMMA spheres, cylinders, slabs, Paraffin & Japan-wax candles/slabs; oxygen: unknown (not tabulated in PSI table); pressure: unknown (ISS glovebox ambient; value not tabulated); flow: Up to 40 cm/s, opposed or concurrent (approach text).",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 80/100; prevention 9/10, detection 3/10, suppression 8/10, modeling 8/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 71/100; lunar base 68/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "20 verified literature records name BASS.",
+    "src": "literature.json"
+   },
+   {
+    "id": "L1",
+    "text": "flame spread rate 2.55 mm/s for SIBAL cotton-fiberglass fabric at gravity 0 (measured); quote: \"Concurrent and Opposed Spread at ~ 10 cm/s 2.55 mm/s versus 1.21 mm/s\"",
+    "src": "NTRS 20130012832"
+   },
+   {
+    "id": "L2",
+    "text": "flame spread rate 1.21 mm/s for SIBAL cotton-fiberglass fabric at gravity 0 (measured); quote: \"Concurrent and Opposed Spread at ~ 10 cm/s 2.55 mm/s versus 1.21 mm/s\"",
+    "src": "NTRS 20130012832"
+   },
+   {
+    "id": "L3",
+    "text": "extinction flow 1 cm/s for SIBAL cotton-fiberglass fabric at gravity 0 (measured); quote: \"by decreasing concurrent flow speed to a very low value (around 1 cm/s), quenching extinction was observed.\"",
+    "src": "NTRS 20130012832"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-25": {
+  "label": "BASS-II",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "BASS-II (PSI-25): Burning and Suppression of Solids - II; platform International Space Station (ISS); 01-01-2010 to 12-31-2022.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: BASS-II extended BASS to thicker, realistic solid fuels and swept oxygen down from ~22% to ~14% while varying airflow, mapping when flames spread or go out. 129 tests are tabulated with measured O2/CO2/CO.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: PMMA films (100-200 micron), slabs, rods, Fabrics, Spherical sections; oxygen: 13.6-22.2% by vol (calibrated initial O2, PSI table); reduced below 21% by N2 vitiation; pressure: unknown (not tabulated); flow: Up to 40 cm/s, opposed and concurrent (approach text).",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "129 tabulated conditions with O2, O2 from 13.6% to 22.2%.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 80/100; prevention 9/10, detection 4/10, suppression 6/10, modeling 9/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 80/100; lunar base 68/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "36 verified literature records name BASS-II.",
+    "src": "literature.json"
+   },
+   {
+    "id": "L1",
+    "text": "extinction o2 16.4 % O2 for PMMA at gravity 0 (measured); quote: \"where flame spread was not observed below 16.4 % O2.\"",
+    "src": "NTRS 20150008961"
+   },
+   {
+    "id": "L2",
+    "text": "extinction o2 16.1 % O2 for PMMA at gravity 0 (measured); quote: \"flame is unable to propagate upstream for the low oxygen levels tested (16.1% O2 and lower).\"",
+    "src": "NTRS 20150008961"
+   },
+   {
+    "id": "L3",
+    "text": "extinction o2 13.3 % O2 for PMMA at gravity 0 (measured); quote: \"Using the y-intercept of the linear fit (13.3 % O2 in the Figure 4 fit, versus the\"",
+    "src": "NTRS 20150008961"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-69": {
+  "label": "FLEX",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "FLEX (PSI-69): Flame Extinguishment Experiment; platform International Space Station (ISS); 08-01-2007 to 07-31-2016.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: FLEX burned ~274 fuel droplets on ISS across oxygen 12-34% and pressures ~0.7-3 atm, mapping the lowest oxygen that sustains burning and how well CO2 and helium suppress flames.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: Methanol, Heptane; oxygen: 12-34% mole fraction (PSI table); pressure: 0.69-3.05 atm (PSI table; approach: 0.5-1.5 atm LOI tests); flow: Quiescent.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "274 tabulated conditions with O2, O2 from 12.0% to 34.0%.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 75/100; prevention 6/10, detection 2/10, suppression 9/10, modeling 9/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 82/100; lunar base 77/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "24 verified literature records name FLEX.",
+    "src": "literature.json"
+   },
+   {
+    "id": "L1",
+    "text": "flammability limit 12 % for methanol at gravity 0.0 (measured); quote: \"limiting oxygen index for methanol in these diluent gases is around 12% to 13% oxygen by volume.\"",
+    "src": "NTRS 20130014061"
+   },
+   {
+    "id": "L2",
+    "text": "flammability limit 13 % for methanol at gravity 0.0 (measured); quote: \"limiting oxygen index for methanol in these diluent gases is around 12% to 13% oxygen by volume.\"",
+    "src": "NTRS 20130014061"
+   },
+   {
+    "id": "L3",
+    "text": "burning rate 0.41 mm2/s for n-decane at gravity 0.0 (measured); quote: \"The burning rate constants K (=dD2 /dt) corresponding to the ﬁrst and second stage combustion were found to be 0.41 and 0.33 mm2 /s respectively. The combustion behavior exhibited in Fig 1a\"",
+    "src": "NTRS 20140006750"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-99": {
+  "label": "Saffire-II",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "Saffire-II (PSI-99): Spacecraft Fire Experiment-II; platform Cygnus Spacecraft; 09-30-2016 to 04-01-2017.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: Saffire-II burned nine different spacecraft materials side-by-side in an empty Cygnus, directly comparing microgravity burn length against 1-g behavior.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: Silicone (0.27-1.03 mm), SIBAL fabric, PMMA (flat & structured), PMMA with Nomex; oxygen: ~21.5-22.1% (derived from CO2 production, PSI table note 1); pressure: unknown (not tabulated); flow: 20 cm/s in table (approach text: 20 or 30 cm/s), concurrent/opposed.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "9 tabulated conditions with O2, O2 from 21.5% to 22.1%.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 74/100; prevention 9/10, detection 5/10, suppression 3/10, modeling 7/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 76/100; lunar base 65/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "22 verified literature records name Saffire-II.",
+    "src": "literature.json"
+   },
+   {
+    "id": "L1",
+    "text": "flame spread rate 2.1 mm/s for cotton-fiberglass (SIBAL) at gravity 0 (measured); quote: \"spread rate for the 40.6-cm-wide sample for the same flow speed of 20 cm/s (2.1\"",
+    "src": "NTRS 20170008805"
+   },
+   {
+    "id": "L2",
+    "text": "flame spread rate 2.6 mm/s for cotton-fiberglass (SIBAL) at gravity 0 (measured); quote: \"2-6 80 W 9.2 s 115 s 29 cm 2.6 mm/s Complete Acceleratory\"",
+    "src": "NTRS 20170008805"
+   },
+   {
+    "id": "L3",
+    "text": "flammability limit 1.03 mm for silicone at gravity 1 (measured); quote: \"The 1.03-mm thickness would not burn at all.\"",
+    "src": "NTRS 20170008805"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-62": {
+  "label": "BASS flame-spread modeling",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "BASS flame-spread modeling (PSI-62): Concurrent Flame Spread Modeling using Flamelet Generated Manifolds in Microgravity with Comparison to BASS Experiments using Two-Color Tomography; platform ; 05-01-2019 to 04-30-2021.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: A modeling grant that turned BASS videos into 3D soot/temperature fields and built a predictive flame-spread model for spacecraft materials.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: PMMA sheets, spheres, rods, Wax cylinders; oxygen: As in BASS/BASS-II; pressure: As in BASS/BASS-II; flow: Concurrent flow.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 74/100; prevention 7/10, detection 2/10, suppression 3/10, modeling 10/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 60/100; lunar base 60/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "0 verified literature records name BASS flame-spread modeling.",
+    "src": "literature.json"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-98": {
+  "label": "Saffire-I",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "Saffire-I (PSI-98): Spacecraft Fire Safety Experiment-I; platform International Space Station (ISS); 03-02-2001 to 02-28-2008.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: Saffire-I lit a meter-long sheet of cotton-fiberglass fabric inside an empty Cygnus cargo ship after it left the ISS, measuring flame growth, heat, O2/CO2 and pressure at realistic spacecraft scale.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: SIBAL cotton-fiberglass fabric; oxygen: ~21.5-21.7% (PSI table); pressure: unknown (Cygnus cabin; not tabulated); flow: 20 cm/s, concurrent and opposed (PSI table).",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "2 tabulated conditions with O2, O2 from 21.5% to 21.5%.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 72/100; prevention 8/10, detection 6/10, suppression 4/10, modeling 8/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 75/100; lunar base 64/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "15 verified literature records name Saffire-I.",
+    "src": "literature.json"
+   },
+   {
+    "id": "L1",
+    "text": "flame length 40 mm for cotton-fiberglass (SIBAL) at gravity 0 (measured); quote: \"For the concurrent flame, the length reaches a plateau value of around 40 mm, while\"",
+    "src": "NTRS 20170008805"
+   },
+   {
+    "id": "L2",
+    "text": "flame length 24 mm for cotton-fiberglass (SIBAL) at gravity 0 (measured); quote: \"the opposed-flow flame is a bit shorter at 24 mm.\"",
+    "src": "NTRS 20170008805"
+   },
+   {
+    "id": "L3",
+    "text": "flame spread rate 1.3 mm/s for cotton-fiberglass (SIBAL) at gravity 0 (measured); quote: \"1-2 182 W 8s 70 s ~ 10 cm 1.3 mm/s ~0 n/a\"",
+    "src": "NTRS 20170008805"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-100": {
+  "label": "Saffire-III",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "Saffire-III (PSI-100): Spacecraft Fire Experiment-III; platform International Space Station (ISS); 04-18-2017 to .",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: Saffire-III repeated the meter-scale fabric fire at a higher airflow (30 cm/s), giving a flow-speed comparison point with Saffire-I.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: SIBAL cotton-fiberglass fabric; oxygen: unknown (not tabulated); pressure: unknown; flow: 30 cm/s, concurrent and opposed (PSI table).",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 70/100; prevention 8/10, detection 6/10, suppression 3/10, modeling 8/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 66/100; lunar base 63/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "6 verified literature records name Saffire-III.",
+    "src": "literature.json"
+   },
+   {
+    "id": "L1",
+    "text": "flame spread rate 2.3 mm/s for cotton-fiberglass (SIBAL) at gravity 0 (measured); quote: \"3-1 182 W 8s 300 s ~ 84 cm 2.3 mm/s Complete Acceleratory\"",
+    "src": "NTRS 20180005168"
+   },
+   {
+    "id": "L2",
+    "text": "ignition time 8 s for cotton-fiberglass (SIBAL) at gravity 0 (measured); quote: \"3-1 182 W 8s 300 s ~ 84 cm 2.3 mm/s Complete Acceleratory\"",
+    "src": "NTRS 20180005168"
+   },
+   {
+    "id": "L3",
+    "text": "flame spread rate 0.98 mm/s for cotton-fiberglass (SIBAL) at gravity 0 (measured); quote: \"3-2 182 W 8s 60 s ~ 10 cm 0.98 mm/s ~0 n/a\"",
+    "src": "NTRS 20180005168"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-68": {
+  "label": "FLEX-2",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "FLEX-2 (PSI-68): Flame Extinguishment Experiment - 2; platform International Space Station (ISS); 08-12-2016 to 09-30-2019.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: FLEX-2 extended FLEX to real-fuel surrogates and mixtures, with slow forced flow and droplet arrays, across 17-30% O2 and 0.5-3 atm.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: Iso-octane, n-octane, Heptane, Decane, Ethanol, Propanol/glycerol mixtures, Heptane/iso-octane; oxygen: 0.17-0.30 mole fraction in table (approach: 0.1-0.4); pressure: 0.5-3.0 atm; flow: 0.1-5 cm/s (droplet translation).",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "20 tabulated conditions with O2, O2 from 17.0% to 30.0%.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 69/100; prevention 5/10, detection 2/10, suppression 6/10, modeling 9/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 78/100; lunar base 63/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "0 verified literature records name FLEX-2.",
+    "src": "literature.json"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-102": {
+  "label": "SAME",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "SAME (PSI-102): Smoke and Aerosol Measurement Experiment; platform International Space Station (ISS); 03-02-2001 to 02-28-2008.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: SAME overheated common spacecraft materials on ISS to make smoke and measured particle sizes and how real smoke detectors responded - the core dataset for spacecraft smoke detection.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: Teflon, Kapton, Silicone rubber, Dibutyl phthalate (DBP), Lampwick (cellulose); oxygen: unknown; pressure: unknown; flow: 5-10 cm/s air flow (PSI table).",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 67/100; prevention 3/10, detection 10/10, suppression 1/10, modeling 6/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 63/100; lunar base 60/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "11 verified literature records name SAME.",
+    "src": "literature.json"
+   },
+   {
+    "id": "L1",
+    "text": "smoke particle size 0.047 µm for Kapton at gravity 0.0 (measured); quote: \"Unaged 0.047 0.062 0.106 2.072\"",
+    "src": "NTRS psi_PSI-101_1"
+   },
+   {
+    "id": "L2",
+    "text": "smoke particle size 0.102 µm for Kapton at gravity 0.0 (measured); quote: \"Aged 720 s 0.102 0.121 0.169 1.790\"",
+    "src": "NTRS psi_PSI-101_1"
+   },
+   {
+    "id": "L3",
+    "text": "smoke particle size 0.103 µm for Lamp wick at gravity 0.0 (measured); quote: \"Unaged 0.103 0.142 0.271 2.232\"",
+    "src": "NTRS psi_PSI-101_1"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-101": {
+  "label": "SAME-R",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "SAME-R (PSI-101): Smoke Aerosol Measurement Experiment-Reflight; platform International Space Station (ISS); 07-01-2010 to 09-30-2010.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: SAME-R re-flew SAME with new materials, hotter heating and a new instrument to fix contamination problems and broaden smoke-detection data.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: Kapton, Teflon, Silicone, Pyrell (intumescent foam), Lampwick; oxygen: unknown; pressure: unknown; flow: 1-8.1 cm/s inlet velocity (PSI table); also no-flow heating.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 67/100; prevention 3/10, detection 10/10, suppression 1/10, modeling 6/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 63/100; lunar base 60/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "0 verified literature records name SAME-R.",
+    "src": "literature.json"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-10": {
+  "label": "ACME Flame Design",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "ACME Flame Design (PSI-10): Advanced Combustion via Microgravity Experiments / Flame Design; platform International Space Station (ISS); 01-14-1999 to 04-30-2025.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: Flame Design mapped when flames make soot and when they go out over a very wide oxygen (20-85%) and pressure (0.4-3 atm) range - over 320 tabulated tests.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: Ethylene (C2H4), Methane (CH4), N2/CO2 diluents; oxygen: 19.8-85% (XO2 in PSI tables); pressure: 0.43-3.0 atm (PSI tables); flow: Quiescent spherical flames (fuel/oxidizer flow rate varied).",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "316 tabulated conditions with O2, O2 from 19.8% to 85.0%.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 64/100; prevention 5/10, detection 4/10, suppression 5/10, modeling 8/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 73/100; lunar base 58/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "2 verified literature records name ACME Flame Design.",
+    "src": "literature.json"
+   },
+   {
+    "id": "L1",
+    "text": "other 870 s for ethylene at gravity 0 (measured); quote: \"flames that exhibit steady-state behavior are observed aboard the International Space Station (ISS) for up to 870 seconds\"",
+    "src": "NTRS psi_PSI-10_3"
+   },
+   {
+    "id": "L2",
+    "text": "other 1000 K for ethylene at gravity 0 (model); quote: \"flames that continue burning with peak temperatures as low as 1000 K are observed\"",
+    "src": "NTRS psi_PSI-10_3"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-159": {
+  "label": "ACME CFI-G",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "ACME CFI-G (PSI-159): Advanced Combustion via Microgravity Experiments / Cool Flames Investigation with Gases; platform International Space Station (ISS);  to .",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: CFI-G created 'cool flames' (500-1000 K) of gaseous fuels across 12-85% O2, showing flames that are hard to see can still be burning and can jump back to hot flames.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: Ethane, Propane, n-butane, n-pentane; oxygen: 12-85% (PSI tables); pressure: 0.49-3.27 atm (PSI tables, bar converted); flow: Quiescent.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "333 tabulated conditions with O2, O2 from 12.0% to 85.0%.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 64/100; prevention 5/10, detection 5/10, suppression 4/10, modeling 8/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 73/100; lunar base 60/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "25 verified literature records name ACME CFI-G.",
+    "src": "literature.json"
+   },
+   {
+    "id": "L1",
+    "text": "flammability limit 0.317 slpm for ethane at gravity 0 (measured); quote: \"Test 21162F1 (test 12 of 13) – no apparent ignition, run with igniterPreheatPowerV=2.8, igniterPreheatDurationMs=10000, igniterIgnitionPowerV=3, igniterIgnitionDurationMs=10000, igniterDelayBeforeRetractMs=8200, fiberTes\"",
+    "src": "NTRS psi_PSI-159_1368"
+   },
+   {
+    "id": "L2",
+    "text": "extinction flow 0.051 slpm for ethane at gravity 0 (measured); quote: \"Test 21216A5 (test 5 of 13) – unsustained ignition (with flashes only), 25%-flow variant of A1 (and 50%-flow variant of A4, etc.), run with oxidizerFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=oxidizerTestFlow1Slpm=0.\"",
+    "src": "NTRS psi_PSI-159_1959"
+   },
+   {
+    "id": "L3",
+    "text": "flammability limit 0.078 slpm for n-butane (C4H10) at gravity None (measured); quote: \"Test 21125A5 (test 5 of 24) – no apparent ignition, repeat of A3 without changes, run with fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.078, nitrogenIgnitionFlowSlpm=0.422, fuelTestFlow1Slpm=0.078\"",
+    "src": "NTRS psi_PSI-159_2541"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-117": {
+  "label": "Cool-flame CFD (FLEX)",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "Cool-flame CFD (FLEX) (PSI-117): Effect of External Thermo-Convective Perturbation on Cool Flame Dynamics: A Multidimensional Multi-Physics CFD Analysis; platform ; 02-15-2017 to 02-14-2022.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: 3-D CFD built on FLEX data showing how small drafts or heat sources keep cool flames alive or kill them.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: n-alkane droplets; oxygen: As in FLEX (incl. ozone-assisted cases); pressure: Parameter sweeps; flow: Imposed convection/drift.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 64/100; prevention 4/10, detection 2/10, suppression 4/10, modeling 9/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 51/100; lunar base 51/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "0 verified literature records name Cool-flame CFD (FLEX).",
+    "src": "literature.json"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-107": {
+  "label": "SPICE",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "SPICE (PSI-107): Smoke Point In Co-flow Experiment; platform International Space Station (ISS);  to .",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: SPICE found the 'smoke point' - when a flame starts releasing soot - for 526 flames in space, key for knowing how smoky an accidental fire will be.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: Methane, Ethylene, Propane, Propylene, Propylene mixtures; oxygen: Air (21%, coflow); pressure: unknown (not tabulated); flow: Coflow 5.4-65 cm/s (approach); table records 0.66-85 cm/s.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 61/100; prevention 4/10, detection 7/10, suppression 2/10, modeling 8/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 53/100; lunar base 49/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "30 verified literature records name SPICE.",
+    "src": "literature.json"
+   },
+   {
+    "id": "L1",
+    "text": "flame length 34.62 mm for propylene/N2 (75% C3H6) at gravity 1.0 (measured); quote: \"37 1.600 38.27 1.601 49.82 34.62\"",
+    "src": "NTRS psi_PSI-107_0"
+   },
+   {
+    "id": "L2",
+    "text": "flame length 38.64 mm for propylene/N2 (75% C3H6) at gravity 1.0 (measured); quote: \"39 1.600 57.08 1.870 58.19 38.64\"",
+    "src": "NTRS psi_PSI-107_0"
+   },
+   {
+    "id": "L3",
+    "text": "flame length 28.67 mm for propylene/N2 (75% C3H6) at gravity 1.0 (measured); quote: \"41 1.600 18.53 1.306 40.65 28.67\"",
+    "src": "NTRS psi_PSI-107_0"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-39": {
+  "label": "CFI",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "CFI (PSI-39): Cool Flames Investigation; platform International Space Station (ISS); 10-01-2020 to 10-20-2021.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: CFI studied low-temperature 'cool flames' of jet-fuel-like droplets across 0.5-5 atm, important for understanding unexpected re-ignition and low-temperature chemistry.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: n-dodecane, n-dodecane/iso-dodecane, Farnesane; oxygen: 17-21% (PSI table); pressure: 0.5-5 atm (PSI table); flow: Quiescent.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "87 tabulated conditions with O2, O2 from 17.0% to 21.0%.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 60/100; prevention 4/10, detection 3/10, suppression 4/10, modeling 8/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 72/100; lunar base 54/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "7 verified literature records name CFI.",
+    "src": "literature.json"
+   },
+   {
+    "id": "L1",
+    "text": "other 25.0 W for dodecane at gravity 0.0 (measured); quote: \"15 Since the cool flame starts after the warm/hot flame, 42 roughly 25 W at all pressures. The numerical results\"",
+    "src": "NTRS 20260002014"
+   },
+   {
+    "id": "L2",
+    "text": "other 2000 K for heptane at gravity 0.0 (model); quote: \"24 reabsorption. The flames ignite at temperatures above 1 25 2000 K, after which the peak temperature decreases 0 26 due to increasing radiative losses. As the flame 0 10 20 30 40 50 60 70\"",
+    "src": "NTRS 20260002014"
+   },
+   {
+    "id": "L3",
+    "text": "other 1200 K for heptane at gravity 0.0 (model); quote: \"30 As hot flame peak temperature reaches ~1200 K, in the hot flame (HF: T = 1300K), warm flame (WF: T 31 the hot flame either radiatively extinguishes if the = 1000 K) and cool flame (CF: T = 750 K) to be 32 pressure is \"",
+    "src": "NTRS 20260002014"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-21": {
+  "label": "ACME CLD Flame",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "ACME CLD Flame (PSI-21): Advanced Combustion via Microgravity Experiments / Coflow Laminar Diffusion Flame; platform International Space Station (ISS); 10-01-2006 to 05-31-2022.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: CLD Flame measured weak coflow flames from near-extinction to heavily sooting to improve soot models used in fire simulations.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: Methane, Ethylene, N2-diluted; oxygen: unknown; pressure: unknown; flow: Weak coflow (velocity varied; values not tabulated).",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 60/100; prevention 3/10, detection 4/10, suppression 5/10, modeling 8/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 52/100; lunar base 49/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "0 verified literature records name ACME CLD Flame.",
+    "src": "literature.json"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-60": {
+  "label": "SPICE data analysis",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "SPICE data analysis (PSI-60): Computational and Experimental Analysis of SPICE Data Sets; platform ; 06-05-2019 to 08-29-2022.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: A ground study re-using SPICE images to extract soot temperature and concentration and improve soot models in 0 g vs 1 g.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: SPICE fuels (ethylene etc.); oxygen: As in SPICE; pressure: As in SPICE; flow: As in SPICE.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 60/100; prevention 2/10, detection 5/10, suppression 2/10, modeling 9/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 47/100; lunar base 47/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "0 verified literature records name SPICE data analysis.",
+    "src": "literature.json"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-23": {
+  "label": "ACME s-Flame",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "ACME s-Flame (PSI-23): Advanced Combustion via Microgravity Experiments-Structure and Response of Spherical Diffusion Flames; platform International Space Station (ISS); 02-05-2015 to 11-24-2019.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: s-Flame grew spherical flames of hydrogen, methane and ethylene at ~21% and ~30% O2 to test detailed chemistry and radiation models.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: H2, CH4, C2H4, N2/He/CO2 diluents; oxygen: ~21% and ~30% (PSI table); pressure: ~1 atm (table note); flow: Quiescent.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "2 tabulated conditions with O2, O2 from 21.0% to 30.0%.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 58/100; prevention 4/10, detection 2/10, suppression 4/10, modeling 8/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 70/100; lunar base 51/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "7 verified literature records name ACME s-Flame.",
+    "src": "literature.json"
+   },
+   {
+    "id": "L1",
+    "text": "extinction flow 8 cc/s for ethylene at gravity 0 (measured); quote: \"For the same mixtures, radiative extinctions are observed when the non-sooty flames are established at 3 cc/s and the flow rates are ramped up before reaching 8 cc/s.\"",
+    "src": "NTRS psi_PSI-23_4157"
+   },
+   {
+    "id": "L2",
+    "text": "extinction flow 1 cc/s for ethylene at gravity 0 (measured); quote: \"established at 3 cc/s; and kinetic extinctions are observed during ramp down before reaching 1 cc/s.\"",
+    "src": "NTRS psi_PSI-23_4157"
+   },
+   {
+    "id": "L3",
+    "text": "extinction flow 1 cc/s for methane at gravity 0 (measured); quote: \"Reduction of flow rate from 2 cc/s to 1 cc/s results in extinction during ramp down, indicating kinetic extinction at low system\"",
+    "src": "NTRS psi_PSI-23_4157"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-142": {
+  "label": "Cool-flame counterflow",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "Cool-flame counterflow (PSI-142): Quantitative Studies of Cool Flame Transitions at Radiation / Stretch Extinction Using Counterflow Flames; platform Not Applicable; 08-01-2016 to 07-31-2021.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: Ground experiments and simulations that connect FLEX's surprising cool flames to general flammability-limit diagrams.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: n-heptane, Dimethyl ether (DME), Large n-alkanes; oxygen: Varied (oxygen concentration effects); pressure: Up to 20 atm (simulated); flow: Counterflow (strain).",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 58/100; prevention 4/10, detection 2/10, suppression 4/10, modeling 8/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 46/100; lunar base 46/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "0 verified literature records name Cool-flame counterflow.",
+    "src": "literature.json"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-115": {
+  "label": "SAME smoke simulation",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "SAME smoke simulation (PSI-115): Utilization of the Smoke Aerosol Measurement Experiment Data for Advanced Modeling and Simulation of Smoke Generation in Micro-Gravity; platform Not Applicable; 01-30-2017 to 12-31-2019.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: Simulations explaining why smoke particles grow differently in microgravity, supporting better detector design.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: Dibutyl phthalate (DBP) pyrolysis vapor; oxygen: not applicable; pressure: not applicable; flow: Two low cross-flow velocities.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 57/100; prevention 2/10, detection 8/10, suppression 1/10, modeling 8/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 50/100; lunar base 50/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "0 verified literature records name SAME smoke simulation.",
+    "src": "literature.json"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-106": {
+  "label": "SLICE",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "SLICE (PSI-106): Structure and Liftoff In Combustion Experiment; platform International Space Station (ISS);  to .",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: SLICE studied what keeps a flame attached to its burner versus lifting off and blowing out in microgravity.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: CH4 (100%, 70%, 40%), C2H4 20%, C2H6, C3H8; oxygen: Air coflow (21%); pressure: unknown; flow: Controlled coflow (values not tabulated).",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 54/100; prevention 3/10, detection 3/10, suppression 5/10, modeling 7/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 49/100; lunar base 46/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "0 verified literature records name SLICE.",
+    "src": "literature.json"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-22": {
+  "label": "ACME E-FIELD Flames",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "ACME E-FIELD Flames (PSI-22): Advanced Combustion via Microgravity Experiments Electric-Field Effects on Laminar Diffusion Flames; platform International Space Station (ISS); 11-18-2016 to 11-17-2020.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: E-FIELD used electric fields to push flames around via their ions - a way to impose an artificial 'wind' or buoyancy-like force in microgravity.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: Methane, Ethylene, N2-diluted; oxygen: unknown; pressure: unknown; flow: With and without weak air coflow.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 50/100; prevention 3/10, detection 4/10, suppression 5/10, modeling 6/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 46/100; lunar base 44/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "0 verified literature records name ACME E-FIELD Flames.",
+    "src": "literature.json"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ },
+ "PSI-47": {
+  "label": "DAFT / DAFT-2",
+  "facts": [
+   {
+    "id": "I1",
+    "text": "DAFT / DAFT-2 (PSI-47): Dust and Aerosol Measurement Feasibility Test / Dust and Aerosol Measurement Feasibility Test-2; platform International Space Station (ISS); 03-01-2003 to 06-01-2009.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I2",
+    "text": "PSI summary: DAFT proved that a commercial particle counter could be modified to work without gravity, enabling the SAME smoke measurements.",
+    "src": "PSI record (SI extraction, team-reviewed)"
+   },
+   {
+    "id": "I3",
+    "text": "Fuels: Arizona Road Dust (ARD fine) aerosol in GN2 (non-combustion surrogate); oxygen: not applicable; pressure: not applicable; flow: not applicable.",
+    "src": "PSI record"
+   },
+   {
+    "id": "I4",
+    "text": "0 tabulated conditions with O2.",
+    "src": "conditions.json"
+   },
+   {
+    "id": "I5",
+    "text": "Fire-safety index 46/100; prevention 1/10, detection 8/10, suppression 0/10, modeling 2/10.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I6",
+    "text": "Highest habitat score: Spacecraft cabin 50/100; lunar base 46/100.",
+    "src": "investigations.json"
+   },
+   {
+    "id": "I7",
+    "text": "0 verified literature records name DAFT / DAFT-2.",
+    "src": "literature.json"
+   },
+   {
+    "id": "G1",
+    "text": "PSI's ISS solid-material test tables stop at 22.2% O2; the challenge's Moon-base air is 30% O2 or more.",
+    "src": "conditions.json; challenge brief"
+   }
+  ]
+ }
+}

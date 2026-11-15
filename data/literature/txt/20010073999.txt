@@ -1,0 +1,215 @@
+      SMOLDERING,                          TRANSITION                        AND           FLAMING                    IN       MICROGRAVITY
+                  A.C. Femandez-Pello                 1, A. Bar-Ilan         1, T.L.      Lo 1, D.C. Walther               1, and D.L. Urban 2
+                    l University      of California, Berkeley, 94720, ferpeilo_,newton.berkeley.edu,
+                                     "NASA Glenn Research Center, Cleveland, OH 44135
+
+
+INTRODUCTION
+             A     research       project       is underway                 to     study       smolder          and      the      transition          to       flaming       in
+microgravity.    The Mierogravity  Smoldering   Combustion                                                (MSC)      flight project                   is an ongoing
+research project  to provide a better understanding of _                                                 controlling     mechanisms                     of smoldering
+combustion.    The Smoldering        Transition and _          (STAF) project                                                     is a recently                 established
+research program     that will utilize the Fluids and Combustion     Facility                                                    (FCF) of the                  ISS [1] to
+examine the transition from smolder to flaming in microgravity.
+             In forced        flow        smolder        experiments              ambient       pressure         in the        MSC           chamber           rises,     thus
+motivating the need to understand                          the effects of pressure on smoldering    combustion.   Further, the
+STAF experiment has constraints                           on experimental   scale and testing at elevated pressure may be a
+mechanism           to reduce        the      sample        size     by enhancing              the    smolder         reaction.          In the         work        we are
+reporting         here,     a series       of ground-based                 tests     determine          the     effects        of pressure            on       smoldering
+combustion.            These tests are compared    with data obtained  from                                              experiments   conducted                    aboard
+the Space           Shuttle in flights STS-69   and ST S-77.    Measurements                                                of one-dimensional                     smolder
+propagation          velocity       are      made     by     thermocouple                probing       and      a non-inmasive               Ulwasound             Imaging
+System (UIS) [2, 4]. Thermocouples        are also used to obtain                                             reaction      temperatures              and the UIS is
+used to determine permeabilities of the fuel in rea!=time.
+
+EXPERIMENTAL                      HARDWARE                    AND PROTOCOL
+             Ground-based              and     microgravity              tests     were     conducted            in the         MSC          flight        hardware        on
+120mm         diameter        and         150mm         length      cylindrical           samples       of open-cell,              unretarded,             polyurethane
+foam      [5].      The     tests were         conducted           in 3 configurations:                opposed           forced       flow     in normal            gravity
+and microgravity,             and natural           convection.            A range         of ambient           pressures         from       !.0 to 3.5 aan               was
+tested.
+             In    normal        gravity       forced        flow        experiments,           the     oxidizer          mass        flux     was         a     controlled
+parameter.   Tests were conducted                            at a specific pressure, which was held constant throughout the
+test via a pressure relief valve.                           A constant oxidizer mass flux was delivered     by a mass flow
+conlroller        (MFC).         The      experimental             setup     was      similar        in the      forced        flow     microgravity              tests    [5].
+In both of these forced flow tests, an igniter                                       setting         of 90W       for      600     seconds            was        chosen      to
+simulate the mission ignition criteria [5].
+             In the natural          convection          tests, the         ends     of the fuel         sample          were      exposed            to the ambient
+chamber       pressure.   The igniter power chosen was 70W fir 1200 seconds, similar                                                                  to STS-69           and
+STS-77       quiescent tests [6], as well as previous natural convection smolder experiments                                                          [7].
+
+BACKGROUND
+             Smolder        often      occurs       under     0xygen-limited               conditions          [8], in which             case the rote of heat
+release      from     the    smolder         reaction       is directly          proportional         to the oxidizer             mass       flux.         The     smolder
+propagation          velocity        is then         proportional            to the        heat       release      rate        minus         heat      losses       to     the
+environment   [9].  The                effect of pressure on the oxidizer mass flux will be discussed   in order to
+clarify the experimental                 reuflts. With buoyancy   as the driving force the pressure gradient along
+the    length      of the       cylindrical         sample         can     be written        as dP/dz=-pg.                        For     a flow           in a porous
+
+
+
+
+NASA/CP--2001-210826                                                                21
+ medium Darcy's Law                           is applicable              [10]        dP/dz=-(p/K)uv                      and       equating         these        two     gives      an
+
+ estimate           of the        buoyant         flow        velocity,         u o,     through         the medium.                  The     resulting          oxidizer         mass
+ flUX is        rh"o2,nuo_,, = yo;pa.u            D = Yo_ (P_)2           gK/_t.             A    calculation           of     the     buoyancy-induced                      oxidizer
+ mass       flux is aanducted based                      on data from                the natural         convection          tests.        It has been           observed         that
+permeability               changes         with        the passage     of the smolder                          propagation   front and                         the final char
+permeability               increases       with        increasing  oxidizer  mass flux                         [2, 7].     An increased                         oxidizer mass
+flux        leads      to a         more      vigorous            reaction,          which       consumes           more           fuel,     and       leads      to     a    higher
+permeability   of the residual  char.   In normal gravity tests, increased pressure                                                                    leads      to increased
+buoyancy-induced    oxidizer mass flux, and consequently to an increased permeability.
+             The pressure   effects on diffusive transport of heat and mass are determined   by examining
+the     effects of pressm'e     on the binary diffusion   coefficient. The diffusive mass flux is given by
+ lh"o_._.g,,_e=pDVyo2.                     The       binary       diffusion          coefficient         is proportional              to TI'5/P          [II].          Thus it is
+e_                  that    the     diffusive         mass        flux     is relatively          independent            of the pressure                 insomuch             as the
+reaction       temperatures            are not significantly               changed         over the range of pressures                       tested.
+              The          forced      oxidizer          mass       flux        is     given      by       m""o2.po,_,a -- Yo2 P_ru.eo,_,_ .              In       the       present
+experiments                the    mass       flux      is     controlled             through       the     MFC,          and        therefore          is independent               of
+pressure.                                                       -                                           .....
+              The total oxidizer                  mass flux is the suna of oxidizer mass fluxes                                              from buoyam'y-induced
+flow,       diffusive transport,                 and controlled forced flow.   The total oxidizer                                             mass flux is therefore
+expressed           as: .....
+
+                                                                     Y°2 (pc¢ )zgx                                + ",,
+                                                     rh"o2zo_ =                                + p_.DVyo      2     m o;,ro._.d                                                    (1)
+                                                                                //
+              Conceming              the      heat       losses      to the            environment,          an analysis              of flee          convection            on    the
+outside       of the sample                cylinder         indicates       that heat          losses,     as described              by the Nusselt               number,         are
+proportional   to the Rayleigh   number    to                                        the power    of %.                    Since the Rayleigh                       number   is
+proportional  to the square of the pressure,                                         then the heat losses                from the smoldering                       sample are
+expected to rise as pl/2 [12].
+              For an oxygen-limited  reaction the heat release rote can be estimated   by multiplying the
+oxidizer       mass flux by the heat of smolder combustion    (per unit mass of oxidizer). The effect of
+pressure   on the heat of smoIder-combustion      is notwell    known,                                                             although  since the                   heat of
+combustion   depends  on the products of combustion   it should depend                                                             on the characteristics                 of the
+smolder         reaction.   The effect                        of pressure   on heterogeneous   reaction                                      chemistry is difficult                 to
+quantify,       but assuming   that the                       reaction rate behaves   as an Arrhenius                                      reaction of first order                  in
+oxidizer,       then        the reaction          rate      should        be proportional                to pressure          [13].        Thus     it could be inferred
+that the rate of heat release                    would       be proportional             to pressure,        ai_,,.,t,gh most likely weakly.
+
+RESULTS               & DISCUSSION
+             Figure          1 presents          the     effect      of pressure               on the       smolder          velocity         for   three        smolder          test
+configurations               -      opposed           forced        flow         smolder           in     normal-            and      microgravity,               and        natmal
+convecfio-rFd0_rn_smolder.                                    It isObserved_tha(_d-_                                         ignition         conditions_                    for the     -
+present       sample size,             there exists a minimum     ambient pressure                                      at which a serf-sustaining  smolder
+reaction       is observed.               In the microgravity tests, this minimum                                       pressure is 1.0 ann, although it is
+difficult      to quantify,            because         initially         smolder         occurs      under        the    influence           of the       igniter.           In the
+forced flow normal:_ _ gravity                       tests this minimum                   pressure        is 1.2 area, and in the natural                           convection
+tests it is 2.0 ann.
+
+
+
+NASA/CP--2001-210826                                                                      22
+                           0.3500
+
+                                     I _    NatConv,    lg                                                                                       B
+
+
+
+
+                                     I X    Forced Flow at O.28g/m2s, lg
+                                     I •    STS-69, Forced Flow at 0.28g/m2s
+
+
+
+
+                                     [ 0    $TS-77.    F_¢.ed Flow at 0.56_m2,                                                     J'
+
+
+                           0.2500    -          --
+
+
+
+
+                           0.0500                               ,                        _                     T
+                                    1.00                      1.50                    2.00                    2.50                       3.00                    3.50
+                                                                                                   P(_)
+                Figure 1 Effect of pressure on the smolder velocity for opposed forced flow smolder in normal-and
+                                      microgravity, and natural convection downward smolder.
+
+
+                From Eq. 1 it is calculated   that in the normal gravity forced flow testing, at 1.2 aim, the
+oxidizer         mass flux is 0.50g/m2s.    Also using Eq. 1, in the natural convection   tests at 2.0 alto the
+calculated          oxidizer        mass        flux         is 0.53g/m2s,             which         is consistent            with         the        previous          result.       These
+calculations           seem         to     indicate          that     for     the     present             experimental            conditions              and      sample            size,     a
+critical        oxidizer      mass          flux       of roughly            0.5g/-mZs             is needed          to      achieve             a serf-sustaining                 smolder
+reaction        in normal gravity.
+                In the microgravity                    forced         flow       tests       where         there      is no        augmentation                  of oxidizer           mass
+flux due to buoyancy,     the smolder propagation     velocity is observed  to increase   slightly with
+pressure.  Since the mass flux of oxidizer is constant, this indicates ltmt there may be little or no
+dependence    on pressure  of the rate of beat release, although   it may be difficult to separate the
+effects of pressure on the rate of heat release from the effects                                                        of pressure on heat losses.   For the
+STS-69 tests in which the oxidizer mass flux was 0.28g/m2s,                                                             the smolder velocity is basically the
+same as that of the forced flow                                  test in normal                gravity        at 1.4 aim.                 At         this pressure, the forced
+oxidizer mass flux is calculated                                  as 0.53g/n_s,                 which         shows   that               the         lack of convective    heat
+losses          in mierogravity              enhance            the     smolder              reaction       to the         point         lta_at nearly           half      the      oxidizer
+mass flux is needed to sustain the smolder reaction                                           in microgravity.
+          Figure 1 also shows that the smolder velocity in microgravity                                                                    at an oxidizer mass flux of
+0.56g/m's     (STS-77)  is the same as that of a normal-gravity   forced                                                                   flow with an oxidizer mass
+flux       of     0.81g/m2s          (Eq.       1), corroborating                   the       above         finding        that         a significantly                 lower       oxidizer
+mass        flux is needed                 to attain         a _lf-propagaling                     smolder         reaction        in microgravity                  than        in normal
+gravity.
+              It should be noted that the pressure    dependence  of the buoyancy-induced   heat losses is
+less       than that of the buoyancy-induced       mass flux, which explains   why the differeir.e  in the
+critical        mass    flux        between            normal-         and       microgravity               for      self-propagating                   smolder           decreases          as
+the pressure           increases.            Furthermore               these        results        appear to indicate                   that the effect             of pressure              on
+                  is dominant               over       its effect           on   chemical            kinetics.          In     microgravity,                where           there      is no
+
+
+
+NASA/CP--2001-210826                                                                          23
+ buoyancy,    the effect of pressure             on the smolder velocity is weak (...pi/3), and the smolder velocity
+ is proportional   to the oxidizer              mass flux.   Also, in normal gravity     for the same pressure    and
+ consequently   the same buoyant    heat losses,                     the    smolder     velocity       is proportional      to the    oxidizer-
+ mass flux in na_al  and forced flow smolder.
+
+
+ CONCLUDING               REMARKS
+            A comparison         of the tests conducted   in normal-                    and microgravity    indicates that there is a
+ critical   oxidizer mass         flux to attain a self-propagating                      smolder  reaction,    and that this critical
+ mass flux is significantly  smaller in microgravity than in normal    gravity.                                            This finding has
+ important implications from the point of view of fire safety in a space-based                                           environment,  since
+ smolder can be initiated at lower oxygen    concentrations or mass                                     flows than in normal gravity.
+ Since buoyat_ heat losses are the primary reason for these results,                                   the quantitative differences are
+a function      of the sample size, decreasing            as the sample        size increases.
+         A comparison              of only smolder    propagation     velocities   ignores    differences    in reaction
+temperatures, in the              extent  of reaction   and/or    char    conversion,     conductive      and/or  forced
+convection      heat losses.    Examination        of these effects is ongoing.
+
+ACKNOWLEDGEMENTS
+        This work is funded                by the National            Aeronautics       and    space     Administration      under        NASA
+grant number NAG3-2026.
+
+     References:
+                                                                            7 j. L. Torero,     A.C.Femandez-Pello            and
+     ] Zurawski, R., _'The FCF Combustion                                   M.Kitano,      Fourth International
+     Integrated     Rack",     3 8 th AIAA     Space      Sciences          on Fire Safety Science, pp. 409-420, 1994.
+     & Exhibit,     AIAA 2000-0425,      January              2000.         s Ohlemiller, T.I, Prog. Ener. & Comb.
+     2 Walther,     D.C., R.A. Anthenien, M.                                Sci., 11:277, (1986) .....
+     Roslon,      D.L. Urban     and A.C. Femandez-                         9 Dosanjh, S., P.J. Pagni         and A.C'
+     PeUo, 3 7th AIAA        Space     Sciences     & Exhibit,              Femandez-Pello,  Combustion               and Flame,
+     AIAA 99-0699,           January  1999.                                 68, 131-142, (1987).
+     3 D.C. Walther,         A.C. Femandez-Pello,            tLA.           10 Nield,   D.A. and A. Bejan, Convection                in
+     Antherfien     and D_L. Urban,          5 t* Microgravity             Porous Media, Springer-Verlag,    New York
+     Combustion        Workshop,        NASA/CP-           1999-           (1992).
+     2089]'7,     i93-196,     Cleveland,       OH., May 18-               I I Bird, tLB', W.E. Stewart and E.N.
+     20, 1999.                                                             Lightfoot,   Transport        Phenomena,        John
+     4 Tse, S.D., Anthenien,           1LA., Miyasaka,         K.          Wiley     & Sons, New         York,   (1960).
+     and A.C. Ferenandez-Pello,               Combustion                   ]2 Incropera,      F.P. and D.P. DeWitt,
+     and Flame, V.116, No. 12, 120-135,   1998                             Fundamentals  of Heat and Mass Transfer,
+     5 Walther,    D.C.,  A.C.   Femandez-Pello,                           John Wiley &Sons, NewYork,    (1996).
+     Urban, D.L., Comb. and Flame,      1162:398-                          13Alberty,      R.A. and RA. Silbey, Physical
+     414, 1999.                                                            Chemistry,       John Wiley       & Sons, New York,
+     6Walther, D.C., A.C. Femandez-PeUo   and                              (1992).
+    D.L. Urban,      Proc.     of the pt Pan-Pacific
+    Basin      Workshop      and 4 th JapanChina
+     Workshop       on Microgravity           Sciences,
+    pp.260-265,       Tokyo,      Japan,     8-11 July, 1998.
+
+
+
+
+NASA/CP--2001-210826                                                   24
+

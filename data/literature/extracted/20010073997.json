@@ -1,0 +1,38 @@
+[
+  {
+    "paper": "20010073997",
+    "investigation": null,
+    "platform": null,
+    "gravity_g": null,
+    "material": "polyphenolic foam",
+    "thickness_mm": null,
+    "geometry": null,
+    "flow_mode": null,
+    "flow_cm_s": null,
+    "o2_pct": null,
+    "pressure_kpa": null,
+    "quantity": "other",
+    "unit": "atm",
+    "outcome": null,
+    "value": 5,
+    "quote": "Figure         6 shows          that a transition      from      Sf increasing\nrapidly       with     pressure        (P) to Sf nearly         independent                 of P at P -           5 atm."
+  },
+  {
+    "paper": "20010073997",
+    "investigation": null,
+    "platform": null,
+    "gravity_g": null,
+    "material": "polyphenolic foam",
+    "thickness_mm": null,
+    "geometry": null,
+    "flow_mode": null,
+    "flow_cm_s": null,
+    "o2_pct": null,
+    "pressure_kpa": null,
+    "quantity": "other",
+    "unit": "mm",
+    "outcome": null,
+    "value": 2,
+    "quote": "transition thickness   is about 2 mm for the case shown."
+  }
+]

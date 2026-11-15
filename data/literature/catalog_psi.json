@@ -1,0 +1,3002 @@
+{
+  "psi_PSI-100_79": {
+    "id": "psi_PSI-100_79",
+    "title": "PSI-100_Science Documents_SAFFIRE-III Image Directory Nomenclature_v3.0",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+    "authors": [],
+    "investigation": "PSI-100",
+    "file_name": "PSI-100_Science Documents_SAFFIRE-III Image Directory Nomenclature_v3.0.pdf",
+    "chars": 2721
+  },
+  "psi_PSI-100_82": {
+    "id": "psi_PSI-100_82",
+    "title": "PSI-100_Science Documents_SAFFIRE Objectives, Development and Status",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+    "authors": [],
+    "investigation": "PSI-100",
+    "file_name": "PSI-100_Science Documents_SAFFIRE Objectives, Development and Status.pdf",
+    "chars": 40510
+  },
+  "psi_PSI-100_84": {
+    "id": "psi_PSI-100_84",
+    "title": "PSI-100_Engineering Documents_SAFFIRE-III Operations",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+    "authors": [],
+    "investigation": "PSI-100",
+    "file_name": "PSI-100_Engineering Documents_SAFFIRE-III Operations.pdf",
+    "chars": 3144
+  },
+  "psi_PSI-101_0": {
+    "id": "psi_PSI-101_0",
+    "title": "PSI-101_Engineering Documents_SAME EIRD Rev 2.00 02-25-05 HIgh Q",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "authors": [],
+    "investigation": "PSI-101",
+    "file_name": "PSI-101_Engineering Documents_SAME EIRD Rev 2.00 02-25-05 HIgh Q.pdf",
+    "chars": 206010
+  },
+  "psi_PSI-101_1": {
+    "id": "psi_PSI-101_1",
+    "title": "PSI-101_Reports_SAME-R_Final Report",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "authors": [],
+    "investigation": "PSI-101",
+    "file_name": "PSI-101_Reports_SAME-R_Final Report.pdf",
+    "chars": 288956
+  },
+  "psi_PSI-101_100": {
+    "id": "psi_PSI-101_100",
+    "title": "PSI-101_Raw Data_K01-4K images",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "authors": [],
+    "investigation": "PSI-101",
+    "file_name": "PSI-101_Raw Data_K01-4K images.pdf",
+    "chars": 2089
+  },
+  "psi_PSI-101_123": {
+    "id": "psi_PSI-101_123",
+    "title": "PSI-101_Raw Data_L13 images",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "authors": [],
+    "investigation": "PSI-101",
+    "file_name": "PSI-101_Raw Data_L13 images.pdf",
+    "chars": 3511
+  },
+  "psi_PSI-101_237": {
+    "id": "psi_PSI-101_237",
+    "title": "SAME_VPRED",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "authors": [],
+    "investigation": "PSI-101",
+    "file_name": "SAME_VPRED.pdf",
+    "chars": 1061450
+  },
+  "psi_PSI-101_335": {
+    "id": "psi_PSI-101_335",
+    "title": "PSI-101_Engineering Documents_SAME_Wire_Report",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "authors": [],
+    "investigation": "PSI-101",
+    "file_name": "PSI-101_Engineering Documents_SAME_Wire_Report.pdf",
+    "chars": 70498
+  },
+  "psi_PSI-101_338": {
+    "id": "psi_PSI-101_338",
+    "title": "PSI-101_Science Documents_SAME_Baseline Concept Description Document_001 Rev A",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "authors": [],
+    "investigation": "PSI-101",
+    "file_name": "PSI-101_Science Documents_SAME_Baseline Concept Description Document_001 Rev A.pdf",
+    "chars": 46606
+  },
+  "psi_PSI-101_339": {
+    "id": "psi_PSI-101_339",
+    "title": "PSI-101_Science Documents_SAME_Operations Manual_007",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "authors": [],
+    "investigation": "PSI-101",
+    "file_name": "PSI-101_Science Documents_SAME_Operations Manual_007.pdf",
+    "chars": 64828
+  },
+  "psi_PSI-101_340": {
+    "id": "psi_PSI-101_340",
+    "title": "PSI-101_Reference Data_SAME_Software Description Document_003 Rev A",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "authors": [],
+    "investigation": "PSI-101",
+    "file_name": "PSI-101_Reference Data_SAME_Software Description Document_003 Rev A.pdf",
+    "chars": 50985
+  },
+  "psi_PSI-101_341": {
+    "id": "psi_PSI-101_341",
+    "title": "PSI-101_Reference Data_SAME_Software Requirement Document_004 Rev D",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "authors": [],
+    "investigation": "PSI-101",
+    "file_name": "PSI-101_Reference Data_SAME_Software Requirement Document_004 Rev D.pdf",
+    "chars": 76253
+  },
+  "psi_PSI-102_1": {
+    "id": "psi_PSI-102_1",
+    "title": "PSI-102_Engineering Documents_SAME_EIRD",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "authors": [],
+    "investigation": "PSI-102",
+    "file_name": "PSI-102_Engineering Documents_SAME_EIRD.pdf",
+    "chars": 206010
+  },
+  "psi_PSI-102_100": {
+    "id": "psi_PSI-102_100",
+    "title": "PSI-102_Reference Data_SAME_Crew Interface Description",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "authors": [],
+    "investigation": "PSI-102",
+    "file_name": "PSI-102_Reference Data_SAME_Crew Interface Description.pdf",
+    "chars": 43731
+  },
+  "psi_PSI-102_101": {
+    "id": "psi_PSI-102_101",
+    "title": "PSI-102_Science Documents_SAME_Operations Manual_007",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "authors": [],
+    "investigation": "PSI-102",
+    "file_name": "PSI-102_Science Documents_SAME_Operations Manual_007.pdf",
+    "chars": 64828
+  },
+  "psi_PSI-102_102": {
+    "id": "psi_PSI-102_102",
+    "title": "PSI-102_Reference Data_SAME_Software Description Document",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "authors": [],
+    "investigation": "PSI-102",
+    "file_name": "PSI-102_Reference Data_SAME_Software Description Document.pdf",
+    "chars": 50985
+  },
+  "psi_PSI-102_103": {
+    "id": "psi_PSI-102_103",
+    "title": "PSI-102_Reference Data_SAME_Software Req Document",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "authors": [],
+    "investigation": "PSI-102",
+    "file_name": "PSI-102_Reference Data_SAME_Software Req Document.pdf",
+    "chars": 76253
+  },
+  "psi_PSI-102_2": {
+    "id": "psi_PSI-102_2",
+    "title": "PSI-102_Reports_SAME_Final Science Report",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "authors": [],
+    "investigation": "PSI-102",
+    "file_name": "PSI-102_Reports_SAME_Final Science Report.pdf",
+    "chars": 245966
+  },
+  "psi_PSI-102_75": {
+    "id": "psi_PSI-102_75",
+    "title": "PSI-102_Engineering Documents_SAME Verification Plan and Engineering Requirements Document (VPRED)_January 2007",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "authors": [],
+    "investigation": "PSI-102",
+    "file_name": "PSI-102_Engineering Documents_SAME Verification Plan and Engineering Requirements Document (VPRED)_January 2007.pdf",
+    "chars": 1061450
+  },
+  "psi_PSI-102_97": {
+    "id": "psi_PSI-102_97",
+    "title": "PSI-102_Engineering Documents_SAME_IgnitorWireCharacterizationReport",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "authors": [],
+    "investigation": "PSI-102",
+    "file_name": "PSI-102_Engineering Documents_SAME_IgnitorWireCharacterizationReport.pdf",
+    "chars": 70498
+  },
+  "psi_PSI-102_99": {
+    "id": "psi_PSI-102_99",
+    "title": "PSI-102_Science Documents_SAME_Baseline Concept Description Doc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "authors": [],
+    "investigation": "PSI-102",
+    "file_name": "PSI-102_Science Documents_SAME_Baseline Concept Description Doc.pdf",
+    "chars": 46606
+  },
+  "psi_PSI-107_0": {
+    "id": "psi_PSI-107_0",
+    "title": "PSI-107_Reports_SMOKE POINTS OF MICROGRAVITY AND  NORMAL GRAVITY COFLOW DIFFUSION  FLAMES_DotsonThesis",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Reports_SMOKE POINTS OF MICROGRAVITY AND  NORMAL GRAVITY COFLOW DIFFUSION  FLAMES_DotsonThesis.pdf",
+    "chars": 130651
+  },
+  "psi_PSI-107_184": {
+    "id": "psi_PSI-107_184",
+    "title": "PSI-107_Reference Data_SPICE_VIDEO OVERLAY RESET",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Reference Data_SPICE_VIDEO OVERLAY RESET.pdf",
+    "chars": 22502
+  },
+  "psi_PSI-107_185": {
+    "id": "psi_PSI-107_185",
+    "title": "PSI-107_Engineering Documents_SPICE_ScienceVerificationReport",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Engineering Documents_SPICE_ScienceVerificationReport.pdf",
+    "chars": 21904
+  },
+  "psi_PSI-107_2": {
+    "id": "psi_PSI-107_2",
+    "title": "PSI-107_Reports_SPICE_30-DayPostFlightReport",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Reports_SPICE_30-DayPostFlightReport.pdf",
+    "chars": 26452
+  },
+  "psi_PSI-107_20": {
+    "id": "psi_PSI-107_20",
+    "title": "PSI-107_Engineering Documents_SPICE_Phase III Flight Safety Data Package",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Engineering Documents_SPICE_Phase III Flight Safety Data Package.pdf",
+    "chars": 192763
+  },
+  "psi_PSI-107_29": {
+    "id": "psi_PSI-107_29",
+    "title": "PSI-107_Raw Data_SPICE_GMT136_Contact_Sheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Raw Data_SPICE_GMT136_Contact_Sheet.pdf",
+    "chars": 6939
+  },
+  "psi_PSI-107_3": {
+    "id": "psi_PSI-107_3",
+    "title": "PSI-107_Reports_SPICE_FinalReport",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Reports_SPICE_FinalReport.pdf",
+    "chars": 58530
+  },
+  "psi_PSI-107_31": {
+    "id": "psi_PSI-107_31",
+    "title": "PSI-107_Raw Data_SPICE_GMT2009_167_ContactSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Raw Data_SPICE_GMT2009_167_ContactSheet.pdf",
+    "chars": 3902
+  },
+  "psi_PSI-107_32": {
+    "id": "psi_PSI-107_32",
+    "title": "PSI-107_Raw Data_SPICE_GMT2009_173_ContactSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Raw Data_SPICE_GMT2009_173_ContactSheet.pdf",
+    "chars": 15255
+  },
+  "psi_PSI-107_33": {
+    "id": "psi_PSI-107_33",
+    "title": "PSI-107_Raw Data_SPICE_GMT2009_174_ContactSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Raw Data_SPICE_GMT2009_174_ContactSheet.pdf",
+    "chars": 16348
+  },
+  "psi_PSI-107_5": {
+    "id": "psi_PSI-107_5",
+    "title": "PSI-107_Presentations_Laminar Smoke Points in Coflow Measured Aboard ISS",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Presentations_Laminar Smoke Points in Coflow Measured Aboard ISS.pdf",
+    "chars": 14206
+  },
+  "psi_PSI-107_52": {
+    "id": "psi_PSI-107_52",
+    "title": "PSI-107_Engineering Documents_SPICE-MEM-010",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Engineering Documents_SPICE-MEM-010.pdf",
+    "chars": 2784
+  },
+  "psi_PSI-107_71": {
+    "id": "psi_PSI-107_71",
+    "title": "PSI-107_Raw Data_SPICE_FuelFlow_EngineeringUnitControl",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Raw Data_SPICE_FuelFlow_EngineeringUnitControl.pdf",
+    "chars": 5610
+  },
+  "psi_PSI-107_8": {
+    "id": "psi_PSI-107_8",
+    "title": "PSI-107_Presentations_IP-C Crew training 2010",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Presentations_IP-C Crew training 2010.pdf",
+    "chars": 24814
+  },
+  "psi_PSI-107_9": {
+    "id": "psi_PSI-107_9",
+    "title": "PSI-107_Presentations_IP-D Crew training 2011",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "authors": [],
+    "investigation": "PSI-107",
+    "file_name": "PSI-107_Presentations_IP-D Crew training 2011.pdf",
+    "chars": 23314
+  },
+  "psi_PSI-10_1": {
+    "id": "psi_PSI-10_1",
+    "title": "PSI-10_Reports_FinalRpt_ACMEFlameDesign",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Reports_FinalRpt_ACMEFlameDesign.pdf",
+    "chars": 297515
+  },
+  "psi_PSI-10_1054": {
+    "id": "psi_PSI-10_1054",
+    "title": "PSI-10_Raw Data_22018 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_22018 flow traces etc.pdf",
+    "chars": 8930
+  },
+  "psi_PSI-10_11": {
+    "id": "psi_PSI-10_11",
+    "title": "PSI-10_Raw Data_21301 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_21301 flow traces etc.pdf",
+    "chars": 12869
+  },
+  "psi_PSI-10_1200": {
+    "id": "psi_PSI-10_1200",
+    "title": "PSI-10_Raw Data_21361 flow traces etc 20211122",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_21361 flow traces etc 20211122.pdf",
+    "chars": 15497
+  },
+  "psi_PSI-10_1433": {
+    "id": "psi_PSI-10_1433",
+    "title": "PSI-10_Raw Data_21349 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_21349 flow traces etc.pdf",
+    "chars": 16221
+  },
+  "psi_PSI-10_1555": {
+    "id": "psi_PSI-10_1555",
+    "title": "PSI-10_Raw Data_21340 flow traces etc 20211206",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_21340 flow traces etc 20211206.pdf",
+    "chars": 9499
+  },
+  "psi_PSI-10_1657": {
+    "id": "psi_PSI-10_1657",
+    "title": "PSI-10_Raw Data_21328 flow traces etc 20211122",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_21328 flow traces etc 20211122.pdf",
+    "chars": 6067
+  },
+  "psi_PSI-10_2": {
+    "id": "psi_PSI-10_2",
+    "title": "PSI-10_Science Documents_SRD_ACMEFlameDesign",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Science Documents_SRD_ACMEFlameDesign.pdf",
+    "chars": 137308
+  },
+  "psi_PSI-10_2088": {
+    "id": "psi_PSI-10_2088",
+    "title": "PSI-10_Raw Data_19137 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_19137 flow traces etc.pdf",
+    "chars": 6368
+  },
+  "psi_PSI-10_228": {
+    "id": "psi_PSI-10_228",
+    "title": "PSI-10_Raw Data_19156 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_19156 flow traces etc.pdf",
+    "chars": 11068
+  },
+  "psi_PSI-10_2318": {
+    "id": "psi_PSI-10_2318",
+    "title": "PSI-10_Raw Data_19123 flow traces etc dps",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_19123 flow traces etc dps.pdf",
+    "chars": 12510
+  },
+  "psi_PSI-10_2485": {
+    "id": "psi_PSI-10_2485",
+    "title": "PSI-10_Raw Data_19115 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_19115 flow traces etc.pdf",
+    "chars": 7702
+  },
+  "psi_PSI-10_3": {
+    "id": "psi_PSI-10_3",
+    "title": "PSI-10_Reports_TaskbookRpts",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Reports_TaskbookRpts.pdf",
+    "chars": 239243
+  },
+  "psi_PSI-10_3126": {
+    "id": "psi_PSI-10_3126",
+    "title": "PSI-10_Raw Data_19189 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_19189 flow traces etc.pdf",
+    "chars": 5951
+  },
+  "psi_PSI-10_3312": {
+    "id": "psi_PSI-10_3312",
+    "title": "PSI-10_Raw Data_19182 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_19182 flow traces etc.pdf",
+    "chars": 14112
+  },
+  "psi_PSI-10_3499": {
+    "id": "psi_PSI-10_3499",
+    "title": "PSI-10_Raw Data_19175 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_19175 flow traces etc.pdf",
+    "chars": 13655
+  },
+  "psi_PSI-10_359": {
+    "id": "psi_PSI-10_359",
+    "title": "PSI-10_Raw Data_19150 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_19150 flow traces etc.pdf",
+    "chars": 10117
+  },
+  "psi_PSI-10_3667": {
+    "id": "psi_PSI-10_3667",
+    "title": "PSI-10_Raw Data_19171 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_19171 flow traces etc.pdf",
+    "chars": 8366
+  },
+  "psi_PSI-10_3800": {
+    "id": "psi_PSI-10_3800",
+    "title": "PSI-10_Science Documents_ACME_SORD",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Science Documents_ACME_SORD.pdf",
+    "chars": 114162
+  },
+  "psi_PSI-10_3801": {
+    "id": "psi_PSI-10_3801",
+    "title": "PSI-10_Science Documents_ACME_ISRD",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Science Documents_ACME_ISRD.pdf",
+    "chars": 320857
+  },
+  "psi_PSI-10_4": {
+    "id": "psi_PSI-10_4",
+    "title": "PSI-10_Reports_TaskbookPubsList_Feb2023",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Reports_TaskbookPubsList_Feb2023.pdf",
+    "chars": 9471
+  },
+  "psi_PSI-10_469": {
+    "id": "psi_PSI-10_469",
+    "title": "PSI-10_Raw Data_22035 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_22035 flow traces etc.pdf",
+    "chars": 10278
+  },
+  "psi_PSI-10_5": {
+    "id": "psi_PSI-10_5",
+    "title": "PSI-10_Engineering Documents_ACME Engineering Implementation Rpt.",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Engineering Documents_ACME Engineering Implementation Rpt..pdf",
+    "chars": 229787
+  },
+  "psi_PSI-10_644": {
+    "id": "psi_PSI-10_644",
+    "title": "PSI-10_Raw Data_22027 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_22027 flow traces etc.pdf",
+    "chars": 12042
+  },
+  "psi_PSI-10_828": {
+    "id": "psi_PSI-10_828",
+    "title": "PSI-10_Raw Data_22024 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "authors": [],
+    "investigation": "PSI-10",
+    "file_name": "PSI-10_Raw Data_22024 flow traces etc.pdf",
+    "chars": 28567
+  },
+  "psi_PSI-115_45": {
+    "id": "psi_PSI-115_45",
+    "title": "PSI-115_Reports_NNX17AF08A_FinalReport",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+    "authors": [],
+    "investigation": "PSI-115",
+    "file_name": "PSI-115_Reports_NNX17AF08A_FinalReport.pdf",
+    "chars": 78200
+  },
+  "psi_PSI-115_46": {
+    "id": "psi_PSI-115_46",
+    "title": "PSI-115_Science Documents_DataOrganizationDocument",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+    "authors": [],
+    "investigation": "PSI-115",
+    "file_name": "PSI-115_Science Documents_DataOrganizationDocument.pdf",
+    "chars": 2067
+  },
+  "psi_PSI-117_0": {
+    "id": "psi_PSI-117_0",
+    "title": "PSI-117_Presentations_PSI_Users_Group_Cool_Flames_in_Space_03302026",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "authors": [],
+    "investigation": "PSI-117",
+    "file_name": "PSI-117_Presentations_PSI_Users_Group_Cool_Flames_in_Space_03302026.pdf",
+    "chars": 25234
+  },
+  "psi_PSI-117_1": {
+    "id": "psi_PSI-117_1",
+    "title": "PSI-117_Presentations_Extinction_Characteristics_TFarouk",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "authors": [],
+    "investigation": "PSI-117",
+    "file_name": "PSI-117_Presentations_Extinction_Characteristics_TFarouk.pdf",
+    "chars": 19219
+  },
+  "psi_PSI-117_14": {
+    "id": "psi_PSI-117_14",
+    "title": "PSI-117_Reports_Dissertation_Combustion Behavior Of Sub-Millimeter Sized Oxygenated And N-Alka",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "authors": [],
+    "investigation": "PSI-117",
+    "file_name": "PSI-117_Reports_Dissertation_Combustion Behavior Of Sub-Millimeter Sized Oxygenated And N-Alka.pdf",
+    "chars": 355290
+  },
+  "psi_PSI-117_2": {
+    "id": "psi_PSI-117_2",
+    "title": "PSI-117_Presentations_Oscillatory_Cool Flame_TFarouk",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "authors": [],
+    "investigation": "PSI-117",
+    "file_name": "PSI-117_Presentations_Oscillatory_Cool Flame_TFarouk.pdf",
+    "chars": 37459
+  },
+  "psi_PSI-159_1": {
+    "id": "psi_PSI-159_1",
+    "title": "PSI-159_Reports_FinalRpt_ACME.CFI-G",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Reports_FinalRpt_ACME.CFI-G.pdf",
+    "chars": 239590
+  },
+  "psi_PSI-159_1036": {
+    "id": "psi_PSI-159_1036",
+    "title": "PSI-159_Raw Data_21088 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21088 flow traces etc.pdf",
+    "chars": 10587
+  },
+  "psi_PSI-159_12": {
+    "id": "psi_PSI-159_12",
+    "title": "PSI-159_Raw Data_21242 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21242 flow traces etc.pdf",
+    "chars": 2770
+  },
+  "psi_PSI-159_1208": {
+    "id": "psi_PSI-159_1208",
+    "title": "PSI-159_Raw Data_21153 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21153 flow traces etc.pdf",
+    "chars": 9297
+  },
+  "psi_PSI-159_1368": {
+    "id": "psi_PSI-159_1368",
+    "title": "PSI-159_Raw Data_21162 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21162 flow traces etc.pdf",
+    "chars": 7300
+  },
+  "psi_PSI-159_1517": {
+    "id": "psi_PSI-159_1517",
+    "title": "PSI-159_Raw Data_21196 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21196 flow traces etc.pdf",
+    "chars": 6946
+  },
+  "psi_PSI-159_1699": {
+    "id": "psi_PSI-159_1699",
+    "title": "PSI-159_Raw Data_21202 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21202 flow traces etc.pdf",
+    "chars": 5169
+  },
+  "psi_PSI-159_1831": {
+    "id": "psi_PSI-159_1831",
+    "title": "PSI-159_Raw Data_21209 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21209 flow traces etc.pdf",
+    "chars": 5513
+  },
+  "psi_PSI-159_1959": {
+    "id": "psi_PSI-159_1959",
+    "title": "PSI-159_Raw Data_21216 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21216 flow traces etc.pdf",
+    "chars": 5591
+  },
+  "psi_PSI-159_2": {
+    "id": "psi_PSI-159_2",
+    "title": "PSI-159_Engineering Documents_ACME Engineering Implementation Rpt.",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Engineering Documents_ACME Engineering Implementation Rpt..pdf",
+    "chars": 229787
+  },
+  "psi_PSI-159_2111": {
+    "id": "psi_PSI-159_2111",
+    "title": "PSI-159_Raw Data_21102 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21102 flow traces etc.pdf",
+    "chars": 13484
+  },
+  "psi_PSI-159_2284": {
+    "id": "psi_PSI-159_2284",
+    "title": "PSI-159_Raw Data_21106 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21106 flow traces etc.pdf",
+    "chars": 14019
+  },
+  "psi_PSI-159_245": {
+    "id": "psi_PSI-159_245",
+    "title": "PSI-159_Raw Data_21222 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21222 flow traces etc.pdf",
+    "chars": 3774
+  },
+  "psi_PSI-159_246": {
+    "id": "psi_PSI-159_246",
+    "title": "PSI-159_Raw Data_21222 flow traces etc-1",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21222 flow traces etc-1.pdf",
+    "chars": 3774
+  },
+  "psi_PSI-159_2541": {
+    "id": "psi_PSI-159_2541",
+    "title": "PSI-159_Raw Data_21125 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21125 flow traces etc.pdf",
+    "chars": 14020
+  },
+  "psi_PSI-159_2789": {
+    "id": "psi_PSI-159_2789",
+    "title": "PSI-159_Raw Data_21174 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21174 flow traces etc.pdf",
+    "chars": 8758
+  },
+  "psi_PSI-159_2971": {
+    "id": "psi_PSI-159_2971",
+    "title": "PSI-159_Raw Data_21291 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21291 flow traces etc.pdf",
+    "chars": 5663
+  },
+  "psi_PSI-159_3108": {
+    "id": "psi_PSI-159_3108",
+    "title": "PSI-159_Raw Data_21256 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21256 flow traces etc.pdf",
+    "chars": 6922
+  },
+  "psi_PSI-159_3286": {
+    "id": "psi_PSI-159_3286",
+    "title": "PSI-159_Raw Data_21265 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21265 flow traces etc.pdf",
+    "chars": 6937
+  },
+  "psi_PSI-159_3480": {
+    "id": "psi_PSI-159_3480",
+    "title": "PSI-159_Raw Data_21270 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21270 flow traces etc.pdf",
+    "chars": 4054
+  },
+  "psi_PSI-159_3597": {
+    "id": "psi_PSI-159_3597",
+    "title": "PSI-159_Raw Data_21277 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21277 flow traces etc.pdf",
+    "chars": 7113
+  },
+  "psi_PSI-159_360": {
+    "id": "psi_PSI-159_360",
+    "title": "PSI-159_Raw Data_21235 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21235 flow traces etc.pdf",
+    "chars": 4133
+  },
+  "psi_PSI-159_468": {
+    "id": "psi_PSI-159_468",
+    "title": "PSI-159_Raw Data_21112 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21112 flow traces etc.pdf",
+    "chars": 11674
+  },
+  "psi_PSI-159_52": {
+    "id": "psi_PSI-159_52",
+    "title": "PSI-159_Raw Data_21228 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21228 flow traces etc.pdf",
+    "chars": 6881
+  },
+  "psi_PSI-159_659": {
+    "id": "psi_PSI-159_659",
+    "title": "PSI-159_Raw Data_21130 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21130 flow traces etc.pdf",
+    "chars": 13575
+  },
+  "psi_PSI-159_919": {
+    "id": "psi_PSI-159_919",
+    "title": "PSI-159_Raw Data_21137 flow traces etc",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "authors": [],
+    "investigation": "PSI-159",
+    "file_name": "PSI-159_Raw Data_21137 flow traces etc.pdf",
+    "chars": 7075
+  },
+  "psi_PSI-23_2848": {
+    "id": "psi_PSI-23_2848",
+    "title": "PSI-23_Presentations_PS-01548 ACME info sheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_PS-01548 ACME info sheet.pdf",
+    "chars": 9297
+  },
+  "psi_PSI-23_2850": {
+    "id": "psi_PSI-23_2850",
+    "title": "PSI-23_Presentations_PS-02788 ACME info sheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_PS-02788 ACME info sheet.pdf",
+    "chars": 4812
+  },
+  "psi_PSI-23_2851": {
+    "id": "psi_PSI-23_2851",
+    "title": "PSI-23_Presentations_ACME fact sheet 20180519",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_ACME fact sheet 20180519.pdf",
+    "chars": 2452
+  },
+  "psi_PSI-23_2852": {
+    "id": "psi_PSI-23_2852",
+    "title": "PSI-23_Presentations_PS-03055 ACME info sheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_PS-03055 ACME info sheet.pdf",
+    "chars": 4985
+  },
+  "psi_PSI-23_2853": {
+    "id": "psi_PSI-23_2853",
+    "title": "PSI-23_Presentations_ACME fact sheet 20180820",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_ACME fact sheet 20180820.pdf",
+    "chars": 4644
+  },
+  "psi_PSI-23_2854": {
+    "id": "psi_PSI-23_2854",
+    "title": "PSI-23_Presentations_ACME pictorial overview slides 20170601",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_ACME pictorial overview slides 20170601.pdf",
+    "chars": 2823
+  },
+  "psi_PSI-23_2855": {
+    "id": "psi_PSI-23_2855",
+    "title": "PSI-23_Presentations_ACME_ASGSR_20121127",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_ACME_ASGSR_20121127.pdf",
+    "chars": 28995
+  },
+  "psi_PSI-23_2856": {
+    "id": "psi_PSI-23_2856",
+    "title": "PSI-23_Presentations_ACME_ASGSR_20131107",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_ACME_ASGSR_20131107.pdf",
+    "chars": 28851
+  },
+  "psi_PSI-23_2857": {
+    "id": "psi_PSI-23_2857",
+    "title": "PSI-23_Presentations_ACME_CSSCI_2014",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_ACME_CSSCI_2014.pdf",
+    "chars": 39727
+  },
+  "psi_PSI-23_2858": {
+    "id": "psi_PSI-23_2858",
+    "title": "PSI-23_Presentations_AIAA presentation - ACME on the ISS Jan2012",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_AIAA presentation - ACME on the ISS Jan2012.pdf",
+    "chars": 32176
+  },
+  "psi_PSI-23_2859": {
+    "id": "psi_PSI-23_2859",
+    "title": "PSI-23_Presentations_ISS Researchers Guide - Combustion In Reduced Gravity",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_ISS Researchers Guide - Combustion In Reduced Gravity.pdf",
+    "chars": 118976
+  },
+  "psi_PSI-23_2860": {
+    "id": "psi_PSI-23_2860",
+    "title": "PSI-23_Science Documents_ACME non-imaging data file description",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Science Documents_ACME non-imaging data file description.pdf",
+    "chars": 43743
+  },
+  "psi_PSI-23_2861": {
+    "id": "psi_PSI-23_2861",
+    "title": "PSI-23_Reference Data_ACME-DOC-010_D",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Reference Data_ACME-DOC-010_D.pdf",
+    "chars": 399396
+  },
+  "psi_PSI-23_2862": {
+    "id": "psi_PSI-23_2862",
+    "title": "PSI-23_Reference Data_ACME-DOC-010_D Software Interface Design Description",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Reference Data_ACME-DOC-010_D Software Interface Design Description.pdf",
+    "chars": 399396
+  },
+  "psi_PSI-23_2863": {
+    "id": "psi_PSI-23_2863",
+    "title": "PSI-23_Science Documents_ACME_Integrated_Science_Requirements_RevB",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Science Documents_ACME_Integrated_Science_Requirements_RevB.pdf",
+    "chars": 320857
+  },
+  "psi_PSI-23_2864": {
+    "id": "psi_PSI-23_2864",
+    "title": "PSI-23_Presentations_CIR Paper 59th IAC 2008",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_CIR Paper 59th IAC 2008.pdf",
+    "chars": 49517
+  },
+  "psi_PSI-23_2865": {
+    "id": "psi_PSI-23_2865",
+    "title": "PSI-23_Presentations_PS_00538  Unlocking Mysteries",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_PS_00538  Unlocking Mysteries.pdf",
+    "chars": 19103
+  },
+  "psi_PSI-23_2866": {
+    "id": "psi_PSI-23_2866",
+    "title": "PSI-23_Science Documents_ACME Science Operation Requirements revA 20111018",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Science Documents_ACME Science Operation Requirements revA 20111018.pdf",
+    "chars": 114162
+  },
+  "psi_PSI-23_2867": {
+    "id": "psi_PSI-23_2867",
+    "title": "PSI-23_Science Documents_ACME Integrated Science Requirements Definition Review 20100505",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Science Documents_ACME Integrated Science Requirements Definition Review 20100505.pdf",
+    "chars": 38157
+  },
+  "psi_PSI-23_2872": {
+    "id": "psi_PSI-23_2872",
+    "title": "PSI-23_Engineering Documents_ACME - Engineering Requirements Doc Rev K",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Engineering Documents_ACME - Engineering Requirements Doc Rev K.pdf",
+    "chars": 457942
+  },
+  "psi_PSI-23_2877": {
+    "id": "psi_PSI-23_2877",
+    "title": "PSI-23_Engineering Documents_ACME_engineering_20210328",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Engineering Documents_ACME_engineering_20210328.pdf",
+    "chars": 219995
+  },
+  "psi_PSI-23_2895": {
+    "id": "psi_PSI-23_2895",
+    "title": "PSI-23_Engineering Documents_S1101MFB0001_-ACME_Drawing_Tree",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Engineering Documents_S1101MFB0001_-ACME_Drawing_Tree.pdf",
+    "chars": 27460
+  },
+  "psi_PSI-23_3321": {
+    "id": "psi_PSI-23_3321",
+    "title": "PSI-23_Engineering Documents_s-Flame_RDR_201005",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Engineering Documents_s-Flame_RDR_201005.pdf",
+    "chars": 52464
+  },
+  "psi_PSI-23_3322": {
+    "id": "psi_PSI-23_3322",
+    "title": "PSI-23_Science Documents_s-Flame SCR 200802",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Science Documents_s-Flame SCR 200802.pdf",
+    "chars": 100573
+  },
+  "psi_PSI-23_3323": {
+    "id": "psi_PSI-23_3323",
+    "title": "PSI-23_Science Documents_s-Flame_SRD_20100125",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Science Documents_s-Flame_SRD_20100125.pdf",
+    "chars": 229106
+  },
+  "psi_PSI-23_3324": {
+    "id": "psi_PSI-23_3324",
+    "title": "PSI-23_Reports_s-Flame 30-day report Inc 63 20201216",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Reports_s-Flame 30-day report Inc 63 20201216.pdf",
+    "chars": 49884
+  },
+  "psi_PSI-23_4157": {
+    "id": "psi_PSI-23_4157",
+    "title": "PSI-23_Reports_s_Flame_final_report_20210729",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Reports_s_Flame_final_report_20210729.pdf",
+    "chars": 339701
+  },
+  "psi_PSI-23_4158": {
+    "id": "psi_PSI-23_4158",
+    "title": "PSI-23_Science Documents_ACME s-Flame  DoD",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Science Documents_ACME s-Flame  DoD.pdf",
+    "chars": 2635
+  },
+  "psi_PSI-23_4159": {
+    "id": "psi_PSI-23_4159",
+    "title": "PSI-23_Engineering Documents_s-Flame_data_interpretation_20210920",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Engineering Documents_s-Flame_data_interpretation_20210920.pdf",
+    "chars": 105503
+  },
+  "psi_PSI-23_4160": {
+    "id": "psi_PSI-23_4160",
+    "title": "PSI-23_Engineering Documents_s-Flames_procedure_20210408",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Engineering Documents_s-Flames_procedure_20210408.pdf",
+    "chars": 88238
+  },
+  "psi_PSI-23_4161": {
+    "id": "psi_PSI-23_4161",
+    "title": "PSI-23_Engineering Documents_ACME CDR_Presentation_Package",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Engineering Documents_ACME CDR_Presentation_Package.pdf",
+    "chars": 211136
+  },
+  "psi_PSI-23_4162": {
+    "id": "psi_PSI-23_4162",
+    "title": "PSI-23_Presentations_ACME_CSSCI_20140317",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-23",
+    "authors": [],
+    "investigation": "PSI-23",
+    "file_name": "PSI-23_Presentations_ACME_CSSCI_20140317.pdf",
+    "chars": 32378
+  },
+  "psi_PSI-25_417": {
+    "id": "psi_PSI-25_417",
+    "title": "PSI-25_Raw Data_GMT2014_050_BASS_S147M_TPB1_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_050_BASS_S147M_TPB1_ProofSheet.pdf",
+    "chars": 13681
+  },
+  "psi_PSI-25_418": {
+    "id": "psi_PSI-25_418",
+    "title": "PSI-25_Raw Data_GMT2014_050_BASS_S148M_TPB3_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_050_BASS_S148M_TPB3_ProofSheet.pdf",
+    "chars": 10997
+  },
+  "psi_PSI-25_419": {
+    "id": "psi_PSI-25_419",
+    "title": "PSI-25_Raw Data_GMT2014_050_BASS_S155M_TPB2_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_050_BASS_S155M_TPB2_ProofSheet.pdf",
+    "chars": 2950
+  },
+  "psi_PSI-25_420": {
+    "id": "psi_PSI-25_420",
+    "title": "PSI-25_Raw Data_GMT2014_050_BASS_S156M_TPB5_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_050_BASS_S156M_TPB5_ProofSheet.pdf",
+    "chars": 15014
+  },
+  "psi_PSI-25_421": {
+    "id": "psi_PSI-25_421",
+    "title": "PSI-25_Raw Data_GMT2014_050_BASS_S159M_TPB4_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_050_BASS_S159M_TPB4_ProofSheet.pdf",
+    "chars": 19559
+  },
+  "psi_PSI-25_422": {
+    "id": "psi_PSI-25_422",
+    "title": "PSI-25_Raw Data_GMT2014_050_BASS_S160M_TPB12_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_050_BASS_S160M_TPB12_ProofSheet.pdf",
+    "chars": 19314
+  },
+  "psi_PSI-25_423": {
+    "id": "psi_PSI-25_423",
+    "title": "PSI-25_Raw Data_GMT2014_050_BASS_S161M_TPB7_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_050_BASS_S161M_TPB7_ProofSheet.pdf",
+    "chars": 22384
+  },
+  "psi_PSI-25_424": {
+    "id": "psi_PSI-25_424",
+    "title": "PSI-25_Raw Data_GMT2014_183_BASS_S150M_TPB16ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_183_BASS_S150M_TPB16ProofSheet.pdf",
+    "chars": 21140
+  },
+  "psi_PSI-25_425": {
+    "id": "psi_PSI-25_425",
+    "title": "PSI-25_Raw Data_GMT2014_183_BASS_S151M_TPB19_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_183_BASS_S151M_TPB19_ProofSheet.pdf",
+    "chars": 21148
+  },
+  "psi_PSI-25_426": {
+    "id": "psi_PSI-25_426",
+    "title": "PSI-25_Raw Data_GMT2014_183_BASS_S152M_TPB20_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_183_BASS_S152M_TPB20_ProofSheet.pdf",
+    "chars": 24037
+  },
+  "psi_PSI-25_427": {
+    "id": "psi_PSI-25_427",
+    "title": "PSI-25_Raw Data_GMT2014_183_BASS_S174M_TPB14_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_183_BASS_S174M_TPB14_ProofSheet.pdf",
+    "chars": 9281
+  },
+  "psi_PSI-25_428": {
+    "id": "psi_PSI-25_428",
+    "title": "PSI-25_Raw Data_GMT2014_183_BASS_S175M_TPB17_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_183_BASS_S175M_TPB17_ProofSheet.pdf",
+    "chars": 40819
+  },
+  "psi_PSI-25_429": {
+    "id": "psi_PSI-25_429",
+    "title": "PSI-25_Raw Data_GMT2014_183_BASS_S176M_TPB18_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_183_BASS_S176M_TPB18_ProofSheet.pdf",
+    "chars": 33404
+  },
+  "psi_PSI-25_430": {
+    "id": "psi_PSI-25_430",
+    "title": "PSI-25_Raw Data_GMT2014_188_BASS_S149M_TPB15_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_188_BASS_S149M_TPB15_ProofSheet.pdf",
+    "chars": 15515
+  },
+  "psi_PSI-25_431": {
+    "id": "psi_PSI-25_431",
+    "title": "PSI-25_Raw Data_GMT2014_188_BASS_S153M_TPB6_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_188_BASS_S153M_TPB6_ProofSheet.pdf",
+    "chars": 16112
+  },
+  "psi_PSI-25_432": {
+    "id": "psi_PSI-25_432",
+    "title": "PSI-25_Raw Data_GMT2014_188_BASS_S154M_TPB9_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_188_BASS_S154M_TPB9_ProofSheet.pdf",
+    "chars": 10661
+  },
+  "psi_PSI-25_433": {
+    "id": "psi_PSI-25_433",
+    "title": "PSI-25_Raw Data_GMT2014_188_BASS_S157M_TPB8_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_188_BASS_S157M_TPB8_ProofSheet.pdf",
+    "chars": 22743
+  },
+  "psi_PSI-25_434": {
+    "id": "psi_PSI-25_434",
+    "title": "PSI-25_Raw Data_GMT2014_188_BASS_S158M_TPB11_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_188_BASS_S158M_TPB11_ProofSheet.pdf",
+    "chars": 28356
+  },
+  "psi_PSI-25_435": {
+    "id": "psi_PSI-25_435",
+    "title": "PSI-25_Raw Data_GMT2014_188_BASS_S162M_TPB13_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_188_BASS_S162M_TPB13_ProofSheet.pdf",
+    "chars": 39246
+  },
+  "psi_PSI-25_436": {
+    "id": "psi_PSI-25_436",
+    "title": "PSI-25_Raw Data_GMT2014_188_BASS_S173M_TPB10_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_188_BASS_S173M_TPB10_ProofSheet.pdf",
+    "chars": 27167
+  },
+  "psi_PSI-25_437": {
+    "id": "psi_PSI-25_437",
+    "title": "PSI-25_Raw Data_GMT2014_216_BASS_S174M_TPB21_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_216_BASS_S174M_TPB21_ProofSheet.pdf",
+    "chars": 20151
+  },
+  "psi_PSI-25_442": {
+    "id": "psi_PSI-25_442",
+    "title": "PSI-25_Raw Data_GMT2014_216_BASS_S176M_TPB22_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_216_BASS_S176M_TPB22_ProofSheet.pdf",
+    "chars": 16108
+  },
+  "psi_PSI-25_443": {
+    "id": "psi_PSI-25_443",
+    "title": "PSI-25_Raw Data_GMT2014_050_BASS_S227M_TPF1_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_050_BASS_S227M_TPF1_ProofSheet.pdf",
+    "chars": 12175
+  },
+  "psi_PSI-25_444": {
+    "id": "psi_PSI-25_444",
+    "title": "PSI-25_Raw Data_GMT2014_175_BASS_S39M_TPF04_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_175_BASS_S39M_TPF04_ProofSheet.pdf",
+    "chars": 55158
+  },
+  "psi_PSI-25_445": {
+    "id": "psi_PSI-25_445",
+    "title": "PSI-25_Raw Data_GMT2014_213_BASS_S229M_TPF3_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_213_BASS_S229M_TPF3_ProofSheet.pdf",
+    "chars": 7890
+  },
+  "psi_PSI-25_449": {
+    "id": "psi_PSI-25_449",
+    "title": "PSI-25_Raw Data_GMT2014_167_BASS_S185M_TPP1_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_167_BASS_S185M_TPP1_ProofSheet.pdf",
+    "chars": 63554
+  },
+  "psi_PSI-25_450": {
+    "id": "psi_PSI-25_450",
+    "title": "PSI-25_Raw Data_GMT2014_167_BASS_S188M_TPP2_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_167_BASS_S188M_TPP2_ProofSheet.pdf",
+    "chars": 62952
+  },
+  "psi_PSI-25_451": {
+    "id": "psi_PSI-25_451",
+    "title": "PSI-25_Raw Data_GMT2014_167_BASS_S215M_TPP3a_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_167_BASS_S215M_TPP3a_ProofSheet.pdf",
+    "chars": 63362
+  },
+  "psi_PSI-25_452": {
+    "id": "psi_PSI-25_452",
+    "title": "PSI-25_Raw Data_GMT2014_167_BASS_S215M_TPP3b_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_167_BASS_S215M_TPP3b_ProofSheet.pdf",
+    "chars": 63146
+  },
+  "psi_PSI-25_453": {
+    "id": "psi_PSI-25_453",
+    "title": "PSI-25_Raw Data_GMT2014_174_BASS_S189M_TPP14_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_174_BASS_S189M_TPP14_ProofSheet.pdf",
+    "chars": 32013
+  },
+  "psi_PSI-25_454": {
+    "id": "psi_PSI-25_454",
+    "title": "PSI-25_Raw Data_GMT2014_174_BASS_S190M_TPP15_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_174_BASS_S190M_TPP15_ProofSheet.pdf",
+    "chars": 37045
+  },
+  "psi_PSI-25_455": {
+    "id": "psi_PSI-25_455",
+    "title": "PSI-25_Raw Data_GMT2014_174_BASS_S196M_TPP21a_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_174_BASS_S196M_TPP21a_ProofSheet.pdf",
+    "chars": 13520
+  },
+  "psi_PSI-25_456": {
+    "id": "psi_PSI-25_456",
+    "title": "PSI-25_Raw Data_GMT2014_174_BASS_S196M_TPP21b_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_174_BASS_S196M_TPP21b_ProofSheet.pdf",
+    "chars": 3056
+  },
+  "psi_PSI-25_457": {
+    "id": "psi_PSI-25_457",
+    "title": "PSI-25_Raw Data_GMT2014_184_BASS_S186M_TPP6_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_184_BASS_S186M_TPP6_ProofSheet.pdf",
+    "chars": 33606
+  },
+  "psi_PSI-25_458": {
+    "id": "psi_PSI-25_458",
+    "title": "PSI-25_Raw Data_GMT2014_184_BASS_S187M_TPP10_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_184_BASS_S187M_TPP10_ProofSheet.pdf",
+    "chars": 47360
+  },
+  "psi_PSI-25_459": {
+    "id": "psi_PSI-25_459",
+    "title": "PSI-25_Raw Data_GMT2014_184_BASS_S197M_TPP4_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_184_BASS_S197M_TPP4_ProofSheet.pdf",
+    "chars": 62945
+  },
+  "psi_PSI-25_460": {
+    "id": "psi_PSI-25_460",
+    "title": "PSI-25_Raw Data_GMT2014_184_BASS_S198M_TPP8_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_184_BASS_S198M_TPP8_ProofSheet.pdf",
+    "chars": 15108
+  },
+  "psi_PSI-25_465": {
+    "id": "psi_PSI-25_465",
+    "title": "PSI-25_Raw Data_GMT2014_189_BASS_S200M_TPP22a_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_189_BASS_S200M_TPP22a_ProofSheet.pdf",
+    "chars": 15307
+  },
+  "psi_PSI-25_466": {
+    "id": "psi_PSI-25_466",
+    "title": "PSI-25_Raw Data_GMT2014_189_BASS_S200M_TPP22b_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_189_BASS_S200M_TPP22b_ProofSheet.pdf",
+    "chars": 34389
+  },
+  "psi_PSI-25_467": {
+    "id": "psi_PSI-25_467",
+    "title": "PSI-25_Raw Data_GMT2014_189_BASS_S217M_TPP25_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_189_BASS_S217M_TPP25_ProofSheet.pdf",
+    "chars": 53193
+  },
+  "psi_PSI-25_471": {
+    "id": "psi_PSI-25_471",
+    "title": "PSI-25_Raw Data_GMT2014_195_BASS_S202M_TPP5_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_195_BASS_S202M_TPP5_ProofSheet.pdf",
+    "chars": 63342
+  },
+  "psi_PSI-25_472": {
+    "id": "psi_PSI-25_472",
+    "title": "PSI-25_Raw Data_GMT2014_195_BASS_S202M_TPP9_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_195_BASS_S202M_TPP9_ProofSheet.pdf",
+    "chars": 31008
+  },
+  "psi_PSI-25_476": {
+    "id": "psi_PSI-25_476",
+    "title": "PSI-25_Raw Data_GMT2014_195_BASS_S203M_TPP13a_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_195_BASS_S203M_TPP13a_ProofSheet.pdf",
+    "chars": 53189
+  },
+  "psi_PSI-25_477": {
+    "id": "psi_PSI-25_477",
+    "title": "PSI-25_Raw Data_GMT2014_195_BASS_S203M_TPP13b_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_195_BASS_S203M_TPP13b_ProofSheet.pdf",
+    "chars": 16892
+  },
+  "psi_PSI-25_478": {
+    "id": "psi_PSI-25_478",
+    "title": "PSI-25_Raw Data_GMT2014_203_BASS_S191M_TPP16_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_203_BASS_S191M_TPP16_ProofSheet.pdf",
+    "chars": 29160
+  },
+  "psi_PSI-25_479": {
+    "id": "psi_PSI-25_479",
+    "title": "PSI-25_Raw Data_GMT2014_203_BASS_S194M_TPP19_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_203_BASS_S194M_TPP19_ProofSheet.pdf",
+    "chars": 59750
+  },
+  "psi_PSI-25_480": {
+    "id": "psi_PSI-25_480",
+    "title": "PSI-25_Raw Data_GMT2014_210_BASS_S192_TPP17_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_210_BASS_S192_TPP17_ProofSheet.pdf",
+    "chars": 40220
+  },
+  "psi_PSI-25_481": {
+    "id": "psi_PSI-25_481",
+    "title": "PSI-25_Raw Data_GMT2014_210_BASS_S199_TPP12_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_210_BASS_S199_TPP12_ProofSheet.pdf",
+    "chars": 56325
+  },
+  "psi_PSI-25_482": {
+    "id": "psi_PSI-25_482",
+    "title": "PSI-25_Raw Data_GMT2014_211_BASS_S193M_TPP18_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_211_BASS_S193M_TPP18_ProofSheet.pdf",
+    "chars": 58330
+  },
+  "psi_PSI-25_483": {
+    "id": "psi_PSI-25_483",
+    "title": "PSI-25_Raw Data_GMT2014_211_BASS_S195M_TPP20_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_211_BASS_S195M_TPP20_ProofSheet.pdf",
+    "chars": 41772
+  },
+  "psi_PSI-25_484": {
+    "id": "psi_PSI-25_484",
+    "title": "PSI-25_Raw Data_GMT2014_211_BASS_S201M_TPP23_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_211_BASS_S201M_TPP23_ProofSheet.pdf",
+    "chars": 41763
+  },
+  "psi_PSI-25_485": {
+    "id": "psi_PSI-25_485",
+    "title": "PSI-25_Raw Data_GMT2014_211_BASS_S819L_TPP24_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_211_BASS_S819L_TPP24_ProofSheet.pdf",
+    "chars": 41764
+  },
+  "psi_PSI-25_486": {
+    "id": "psi_PSI-25_486",
+    "title": "PSI-25_Raw Data_GMT2014_051_BASS_S167M_TPM5_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_051_BASS_S167M_TPM5_ProofSheet.pdf",
+    "chars": 86110
+  },
+  "psi_PSI-25_487": {
+    "id": "psi_PSI-25_487",
+    "title": "PSI-25_Raw Data_GMT2014_051_BASS_S222M_TPM1_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_051_BASS_S222M_TPM1_ProofSheet.pdf",
+    "chars": 63363
+  },
+  "psi_PSI-25_488": {
+    "id": "psi_PSI-25_488",
+    "title": "PSI-25_Raw Data_GMT2014_051_BASS_S223M_TPM14_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_051_BASS_S223M_TPM14_ProofSheet.pdf",
+    "chars": 52083
+  },
+  "psi_PSI-25_489": {
+    "id": "psi_PSI-25_489",
+    "title": "PSI-25_Raw Data_GMT2014_051_BASS_S224_TPM2_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_051_BASS_S224_TPM2_ProofSheet.pdf",
+    "chars": 54745
+  },
+  "psi_PSI-25_490": {
+    "id": "psi_PSI-25_490",
+    "title": "PSI-25_Raw Data_GMT2014_188_BASS_S225M_TPM15_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_188_BASS_S225M_TPM15_ProofSheet.pdf",
+    "chars": 32799
+  },
+  "psi_PSI-25_491": {
+    "id": "psi_PSI-25_491",
+    "title": "PSI-25_Raw Data_GMT2014_192_BASS_S177M_TPM7_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_192_BASS_S177M_TPM7_ProofSheet.pdf",
+    "chars": 66799
+  },
+  "psi_PSI-25_492": {
+    "id": "psi_PSI-25_492",
+    "title": "PSI-25_Raw Data_GMT2014_192_BASS_S178M_TPM8_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_192_BASS_S178M_TPM8_ProofSheet.pdf",
+    "chars": 62941
+  },
+  "psi_PSI-25_493": {
+    "id": "psi_PSI-25_493",
+    "title": "PSI-25_Raw Data_GMT2014_192_BASS_S179M_TPM9_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_192_BASS_S179M_TPM9_ProofSheet.pdf",
+    "chars": 30825
+  },
+  "psi_PSI-25_494": {
+    "id": "psi_PSI-25_494",
+    "title": "PSI-25_Raw Data_GMT2014_192_BASS_S181M_TPM11_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_192_BASS_S181M_TPM11_ProofSheet.pdf",
+    "chars": 51478
+  },
+  "psi_PSI-25_495": {
+    "id": "psi_PSI-25_495",
+    "title": "PSI-25_Raw Data_GMT2014_192_BASS_S226M_TPM3_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_192_BASS_S226M_TPM3_ProofSheet.pdf",
+    "chars": 46447
+  },
+  "psi_PSI-25_496": {
+    "id": "psi_PSI-25_496",
+    "title": "PSI-25_Raw Data_GMT2014_196_BASS_S166M_TPM17_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_196_BASS_S166M_TPM17_ProofSheet.pdf",
+    "chars": 64372
+  },
+  "psi_PSI-25_497": {
+    "id": "psi_PSI-25_497",
+    "title": "PSI-25_Raw Data_GMT2014_196_BASS_S168M_TPM18_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_196_BASS_S168M_TPM18_ProofSheet.pdf",
+    "chars": 35213
+  },
+  "psi_PSI-25_498": {
+    "id": "psi_PSI-25_498",
+    "title": "PSI-25_Raw Data_GMT2014_204_BASS_S164M_TPM16_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_204_BASS_S164M_TPM16_ProofSheet.pdf",
+    "chars": 64146
+  },
+  "psi_PSI-25_499": {
+    "id": "psi_PSI-25_499",
+    "title": "PSI-25_Raw Data_GMT2014_204_BASS_S170M_TPM19_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_204_BASS_S170M_TPM19_ProofSheet.pdf",
+    "chars": 43271
+  },
+  "psi_PSI-25_500": {
+    "id": "psi_PSI-25_500",
+    "title": "PSI-25_Raw Data_GMT2014_204_BASS_S180M_TPM10_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_204_BASS_S180M_TPM10_ProofSheet.pdf",
+    "chars": 43071
+  },
+  "psi_PSI-25_501": {
+    "id": "psi_PSI-25_501",
+    "title": "PSI-25_Raw Data_GMT2014_212_BASS_S163M_TPM6_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_212_BASS_S163M_TPM6_ProofSheet.pdf",
+    "chars": 54348
+  },
+  "psi_PSI-25_502": {
+    "id": "psi_PSI-25_502",
+    "title": "PSI-25_Raw Data_GMT2014_212_BASS_S165M_TPM12_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_212_BASS_S165M_TPM12_ProofSheet.pdf",
+    "chars": 56527
+  },
+  "psi_PSI-25_503": {
+    "id": "psi_PSI-25_503",
+    "title": "PSI-25_Raw Data_GMT2014_212_BASS_S169M_TPM13_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_212_BASS_S169M_TPM13_ProofSheet.pdf",
+    "chars": 53907
+  },
+  "psi_PSI-25_504": {
+    "id": "psi_PSI-25_504",
+    "title": "PSI-25_Raw Data_GMT2014_212_BASS_S171M_TPM4_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_212_BASS_S171M_TPM4_ProofSheet.pdf",
+    "chars": 54738
+  },
+  "psi_PSI-25_505": {
+    "id": "psi_PSI-25_505",
+    "title": "PSI-25_Raw Data_GMT2014_213_BASS_S172M_TPM20_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_213_BASS_S172M_TPM20_ProofSheet.pdf",
+    "chars": 34986
+  },
+  "psi_PSI-25_506": {
+    "id": "psi_PSI-25_506",
+    "title": "PSI-25_Raw Data_GMT2014_049_BASS_S204_TPO2_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_049_BASS_S204_TPO2_ProofSheet.pdf",
+    "chars": 59395
+  },
+  "psi_PSI-25_507": {
+    "id": "psi_PSI-25_507",
+    "title": "PSI-25_Raw Data_GMT2014_049_BASS_S207_TPO1_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_049_BASS_S207_TPO1_ProofSheet.pdf",
+    "chars": 13436
+  },
+  "psi_PSI-25_508": {
+    "id": "psi_PSI-25_508",
+    "title": "PSI-25_Raw Data_GMT2014_164_BASS_S205M_TPO3a_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_164_BASS_S205M_TPO3a_ProofSheet.pdf",
+    "chars": 16494
+  },
+  "psi_PSI-25_509": {
+    "id": "psi_PSI-25_509",
+    "title": "PSI-25_Raw Data_GMT2014_164_BASS_S205M_TPO3b_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_164_BASS_S205M_TPO3b_ProofSheet.pdf",
+    "chars": 45472
+  },
+  "psi_PSI-25_510": {
+    "id": "psi_PSI-25_510",
+    "title": "PSI-25_Raw Data_GMT2014_177_BASS_S206M_TP06_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_177_BASS_S206M_TP06_ProofSheet.pdf",
+    "chars": 52278
+  },
+  "psi_PSI-25_511": {
+    "id": "psi_PSI-25_511",
+    "title": "PSI-25_Raw Data_GMT2014_177_BASS_S208M_TP08a_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_177_BASS_S208M_TP08a_ProofSheet.pdf",
+    "chars": 30345
+  },
+  "psi_PSI-25_512": {
+    "id": "psi_PSI-25_512",
+    "title": "PSI-25_Raw Data_GMT2014_177_BASS_S208M_TP08b_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_177_BASS_S208M_TP08b_ProofSheet.pdf",
+    "chars": 33399
+  },
+  "psi_PSI-25_513": {
+    "id": "psi_PSI-25_513",
+    "title": "PSI-25_Raw Data_GMT2014_177_BASS_S209M_TP09_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_177_BASS_S209M_TP09_ProofSheet.pdf",
+    "chars": 33783
+  },
+  "psi_PSI-25_514": {
+    "id": "psi_PSI-25_514",
+    "title": "PSI-25_Raw Data_GMT2014_177_BASS_S214M_TP07_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_177_BASS_S214M_TP07_ProofSheet.pdf",
+    "chars": 52948
+  },
+  "psi_PSI-25_518": {
+    "id": "psi_PSI-25_518",
+    "title": "PSI-25_Raw Data_GMT2014_189_BASS_S184M_TPO11_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_189_BASS_S184M_TPO11_ProofSheet.pdf",
+    "chars": 56320
+  },
+  "psi_PSI-25_519": {
+    "id": "psi_PSI-25_519",
+    "title": "PSI-25_Raw Data_GMT2014_189_BASS_S216M_TPO4_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_189_BASS_S216M_TPO4_ProofSheet.pdf",
+    "chars": 53428
+  },
+  "psi_PSI-25_520": {
+    "id": "psi_PSI-25_520",
+    "title": "PSI-25_Raw Data_GMT2014_189_BASS_S217M_TPO12_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_189_BASS_S217M_TPO12_ProofSheet.pdf",
+    "chars": 13102
+  },
+  "psi_PSI-25_521": {
+    "id": "psi_PSI-25_521",
+    "title": "PSI-25_Raw Data_GMT2014_202_BASS_S220M_TPO5a_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_202_BASS_S220M_TPO5a_ProofSheet.pdf",
+    "chars": 35694
+  },
+  "psi_PSI-25_523": {
+    "id": "psi_PSI-25_523",
+    "title": "PSI-25_Raw Data_GMT2014_202_BASS_S221M_TPO13a_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_202_BASS_S221M_TPO13a_ProofSheet.pdf",
+    "chars": 43473
+  },
+  "psi_PSI-25_525": {
+    "id": "psi_PSI-25_525",
+    "title": "PSI-25_Raw Data_GMT2014_203_BASS_S210M_TPO10_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_203_BASS_S210M_TPO10_ProofSheet.pdf",
+    "chars": 37645
+  },
+  "psi_PSI-25_526": {
+    "id": "psi_PSI-25_526",
+    "title": "PSI-25_Raw Data_GMT2014_203_BASS_S211M_TPO17_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_203_BASS_S211M_TPO17_ProofSheet.pdf",
+    "chars": 37440
+  },
+  "psi_PSI-25_527": {
+    "id": "psi_PSI-25_527",
+    "title": "PSI-25_Raw Data_GMT2014_209_BASS_S212M_TPO18_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_209_BASS_S212M_TPO18_ProofSheet.pdf",
+    "chars": 38231
+  },
+  "psi_PSI-25_528": {
+    "id": "psi_PSI-25_528",
+    "title": "PSI-25_Raw Data_GMT2014_209_BASS_S218M_TPO15a_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_209_BASS_S218M_TPO15a_ProofSheet.pdf",
+    "chars": 28355
+  },
+  "psi_PSI-25_529": {
+    "id": "psi_PSI-25_529",
+    "title": "PSI-25_Raw Data_GMT2014_209_BASS_S218M_TPO15b_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_209_BASS_S218M_TPO15b_ProofSheet.pdf",
+    "chars": 66599
+  },
+  "psi_PSI-25_530": {
+    "id": "psi_PSI-25_530",
+    "title": "PSI-25_Raw Data_GMT2014_210_BASS_S219_TPO16_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_210_BASS_S219_TPO16_ProofSheet.pdf",
+    "chars": 2256
+  },
+  "psi_PSI-25_532": {
+    "id": "psi_PSI-25_532",
+    "title": "PSI-25_Raw Data_GMT2014_213_BASS_S183M_TPO14_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_213_BASS_S183M_TPO14_ProofSheet.pdf",
+    "chars": 58111
+  },
+  "psi_PSI-25_533": {
+    "id": "psi_PSI-25_533",
+    "title": "PSI-25_Raw Data_GMT2014_213_BASS_S213M_TPO19_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_213_BASS_S213M_TPO19_ProofSheet.pdf",
+    "chars": 55536
+  },
+  "psi_PSI-25_534": {
+    "id": "psi_PSI-25_534",
+    "title": "PSI-25_Raw Data_GMT2014_045_BASS_S128_TPT1_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_045_BASS_S128_TPT1_ProofSheet.pdf",
+    "chars": 24661
+  },
+  "psi_PSI-25_535": {
+    "id": "psi_PSI-25_535",
+    "title": "PSI-25_Raw Data_GMT2014_045_BASS_S129_TPT2_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_045_BASS_S129_TPT2_ProofSheet.pdf",
+    "chars": 27637
+  },
+  "psi_PSI-25_536": {
+    "id": "psi_PSI-25_536",
+    "title": "PSI-25_Raw Data_GMT2014_045_BASS_S130_TPT4_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_045_BASS_S130_TPT4_ProofSheet.pdf",
+    "chars": 28717
+  },
+  "psi_PSI-25_537": {
+    "id": "psi_PSI-25_537",
+    "title": "PSI-25_Raw Data_GMT2014_045_BASS_S138_TPT15_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_045_BASS_S138_TPT15_ProofSheet.pdf",
+    "chars": 14875
+  },
+  "psi_PSI-25_538": {
+    "id": "psi_PSI-25_538",
+    "title": "PSI-25_Raw Data_GMT2014_100_BASS_S131M_TPT5_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_100_BASS_S131M_TPT5_ProofSheet.pdf",
+    "chars": 22225
+  },
+  "psi_PSI-25_539": {
+    "id": "psi_PSI-25_539",
+    "title": "PSI-25_Raw Data_GMT2014_100_BASS_S132M_TPT6_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_100_BASS_S132M_TPT6_ProofSheet.pdf",
+    "chars": 22025
+  },
+  "psi_PSI-25_540": {
+    "id": "psi_PSI-25_540",
+    "title": "PSI-25_Raw Data_GMT2014_100_BASS_S137M_TPT13_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_100_BASS_S137M_TPT13_ProofSheet.pdf",
+    "chars": 11835
+  },
+  "psi_PSI-25_541": {
+    "id": "psi_PSI-25_541",
+    "title": "PSI-25_Raw Data_GMT2014_100_BASS_S139M_TPT16_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_100_BASS_S139M_TPT16_ProofSheet.pdf",
+    "chars": 21444
+  },
+  "psi_PSI-25_543": {
+    "id": "psi_PSI-25_543",
+    "title": "PSI-25_Raw Data_GMT2014_175_BASS_S133M_TPT09_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_175_BASS_S133M_TPT09_ProofSheet.pdf",
+    "chars": 12075
+  },
+  "psi_PSI-25_544": {
+    "id": "psi_PSI-25_544",
+    "title": "PSI-25_Raw Data_GMT2014_175_BASS_S134M_TPT10_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_175_BASS_S134M_TPT10_ProofSheet.pdf",
+    "chars": 4604
+  },
+  "psi_PSI-25_545": {
+    "id": "psi_PSI-25_545",
+    "title": "PSI-25_Raw Data_GMT2014_175_BASS_S141M_TPT18_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_175_BASS_S141M_TPT18_ProofSheet.pdf",
+    "chars": 13035
+  },
+  "psi_PSI-25_546": {
+    "id": "psi_PSI-25_546",
+    "title": "PSI-25_Raw Data_GMT2014_178_BASS_S135M_TPT11_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_178_BASS_S135M_TPT11_ProofSheet.pdf",
+    "chars": 22625
+  },
+  "psi_PSI-25_547": {
+    "id": "psi_PSI-25_547",
+    "title": "PSI-25_Raw Data_GMT2014_178_BASS_S136M_TPT12_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_178_BASS_S136M_TPT12_ProofSheet.pdf",
+    "chars": 9230
+  },
+  "psi_PSI-25_548": {
+    "id": "psi_PSI-25_548",
+    "title": "PSI-25_Raw Data_GMT2014_178_BASS_S140M_TPT14_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_178_BASS_S140M_TPT14_ProofSheet.pdf",
+    "chars": 25270
+  },
+  "psi_PSI-25_551": {
+    "id": "psi_PSI-25_551",
+    "title": "PSI-25_Raw Data_GMT2014_178_BASS_S142M_TPT17_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_178_BASS_S142M_TPT17_ProofSheet.pdf",
+    "chars": 19463
+  },
+  "psi_PSI-25_552": {
+    "id": "psi_PSI-25_552",
+    "title": "PSI-25_Raw Data_GMT2014_178_BASS_S182M_TPT03_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_178_BASS_S182M_TPT03_ProofSheet.pdf",
+    "chars": 67617
+  },
+  "psi_PSI-25_553": {
+    "id": "psi_PSI-25_553",
+    "title": "PSI-25_Raw Data_GMT2014_190_BASS_S133M_TPT23_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_190_BASS_S133M_TPT23_ProofSheet.pdf",
+    "chars": 10611
+  },
+  "psi_PSI-25_554": {
+    "id": "psi_PSI-25_554",
+    "title": "PSI-25_Raw Data_GMT2014_190_BASS_S133M_TPT24_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_190_BASS_S133M_TPT24_ProofSheet.pdf",
+    "chars": 19263
+  },
+  "psi_PSI-25_555": {
+    "id": "psi_PSI-25_555",
+    "title": "PSI-25_Raw Data_GMT2014_190_BASS_S143M_TPT19_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_190_BASS_S143M_TPT19_ProofSheet.pdf",
+    "chars": 14656
+  },
+  "psi_PSI-25_556": {
+    "id": "psi_PSI-25_556",
+    "title": "PSI-25_Raw Data_GMT2014_190_BASS_S144M_TPT20_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_190_BASS_S144M_TPT20_ProofSheet.pdf",
+    "chars": 8049
+  },
+  "psi_PSI-25_557": {
+    "id": "psi_PSI-25_557",
+    "title": "PSI-25_Raw Data_GMT2014_190_BASS_S145M_TPT21_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_190_BASS_S145M_TPT21_ProofSheet.pdf",
+    "chars": 8249
+  },
+  "psi_PSI-25_558": {
+    "id": "psi_PSI-25_558",
+    "title": "PSI-25_Raw Data_GMT2014_190_BASS_S146M_TPT22_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_190_BASS_S146M_TPT22_ProofSheet.pdf",
+    "chars": 9230
+  },
+  "psi_PSI-25_559": {
+    "id": "psi_PSI-25_559",
+    "title": "PSI-25_Raw Data_GMT2014_190_BASS_S182M_TPT7_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_190_BASS_S182M_TPT7_ProofSheet.pdf",
+    "chars": 63556
+  },
+  "psi_PSI-25_560": {
+    "id": "psi_PSI-25_560",
+    "title": "PSI-25_Raw Data_GMT2014_216_BASS_S137M_TPT26_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_216_BASS_S137M_TPT26_ProofSheet.pdf",
+    "chars": 18109
+  },
+  "psi_PSI-25_561": {
+    "id": "psi_PSI-25_561",
+    "title": "PSI-25_Raw Data_GMT2014_216_BASS_S138M_TPT25_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_216_BASS_S138M_TPT25_ProofSheet.pdf",
+    "chars": 13851
+  },
+  "psi_PSI-25_562": {
+    "id": "psi_PSI-25_562",
+    "title": "PSI-25_Raw Data_GMT2014_216_BASS_S144M_TPT28a_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_216_BASS_S144M_TPT28a_ProofSheet.pdf",
+    "chars": 4023
+  },
+  "psi_PSI-25_563": {
+    "id": "psi_PSI-25_563",
+    "title": "PSI-25_Raw Data_GMT2014_216_BASS_S144M_TPT28b_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_216_BASS_S144M_TPT28b_ProofSheet.pdf",
+    "chars": 5604
+  },
+  "psi_PSI-25_564": {
+    "id": "psi_PSI-25_564",
+    "title": "PSI-25_Raw Data_GMT2014_216_BASS_S145M_TPT29_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_216_BASS_S145M_TPT29_ProofSheet.pdf",
+    "chars": 12555
+  },
+  "psi_PSI-25_565": {
+    "id": "psi_PSI-25_565",
+    "title": "PSI-25_Raw Data_GMT2014_216_BASS_S146M_TPT27_ProofSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Raw Data_GMT2014_216_BASS_S146M_TPT27_ProofSheet.pdf",
+    "chars": 13656
+  },
+  "psi_PSI-25_691": {
+    "id": "psi_PSI-25_691",
+    "title": "PSI-25_Science Documents_BASS-II_SRD",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "authors": [],
+    "investigation": "PSI-25",
+    "file_name": "PSI-25_Science Documents_BASS-II_SRD.pdf",
+    "chars": 17181
+  },
+  "psi_PSI-26_1": {
+    "id": "psi_PSI-26_1",
+    "title": "PSI-26_Presentations_FlammabilityAspectsofCottonFiberglassFabric_ASGSR2012",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "authors": [],
+    "investigation": "PSI-26",
+    "file_name": "PSI-26_Presentations_FlammabilityAspectsofCottonFiberglassFabric_ASGSR2012.pdf",
+    "chars": 16145
+  },
+  "psi_PSI-26_10": {
+    "id": "psi_PSI-26_10",
+    "title": "PSI-26_Engineering Documents_BASS_SysAcceptanceReview.1",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "authors": [],
+    "investigation": "PSI-26",
+    "file_name": "PSI-26_Engineering Documents_BASS_SysAcceptanceReview.1.pdf",
+    "chars": 48096
+  },
+  "psi_PSI-26_11": {
+    "id": "psi_PSI-26_11",
+    "title": "PSI-26_Engineering Documents_BASS_SysAcceptanceReview.2",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "authors": [],
+    "investigation": "PSI-26",
+    "file_name": "PSI-26_Engineering Documents_BASS_SysAcceptanceReview.2.pdf",
+    "chars": 19836
+  },
+  "psi_PSI-26_2": {
+    "id": "psi_PSI-26_2",
+    "title": "PSI-26_Presentations_BASS_Overview of Recent ISS Results",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "authors": [],
+    "investigation": "PSI-26",
+    "file_name": "PSI-26_Presentations_BASS_Overview of Recent ISS Results.pdf",
+    "chars": 19301
+  },
+  "psi_PSI-26_208": {
+    "id": "psi_PSI-26_208",
+    "title": "PSI-26_Science Documents_SRD_BASS",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "authors": [],
+    "investigation": "PSI-26",
+    "file_name": "PSI-26_Science Documents_SRD_BASS.pdf",
+    "chars": 21049
+  },
+  "psi_PSI-26_4": {
+    "id": "psi_PSI-26_4",
+    "title": "PSI-26_Presentations_Flammability Aspects of Fabric_USNationalCombustion2013",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "authors": [],
+    "investigation": "PSI-26",
+    "file_name": "PSI-26_Presentations_Flammability Aspects of Fabric_USNationalCombustion2013.pdf",
+    "chars": 14972
+  },
+  "psi_PSI-26_7": {
+    "id": "psi_PSI-26_7",
+    "title": "PSI-26_Engineering Documents_SLICE_SysReqDesignReview",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "authors": [],
+    "investigation": "PSI-26",
+    "file_name": "PSI-26_Engineering Documents_SLICE_SysReqDesignReview.pdf",
+    "chars": 20544
+  },
+  "psi_PSI-26_8": {
+    "id": "psi_PSI-26_8",
+    "title": "PSI-26_Presentations_Crew Training 2010",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "authors": [],
+    "investigation": "PSI-26",
+    "file_name": "PSI-26_Presentations_Crew Training 2010.pdf",
+    "chars": 24814
+  },
+  "psi_PSI-26_9": {
+    "id": "psi_PSI-26_9",
+    "title": "PSI-26_Presentations_Crew Training 2011",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "authors": [],
+    "investigation": "PSI-26",
+    "file_name": "PSI-26_Presentations_Crew Training 2011.pdf",
+    "chars": 23314
+  },
+  "psi_PSI-39_1861": {
+    "id": "psi_PSI-39_1861",
+    "title": "PSI-39_Analyzed Data_FLEX-1239_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1239_Summary.pdf",
+    "chars": 3482
+  },
+  "psi_PSI-39_1862": {
+    "id": "psi_PSI-39_1862",
+    "title": "PSI-39_Analyzed Data_FLEX-1239_Summary_v2",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1239_Summary_v2.pdf",
+    "chars": 4555
+  },
+  "psi_PSI-39_1868": {
+    "id": "psi_PSI-39_1868",
+    "title": "PSI-39_Analyzed Data_FLEX-1253_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1253_Summary.pdf",
+    "chars": 4017
+  },
+  "psi_PSI-39_1888": {
+    "id": "psi_PSI-39_1888",
+    "title": "PSI-39_Analyzed Data_FLEX-1238_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1238_Summary.pdf",
+    "chars": 4478
+  },
+  "psi_PSI-39_1895": {
+    "id": "psi_PSI-39_1895",
+    "title": "PSI-39_Analyzed Data_FLEX-1240_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1240_Summary.pdf",
+    "chars": 5531
+  },
+  "psi_PSI-39_1911": {
+    "id": "psi_PSI-39_1911",
+    "title": "PSI-39_Analyzed Data_FLEX-1249_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1249_Summary.pdf",
+    "chars": 4377
+  },
+  "psi_PSI-39_1926": {
+    "id": "psi_PSI-39_1926",
+    "title": "PSI-39_Analyzed Data_FLEX-1250_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1250_Summary.pdf",
+    "chars": 4109
+  },
+  "psi_PSI-39_2185": {
+    "id": "psi_PSI-39_2185",
+    "title": "PSI-39_Analyzed Data_FLEX-1232_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1232_Summary.pdf",
+    "chars": 4128
+  },
+  "psi_PSI-39_2191": {
+    "id": "psi_PSI-39_2191",
+    "title": "PSI-39_Analyzed Data_FLEX-1231_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1231_Summary.pdf",
+    "chars": 4871
+  },
+  "psi_PSI-39_2196": {
+    "id": "psi_PSI-39_2196",
+    "title": "PSI-39_Analyzed Data_FLEX-1231_Summary_1",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1231_Summary_1.pdf",
+    "chars": 5665
+  },
+  "psi_PSI-39_2328": {
+    "id": "psi_PSI-39_2328",
+    "title": "PSI-39_Analyzed Data_FLEX-1227_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1227_Summary.pdf",
+    "chars": 4853
+  },
+  "psi_PSI-39_2345": {
+    "id": "psi_PSI-39_2345",
+    "title": "PSI-39_Analyzed Data_FLEX-1226_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1226_Summary.pdf",
+    "chars": 5357
+  },
+  "psi_PSI-39_2402": {
+    "id": "psi_PSI-39_2402",
+    "title": "PSI-39_Analyzed Data_FLEX-1223_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1223_Summary.pdf",
+    "chars": 4383
+  },
+  "psi_PSI-39_2542": {
+    "id": "psi_PSI-39_2542",
+    "title": "PSI-39_Analyzed Data_FLEX-1221_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1221_Summary.pdf",
+    "chars": 7335
+  },
+  "psi_PSI-39_2583": {
+    "id": "psi_PSI-39_2583",
+    "title": "PSI-39_Analyzed Data_FLEX-1218_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1218_Summary.pdf",
+    "chars": 4205
+  },
+  "psi_PSI-39_2625": {
+    "id": "psi_PSI-39_2625",
+    "title": "PSI-39_Analyzed Data_FLEX-1215_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1215_Summary.pdf",
+    "chars": 4769
+  },
+  "psi_PSI-39_2645": {
+    "id": "psi_PSI-39_2645",
+    "title": "PSI-39_Analyzed Data_FLEX-1213_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1213_Summary.pdf",
+    "chars": 4236
+  },
+  "psi_PSI-39_2655": {
+    "id": "psi_PSI-39_2655",
+    "title": "PSI-39_Analyzed Data_FLEX-1211_PrelimSummary_1",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1211_PrelimSummary_1.pdf",
+    "chars": 6772
+  },
+  "psi_PSI-39_2657": {
+    "id": "psi_PSI-39_2657",
+    "title": "PSI-39_Analyzed Data_FLEX-1211_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1211_Summary.pdf",
+    "chars": 3832
+  },
+  "psi_PSI-39_2681": {
+    "id": "psi_PSI-39_2681",
+    "title": "PSI-39_Analyzed Data_FLEX-1210_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1210_Summary.pdf",
+    "chars": 3174
+  },
+  "psi_PSI-39_2701": {
+    "id": "psi_PSI-39_2701",
+    "title": "PSI-39_Analyzed Data_FLEX-1209_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1209_Summary.pdf",
+    "chars": 3683
+  },
+  "psi_PSI-39_2719": {
+    "id": "psi_PSI-39_2719",
+    "title": "PSI-39_Analyzed Data_FLEX-1208_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1208_Summary.pdf",
+    "chars": 3674
+  },
+  "psi_PSI-39_2737": {
+    "id": "psi_PSI-39_2737",
+    "title": "PSI-39_Analyzed Data_FLEX-1207_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1207_Summary.pdf",
+    "chars": 3468
+  },
+  "psi_PSI-39_2755": {
+    "id": "psi_PSI-39_2755",
+    "title": "PSI-39_Analyzed Data_FLEX-1206_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1206_Summary.pdf",
+    "chars": 3921
+  },
+  "psi_PSI-39_2798": {
+    "id": "psi_PSI-39_2798",
+    "title": "PSI-39_Analyzed Data_FLEX-1264_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1264_Summary.pdf",
+    "chars": 5209
+  },
+  "psi_PSI-39_2805": {
+    "id": "psi_PSI-39_2805",
+    "title": "PSI-39_Reports_CFI Science Final Report",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Reports_CFI Science Final Report.pdf",
+    "chars": 27354
+  },
+  "psi_PSI-39_2808": {
+    "id": "psi_PSI-39_2808",
+    "title": "PSI-39_Presentations_Cool Flames in Space, a Hot Prospect on Earth_CFI",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Presentations_Cool Flames in Space, a Hot Prospect on Earth_CFI.pdf",
+    "chars": 9810
+  },
+  "psi_PSI-39_2809": {
+    "id": "psi_PSI-39_2809",
+    "title": "PSI-39_Presentations_Aspects of Cool-Flame Supported Droplet Combustion in Microgravity_CFI",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Presentations_Aspects of Cool-Flame Supported Droplet Combustion in Microgravity_CFI.pdf",
+    "chars": 8904
+  },
+  "psi_PSI-39_2810": {
+    "id": "psi_PSI-39_2810",
+    "title": "PSI-39_Science Documents_SRD_CFI",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Science Documents_SRD_CFI.pdf",
+    "chars": 154538
+  },
+  "psi_PSI-39_2811": {
+    "id": "psi_PSI-39_2811",
+    "title": "PSI-39_Science Documents_CFI_SCR",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Science Documents_CFI_SCR.pdf",
+    "chars": 36432
+  },
+  "psi_PSI-39_2812": {
+    "id": "psi_PSI-39_2812",
+    "title": "PSI-39_Analyzed Data_FLEX-1393_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1393_Summary.pdf",
+    "chars": 5405
+  },
+  "psi_PSI-39_754": {
+    "id": "psi_PSI-39_754",
+    "title": "PSI-39_Analyzed Data_FLEX-1261_Summary_prelim",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1261_Summary_prelim.pdf",
+    "chars": 3749
+  },
+  "psi_PSI-39_761": {
+    "id": "psi_PSI-39_761",
+    "title": "PSI-39_Analyzed Data_FLEX-1261_Summary",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "authors": [],
+    "investigation": "PSI-39",
+    "file_name": "PSI-39_Analyzed Data_FLEX-1261_Summary.pdf",
+    "chars": 5183
+  },
+  "psi_PSI-47_2": {
+    "id": "psi_PSI-47_2",
+    "title": "PSI-47_Reports_DAFT_30Day.PostFlightReport",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-47",
+    "authors": [],
+    "investigation": "PSI-47",
+    "file_name": "PSI-47_Reports_DAFT_30Day.PostFlightReport.pdf",
+    "chars": 39264
+  },
+  "psi_PSI-47_26": {
+    "id": "psi_PSI-47_26",
+    "title": "PSI-47_Engineering Documents_Procedure.Sampling",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-47",
+    "authors": [],
+    "investigation": "PSI-47",
+    "file_name": "PSI-47_Engineering Documents_Procedure.Sampling.pdf",
+    "chars": 13563
+  },
+  "psi_PSI-47_27": {
+    "id": "psi_PSI-47_27",
+    "title": "PSI-47_Engineering Documents_Procedure.DataTransfer",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-47",
+    "authors": [],
+    "investigation": "PSI-47",
+    "file_name": "PSI-47_Engineering Documents_Procedure.DataTransfer.pdf",
+    "chars": 11239
+  },
+  "psi_PSI-47_28": {
+    "id": "psi_PSI-47_28",
+    "title": "PSI-47_Engineering Documents_Procedure.Restow",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-47",
+    "authors": [],
+    "investigation": "PSI-47",
+    "file_name": "PSI-47_Engineering Documents_Procedure.Restow.pdf",
+    "chars": 8196
+  },
+  "psi_PSI-47_29": {
+    "id": "psi_PSI-47_29",
+    "title": "PSI-47_Presentations_Daft_FactSheet",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-47",
+    "authors": [],
+    "investigation": "PSI-47",
+    "file_name": "PSI-47_Presentations_Daft_FactSheet.pdf",
+    "chars": 9425
+  },
+  "psi_PSI-47_30": {
+    "id": "psi_PSI-47_30",
+    "title": "PSI-47_Engineering Documents_Procedure.SetUp",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-47",
+    "authors": [],
+    "investigation": "PSI-47",
+    "file_name": "PSI-47_Engineering Documents_Procedure.SetUp.pdf",
+    "chars": 7857
+  },
+  "psi_PSI-98_71": {
+    "id": "psi_PSI-98_71",
+    "title": "PSI-98_Science Documents_SAFFIRE Objectives, Development and Status",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "authors": [],
+    "investigation": "PSI-98",
+    "file_name": "PSI-98_Science Documents_SAFFIRE Objectives, Development and Status.pdf",
+    "chars": 40510
+  },
+  "psi_PSI-98_73": {
+    "id": "psi_PSI-98_73",
+    "title": "PSI-98_Engineering Documents_SAFFIRE-I Operations",
+    "year": null,
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "authors": [],
+    "investigation": "PSI-98",
+    "file_name": "PSI-98_Engineering Documents_SAFFIRE-I Operations.pdf",
+    "chars": 2561
+  }
+}

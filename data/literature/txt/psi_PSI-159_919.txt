@@ -1,0 +1,341 @@
+          CFI-G Round 1, day 7, with 30% propane (C3H8)
+              Chamber filled to 1 atm with ~40% O2 (balance N2)
+   Extinction detection effectively turned off so tests were ended ‘manually’
+
+Test 21137A1 (test 1 of 12, hot flame 1 of 12) – sustained ignition, run with
+igniterPreheatDurationMs=1000, fuelIgnitionFlowSlpm=0.499,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.499,
+nitrogenTestFlow1Slpm=0
+
+
+
+
+                                         1
+Test 21137A1, continued
+
+
+
+
+                          2
+Test 21137A1, continued
+
+
+
+
+After test: 947 on lowest valve safety timer, 188 psia in oxidizer bottle, 125 psia
+in fuel bottle
+
+
+
+
+                                         3
+Test 21137A2 (test 2 of 12, hot flame 2 of 12) – sustained ignition, run with
+igniterPreheatDurationMs=1000, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=0.259, nitrogenIgnitionFlowSlpm=0,
+fuelTestFlow1Slpm=0.259, nitrogenTestFlow1Slpm=0
+
+
+
+
+                                         4
+Test 21137A2, continued
+
+
+
+
+                          5
+Test 21137A2, continued
+
+
+
+
+After test: 876 on lowest valve safety timer, 188 psia in oxidizer bottle, 122 psia
+in fuel bottle
+
+
+
+
+                                         6
+Test 21137A3 (test 3 of 12, hot flame 3 of 12) – sustained ignition, run with
+igniterPreheatDurationMs=1000, flowTimeoutSec=330,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.173,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.173,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=300
+
+
+
+
+                                         7
+Test 21137A3, continued
+
+
+
+
+                          8
+Test 21137A3, continued
+
+
+
+
+After test: 718 on lowest valve safety timer, 187 psia in oxidizer bottle, 118 psia
+in fuel bottle
+
+
+
+
+                                         9
+Test 21137B1 (test 4 of 12, hot flame 4 of 12) – sustained ignition, run with
+igniterPreheatDurationMs=1000, flowTimeoutSec=150,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.499,
+nitrogenIgnitionFlowSlpm=0.320, fuelTestFlow1Slpm=0.499,
+nitrogenTestFlow1Slpm=0.320, constantFlowTime1Sec=120
+
+
+
+
+                                        10
+Test 21137B1, continued
+
+
+
+
+                          11
+Test 21137B1, continued
+
+
+
+
+After test: 579 on lowest valve safety timer, 188 psia in oxidizer bottle, 107 psia
+in fuel bottle
+
+
+
+
+                                         12
+Test 21137B2 (test 5 of 12, hot flame 5 of 12) – sustained ignition, run with
+igniterPreheatDurationMs=1000, pmt2Gain=6, flowTimeoutSec=330,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.259,
+nitrogenIgnitionFlowSlpm=0.457, fuelTestFlow1Slpm=0.259,
+nitrogenTestFlow1Slpm=0.457, constantFlowTime1Sec=300
+
+
+
+
+                                        13
+Test 21137B2, continued
+
+
+
+
+                          14
+Test 21137B2, continued
+
+
+
+
+After test: 418 on lowest valve safety timer, 188 psia in oxidizer bottle, 101 psia
+in fuel bottle
+
+
+
+
+                                         15
+Test 21137A4 (test 6 of 12, hot flame 6 of 12) – sustained ignition, run with
+igniterPreheatDurationMs=1000, pmt2Gain=6, flowTimeoutSec=330,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.216,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.216,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=300
+
+
+
+
+                                        16
+Test 21137A4, continued
+
+
+
+
+                          17
+Test 21137A4, continued
+
+
+
+
+After test: 351 on lowest valve safety timer, 188 psia in oxidizer bottle, 98 psia
+in fuel bottle
+
+
+
+
+                                         18
+Test 21137A5 (test 7 of 12, hot flame 7 of 12) – sustained ignition, run with
+igniterPreheatDurationMs=1000, pmt2Gain=6, flowTimeoutSec=320,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.190,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.190,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=290
+
+
+
+
+                                        19
+Test 21137A5, continued
+
+
+
+
+                          20
+Test 21137A5, continued
+
+
+
+
+After test: 277 on lowest valve safety timer, 188 psia in oxidizer bottle, 96 psia
+in fuel bottle
+
+
+
+
+                                         21
+Test 21137A6 (test 8 of 12, hot flame 8 of 12) – sustained ignition, run with
+igniterPreheatDurationMs=1000, pmt2Gain=6, flowTimeoutSec=120,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.242,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.242,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=90
+
+
+
+
+                                        22
+Test 21137A6, continued
+
+
+
+
+                          23
+Test 21137A6, continued
+
+
+
+
+After test: 220 on lowest valve safety timer, 188 psia in oxidizer bottle, 94 psia
+in fuel bottle
+
+
+
+
+                                         24
+Test 21137A7 (test 9 of 12, hot flame 9 of 12) – sustained ignition, run with
+igniterPreheatDurationMs=1000, pmt2Gain=6, flowTimeoutSec=120,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.207,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.207,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=90
+
+
+
+
+                                        25
+Test 21137A7, continued
+
+
+
+
+                          26
+Test 21137A7, continued
+
+
+
+
+After test: 154 on lowest valve safety timer, 188 psia in oxidizer bottle, 92 psia
+in fuel bottle
+
+
+
+
+                                         27
+           Diluted to ~21% O2 (balance N2) and vented back to 1 atm
+
+Test 21137D1 (test 10 of 12, hot flame 10 of 12) – sustained ignition, run with
+igniterPreheatDurationMs=1000, pmt2Gain=6, flowTimeoutSec=150,
+fuelFlowIgnitionDeltaMs=500, fuelIgnitionFlowSlpm=0.499,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.499,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=120
+
+
+
+
+                                        28
+Test 21137D1, continued
+
+
+
+
+                          29
+Test 21137D1, continued
+
+
+
+
+After test: 116 on lowest valve safety timer, 188 psia in oxidizer bottle, 89 psia
+in fuel bottle
+
+
+
+
+                                         30
+Test 21137D2 (test 11 of 12, hot flame 11 of 12) – sustained ignition, run with
+igniterPreheatDurationMs=1000, pmt2Gain=6, flowTimeoutSec=90,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.086,
+nitrogenIgnitionFlowSlpm=0, fuelTestFlow1Slpm=0.086,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=60
+
+
+
+
+                                        31
+Test 21137D2, continued
+
+
+
+
+                          32
+Test 21137D2, continued
+
+
+
+
+After test: 66 on lowest valve safety timer, 188 psia in oxidizer bottle, 189 psia
+in fuel bottle
+
+
+
+
+                                         33
+Test 21137C1 (test 12 of 12, hot flame 12 of 12) – sustained ignition, run with
+igniterPreheatDurationMs=1000, pmt2Gain=6, flowTimeoutSec=40,
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=0.086,
+nitrogenIgnitionFlowSlpm=0.055, fuelTestFlow1Slpm=0.086,
+nitrogenTestFlow1Slpm=0.055, constantFlowTime1Sec=25
+
+
+
+
+                                        34
+Test 21137C1, continued
+
+
+
+
+                          35
+Test 21137C1, continued
+
+
+
+
+After test: 29 on lowest valve safety timer, 14.71 psia in oxidizer bottle, 88 psia
+in fuel bottle
+
+
+
+
+                                         36
+

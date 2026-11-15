@@ -1,0 +1,203 @@
+Test 19189A1 – successful ignition, run with
+nitrogenIgnitionFlowRateN2Slpm=0.381, ignitionToTestRampTimeSec=10
+
+
+
+
+After test, 928 on lowest valve safety timer, 333 psia in oxidizer bottle
+
+
+
+
+                                         1
+Test 19189A2 – successful ignition, repeat of A1 except for imaging (specifically
+where the HiBMs and illumimination package were not used), run with
+nitrogenIgnitionFlowRateN2Slpm=0.381, ignitionToTestRampTimeSec=10
+use HiBMs camera=No, HiBMs Illumination (backlight)=0
+
+
+
+
+After test, 889 on lowest valve safety timer, 336 psia in oxidizer bottle
+
+
+
+
+                                         2
+Test 19189A3 – successful ignition, exact repeat of A2, run with
+nitrogenIgnitionFlowRateN2Slpm=0.381, ignitionToTestRampTimeSec=10
+use HiBMs camera=No, HiBMs Illumination (backlight)=0
+
+
+
+
+After test, 851 on lowest valve safety timer, 335 psia in oxidizer bottle
+
+
+
+
+                                         3
+Test 19189D1 – successful ignition, run with stabilizationTime1Sec=3,
+stabilizationTime2Sec=3, nitrogenIgnitionFlowRateN2Slpm=0.381,
+ignitionToTestRampTimeSec=8
+use HiBMs camera=No, HiBMs Illumination (backlight)=0
+Lost proxy to IPSU-5 (i.e., IPSU-G), during the test, where the IPSU had to be
+rebooted after this test (D1). It was later determined that the IPSU stopped
+archiving and very little image data was recorded.
+
+
+
+
+After test, 779 on lowest valve safety timer, 335 psia in oxidizer bottle
+
+                                         4
+Test 19189A4 – successful ignition, run with stabilizationTime2Sec=0,
+fuelBottleIgnitionFlowRateN2Slpm=0.047,
+nitrogenIgnitionFlowRateN2Slpm=0.381, fuelBottleTestFlowRateN2Slpm=0.047,
+nitrogenTestFlowRateN2Slpm=0.541, ignitionToTestRampTimeSec=8
+use HiBMs use HiBMs camera=No, HiBMs Illumination (backlight)=0
+
+
+
+
+After test, 746 on lowest valve safety timer, 335 psia in oxidizer bottle
+
+
+
+
+                                         5
+Test 19189D2 – successful ignition, run with fiberTestPosition=15400,
+fiberSegmentDistance=300, stabilizationTime1Sec=3, stabilizationTime2Sec=3,
+fuelBottleIgnitionFlowRateN2Slpm=0.051,
+nitrogenIgnitionFlowRateN2Slpm=0.381, fuelBottleTestFlowRateN2Slpm=0.051,
+nitrogenTestRateN2Slpm=0.563, ignitionToTestRampTimeSec=8
+use HiBMs camera=No, HiBMs Illumination (backlight)=0,
+dataCamera Iris=25000
+
+
+
+
+After test, 708 on lowest valve safety timer, 336 psia in oxidizer bottle
+
+                                         6
+Test 19189D3 – successful ignition, similar conditions D2, run with
+fiberTestPosition=15300, fiberSegmentDistance=400, stabilizationTime1Sec=3,
+stabilizationTime2Sec=0, fuelBottleIgnitionFlowRateN2Slpm=0.052,
+nitrogenIgnitionFlowRateN2Slpm=0.381, fuelBottleTestFlowRateN2Slpm=0.052,
+nitrogenTestRateN2Slpm=0.56, ignitionToTestRampTimeSec=9
+use HiBMs camera=No, HiBMs Illumination (backlight)=0,
+dataCamera Iris=15000
+
+
+
+
+After test, 642 on lowest valve safety timer, 336 psia in oxidizer bottle
+
+                                         7
+Test 19189H1 – successful ignition, run exactly as planned except
+use HiBMs camera=No, HiBMs Illumination (backlight)=0
+
+
+
+
+After test, 569 on lowest valve safety timer, 336 psia in oxidizer bottle
+
+15-minute recirculation conducted after this test.
+
+
+
+                                         8
+Test 19189J1 – successful ignition, run with bracketingNumberOfExposures=2,
+bracketingExposureStartUsec=100000,
+bracketingExposureMultiplierTimes100=200, fiberIgnitionPosition=0,
+fiberTestPosition=0, fiberMoveDuringTest=FALSE
+use HiBMs camera=Yes, HiBMs Illumination (backlight)=65
+dataCamera Gain=24, dataCamera Focus=10025, dataCamera Iris=45000
+Analog Camera gain=21 (instead of 12 as intended)
+
+
+
+
+After test, 494 on lowest valve safety timer, 335 psia in oxidizer bottle
+
+                                         9
+Test 19189J2 – successful ignition, run with bracketingNumberOfExposures=2,
+bracketingExposureStartUsec=50000,
+bracketingExposureMultiplierTimes100=400, fiberIgnitionPosition=0,
+fiberTestPosition=0, fiberMoveDuringTest=FALSE
+use HiBMs camera=Yes, HiBMs Illumination (backlight)=65
+dataCamera Gain=30, dataCamera Focus=10025, dataCamera Iris=0
+Analog Camera gain=21 (instead of 12 as intended)
+
+
+
+
+After test, 422 on lowest valve safety timer, 336 psia in oxidizer bottle
+
+                                        10
+Test 19189J3 – successful ignition, run with bracketingNumberOfExposures=4,
+bracketingExposureStartUsec=50000,
+bracketingExposureMultiplierTimes100=250, fiberIgnitionPosition=11000,
+fiberTestPosition=15100, fiberMoveDuringTest=TRUE
+use HiBMs camera=No, HiBMs Illumination (backlight)=0
+dataCamera Gain=0, dataCamera Focus=9325, dataCamera Iris=25000
+Analog Camera gain=12 (as intended)
+
+
+
+
+After test, 345 on lowest valve safety timer, 336 psia in oxidizer bottle
+
+                                        11
+Test 19189K1 – successful ignition, run exactly as planned except
+use HiBMs camera=No, HiBMs Illumination (backlight)=0
+
+
+
+
+After test, 272 on lowest valve safety timer, 336 psia in oxidizer bottle
+
+
+
+
+                                        12
+Test 19189K2 – successful ignition, run with constantFlowTimeSec=4,
+RampFlowToZeroSec=80
+use HiBMs camera=No, HiBMs Illumination (backlight)=0
+
+
+
+
+After test, 199 on lowest valve safety timer, 336 psia in oxidizer bottle
+
+
+
+
+                                        13
+Test 19189K3 – successful ignition, run with stabilizationTime2Sec=10,
+constantFlowTimeSec=2, RampFlowToZeroSec=60
+use HiBMs camera=No, HiBMs Illumination (backlight)=0
+
+
+
+
+After test, 90 on lowest valve safety timer, 335 psia in oxidizer bottle
+
+
+
+
+                                         14
+Test 19189P1 – successful ignition, run with flowTimeoutSec=50,
+stabilizationTime2Sec=10, constantFlowTimeSec=2, RampFlowToZeroSec=60
+use HiBMs camera=No, HiBMs Illumination (backlight)=0
+
+
+
+
+After test, 25 on lowest valve safety timer, 336 psia in oxidizer bottle
+
+
+
+
+                                         15
+

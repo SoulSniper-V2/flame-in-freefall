@@ -1,0 +1,135 @@
+   iss038e048760              12:39:45          iss038e048761              12:39:46          iss038e048762              12:39:47          iss038e048763              12:39:48          iss038e048764              12:39:49          iss038e048765              12:39:50          iss038e048766              12:39:51
+   GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014
+     1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV
+        Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000
+(Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from
+            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)
+
+
+
+
+   iss038e048767              12:39:52          iss038e048768              12:39:54          iss038e048769              12:39:55          iss038e048770              12:39:56          iss038e048771              12:39:57          iss038e048772              12:39:58          iss038e048773              12:39:59
+   GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014
+     1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV
+        Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000
+(Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from
+            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)
+
+
+
+
+   iss038e048774              12:40:00          iss038e048775              12:40:02          iss038e048776              12:40:03          iss038e048777              12:40:04          iss038e048778              12:40:05          iss038e048779              12:40:06          iss038e048780              12:40:07
+   GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014
+     1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV
+        Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000
+(Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from
+            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)
+
+
+
+
+   iss038e048781              12:40:08          iss038e048782              12:40:09          iss038e048783              12:40:11          iss038e048784              12:40:12          iss038e048785              12:40:13          iss038e048786              12:40:14          iss038e048787              12:40:15
+   GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014
+     1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV
+        Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000
+(Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from
+            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                           1
+   iss038e048788              12:40:16          iss038e048789              12:40:17          iss038e048790              12:40:18          iss038e048791              12:40:19          iss038e048792              12:40:21          iss038e048793              12:40:22          iss038e048794              12:40:23
+   GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014
+     1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV
+        Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000
+(Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from
+            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)
+
+
+
+
+   iss038e048795              12:40:24          iss038e048796              12:40:25          iss038e048797              12:40:26          iss038e048798              12:40:27          iss038e048799              12:40:29          iss038e048800              12:40:30          iss038e048801              12:40:31
+   GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014
+     1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV
+        Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000
+(Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from
+            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)
+
+
+
+
+   iss038e048802              12:40:32          iss038e048803              12:40:33          iss038e048804              12:40:34          iss038e048805              12:40:35          iss038e048806              12:40:36          iss038e048807              12:40:37          iss038e048808              12:40:39
+   GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014
+     1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV
+        Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000
+(Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from
+            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)
+
+
+
+
+   iss038e048809              12:40:40          iss038e048810              12:40:41          iss038e048811              12:40:42          iss038e048812              12:40:43          iss038e048813              12:40:44          iss038e048814              12:40:45          iss038e048815              12:40:46
+   GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014
+     1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV
+        Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000
+(Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from
+            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                           2
+   iss038e048816              12:40:48          iss038e048817              12:40:49          iss038e048818              12:40:50          iss038e048819              12:40:51          iss038e048820              12:40:52          iss038e048821              12:40:53          iss038e048822              12:40:54
+   GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014
+     1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV
+        Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000
+(Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from
+            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)
+
+
+
+
+   iss038e048823              12:40:56          iss038e048824              12:40:57          iss038e048825              12:40:58          iss038e048826              12:40:59          iss038e048827              12:41:00          iss038e048828              12:41:01          iss038e048829              12:41:02
+   GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014
+     1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV
+        Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000
+(Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from
+            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)
+
+
+
+
+   iss038e048830              12:41:03          iss038e048831              12:41:04          iss038e048832              12:41:06          iss038e048833              12:41:07          iss038e048834              12:41:08          iss038e048835              12:41:09          iss038e048836              12:41:10
+   GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014
+     1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV
+        Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000
+(Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from
+            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)
+
+
+
+
+   iss038e048837              12:41:11          iss038e048838              12:41:12          iss038e048839              12:41:13          iss038e048840              12:41:15          iss038e048841              12:41:16          iss038e048842              12:41:17          iss038e048843              12:45:32
+   GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014
+     1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV
+        Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000
+(Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from
+            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                           3
+   iss038e048844              12:45:33          iss038e048845              12:45:38          iss038e048846              12:45:41          iss038e048847              12:45:42          iss038e048848              12:45:44
+   GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014          GMT 045                  02-14-2014
+     1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV             1/8 sec at f / 2.0         -2 EV
+        Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000                   Mode: Manual      ISO 1000
+(Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from   (Date/Time is minus 1 day 6 min 9 sec from
+            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)                            BASS Video Clock)
+
+
+
+
+                                                                                                                                                                                                                                 4
+

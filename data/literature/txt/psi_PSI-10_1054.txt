@@ -1,0 +1,381 @@
+            Flame Design: Round 2, inverse-flame day 5
+          Chamber filled to 14.7 psia with ~17% ethylene (balance N2)
+
+Test 22018A1 (test 1 of 14, flame 1 of 12) – sustained ignition, run as planned
+(without changes to submitted parameters)
+
+
+
+
+                                        1
+Test 22018A1, continued
+
+
+
+
+                          2
+Test 22018A1, continued
+
+
+
+
+After test: 952 on lowest valve safety timer, 83 psia in oxidizer bottle, 221 psia
+in fuel bottle
+
+
+
+
+                                         3
+Test 22018B1 (test 2 of 14, flame 2 of 12) – sustained ignition, TFP variant of A1,
+run with fiberTestPosition=15500
+
+
+
+
+                                         4
+Test 22018B1, continued
+
+
+
+
+                          5
+Test 22018B1, continued
+
+
+
+
+After test: 904 on lowest valve safety timer, 81 psia in oxidizer bottle, 221 psia
+in fuel bottle
+
+
+
+                                         6
+Test 22018C1 (test 3 of 14, flame 3 of 12) – sustained ignition, dilution variant of
+B1, run with fiberTestPosition=15500
+
+
+
+
+                                         7
+Test 22018C1, continued
+
+
+
+
+                          8
+Test 22018C1, continued
+
+
+
+
+After test: 857 on lowest valve safety timer, 80 psia in oxidizer bottle, 221 psia
+in fuel bottle
+
+
+
+                                         9
+Test 22018D1 (test 4 of 14, flame 4 of 12) – sustained ignition, run as planned
+(without changes to test parameters) with fiberTestPosition=15700
+
+
+
+
+                                        10
+Test 22018D1, continued
+
+
+
+
+                          11
+Test 22018D1, continued
+
+
+
+
+After test: 810 on lowest valve safety timer, 80 psia in oxidizer bottle, 221 psia
+in fuel bottle
+
+
+                                         12
+Test 22018F1 (test 5 of 14, flame 5 of 12) – sustained ignition, run with
+fiberTestPosition=15700, oxidizerIgnitionFlowSlpm=0.172,
+nitrogenIgnitionFlowSlpm=0.233, oxidizerTestFlow1Slpm=0.172,
+nitrogenTestFlow1Slpm=0.233
+
+
+
+
+                                        13
+Test 22018F1, continued
+
+
+
+
+                          14
+Test 22018F1, continued
+
+
+
+
+After test: 763 on lowest valve safety timer, 78 psia in oxidizer bottle, 221 psia
+in fuel bottle
+
+
+                                         15
+        Chamber partially vented and nitrogen added to dilute fuel for
+                14.7 psia with ~10% ethylene (balance N2)
+
+Test 22018G1 (test 6 of 14, flame 6 of 12) – sustained ignition, run with
+fiberTestPosition=15700, flowTimeoutSec=180, oxidizerIgnitionFlowSlpm=0.172,
+nitrogenIgnitionFlowSlpm=0, oxidizerTestFlow1Slpm=0.172,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=150
+dataCamera Zoom=25000, dataCamera Focus=14600, Analog Camera Gain=21
+
+
+
+
+                                      16
+Test 22018G1, continued
+
+
+
+
+                          17
+Test 22018G1, continued
+
+
+
+
+After test: 674 on lowest valve safety timer, 76 psia in oxidizer bottle, 221 psia
+in fuel bottle
+
+
+
+                                         18
+Test 22018G2 (test 7 of 14, flame 7 of 12) – sustained ignition, flow variant of
+G1, run with fiberTestPosition=15400, flowTimeoutSec=180,
+oxidizerIgnitionFlowSlpm=0.259, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.259, nitrogenTestFlow1Slpm=0,
+constantFlowTime1Sec=150
+dataCamera Zoom=30000, dataCamera Focus=13750, Analog Camera Gain=21
+
+
+
+
+                                        19
+Test 22018G2, continued
+
+
+
+
+                          20
+Test 22018G2, continued
+
+
+
+
+After test: 619 on lowest valve safety timer, 74 psia in oxidizer bottle, 221 psia
+in fuel bottle
+
+
+
+                                         21
+Test 22018G3 (test 8 of 14, flame 8 of 12) – sustained ignition, flow variant of
+G1-G2, run with fiberTestPosition=15000, flowTimeoutSec=180,
+oxidizerIgnitionFlowSlpm=0.345, nitrogenIgnitionFlowSlpm=0,
+oxidizerTestFlow1Slpm=0.345, nitrogenTestFlow1Slpm=0,
+constantFlowTime1Sec=150
+dataCamera Zoom=35000, dataCamera Focus=12700, Analog Camera Gain=21
+
+
+
+
+                                        22
+Test 22018G3, continued
+
+
+
+
+                          23
+Test 22018G3, continued
+
+
+
+
+After test: 577 on lowest valve safety timer, 72 psia in oxidizer bottle, 221 psia
+in fuel bottle
+
+
+
+                                         24
+Test 22018H1 (test 9 of 14) – failed ignition (without even an apparent flash),
+dilution variant of G1, run with fiberTestPosition=15700, flowTimeoutSec=180,
+oxidizerIgnitionFlowSlpm=0.172, nitrogenIgnitionFlowSlpm=0.13,
+oxidizerTestFlow1Slpm=0.172, nitrogenTestFlow1Slpm=0.13,
+constantFlowTime1Sec=150
+dataCamera Zoom=25000, dataCamera Focus=14600, Analog Camera Gain=21
+
+
+
+
+                                       25
+Test 22018H1, continued
+
+
+
+
+                  Too late to get useful PMT & radiometer data
+
+After test: 550 on lowest valve safety timer, 72 psia in oxidizer bottle, 221 psia
+in fuel bottle
+                                         26
+Test 22018H2 (test 10 of 14, flame 9 of 12) – sustained ignition, nominal repeat
+of H1 (dilution variant of G1), run with fiberTestPosition=15700,
+flowTimeoutSec=180, oxidizerFlowIgnitionDeltaMs=500,
+oxidizerIgnitionFlowSlpm=0.172, nitrogenIgnitionFlowSlpm=0.13,
+oxidizerTestFlow1Slpm=0.172, nitrogenTestFlow1Slpm=0.13,
+constantFlowTime1Sec=150
+dataCamera Zoom=25000, dataCamera Focus=14600, Analog Camera Gain=21
+
+
+
+
+                                       27
+Test 22018H2, continued
+
+
+
+
+                          28
+Test 22018H2, continued
+
+
+
+
+After test: 489 on lowest valve safety timer, 71 psia in oxidizer bottle, 221 psia
+in fuel bottle
+
+
+
+                                         29
+Test 22018J1 (test 11 of 14, flame 10 of 12) – sustained ignition, dilution variant
+of G1+H2, run with fiberTestPosition=15700, flowTimeoutSec=180,
+oxidizerFlowIgnitionDeltaMs=700, oxidizerIgnitionFlowSlpm=0.172,
+nitrogenIgnitionFlowSlpm=0.29, oxidizerTestFlow1Slpm=0.172,
+nitrogenTestFlow1Slpm=0.29, constantFlowTime1Sec=150
+dataCamera Zoom=25000, dataCamera Focus=14600, Analog Camera Gain=21
+
+
+
+
+                                         30
+Test 22018J1, continued
+
+
+
+
+                          31
+Test 22018J1, continued
+
+
+
+
+After test: 401 on lowest valve safety timer, 68 psia in oxidizer bottle, 221 psia
+in fuel bottle
+
+
+
+                                         32
+Test 22018J2(test 12 of 14, flame 11 of 12) – sustained ignition, flow variant of
+G1-G3, run with fiberTestPosition=15700, flowTimeoutSec=370,
+oxidizerFlowIgnitionDeltaMs=500, oxidizerIgnitionFlowSlpm=0.123,
+nitrogenIgnitionFlowSlpm=0, oxidizerTestFlow1Slpm=0.123,
+nitrogenTestFlow1Slpm=0, constantFlowTime1Sec=340,
+burnerTemperatureLimitC=500
+dataCamera Zoom=25000, dataCamera Focus=14600, Analog Camera Gain=21
+
+
+
+
+                                        33
+Test 22018J2, continued
+
+
+
+
+                          34
+Test 22018J2, continued
+
+
+
+
+After test: 304 on lowest valve safety timer, 66 psia in oxidizer bottle, 221 psia
+in fuel bottle
+
+
+
+                                         35
+Test 22018J3 (test 13 of 14) – aborted intentionally before gas flow because
+incorrect parameter values (noticed when the fiber array moved when its use
+wasn’t intended), intended dilution variant of G2 (but not), run with
+dataCameraManualGain=26, useBracketedExposures=FALSE,
+fiberIgnitionPosition=1000 (instead of intended 0), fiberTestPosition=15700
+(instead of intended 0), flowTimeoutSec=180, oxidizerFlowIgnitionDeltaMs=300,
+oxidizerIgnitionFlowSlpm=0.3 (instead of intended 0.259),
+nitrogenIgnitionFlowSlpm=0.259 (instead of … 0.3), oxidizerTestFlow1Slpm=0.3
+(instead of … 0.259), nitrogenTestFlow1Slpm=0.259 (instead of intended 0.3),
+constantFlowTime1Sec=120, burnerTemperatureLimitC=500
+dataCamera Zoom=30000, dataCamera Focus=13750, Analog Camera Gain=21
+
+                         Didn’t capture any console data
+
+After test: 304 on lowest valve safety timer, 66 psia in oxidizer bottle, 221 psia
+in fuel bottle
+
+
+
+
+                                         36
+Test 22018J4 (test 14 of 14, flame 12 of 12) – sustained ignition, nominal repeat
+of aborted J3 (intended dilution variant of G2 but not), run with
+dataCameraManualGain=26, useBracketedExposures=FALSE,
+fiberIgnitionPosition=fiberTestPosition=0, flowTimeoutSec=180,
+oxidizerFlowIgnitionDeltaMs=300, oxidizerIgnitionFlowSlpm=0.3 (instead of
+intended 0.259), nitrogenIgnitionFlowSlpm=0.259 (instead of intended 0.3),
+oxidizerTestFlow1Slpm=0.3 (instead of … 0.259), nitrogenTestFlow1Slpm=0.259
+(instead of intended 0.3), constantFlowTime1Sec=120,
+burnerTemperatureLimitC=500
+dataCamera Zoom=30000, dataCamera Focus=13750, Analog Camera Gain=21
+
+
+
+
+                                        37
+Test 22018J4, continued
+
+
+
+
+                          38
+Test 22018J4, continued
+
+
+
+
+After test: 65 on lowest valve safety timer, 51 psia in oxidizer bottle, 221 psia in
+fuel bottle
+
+                                         39
+Test 22018RAD2
+
+
+
+
+                 40
+Test 22018RAD2, continued
+
+
+
+
+                            41
+

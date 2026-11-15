@@ -1,0 +1,203 @@
+                          CFI-G Round 2, day 1
+            Chamber filled to 1 atm with ~30% ethane (balance N2)
+   Extinction detection effectively turned off so tests were ended ‘manually’
+               Soot assessment test conducted with 3.5 V for 4 s
+                    pmt1Gain=7, pmt2Gain=4, pmt3Gain=5
+
+Test 21196A1 (test 1 of 16) – no ignition, planned to run as planned (with no
+changes to the parameters), but the parameters didn’t fully populate and there
+was no oxidizer flow during the test
+Test 21196A1, continued
+
+
+
+
+            Didn’t capture timely screenshots of all usual console data
+After test: 999 on lowest valve safety timer, 140 psia in oxidizer bottle, 172 psia
+in fuel bottle
+Test 21196A2 (test 2 of 16, hot flame 1 of 13) – sustained ignition, run as
+planned (unlike A1, with no changes to the parameters)
+Test 21196A2, continued
+
+
+
+
+            Didn’t capture timely screenshots of all usual console data
+After test: 939 on lowest valve safety timer, 137 psia in oxidizer bottle, 172 psia
+in fuel bottle
+Test 21196F1 (test 3 of 16, hot flame 2 of 13) – sustained ignition, run as
+planned (with no changes to the parameters)
+Test 21196F1, continued
+
+
+
+
+            Didn’t capture timely screenshots of all usual console data
+After test: 880 on lowest valve safety timer, 134 psia in oxidizer bottle, 173 psia
+in fuel bottle
+Test 21196H1 (test 4 of 16) – no apparent ignition, run with flowTimeoutSec=75,
+nitrogenIgnitionFlowSlpm=nitrogenTestFlow1Slpm=1.833,
+constantFlowTime1Sec=45
+
+
+
+
+            Didn’t capture timely screenshots of all usual console data
+After test: 841 on lowest valve safety timer, 133 psia in oxidizer bottle, 172 psia
+in fuel bottle
+Test 21196J1 (test 5 of 16, hot flame 3 of 13) – unsustained ignition (with
+momentary flame), run with flowTimeoutSec=75,
+nitrogenIgnitionFlowSlpm=nitrogenTestFlow1Slpm=1.596,
+constantFlowTime1Sec=45
+Test 21196J1, continued
+Test 21196J1, continued
+
+
+
+
+After test: 801 on lowest valve safety timer, 132 psia in oxidizer bottle, 172 psia
+in fuel bottle
+Test 21196F2 (test 6 of 16, hot flame 4 of 13) – sustained ignition, run with
+flowTimeoutSec=90, oxidizerIgnitionFlowSlpm=0.154,
+nitrogenIgnitionFlowSlpm=0.703, oxidizerTestFlow1Slpm=0.154,
+nitrogenTestFlow1Slpm=0.703, constantFlowTime1Sec=60
+Test 21196F2, continued
+Test 21196F2, continued
+
+
+
+
+After test: 715 on lowest valve safety timer, 129 psia in oxidizer bottle, 172 psia
+in fuel bottle
+Test 21196F3 (test 7 of 16) – unsustained ignition (with only flashes apparent),
+run with flowTimeoutSec=90, oxidizerIgnitionFlowSlpm=0.0.77,
+nitrogenIgnitionFlowSlpm=0.352, oxidizerTestFlow1Slpm=0.077,
+nitrogenTestFlow1Slpm=0.352, constantFlowTime1Sec=60
+Test 21196F3, continued
+Test 21196F3, continued
+
+
+
+
+After test: 669 on lowest valve safety timer, 129 psia in oxidizer bottle, 172 psia
+in fuel bottle
+Test 21196F4 (test 8 of 16, hot flame 5 of 13) – unsustained ignition (with
+momentary flame), run with flowTimeoutSec=90,
+oxidizerIgnitionFlowSlpm=0.115, nitrogenIgnitionFlowSlpm=0.527,
+oxidizerTestFlow1Slpm=0.115, nitrogenTestFlow1Slpm=0.527,
+constantFlowTime1Sec=60
+Test 21196F4, continued
+Test 21196F4, continued
+
+
+
+
+After test: 624 on lowest valve safety timer, 128 psia in oxidizer bottle, 172 psia
+in fuel bottle
+Test 21196F5 (test 9 of 16, hot flame 6 of 13) – unsustained ignition (with
+momentary flame), run with flowTimeoutSec=90,
+oxidizerIgnitionFlowSlpm=0.499, nitrogenIgnitionFlowSlpm=2.287,
+oxidizerTestFlow1Slpm=0.449, nitrogenTestFlow1Slpm=2.287,
+constantFlowTime1Sec=60
+Test 21196F5, continued
+Test 21196F5, continued
+
+
+
+
+After test: 579 on lowest valve safety timer, 125 psia in oxidizer bottle, 172 psia
+in fuel bottle
+Test 21196F6 (test 10 of 16, hot flame of 13) – sustained ignition, run with
+flowTimeoutSec=90, oxidizerIgnitionFlowSlpm=0.154,
+nitrogenIgnitionFlowSlpm=0.703, oxidizerTestFlow1Slpm=0.154,
+nitrogenTestFlow1Slpm=0.703, constantFlowTime1Sec=60
+Test 21196F6, continued
+Test 21196F6, continued
+
+
+
+
+After test: 490 on lowest valve safety timer, 123 psia in oxidizer bottle, 172 psia
+in fuel bottle
+                          Chamber vented to ~6.6 psia
+
+Test 21196K1 (test 11 of 16, hot flame 8 of 13) – unsustained ignition (with
+momentary flame), run with flowTimeoutSec=90,
+oxidizerIgnitionFlowSlpm=0.154, nitrogenIgnitionFlowSlpm=0.703,
+oxidizerTestFlow1Slpm=0.154, nitrogenTestFlow1Slpm=0.703,
+constantFlowTime1Sec=60
+Test 21196K1, continued
+Test 21196K1, continued
+
+
+
+
+After test: 435 on lowest valve safety timer, 121 psia in oxidizer bottle, 172 psia
+in fuel bottle
+Test 21196L1 (test 12 of 16, hot flame 9 of 13) – unsustained ignition (with
+momentary flame), run with flowTimeoutSec=90,
+oxidizerFlowIgnitionDeltaMs=0, oxidizerIgnitionFlowSlpm=0.154,
+nitrogenIgnitionFlowSlpm=0.459, oxidizerTestFlow1Slpm=0.154,
+nitrogenTestFlow1Slpm=0.459, constantFlowTime1Sec=60
+Test 21196L1, continued
+Test 21196L1, continued
+
+
+
+
+After test: 378 on lowest valve safety timer, 120 psia in oxidizer bottle, 172 psia
+in fuel bottle
+Test 21196L2 (test 13 of 16, hot flame 10 of 13) – sustained ignition, run with
+flowTimeoutSec=90, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=2000, oxidizerIgnitionFlowSlpm=0.154,
+nitrogenIgnitionFlowSlpm=0.459, oxidizerTestFlow1Slpm=0.154,
+nitrogenTestFlow1Slpm=0.459, constantFlowTime1Sec=60
+Test 21196L2, continued
+Test 21196L2, continued
+
+
+
+
+After test: 292 on lowest valve safety timer, 116 psia in oxidizer bottle, 172 psia
+in fuel bottle
+Test 21196M1 (test 14 of 16, hot flame 11 of 13) – unsustained ignition (with
+momentary flame), run with flowTimeoutSec=90,
+oxidizerFlowIgnitionDeltaMs=0, nitrogenFlowIgnitionDeltaMs=2000,
+oxidizerIgnitionFlowSlpm=0.154, nitrogenIgnitionFlowSlpm=0.276,
+oxidizerTestFlow1Slpm=0.154, nitrogenTestFlow1Slpm=0.276,
+constantFlowTime1Sec=60
+Test 21196M1, continued
+Test 21196M1, continued
+
+
+
+
+After test: 245 on lowest valve safety timer, 116 psia in oxidizer bottle, 172 psia
+in fuel bottle
+Test 21196M2 (test 15 of 16, hot flame 12 of 13) – sustained ignition, variant of
+M1, run with flowTimeoutSec=90, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=4500, oxidizerIgnitionFlowSlpm=0.154,
+nitrogenIgnitionFlowSlpm=0.276, oxidizerTestFlow1Slpm=0.154,
+nitrogenTestFlow1Slpm=0.276, constantFlowTime1Sec=60
+Test 21196M2, continued
+Test 21196M2, continued
+
+
+
+
+After test: 157 on lowest valve safety timer, 113 psia in oxidizer bottle, 172 psia
+in fuel bottle
+Test 21196M2_1, i.e., M3 (test 16 of 16, hot flame 13 of 13) – sustained ignition,
+variant of M1, run with flowTimeoutSec=120, oxidizerFlowIgnitionDeltaMs=0,
+nitrogenFlowIgnitionDeltaMs=4500, oxidizerIgnitionFlowSlpm=0.307,
+nitrogenIgnitionFlowSlpm=0.552, oxidizerTestFlow1Slpm=0.307,
+nitrogenTestFlow1Slpm=0.552, constantFlowTime1Sec=90
+Test 21196M2_1, i.e., M3, continued
+Test 21196M2_1, i.e., M3, continued
+
+
+
+
+After test: 68 on lowest valve safety timer, 110 psia in oxidizer bottle, 172 psia
+in fuel bottle
+

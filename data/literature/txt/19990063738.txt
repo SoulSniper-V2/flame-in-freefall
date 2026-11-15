@@ -1,0 +1,1010 @@
+NASA          / TM--1999-209285
+
+
+
+
+Fire Safety                          in the Low-Gravity
+Spacecraft                          Environment
+Robert      Friedman
+Glenn      Research       Center,     Cleveland,         Ohio
+
+
+
+
+Prepared    for the
+29th International           Conference        on Environmental         Systems
+cosponsored           by SAE Aerospace,            ASME,        AIAA,
+Aerospace        Medical       Association,        and     AIChE
+Denver,       Colorado,       July    12-15,   1999
+
+
+
+
+National       Aeronautics          and
+Space      Administration
+
+
+
+Glenn      Research       Center
+
+
+
+
+July 1999
+                This report     is a preprint    of a paper   intended     for presentation   at a conference.    Because
+                     of changes   that may be made before formal publication,          this preprint         is made
+                 available   with the understanding       that it will not be cited or reproduced           without  the
+                                                    permission    of the author.
+
+
+
+
+                                                               Available    from
+
+NASA Center     for Aerospace      Information                                                 National    Technical    Information   Service
+7121 Standard    Drive                                                                                                 5285 Port Royal Road
+Hanover,   MD 21076                                                                                                    Springfield,  VA 22100
+Price Code: A03                                                                                                               Price Code: A03
+            Fire Safety in the Low-Gravity Spacecraft                                                     Environment
+
+                                                                 Robert Friedman
+                                                National   Aeronautics and Space Administration
+                                                              Glenn Research Center
+                                                              Cleveland, Ohio 44135
+
+
+
+
+ABSTRACT
+
+
+Research  in microgravity (low-gravity)             combustion    pro-        FIRE PREVENTION           IN SPACECRAFT
+mises innovations  and improvements               in fire prevention
+and response   for human-crew       spacecraft.              Findings         FIRE PREVENTION           BY ELIMINATION       OF IGNITION
+indicate that material flammability    and fire            spread    in       SOURCES
+microgravity   are significantly affected    by atmospheric
+flow rate, oxygen concentration,  and diluent composition.                    Spacecraft designs and operations   must meet standards
+This information   can lead to modifications    and correla-                  that serve to eliminate, or at least diminish,   ignition-
+tions    to standard     material-assessment       tests for predic-          energy threats.   These  requirements   cover the usual
+tion     of fire    resistance      in space.         Research    on          practices of electrical    bonding and grounding,       electrical
+smoke-particle    changes in microgravity    promises   future                and thermal overload       protection, working-pressure      relief
+improvements    and increased    sensitivity of smoke detec-                  settings, and similar safety procedures.    Spacecraft wire-
+tors in spacecraft.     Research    on fire suppression      by               and cable-capacity   allowances   are highly conservative   to
+extinguishing  agents and venting can yield new informa-                      limit stress and heating during normal operations.        For
+tion on effective    control of the rare, but serious      fire               example,    maximum    current values are derated to one-
+events    in spacecraft.                                                      half of the usual current allowance    for 200 °C insulation
+                                                                              service   [3].
+INTRODUCTION
+                                                                              FIRE PREVENTION           BY MATERIAL      SELECTION
+Fire is a particularly feared hazard            in confined   enclo-
+sures, as in spacecraft.     A serious           fire in an orbiting          The major consideration        in spacecraft  fire prevention     is
+spacecraft  is an event of very low probability;        neverthe-             that of the elimination    of potential fuels. As far as possi-
+less, some fire threats are foreseeable.         Obvious exam-                ble, spacecraft    materials and assemblies       meet specified
+ples include those of electrical     and heating overloads,                   performance     criteria of non-flammability,     as determined
+spills and resulting aerosols,    energetic      experiment    fail-          by prior testing (on the ground).       Spacecraft   fire-preven-
+ures, and ignition of accumulated      trash [1]. The overall                 tion tests and standards        are, for the most part, exten-
+spacecraft fire-safety strategy considers both the preven-                    sions of aircraft practices,   but their philosophy   of risk
+tion of, and the response to, fires.         Fire prevention,     of          reduction differs from that of aircraft because of the parti-
+course, implies that one or more of the three general fire-                   cular needs of spacecraft     safety.   For example, structural
+causing factors, namely, ignition energy, fuel, or oxygen,                    and decorative      panel materials     for aircraft must meet
+can be eliminated.     Fire response     (since fire prevention               standards     of minimum    heat-release    rate upon ignition.
+is never guaranteed)   implies that provisions are in place                   This criterion is necessary     to prevent or delay the growth
+for early warning of breakdown      events, intervention  to                  of an established      fire into flashover      (generalized fire
+limit and suppress   the resulting fire, and restoration  of                  spread away from the point of origin), ensuring adequate
+normal conditions following the event [2].                                    escape time following      crash fires.  Similar panel mater-
+                                                                              ials for spacecraft,   in contrast, must meet standards of a
+This paper reviews the current state of the art in space-                     minimum      flame-spread      distance  (self-extinguishment)
+craft fire safety and discusses the findings of microgra-                     upon ignition. This criterion     is necessary    to prevent igni-
+vity combustion    research as they relate to practical fire                  tion events from developing         into fires of any significant
+prevention    and response.                                                   size.
+
+
+
+
+NASA/TM--        1999-209285                                              1
+      Table    1. Test Methods         for Evaluating     the Flammability       of Materials    for Use in NASA Human-Crew                   Space      Missions
+
+                  Test                              Application                                      Title (Reference        ASTM      Test)
+                   No.
+
+                    1       Sheets,     coatings,    foams,    insulated    wires             Upward       Flame   Propagation
+
+                    2       Sheets, coatings, foams that fail to meet the                     Heat   and Visible      Smoke        Release      Rates
+                            criteria of Test 1; also major-use  nonmetals                     (Oxygen   Consumption                (Cone)      Calori-
+                            with greater than 0.37-m 2 exposure                               meter, ASTM E-1354)
+
+                            Liquids,    coatings                                              Flash Point of Liquids (Pensky-Martens
+                                                                                              Closed Tester, ASTM D-93)
+
+                    4       Insulated     wires                                               Electrical    Wire Insulation      Flammability
+
+                    8       Containers                                                        Flammability Test for Materials               in Vented
+                                                                                              or Sealed Containers
+
+                   17       Metals,     nonmetals       for oxygen   service                  Upward        Flammability      of     Materials        in
+                                                                                              Gaseous       Oxygen
+
+
+For U.S. spacecraft,    fire-resistant   items are selected                             (A comparable   test for aircraft wiring insulations                    is per-
+through testing standards      defined in the NASA Hand-                                formed at angle of 30 -0from the vertical.)
+book NHB 8060.1C [4]. Table 1 summarizes          the princi-
+pal flammability tests.                                                                 If wire bundles are to be tested, six non-connected   wires
+                                                                                        are cut and laced to the active conductor.     The current-
+The test of widest application     is Test 1, which has been                            carrying wire is preheated      by direct current to an initial
+in use for over 25 years with minor upgrading.         The per-                         temperature    of 125 C, or to the maximum operating tem-
+formance criterion of Test 1 is the self-extinguishment      of                         perature of the wire, for five minutes.      Then, the wire is
+a 30-cm-long     by 5-cm-wide     sample, mounted vertically                            ignited by a chemical igniter or by increasing       the internal
+and ignited chemically    at the bottom, before any resulting                           heating current.     The criteria of maximum        burn length
+flame progresses      for a distance    of 15 cm or beyond                              (visible insulation  consumption)     prior to self-extinguish-
+(shown as the limiting flame-spread        height on Fig. 1).                           ment and non-ignition     of a paper sheet by hot particles
+Almost all materials spark or drip flaming particles when                               are the same as for Test 1.
+ignited. Therefore,   in addition to the self-extinguishment
+criterion, an acceptable    material must not ignite a sheet                            Test 2, illustrated  in Fig. 3, determines    the ignitability,
+of paper mounted horizontally              20 cm below the sample                       maximum and average rate of heat release, and amount
+holder.    Typical Test 1 materials are thin sheets, films,                             of smoke obscuration     in a standard calorimeter    that pre-
+foam blocks, and coatings on end-use                    substrates       or on          heats the samples under a controlled      atmosphere      by an
+aluminum     foil.    Test 1 is analogous            in principle       to the          external heat flux from a conical heater [6]. The samples
+aviation   standard      method,       FAR 25.853,         the 12-second                are ignited by a spark plug, if they do not self-ignite upon
+vertical Bunsen-burner         test for qualifying        insulation batts              preheating.    Test 2 is required for major-use nonmetallic
+[5]. For space materials,           fire resistance         is determined               panels and as an option for the retest of the flammability
+within a closed chamber            at the worst-case-use              oxygen            of sheet or panel samples failing Test 1.
+concentration       and pressure         environment,         currently    30-
+vol% oxygen        in nitrogen     at 70.3 kPa [6]. This atmos-                         Test 3 is a standard procedure for determining          the flash
+phere corresponds         to the Shuttle and International             Space            point of liquids, which is basically the minimum tempera-
+Station (ISS) environments             that are prescribed          for crew            ture for possible ignition in air. Test 8 is a test for the
+conditioning    prior to extravehicular         activities,     or that may             flammability   of otherwise    non-acceptable    materials   con-
+be encountered          as the maximum              tolerance        level in           tained in protective storage [8]. Test 17 is a test of fire-
+emergencies.                                                                            safety performance      in oxygen-handling    systems,     which
+                                                                                        are critical components     in space operations,    both intern-
+Test 4, illustrated  in Fig. 2, is an adaptation of Test 1 to                           ally and externally.
+evaluate    the fire resistance    of wires or wire bundles
+under    electrical loads.     A 31-cm    length   of wire is                           For     European       spacecraft,    fire-resistant          items   are   sel-
+ mounted at an angle of 15 -o from the vertical, a position                             ected generally through the same testing methods         and
+ found to give less interference   from combustion   products                           performance    standards  prescribed    for U.S. spacecraft,
+ or flow of molten insulation    than vertical mounting    [7].                         with the addition of a limiting-oxygen-index     test (ASTM
+
+
+NA SA/TM--       1999-209285                                                        2
+ D2863-97)     for sheet plastic materials    [9].   This test                                                                    Upward-flammability    assessment       offers several advant-
+determines    downward     flame propagation,   in contrast to                                                                    ages in the screening     of materials.      The NASA Test 1
+the upward propagation        of NASA Test 1; but, in most                                                                        simulates  the beginning    of a fire with an ignition flux of
+cases, the criterion    of high-oxygen-index    will pass and                                                                     typically 75 kW/m _ maintained       for 25 sec [11].    It is a
+fail the same materials as the criterion of upward-flame-                                                                         severe "worst-case"     test in terms       of ignition energy,
+extinguishment    [10].                                                                                                           means of edge ignition, direction      of buoyancy-assisted
+                                                                                                                                  flame spread, sample thickness,      and oxygen concentra-
+Substrate                                              5 cm,                                            _--   Test                tion. Results are rarely ambiguous:     samples clearly pass
+for testing                                            typical                                                _hamber             or fail. All assessments   are documented      by videotaped
+                                                                           _u I I ill uu      .. riim
+of c_atlngs            .....             •                             i                                                          records for future review.   Although Test 1 is basically a
+                                                                                                                                  qualitative,  "pass-fail"  evaluation,   investigators      have
+       Scale --- .                                                                                                                shown that, from tests on selected spacecraft         materials,
+                                       I--                            ."
+                                                                                                                                  there is a linear correlation    of the Test 2 rate-of-heat-
+   Typical                                                                                                                        release    data to the Test       1 flame-spread       rate and length
+   specimen--.                                                                   J                                                of penetration     [12].
+                                                                                  I
+
+                                                                                 J                                   33 cm                                                       pressureand
+        .....   l   .......
+                                                                                 I                                                     Exhaust
+                                                                                                                                             blower                     temperature
+                                                                                                                                                                                  measurement
+         Limiting                                                                1                                                                                      location
+         flame-
+                                                                 L
+         spread                                                                                                                                                                              I port
+         height                                      ....        IL               I
+                                                                                                                                                                                             ii)oll
+                                                                                                                        ...
+
+
+                                                                                                                     20 cm
+    Paper                                                                             .--     Igniter         .
+                                                                                                                                               Smoke
+                                                                                                                                               measurement
+    below                          I__"                                                     _::_ _   _;
+                                                                                                                                               module
+   sheet                             I_                                                                   1
+   spectrne_                  ..... i+
+
+
+                                                                                                                                              Test chamb_
+
+
+Figure 1. Sketch of apparatus   for NASA                                                             NHB      8060.1C,
+Test 1, Upward Flammability   Test.                                                                                                                                                              Sample
+
+
+
+                                                                                      InsulatingCeramic
+                                                                                      Fiber Thread
+                                                                                           _- Ceramic Insulator                                                                           Loadcell
+                              Scale          _-.--     s +ra-
+                                                                                                                                            Testchamberdoor:
+                                                                                                                                            (,_,how,_ c_ty)                  gasinlet
+
+                                 N                                                    I
+                                 -_,          Test                         !
+                                              Sample                                  I                                           Figure 3. Sketch of apparatus  for NASA NHB 8060.1C,
+                                                                                                                                  Test 2, Heat and Visible Smoke-Release Rates.
+
+                                                                                      I
+                                                                                                                                  More important           than whether        the standard        tests can
+                                                                                                                                  represent       the expected      thermal      environment       in space-
+                                                                                       i
+
+                                 =                                                                                                craft fire scenarios is whether the tests can represent the
+                                                                                                                                  convective       environment.       In this regard, it is obvious that
+                                 =                                                                                                all practical      spacecraft    flammability      testing,    as well as
+                                 =
+                                                                                                                                  performance         and calibration     testing of fire-detection       and
+                                                                                                                                  suppression        technology,    is of necessity conducted           on the
+                                                                                                                                  ground, at normal gravity (the sea-level acceleration                      of
+                                 =
+                                                                                                                                  9.8 m/s_), not in the environment               of the orbiting space-
+                C                                                                                                                 craft.    Still, the use of ground-based             test methods and
+                                                                                                                                  criteria has provided an extensive database of thousands
+                                                                                                                                  of qualified      articles whose fire resistance            contributes    to
+                                                                                                                                  the record of effective            fire prevention       in U.S. space
+Figure 2. Sketch of apparatus for NASA                                                               NHB       8060.1C,
+                                                                                                                                  missions [13].
+Test 4, Electrical Wire Flammability Test.
+
+
+
+
+NASA/TM--                         199%209285                                                                                  3
+Although    the great majority of articles for space usage                ance and health      under the stressful     conditions    of space
+are qualified      as fire-resistant,      there are many more            operations [20].
+items, necessary      in the spacecraft       inventory, that cannot
+meet the fire performance          standards.       Common     exam-      THE INFLUENCE         OF LOW GRAVITY           ON FIRE
+ples are paper, cotton clothing and towels, minor plastic                 BEHAVIOR
+parts, and data films. In addition, there are some essen-
+tial "off-the-shelf'     appliances       with    components       that   IGNITION     PROCESSES        IN MICROGRAVlTY
+cannot be verified for fire resistance.           The presence and
+location    of these     articles     are carefully      documented       Practical fire prevention      and control in orbiting and plan-
+before each mission.        Techniques       to reduce the fire risk      etary-transit    spacecraft      must respond       to the unique
+of these items include limitation of quantity and spacing,                effects of the non-convective,          low-gravity    environment
+elimination    of fire-propagation        paths between      articles,    (microgravity)     on fire initiation [21].   For example,     over-
+and storage in non-flammable             containers    or under non-      heated     motors,    bearings,     and other components         will
+flammable     covers [8].                                                 remain hot because           of the minimal       convective    heat
+                                                                          transfer in microgravity,     and they can present       serious
+FIRE PREVENTION           BY ATMOSPHERIC            SELECTION             ignition threats for a long time.         Again, spills or line
+                                                                          breaks can create aerosols or particle clouds that persist
+An atmosphere     that sustains     human life ordinarily sup-            indefinitely  in microgravity  because of the lack of density-
+ports fire spread.      Nevertheless,       one can define, in            driven settling.    These heterogeneous      arrays are known
+theory, atmospheres     that support      human life yet inhibit          to be highly flammable.        Furthermore,    recent research
+fire spread [14]). One approach         is to take advantage     of       shows that, if ignition occurs, the resulting peak explo-
+the fact that humans require a minimum quantity of oxy-                   sion pressures     in these mixtures are stronger      in micro-
+gen regardless    of the total pressure       (within limits), but        gravity than in normal gravity, due to the uniform and
+fires require a minimum      concentration      of oxygen in the          stable composition     of the aerosols in microgravity   [22].
+diluted atmosphere    [15,16].    Thus, an atmosphere         modi-
+fied through nitrogen     pressurization     retains a sea-level          The absence     of downward      motion also contributes      to the
+oxygen partial pressure for life support,         with a reduced          hazards from effervescing  or easily vaporized   materials,
+oxygen concentration      to prevent fire spread.        A typical        which tend to eject hot bubbles or drops when ignited.
+atmosphere     meeting this criterion is one with a concen-               These globules can drip harmlessly in normal gravity, but
+tration  of 13.9 vol% oxygen           at a total pressure       of       they propel radially as potential ignition sources in low
+151 kPa [17]. This total pressure, however, is far beyond                 gravity [23,24].
+the usual spacecraft   structural limits.
+                                                                          FIRES   IN QUIESCENT        AIR IN MICROGRAVITY
+An alternative    fire-inhibiting   atmosphere    is one with the
+oxygen quantity reduced to a minimum for life support,                    It is generally   assumed    that materials qualified    as fire-
+but with no change in total pressure           [t8].    An oxygen         resistant in ground testing will be equally or more fire
+partial pressure     equivalent to that of a pressure altitude            resistant   in microgravity   service.     Early studies of the
+of 2400 m (8000 ft) produces a concentration           of 15.6%, if       combustion      of sheet samples       of common      spacecraft
+the total pressure remains at 101 kPa. This is actually a                 materials (e.g., paper, plastics, cotton, aluminized      Mylar)
+minimum     off-normal      environment   permitted    in the U.S.        in static-chamber     tests conducted     on the Skylab space
+spacecraft    requirements.        The oxygen concentration      in       station showed that, in all cases, the observed           flame-
+this atmosphere       may not be low enough to prevent igni-              spread rates are slower than the corresponding       rates on
+tion and flame spread in all materials,       however.                    the ground [25]. The relationship    of flame-spread     rates
+                                                                          measured     in low gravity to those in normal gravity is
+Since the atmosphere          within the spacecraft       is entirely     unique for each material, and no quantitative     correlation
+controllable,    other diluents with differing       thermal char-        of gravity effects can be obtained from these tests. Sub-
+acteristics   may be substituted     for all or part of the nitro-        sequent research on the combustion     of thin-sheet mater-
+gen.      Medical    and combustion      specialists     have sug-        ials, conducted   in a variety of low-gravity   venues, such
+gested oxygen-diluent       atmospheres     that can sustain life         as drop towers, parabolic-trajectory    airplanes,  the Shut-
+yet inhibit flame spread [19].         None of the "fire-safe"-           tle, and Mir, has confirmed      these qualitative    findings.
+atmosphere      proposals    is a serious contender         for even      Moreover,    these results show that, for thin solid fuels
+preliminary    research,  however.     One argument     against           burning    in non-flow    (quiescent)   microgravity   environ-
+unconventional     atmospheres   is the need for reference air            ments, the flammability     range (minimum oxygen concen-
+atmospheres     for biological   and medical experiments    in            tration) is reduced, the fuel mass-loss       rate is less, the
+space [18]. More compelling negative arguments        are the             flame temperature      is lower, the rate of heat release is
+logistic and structural   impacts of gas-pressure   and gas-              lower, and the soot production      is reduced, as compared
+storage changes and the unknown effects of long-term                      to the corresponding    qualities in normal-gravity   combus-
+exposure to modified atmospheres       on the crew perform-               tion [26-28].   For thick sheet materials     burning   in non-
+                                                                          flow microgravity    environments,     the flame-spread     rate
+N ASA/TM--      1999-209285
+decreases withtimeandthe flametendsto self-exting-               direction[34]. Thisbehavioroccurs because          the oxygen
+uish,althoughcombustionmaypersistseveralminutes                  is completely  consumed    in this direction and is unavail-
+[29].                                                            able downstream.    This observation    is clearly the reverse
+                                                                 of common experience    in normal         gravity, where    flow pro-
+Thereare a few exceptionsto the generalization   that            motes the flame in the concurrent          (downstream)     direction
+flammabilityis reducedin quiescentmicrogravity.Metal             [35].
+wires may burn more rapidlyin high-oxygen    environ-
+mentsin spacethanon Earth,becausethemoltendrop-                  The addition    of low-velocity     flow is also shown     to sustain
+let doesnot detachfromthe flamezoneanddripaway                   flame spread over thick sheet materials        in microgravity,
+[30]. Recentlyreportedstudiesshowgreaterratesof                  which, as noted, tend to self-extinguish      under quiescent
+flame spreadin microgravityfor verticalburningwire               conditions  [36]. Similarly, wire insulations     usually resist
+insulations,althoughthe wiresthemselvesmay have                  flame spread in quiescent     microgravity    but burn readily
+servedas a heatsourceor sink,complicating   the inter-           under low air velocities [37]. For smoldering,       recent stu-
+pretationof theseresults[31]. The situationswhere                dies report that propagation    through bulk polyurethane
+flammabilitymaybe accelerated   in quiescentmicrogra-            foam is sustained in microgravity     by minimum velocities
+vity appearto be rare, and they correspondto very                as low as 1 mm/s [38].
+unusualscenarios  forpotentialspacecraft
+                                       fireevents.
+                                                                 OXYGEN-ASSISTED             FIRES    IN MICROGRAVITY
+FLOW-ASSISTED
+           FIRESINMICROGRAVITY
+                                                                 The Mir fire in February 1997, caused by the failure of a
+Themitigation  offireseverity,ascomparedtothecorres-             solid-oxygen     generator,    is a good example         of the diffi-
+pondingnormal-gravity  behavior,occursonlyin non-flow            culty in predicting    potential fire scenarios      in spacecraft.
+conditions inmicrogravity.Thisquiescentflameenviron-             The Mirfire propagated in a highly convective             local envir-
+mentis uniqueto microgravity.Normal-gravity   flames             onment, at an elevated oxygen concentration,              self-gener-
+generatestrong,gravity-driven  buoyantcurrents,dueto             ated by the source of the fire. It is no surprise that these
+densitydifferencesbetweenthe combustion    gasesand              conditions favor rapid flame spread even in microgravity.
+the surroundingatmosphere.Thesecurrentsaid the                   Drop-tower     studies on thin-paper      samples,     illustrated    in
+combustion   reactionandthe flamespreadby removing               Fig. 4, show that flame-spread         rates increase with oxy-
+combustionproductsand introducingambientoxygen                   gen     concentration       in quiescent        microgravity       and
+intothe flamezone. Thelackof natural-convective  flow            approach     those values obtained         in downward          normal
+in microgravityis the principalcauseof the relatively            gravity at concentrations        of 40% and greater [39].           Air-
+weakflames.                                                      plane studies on thin polymethylmethacrylate                  (PMMA)
+                                                                 samples     show similar, substantial        increases      in spread
+In actuality,except in closed combustionchambers,                 rates with increasing      oxygen concentration;         but, in this
+spacecraftatmospheres    are not quiescent.Ventilation           case, the low-gravity      rates are always less that those in
+foratmospheric  conditioning andcomponent coolingpro-             normal gravity, even at oxygen concentrations             as high as
+videsa continuous   flow environment.Typicalhuman-               90% [24].
+crewspacecraftaredesignedto maintaina comfortable
+atmospheric  circulationat lowsuperficial
+                                       velocities,over           A series of Shuttle tests, the Solid Surface Combustion
+a nominalrangeof 6 to 20 cm/s. Combustion    research            Experiment      (SSCE), provided     quantitative     data on the
+nowobservesthat,at leastforthin cellulosicfuels,the              effects of atmospheric        oxygen  concentration       and total
+additionof low-velocityforcedflowgreatlyincreases  the           pressure on thin-paper flame spread in quiescent             micro-
+microgravityflamespread. In fact, the flow-promoted              gravity [27]. A summary of flame-spread           rate determina-
+microgravityflame-spreadratesmay exceedthose in                  tions is shown in Fig. 5. (Each data point represents            the
+comparabledownwardflamespreadin normalgravity                    results from a separate Shuttle mission.)         The increase in
+(but not those in buoyancy-promoted     upwardflame              oxygen    concentration     from 35 to 50% increases             the
+spread)[21]. Equallyimportant,theflammability   range,           flame-spread      rates by factors of three to four. The two-
+definedby the limitingoxygenconcentration   for flame            fold increase in total pressure also increases the flame-
+spread,witha slow,forcedflowin microgravity is greater           spread rate by a factor of about 1.5 (for the 50%-02
+thanthat in corresponding    downwardspread[32]and               concentration).
+approximately  equalto thatfor upwardspreadin normal
+gravity[33].                                                     For thick materials, the effect of increasing        oxygen con-
+                                                                 centration is qualitatively     similar to that on thin materials.
+Inthe usualcombustion    test,ignitionis at oneendof a           The SSCE program            included    tests on relatively   thick
+stripsample,andthe flamecan propagateonlyin the                  strips of PMMA at oxygen concentrations    of 50 and 70%.
+directionof the unburnedfuel,regardless    of the air-flow       As noted earlier, in the quiescent atmosphere,   the flame-
+direction.Testson thincellulosicfuelswithcentraligni-            spread rate is not uniform, but plots of flame position with
+tionshowthatthemicrogravity     flamewill propagate  pre-        time clearly show that the level of flame propagation      is
+ferentiallyinto the flow, or in the opposed(upstream)
+NASA/TM--   1999-209285                                      5
+much more rapid                at 70% 02 at all stages                                       of the combus-            Recent    results from tests on the flammability       and flame
+tion [29].                                                                                                             spread    of thin cellulosic fuels in diluent-modified    atmos-
+                                                                                                                       pheres are most interesting.      For the inclusion   of com-
+DILUENT-MODIFIED                         FIRES            IN MICROGRAVITY                                              bustible    gases,   the remarkable    finding   is that    low
+                                                                                                                       concentrations     of carbon monoxide     or methane     in air
+The influence of the diluent component                                                    of the quiescent             increase the flame-spread      rate in proportion   to the fuel-
+microgravity atmosphere    on fires has                                                  been studied for              gas concentration    and this influence is stronger in micro-
+cases of                                                                                                               gravity than in normal gravity [40].        In fact, at higher
+1.    the inclusion of combustible gases (at concentrations                                                            concentrations     of carbon    monoxide,    the microgravity
+      below the lower flammability  limit of the additive), or                                                         flame-spread    rates exceed those in corresponding         nor-
+2.    the replacement    of the usual nitrogen     diluent with                                                        mal gravity.
+     other inert gases.
+The presence      of combustible     gases in the spacecraft                                                            For the replacement       of nitrogen diluent, the tests show
+atmosphere     is a possible consequence       of such break-                                                          that, for nitrogen,     helium, or argon dilution,        the flame-
+down events as leakage, pyrolysis,          or decomposition.                                                          spread     rate and flammability        range are reduced           in
+The replacement      of nitrogen   by other inertants may be                                                           microgravity     compared    to normal gravity. (Selected data
+intentional   for purposes       of life support   or for fire                                                         are in Table 2.) For carbon-dioxide           dilution, the gravity
+inhibition.                                                                                                            effects are slight, but for sulfur-hexafluoride         dilution, the
+                                                                                                                       flame-spread       rate and flammability         are substantially
+                              10
+                                         O Normal-gravity                                                              increased      in microgravity.      On the other hand, the
+                               8
+                                    --        data                                 _/_                                 absolute     levels of flame-spread       rate and flammability
+                               6         []   Low-gravity                        .;J
+                                                                                                                       with these gases are still well below those of the other
+                               4                                                                                       diluents    in both     environments,      and the gases          act
+                                                                                                                       basically as flame suppressants        [40,41].
+                               2              data/O
+
+                         It                                                                                            MATERIAL-ASSESSMENT                  TESTS     FOR
+                         i                                                                                             MICROGRAVITY    USAGE
+                               1#
+                              .8
+                                                                                                                       Applied experimental  combustion   studies are now under-
+                                                                                                                       way,   aiming  at systematic     measurements    of flame
+                              .4               _           Normal-gravity                                              spread over practical materials in ventilated microgravity.
+                                                           limit
+                                                                                                                       One such project              measures       flame-spread     rates over
+                              .2                    [      ]        j   lllll[
+                                   10              20              40      80     80100                                cylindrical     plastic specimens         with controlled    air flow in a
+                                    Oxygen         concentration,           Mote         %
+                                                                                                                       Russian      flow-tunnel       facility operated      on Mir.      Another
+                                                                                                                       project,     Diffusive      and       Radiative    Transport     in Fires
+Figure 4. Experimental     data on flame-spread   rates                                                     and        (DARTFire),         also measures           flame spread       over thick
+flammability limits of thin-paper  fuels for downward                                                       nor-       PMMA        sheets      in a combustion           tunnel   operated      on
+mal gravity and quiescent microgravity    [39].                                                                        sounding rockets.          DARTFire        incorporates   imposed flow,
+                                                                                                                       atmospheric        control, and radiant heat flux as variables in
+           8,0-                                                                                                        the experiments         [42].
+
+           5,0     -
+                                                                                                                       Research projects are also investigating         test methods to
+                                                                                                                       predict fire resistance    in space based on modifications       or
+           4.0
+                                                                                                                       correlations   of normal-gravity    assessments      [43]. A study
+     11)
+                                                                                                                       in progress is developing      a new ignition-delay     and flame-
+     "o 3.0
+
+     !                                                   •41-       35% Oxygen,'NIb'ogen                               spread test incorporating      external heat flux and low-velo-
+                                                                                                                       city flow as part of the flammability-test     routine [44].
+           2.0
+
+
+
+           1.0--
+                                                                                                                       Combustion         specialists    are aware of the difficulty            in
+                                                                                                                       reproducing      the flow and energy fields in the microgravity
+           0.0                   J                          1                              I            r              environment         for these       material-qualification       assess-
+                  SO           t00                        IS0                            200          250
+                                                                                                                       ments.     It is thus unlikely that any single test method will
+                                              Total     pressure,       kPa
+                                                                                                                       ever be found that is capable of characterizing                  material
+                                                                                                                       acceptability     for all incipient-fire  scenarios      in space [45].
+
+Figure 5. Experimental                          data on flame-spread rates in
+quiescent  microgravity,                       from Solid Surface Combustion
+Experiment  [27].
+
+
+
+NASA/TM--              1999-209285                                                                                 6
+         Table 2. Flammability    of Thin Cellulosic   Sheet   Fuels Under Atmospheres             with Varying   Diluents   (from [40])
+
+
+                                 Oiluent-_             N2         He         Ar         CO 2          SF,
+
+                                                         NORMAL         GRAVITY
+
+                                 Flammability
+                                 Limit,   % 02:         16        16.5        11.5       24            38
+
+                                 Flame-Spread
+                                 Rate,  cm/s:           0.9        1.8        1.9         ......
+                                    at 20%-02
+
+                                    at 25%-02           1.3        2.7         3.0        0.5          ---
+
+                                    at 30%-02           1.7        3.5         4.1        1.2          ---
+
+                                    at 35%-O 2          2.2        4.3                    1.7          ---
+
+                                    at 40%-02           3.0        5.0                    1.9          0.45
+
+                                    at 45%-O 2                                            2.3          0.95
+
+                                                   QUIESCENT       MICROGRAVITY
+
+                                 Flammability
+                                 Limit,   % 02:         17         21          13         21           29
+
+                                 Flame-Spread
+                                 Rate,  cm/s:
+                                                        0.6        ---         1.3        ......
+                                    at 20%-02
+
+                                    at 25%-02           0.9        1.7         2.0        0.75          ---
+
+                                    at 30%-02           1.1        2.1         2.6        1.3           0.35
+
+                                    at 35%-02           1.4        2.4                    1.7           0.6
+
+                                    at 40%-02           2.0        2.5                    1.9           1.0
+
+                                    at 45%-02                                             2.0           1.5
+
+
+
+
+FIRE DETECTION       IN SPACE     ENVIRONMENTS                              those in the 1974 Skylab space station, which had a col-
+                                                                            lection of 30 radiation detectors     sensitive to fire-genera-
+STATUS    OF FIRE DETECTION          IN SPACECRAFT                          ted emissions   in the ultraviolet   spectrum.    This type of
+                                                                            detector   is a line-of-sight   sensor,   and it responds       to
+In the five fire-precursor incidents    experienced in more                 already   established      fires.
+than   18 years       of Shuttle    Transportation   System
+missions, the crew detected      the problems by odor and                   All human-crew    spacecraft     subsequent      to Skylab have
+sight and responded       by isolating and deenergizing  the                been equipped     with smoke       detectors,    which have the
+affected electrical circuits [13]. In the most serious inci-                advantages   of generalized     sampling and high sensitivity
+dent, a cable strain and insulation failure created an elec-                to smoke particulates    emitted not only from incipient fires
+trical short circuit, which caused the expulsion of embers                  but also from smoldering          and pyrolysis      events   [47].
+                                                                            Smoke detectors      sense the buildup        of particles  in the
+and particles [46]. That incident    resulted in an estimated
+maximum particle concentration       of only one-tenth   of the             atmosphere      by several       means,   including   ionization-
+alarm setting, and consequently      the smoke detectors did                current interruption,    photoelectric  scattering  and obscur-
+not alarm.                                                                  ation, quartz-crystal     microbalance   response,   or conden-
+                                                                            sation-nuclei   counting.     Detectors employing   the first two
+Thus, sensing by the crew can be relied on for the early                    principles,    ionization  and   photoelectric,      have   been
+warning of incipient fires in spacecraft;   and, in the first               adapted     for practical service onboard       spacecraft; and,
+U.S. human-crew     space missions (Mercury, Gemini, and                    indeed, these are the types found in almost all commer-
+Apollo), this was the only means of fire detection.     The                 cial smoke detectors on Earth.
+first automated fire detectors installed in spacecraft were
+
+
+NASA/TM--     1999-209285                                               7
+CURRENT       FIRE DETECTION          FOR SPACECRAFT                         LOW-GRAVITY          PERFORMANCE
+
+
+The ionization     detectors    of the Shuttle and its payload-              The overall reliability of the Shuttle detectors    has been
+bay laboratories       (Spacelab,     for example)      are the first        high.   Through   almost 100 Shuttle    missions,    covering
+smoke detectors        designed    specifically   for installation  in       over 18,000 hr of orbital operations,     there have been
+spacecraft    [48]. An aerodynamic         separator   causes parti-         less than 15 reported false alarms or built-in-test failures.
+cles larger than about 2 _m (dust, perhaps) to bypass
+the ionization chamber.       The flow through the inlet separ-              Criteria   for   alarm   thresholds     are   established     for   the
+ator and the sensing chambers            is created by an internal           ionization and photoelectric         smoke detectors from testing
+fan, a vane pump, which may also promote the sampling                        and calibrations       against    model fires in normal gravity
+effectiveness       in   the     non-convective        environment,          [48].    For performance        in microgravity,     however,     there
+although the manufacturer         states that the fan is solely for          are concerns       over the possible slow response            and low
+particle separation [49].                                                    sensitivity of detectors      to the nearly invisible flames with
+                                                                             little apparent smoke, as observed in quiescent and low-
+The photoelectric    detectors    of the pressurized     modules             flow conditions     [54]. Furthermore,       the criteria for sensiti-
+of the International   Space Station (ISS) utilize the prin-                 vity and false-alarm         rejection    of the smoke detectors
+ciple of attenuation  or scattering    of light by smoke parti-              depend on foreknowledge             of the size and size distribu-
+cles [50].   The scattering      measurement      is the primary             tion of the particles       released     in a fire event.      Limited
+source for the alarm circuitry.      The obscuration     signal is           experiments      in low gravity indicate that particulates         tend
+used for built-in tests and zero-drift        adjustments     [51].          to be larger than in normal gravity in the early stages of a
+The long-wave-length       visible light source makes these                  fire (Fig. 6), most likely because the lack of convective
+detectors most sensitive to particles larger than 0.3 _m in                  movement        favors     the     agglomeration        of  individual
+size.                                                                        particles [55].
+
+
+The Shuttle and ISS detection       systems are not identical                A science experiment         on the Shuttle, Comparative         Soot
+because    they have different     design     requirements    and            Diagnostics,    investigated     the effluent-particle     sizes gen-
+must meet varied constraints,        such as allotted power,                 erated by overheated          wiring insulation,      pyrolyzing  sili-
+volume, functionality,  serviceability,    and useful lifetime.              cone rubber, burning         paraffin,    and burning paper in a
+For operation   on the ISS, the photoelectric        detector has            slow-moving       air stream      [56].     The experiment       also
+recognized advantages    over the Shuttle ionization type in                 exposed a Shuttle detector unit and an ISS detector pro-
+its much lower power requirement,         slightly lower mass,               totype to the particulate-air        stream a few meters down-
+and lack of moving parts [48].                                               stream of the sources to determine              the sensitivity   and
+                                                                             response     of the detectors       in microgravity.      Fig. 7 is a
+On Earth,     smoke     detectors    are located     on ceilings             selection of the results for one of the tests to illustrate the
+because buoyancy       carries the particle-laden     air upward             detector responses      following the pyrolysis of polyimide-
+first before spreading    down to the floor.    In the absence               insulated wiring. The igniter that promoted the pyrolysis
+of buoyancy,    detector    location  is less certain.    On the             event was turned on for a period of about 20 sec. The
+Shuttle, detectors   are located in ventilation     paths in the             scattering signal of the ISS photoelectric     detector actua-
+avionics bays and the flight decks. On the ISS, detectors                    ted first, reaching full scale at about 20-sec elapsed time,
+monitoring   the equipment      racks within each module will                during the period when the igniter was still on. The sig-
+be installed with their light paths directly within cooling-air              nal of the prototype    ISS unit was amplified because of a
+return pipes, or exposed         to the general   air-circulation            low signal level from what is now known to be a defective
+flow. The ISS modules supplied by the U.S., European,                        early model.      The Shuttle ionization    detector   actuated
+Japanese,     and Italian space agencies     have identical fire             about 20 seconds later, with its characteristic           signal of a
+prevention,    detection, and suppression    requirements       and          distinct decrease from full scale, which should trigger an
+operations    [52].    Because the elements     of the Russian               alarm circuit, then a gradual return to the original value.
+segment have been designed independently            and in some              Both detectors     responded       adequately,     in the illustrated
+cases prior to the designs of the ISS, they have different                   manner,      to most pyrolysis,         smoldering,     and flaming
+fire-response     systems.      The Functional    Cargo       Block          events (allowing for the amplification          of the ISS signal),
+(Zarya), the first assembly      element of the ISS, placed in               with delays of the order of 10 to 70 sec to reach an
+orbit on November          1998, has ten ionization         smoke            assumed actuation level. The Shuttle detector, however,
+detectors, similar in principle to those on the Shuttle [53].                did not attain a significant        signal level for liquid smoke
+The Service Module, the primary Russian element, to be                       particulates   from smoldering         paper and silicone rubber.
+launched on the third assembly       mission, has photoelec-                 The important     qualitative conclusion       of the study is that
+tric detectors, of the type used in Mir.                                     the relative responsiveness         of these detectors is different
+                                                                             in microgravity    compared       to normal gravity, most likely
+                                                                             due to the differences      in particle sizes and morphology.
+
+
+
+NASA/TM--      1999-209285                                               8
+                                                                                                                                          FIRE CONTROL         AND SUPPRESSION           IN
+                                                                                                                                          SPACECRAFT
+                                                                                                i__,.:_._._,_;. :,:
+
+
+                                                                                                                                          STATUS     OF FIRE SUPPRESSION             ON SPACECRAFT
+                                                                                             _:_i!:
+                                                                                                ._,_._'_i:i
+                                                                                                         __ ..,:'J::_.
+
+                                                                                                                                          Spacecraft  have always been equipped             with fire exting-
+                                                                                                                                          uishers as protection against spreading         fires [61]. In the
+                                                                                                                                          Mercury  and Gemini spacecraft,   a water gun used for
+                                                                                                                                          food reconstitution was designated   for the secondary
+                                                                                                                                          purpose    of an emergency         fire extinguisher    [62].   The
+Figure 6. Examples          of soot particles    collected    over
+                                                                                                                                          next generation      of space missions        was equipped      with
+ethylene     diffusion    burners  (note differing     scales    of
+                                                                                                                                          dedicated    fire extinguishers.      The Apollo spacecraft,     for
+magnification).      (a) Normal gravity. (b) Low gravity.
+                                                                                                                                          example,    had foam-based         extinguishers,    which gener-
+                                                                                                                                          ated a stable water-gas       mixture propelled by inert Freon
+                                                                                                                                          and nitrogen gases.        At present, the agents of choice for
+                                                                                                                                          spacecraft    are compressed       gases, with exceptions     to be
+                                                                                             Shuttle       Ionization     Detector
+                                                                                                                                          noted.
+
+
+     !                                                                                                                                    CURRENT       REQUIREMENTS          AND PRACTICES
+    =o                                                                  ISS Photoelectric              Detector    - Scattering
+    g                                      • .............................
+                                          J
+                                                                                                                                          In the   Shuttle,   if a fire   is detected    in the   cabin,   the
+
+                                    I
+                                      l             Igniter                  Actuation                                                    expected crew response       is to turn off the cabin fan, don
+             I ......               "I ....                    II
+                                     |                                                                                                    the protective    helmets   (part of the launch and entry
+                                                                                                                                          suits), and discharge   a portable fire extinguisher.   If a fire
+                                !
+                                                                                                                                          is detected in an equipment       rack or an avionics bay, the
+                        I   J              I                   i         I               I             I              I           I
+                                                                                                                                          expected   crew response       is to deenergize    the affected
+                  1D                 20                              30              411           50              60          70
+                                                                                                                                          circuits or the entire rack, then also don the protective
+                                                            Elapsed              time, tmc
+                                                                                                                                          helmets, and discharge a portable fire extinguisher.      The
+                                                                                                                                          rack covers have circular holes (fire ports) for insertion of
+Figure 7. Time sequence     of ignition events                                                                        and detector        fire-extinguisher     nozzles to flood the interiors.    The Shut-
+responses   following pyrolysis of polyimide                                                                           wire insula-       tle crew also has the option of fire fighting through the
+tion, from Comparative      Soot Diagnostics                                                                            Experiment        discharge      of extinguisher     bottles mounted    in the cabin
+[56].                                                                                                                                     and in each avionics            bay, actuated    by control-panel
+                                                                                                                                          switches.      The availability    of the fixed suppression    sys-
+                                                                                                                                          tem on the Shuttle is essential to safety, because during
+                                                                                                                                          reentry, the crew is immobile        and has no access       to the
+RADIATION         AND GAS DETECTION                                                                                                       portable fire extinguishers.
+
+
+The original designs of the ISS also included flame-radia-                                                                                The ISS will have portable extinguishers    only.  After the
+tion sensors for overall monitoring   of the modules and                                                                                  Phase II assembly   is complete,   the station will always
+some of the enclosed standoff and rack volumes within                                                                                     have a mobile crew on hand; hence the added complex-
+the modules [51]. The need to conserve mass and elec-                                                                                     ity of a fixed system is not necessary          [63].    The ISS
+tric power    eliminated  these detectors   from the ISS                                                                                  extinguisher    will have two interchangeable      nozzles: one,
+designs,   but technology    development  continues   in the                                                                              a cone for streaming      application   in open areas, and the
+European    Space Agency on flame detectors      for supple-                                                                              other, a tube for flooding application       by insertion into a
+mentary fire detection [57].                                                                                                              rack fire port. Each rack closure will have a membrane-
+                                                                                                                                          protected fire port to permit internal flooding of the rack
+Discrete sampling of the spacecraft  atmosphere for trace                                                                                 by insertion of the extinguisher      nozzle, as in the Shuttle.
+constituents, particularly carbon monoxide, can also pro-                                                                                 Upon a verified alarm, software will shut down cabin ven-
+                                                                                                                                          tilation within the affected module and remove local elec-
+vide early warning                          of incipient fires or smoldering   [58].
+Active development                           is underway    on continuous  analysis                                                       trical power at the fire location within 30 seconds.     The
+systems for the ISS [59]. Gas sensing for fire detection                                                                                  ISS suppression    system is designed to release sufficient
+has advantages   of rapid, sensitive, but non-localized res-                                                                              agent to reduce the ambient oxygen in a local affected
+ponse. A promising concept for the future is that of com-                                                                                 volume    to half the original     concentration  within  60
+bined detection  systems, with multiple logic responding                                                                                  seconds    [52].   A module can also be isolated from the
+to both carbon monoxide      and smoke, if these can be                                                                                   rest of the ISS complex     by closing valves to cut off the
+accommodated     within                                       the spacecraft                               mass           and power       intermodule    ventilation.
+allowances [60].
+
+NASA/TM--1999-209285                                                                                                                  9
+FIRE-EXTINGUISHING                AGENTS                                        the expansion    of the combustion   gases and the expul-
+                                                                                sion of fuel particles may generate   enough force to pro-
+The Shuttle and its payload-bay        laboratories     have exting-            mote flow even in microgravity.    Hence, fire suppression
+uishers    charged     with gaseous      Halon      1301 (bromotri-             by extinguishing  agents is likely to be an essential               res-
+fluoromethane).        The manufacture          and new uses of                 ponse to all but minor, incipient fires.
+Halon 1301, which has a high ozone-depletion               potential,
+are now prohibited by international           protocol [64].     Exist-         The microgravity     environment    may have little influence
+ing installations    such as those on the Shuttle            may be             on the process of extinguishment      in flooding applications,
+retained indefinitely.     Halon 1301 is an extremely        efficient          as within racks.     Low gravity, however, will likely affect
+fire extinguisher,     chemically    inhibiting     the combustion              streaming   applications,    perhaps    making    the physical
+reactions.     Concentrations     of no more than 6% are suf-                   application  more difficult    and the rate of dispersion
+ficient to extinguish most fires, except perhaps some that                      slower.     Clearly, the discharge       of non-gaseous,         mixed-
+are deep-seated.        Halon 1301 does generate toxic and                      phase agents will require new techniques               in low gravity,
+corrosive products,      but in standard discharge          rates, the          since these agents depend on downward                 settling, a gra-
+product concentrations        are very low. Shuttle flights may                 vity-aided    process, to cover burning surfaces               or liquid
+continue    if the measured         trace-product     contamination             pools.     The Skylab tests examined            the effect of water
+following an extinguisher        discharge     is within the space-             sprays on burning samples in a chamber [25]. The spray
+craft maximum       allowable    concentrations.       Early mission            broke up into isolated         droplets.     Only a few droplets
+termination    and return to ground is, of course, an option                    struck the burning material,          and they tended to scatter
+to ensure safety on the Shuttle.                                                the flaming       material    before    extinguishing       the flame.
+                                                                                More recent tests on an airplane flying parabolic trajec-
+The ISS will have extinguishers              charged     with carbon            tories demonstrated        the effective dispersion      of water and
+dioxide in all its segments          except for those in the Russ-              foam in low gravity, albeit in non-burning          tests [68].
+ian segment     (developed        independently),    which will have
+water-based      foam extinguishers         [63].    Carbon dioxide             Researchers     are particularly    concerned        with the relative
+has been selected through trade-off studies, which com-                         efficiency of fire suppression       in microgravity.        Results of
+pare weighted attributes of competing              agents for space-            small-scale   tests in drop towers, investigating             the effect
+craft application.       Carbon dioxide has advantages            in its        of dilution of the atmosphere           by suppressants          on the
+low cost, availability,     reliability, and absence of halogen-                ignition and flame spread of thin fuels, are encouraging.
+ated products.      It is a relatively inefficient agent, since its             For Halon-1301      dilution, the quantity          needed for sup-
+action is by oxygen dilution, requiring as much as 50%-                         pression is shown to be appreciably             less in microgravity
+CO 2 concentrations         in local volumes.          Leakage     may          than in corresponding        normal gravity [62].          For carbon-
+generate    excessive,       toxic atmospheric       concentrations,            dioxide dilution, suppression         effectiveness       is also indi-
+difficult to remove by the standard              ISS environmental-             cated     by reduced      flammability       compared        to air or
+control system [65].                                                            nitrogen-oxygen     reference      cases      [41].      These    tests,
+                                                                                however,    cannot demonstrate           diluent effectiveness        for
+Nitrogen is under consideration   for suppression   protec-                     the scenario     of extinguishment       of         an   established,
+tion in small, attended volumes, such as the airlock of the                     spreading fire in ventilated microgravity.
+ISS. Nitrogen avoids the toxicity issue of carbon dioxide,
+although      it is even less efficient    as a suppression      agent          FIRE FIGHTING         AND POST-FIRE          ACTIONS
+[66].
+                                                                                The ISS has the option of abandoning        a module, closing
+Mixed-phase,     water-based foams and mists are supplied                       its hatches, and venting the module, as a means to con-
+to the ISS Russian segment, as noted. These non-gase-                           trol a difficult or inaccessible   fire.   Proposed     venting
+ous agents can be very effective, providing suppression                         capability is the attainment of a total pressure of 30 kPa
+through flame cooling as well as oxygen dilution         [67].                  or less within 10 minutes [52].        The limit is arbitrary,
+The liquid foam residues,    however,  are very difficult to                    based on a compromise       rate of venting.   Slow depress-
+remove from the spacecraft      atmosphere   and surfaces                       urization delays suppression,    but rapid depressurization
+after fire control.                                                             may cause flame intensification    prior to suppression    [25].
+                                                                                Results of recent small-scale   research on venting exting-
+LOW-GRAVITY             PERFORMANCE                                             uishment in low gravity offer a new venting criterion [69].
+                                                                                The studies indicate that the pressure limit for suppress-
+The initial step in fire response is the shutoff of local and,                  ion by venting under normal or low gravity is a function
+in some cases, module air circulation.     As discussed     in a                primarily of the fuel temperature.     This information sug-
+previous section,     research has demonstrated      that fires                 gests that rapid venting is most desirable in microgravity,
+over solid surfaces in microgravity  tend to self-extinguish                    with the target total pressure      reduced    to as low as
+when flow ceases.     It is unknown, however, whether an                        10 kPa.
+established  fire of more than minimal size can be con-
+trolled    merely    by removal    of air flow.   In spreading    fires,
+NASA/TM--           1999-209285                                            I0
+The   determination     of the completion        of fire extinguish-           REFERENCES
+ment in spacecraft    is by no means     straightforward.
+Since burned material remains hot in the non-convective                        1.   Kaplan, S.: Safety Risk Assessment on the Space Station
+                                                                                    Freedom. AIAA Paper 90-3771, Sept. 1990.
+environment,      embers       may    reignite      if   prematurely
+                                                                               2.   Friedman, Robert: Fire Safety in Spacecraft.         Fire and
+exposed to fresh air [70]. The Shuttle regulations  permit                          Mater., vol. 2, 1996, pp. 235-243.
+the crew to determine   the fire cessation by observation,                     3. Sawyer, C.R.: Space Station Freedom Secondary Power
+but they also note that the smoke              detector   reading                   Wiring Requirements, in Hammoud, Ahmad; and Stavnes,
+                                                                                    Mark W., eds.: First NASA Workshop on Wiring for Space
+should be stable or decreasing.           For a fire in a closed
+                                                                                    Applications. NASA CP 10145, Sept. 1994, pp. 99-113.
+avionics bay, if the local power is off and an extinguisher                    4. NASA Office of Safety and Mission Quality: Flammability,
+bottle is discharged,     the fire is considered     suppressed.                    Odor, Offgassing, and Compatibility        Requirements     and
+Corresponding     fire-cessation   criteria for the ISS are still                   Test Procedures for Materials in Environments That Sup-
+under review [71].                                                                  port Combustion. NASA NHB 8060.1C, April 1991.
+                                                                               5. Cahill, Patricia: Evaluation of Fire Test Methods for Air-
+                                                                                    craft Thermal Acoustical Insulation.     DOT/FAA/AR-97/58,
+Considerable    cleanup    will be required       after all fire                    Sept. 1997.
+events, minor or major [72]. Atmospheric        revitalization    to           6. Hsieh, Fu-Yu; and Beeson, Harold D.: Evaluation of the
+remove even trace quantities of fire and extinguishment                             Controlled-Atmosphere     Cone Calorimeter for Determining
+contamination   may tax the environmental-control           system                  Fire Properties of Materials According to NASA Handbook
+                                                                                    8060.1C Test 2. NASA TM 104809, Dec. 1995.
+and require the use of portable        crew breathing        equip-
+                                                                               7. Rodak, E.M.; Taylor, Ronald J.; Hirsch, David B.; and
+ment and filters for periods of time.       On a longer time                        Linley, Larry J.: Effects of Sample and Test Variables on
+scale, the subtle toxic and corrosive       aftereffects     of the                 Electrical Wire Insulation Flammability. Jour. Testing and
+fire on equipment,      systems,    and payloads         must be                    EvaL, vol. 22, 1994, pp. 449-452.
+recognized and appropriately     controlled [2].                               8. Nicholson, Leonard S., ed.: Flammability Configuration
+                                                                                    Analysis for Spacecraft Applications.         NASA Johnson
+                                                                                    Space Center NSTS 22648, Oct. 1988.
+CONCLUDING            REMARKS                                                  9. ESTEC Materials and Processes Div.: Flammability Test-
+                                                                                    ing for the Screening of Space Materials.        ESA PSS-01-
+The record of fire safety on the Shuttle confirms        the                        721, Issue 2, April 1992.
+adequacy of the current fire-prevention  policies and prac-                    10. Hirsch, D.: Comparison of Results of the European Space
+                                                                                    Agency Oxygen Index Test and the NASA Upward Propa-
+tices. The major premise of fire prevention is the qualifi-
+                                                                                    gation Test. NASA JSC White Sands Test Facil. TR-581-
+cation of materials  as fire-resistant.   It is, of course,                         001, March 1989.
+impractical to test even a small, representative    sampling                    11. Hsieh, Fu-Yu; and Beeson, Harold D.: Flammability Test-
+of materials in microgravity. The standard normal-gravity                           ing of Flame-Retarded Epoxy Composites and Phenolic
+tests, in which the modeled       flame   propagation     and                       Composites. Fire and Mater., vol. 21, 1997, pp. 41-49.
+                                                                                12. Hsieh, Fu-Yu; and Beeson, Harold D.: Cone Calorimeter
+extinction mechanisms       are distinctly different from those
+                                                                                    Testing of Epoxy/Fiberglass and Brominated Epoxy/Fiber-
+in low-gravity     flames,    are regarded      as "worst-case"                     glass Composites in Normal Oxygen and Enriched Oxy-
+representations.      This implied margin of safety is known                        gen Environments, in Janoff, Dwight D.; Royals, Wil-
+to decrease      when applied     to materials      under typical                   liam T.; and Gunali, Mohan V., eds.: Flammability and
+microgravity     environments    with forced gas flows or at                         Sensitivity of Materials in Oxygen-Enriched Atmospheres,
+                                                                                    7th Vol. ASTM STP 1267, ASTM, West Conshohocken
+sufficiently elevated oxygen concentrations.
+                                                                                     PA, 1995, pp. 152-167.
+                                                                                13. Friedman, Robert: Risks and Issues in Fire Safety on the
+Quantitative   data relating combustion    behavior in ventila-                      Space Station. NASA TM 106430, March 1994.
+ted microgravity    to that in corresponding    normal gravity                  14. Sacksteder, Kurt. R.: The Implications of Experimentally
+                                                                                     Controlled Gravitational    Accelerations    for Combustion
+are scant. Consequently,      research is aimed at an under-
+                                                                                     Science.     Twenty-Third Symp. (Inter.) on Comb., The
+standing of low-gravity   flammability  in order to develop                          Comb. Inst., Pittsburgh, 1991, pp. 1589-1596.
+test protocols and predictive correlations   to contribute    to                15. Huggett, Clayton: Habitable Atmospheres Which Do Not
+the continued improvement     of spacecraft  fire prevention,                        Support Combustion.       Comb. and Flame, vol. 20, 1973,
+detection, suppression,  and recovery.                                               pp. 140-142.
+                                                                                16. West, John B.: Fire Hazard in Oxygen-Enriched           Atmos-
+                                                                                     pheres at Low Barometric Pressures: Aviation, Space,
+CONTACT
+                                                                                     and Envir. Med., vol. 68, 1997, pp. 159-163.
+                                                                                17. Law, C.K.: Combustion        in Microgravity:    Opportunities,
+The author     is a senior    aerospace   engineer       in th.e Micro-              Challenges, and Progress.       AIAA Paper 90-0120, Jan.
+gravity Combustion   Science Branch, Mail Stop 500-115,                              1990.
+                                                                                18. Shvartz, E.: Advantages of a Low-Oxygen Environment in
+of the NASA Glenn (formerly Lewis) Research           Center.
+                                                                                     Space Cabins.      Aviation, Space, and Envir. Medicine,
+He may be reached at 216-433-5697        by voice telephone                          vol. 1, 1990, pp. 270-276.
+or by E-mail at Robert.Friedman@qrc.nasa.gov.                                   19. Knight, Douglas R.: Medical Guidelines for Protecting
+                                                                                     Crews with Flame-Suppressant      Atmospheres.     SAE Tech.
+                                                                                     Paper 891596, July 1989.
+                                                                                20. Knight, Douglas R.: The Medical Hazards of Flame-Sup-
+                                                                                     pressant Atmospheres.      Naval Submarine Med. Res. Lab
+                                                                                     Rept. 1167, April 1991.
+
+ NASA/TM--      1999-209285                                               1I
+21.   Friedman,       Robert;    and    Urban,     David     L.: Contributions        of               Intemational    Microgravity     Combustion      Workshop.      NASA
+      Microgravity    Test Results    to the Design    of Spacecraft                                   CP 10174, Aug. 1995, pp. 195-199.
+      Fire-Safety  Systems.     AIAA Paper 93-1152, Feb. 1993.                                   37.   Greenberg,     Paul S.; Sacksteder,      Kurt R.; and Kashiwagi,
+22.   Pu, Y.; Podfilipski,  J.; and Jarosinski, J.: Constant Volume                                    Takashi:      Wire    Insulation      Flammability       Experiment:
+      Combustion     of Aluminum    and Cornstarch    Dust in Micro-                                   USML-1       1 Year Post Mission       Summary,      in Ramachan-
+      gravity.    Comb.     ScL and Technol.,         vol.   135, 1998,        pp. 255-                dran,    N.; Frazier,   D.O.;    Lehoczky,   S.L.;    and Baugher,
+      267.                                                                                             C.R., eds.: Joint Launch         + One Year Science        Review    of
+23.   Olson, Sandra L.; and Sotos, Raymond,         G.: Combustion                                     USML-1 and USMP-1     with the Microgravity    Measurement
+      of Velcro in Low Gravity.    NASA TM 88970, March 1987.                                          Group.   NASA CP 3272, vol. I, May 1994, pp. 631-655.
+24.   Sanchez   Tarifa, C.; Lifian, A.; Salva, J.A.; Corchero,    G.;                           '38.   Walther,   David C.; Fernandez-Pello,       A. Carlos;   and
+      Juste, G.L.; and Esteban              F.: Heterogeneous           Combustion                     Urban,    David L.: Smoldering     Combustion    Experiments      in
+      Processes         under     Microgravity       Conditions,       in Kaldeich,                    Microgravity,      in Sacksteder,   Kurt Ro, ed.: Fourth     Inter-
+      Brigitte,    ed.:     Combustion         Experiments         During     KC-135                   national      Microgravity    Combustion    Workshop.      NASA
+      Parabolic      Flights.    ESA SP-1113,         Aug. 1989, pp. 53-64.                            CP 10194, May 1997, pp. 369-374.
+25.   Kimzey,       J.H.:     Skylab      Experiment        M479      Zero    Gravity            39.   Olson,   Sandra      L.: The Effect of Microgravity    on Flame
+      Flammability,        in Skylab       Results,     Proc. Third Space Pro-                         Spread Over a Thin Fuel. NASA TM 100195, Dec. 1987.
+      cessing Symp. NASA Marshall                   Space Flight Center M-74-                    40.   Honda, L.K.; and Ronney,       P.D.: Effect of Ambient Atmos-
+      5, Vol. 1, NASA TM X-70752,                June 1974, pp. 115-130.                               phere on Flame Spread at Microgravity.          Comb. Sci. and
+26.   Shipp, Martin; and Spearpoint,                Michael:    The Detection         of               TechnoL, vol. 133, 1998, pp. 267-291.
+      Fires in Microgravity,             in Kashiwagi,        Takashi,      ed.: Fire            41.   Olson, S.L.; Stouffer,   S.C.; and Grady, T.: Diluent Effects
+      Safety Science.         Proc. Fourth Inter. Symp. Inter. Assoc. for                              on Quiescent     Microgravity    Flame   Spread    Over a Thin
+      Fire Safety Sci., Boston, 1994, pp. 739-750.                                                     Solid Fuel.    The Comb. Inst., Eastern       States Sec., Fall
+27.   Ramachandra,           Prashant A.; Altenkirch,          Robert A.; Bhatta-                      Tech. Meeting,   Paper 70, Oct. 1989.
+      charjee,    Subrata;      Tang, Lin; Sacksteder,              Kurt; and Wol-               42.   Olson, S.L.; Altenkirch,       R.A.; Tang. L., Bhattarcharjee,       S.,
+      verton,    M. Katherine:        The Behavior         of Flames Spreading                         and Hegde, U.: Diffusive         and Radiative    Transport   in Fires
+      over Thin Solids            in Microgravity.           Comb.      and Flame,                     Experiment:      DARTFire,     in Sacksteder,    Kurt R., ed.: Fourth
+      vol. 100, 1995, pp. 71-84.                                                                       International     Microgravity    Combustion      Workshop.     NASA
+28.   Bryant,    D.; and Judd, M.D.: The Effects of Gravity                      Level                 CP 10194, May 1997, pp. 393-398.
+      on Rate of Heat Release               and Time to Ignition, in Experi-                     43.   Ohlemiller,     T.J.; and Villa,     K.M.:    Material  Flammability
+      ment Results          of ESA and CNES               Parabolic     Flight Cam-                    Test Assessment         for Space Station        Freedom.      NISTIR
+      paigns - Tenth Anniversary                of First ESA Parabolic           Flight                4591, NASA CR 187115, June 1991.
+      Campaign,        Workshop       Proc.     ESA WPP-90,         CNES ED/MV-                  44.   Cordova,      J.L.;   Ceamanos,       J.; Fernandez-Pello,       A.C.;
+      95-039,     Feb. t995, pp. 99-101.                                                               Long, R.T.; Torero, J.L.; and Quintiere,         J.G.: Flow Effects
+29.   West,     Jeff;    Tang,      Lin;    Altenkirch,      Robert      A.; Bhatta-                   on the Flammability        Diagrams     of Solid Fuels.      in Sack-
+      charjee,      Subrata;       Sacksteder,        Kurt;    and Delichatsios,                       steder,    Kurt R., ed.: Fourth        International    Microgravity
+      Michael     A.: Quiescent         Flame Spread Over Thick Fuels in                                Combustion      Workshop.       NASA     CP 10194,       May 1997,
+      Microgravity.         Twenty-Sixth       Symp. (Inter.) on Comb., The                            pp. 405-410.
+      Comb. Inst., Pittsburgh,            1996, pp. 1335-1343.                                   45.   Torero,    J.; Bahr, N.; and Carman,            E.: Assessment       of
+30.   Steinberg,      T.A.; and Stoltzfus,          J.M.: Combustion          Testing                  Material     Flammability    for   Micro-Gravity      Environments.
+      of Metallic       Materials     Aboard      the NASA Johnson             Space                   IAF-97-J.2.02,    Oct. 1997.
+      Center's     KC135, in Royals, William T.; Chou, Ting C.; and                              46.   Friedman,      Robert:     Fire Safety     Practices     and Needs       in
+      Steinberg,      Theodore       A., eds.: Flammability         and Sensitivity                    Human      Crew Spacecraft.          Jour. Appl. Fire Sci., vol. 2,
+      of Materials        in Oxygen-Enriched               Atmospheres:         Eighth                 1992-1993,     pp. 243-259.
+      Volume.        ASTM STP 1319, ASTM,                   West Conshohocken                    47.   Wieland,      Paul O.: Designing          for Human        Presence      in
+      PA, 1997, pp. 170-188.                                                                           Space: An Introduction          to Environmental      Control and Life
+31.   Kikuchi, Masao; Fujita,          Osamu;       Ito, Kenichi;     Sato,     Atsuki;                Support Systems.         NASA RP 1324, Jan. 1994.
+      and Sakuraya,    Takashi:   Experimental     Study                  on   Flame             48.   Steisslinger,    H.R.; Hoy, D.M.; McLin, J.A.; and Thomas,
+      Spread   over Wire Insulation     in Microgravity.                     Twenty-                   E.C.: Comparison         Testing    of the Space        Shuttle   Orbiter
+      Seventh   Symp. (Inter.) on Comb., The Comb.                       Inst., Pitts-                 and Space        Station     Freedom     Smoke       Detectors.      SAE
+      burgh, 1998, in press.                                                                           Tech. Paper 932291, July 1993.
+32.   Olson,  Sandra  L.; Ferkul,  Paul V.; and T'ien                    James       S.:         49.   Thomas,       Emory     C.: Microgravity       Fire Detection       Prob-
+      Near-Limit    Flame Spread Over a Thin Solid Fuel in Micro-                                      lems-Fact       or Fiction.       SAE Tech. Paper 901215,            July
+      gravity,     Twenty-Second         Symp.      (Inter.)    on Comb., The                          1990.
+      Comb. Inst., Pittsburgh,        1988, pp. 1213-1222.                                       50.   Urban,     David     L.; Griffin,    DeVon    W.; Gard,       Melissa         Y.; and
+33.   Grayson,     Gary; Sacksteder,        Kurt R.; and T'ien, James S.:                              Hoy, Michael:     Smoke Detection      in Low-g Fires, in Sack-
+      An Experimental         Study of Low-Speed               Concurrent-Flow                         steder,   Kurt R., ed.: Fourth       International    Microgravity
+      Flame Spread over a Thin Fuel. The Comb. Inst., Central                                          Combustion      Workshop.     NASA       CP 10194,     May    1997,
+      States Sec., Spring Tech. Meeting, Paper 3, April 1991.                                          pp. 175-180.
+34.   McGrattan,      K.B.; Kashiwagi,       T.; Baum,         H.R.; and Olson,                  51.   Fuhs, Susan; Hu, Raymond;       and McClure,       George:   Devel-
+      S.L.: Effects      of Ignition    and Wind on the Transition                of                   opment of the Flame Detector      for Space Station Freedom.
+      Flame Spread in a Microgravity             Environment.           Comb. and                      SAE Tech. Paper 932106, July 1993.
+      Flame, vol. 106, 1996, pp. 377-391.                                                        52.   Wieland,   P.O.: Living Together    in Space: The Design and
+35.   Kashiwagi,      T.; and Olson,        S.L.: Radiative          Ignition   and                    Operation   of the Life Support Systems on the International
+      Transition     to Flame        Spread      Investigation         (RITSI),   in                   Space Station. Volume      1. NASA/TM-1998-206956/vol.             1,
+      Curreri,   P.A., McCauley,        D., and Walker,           C., eds.: Third                      Jan. 1998.
+      U.S. Microgravity         Payload     One       Year Report.            NASA               53.   McKinnie,      James         M.:    Fire   Response        Aboard       the     Inter-
+      CP 1998-207891,         Nov. 1998, pp. 97-117.                                                   national    Space       Station,      SAE    Tech.    Paper     972334,          July
+36.   Egorov,    S.D.; Belyaev,       A.Yu.; Klimin,         L.P.; Voiteshonok,                        1997.
+      V.S.; Ivanov,      A.V.; Semenov,         A.V.; Zaitsev,         E.N.; Bala-               54.   Shipp,     Martin;     and    Spearpoint,       Michael:      Fires     in Micro-
+      shov, E.V.; and        Andreeva,   T.A.: Fire Safety Experiments                                 gravity.    Fire Safety       Eng., vol.     1, no. 4, Aug.     1994,         pp. 41-
+      on "Mir" Orbital       Station,  in Ross, Howard    D., ed.: Third                               45.
+
+NASA/TM--          1999-209285                                                             12
+55.   Apostolakis,   G.E.; Catton,  I.; Issacci,   F.; Jones,   S.;            63.   Williams,   David   E.: International Space   Station   Environ-
+      Paul, M.; Paulos, T.; and Paxton,   K.: Risk-Based    Space-                   mental    Control   and Life Support     System     Phase    Two
+      craft Fire Safety Experiments.      Reliability Eng. and Sys.                  Design Overview.     SAE Tech. Paper 961470,    July 1996.
+      Safety, vol. 49, 1995, pp. 275-291.                                      64.   Tapscott,    Robert: Halon Replacement  Options    for Use in
+56.   Urban, David L., Griffin, DeVon W.; and Gard, Melissa Y.:                      Aircraft  Fire Suppression  Systems.   DOT/FAA/AR-96/90,
+      Detection   of Smoke from Microgravity    Fires.   The Comb.                   Sept. 1996.
+      Inst., Central States Sec., Tech. Meeting,      Paper 1, April           65.   Huttenbach,     Robin C.; and Oram, Stephen           D.: Life Sup-
+       1997.                                                                         port--Thoughts       on the Design of Safety Systems.           SAE
+57.   Herber,   Nikolaus;  M_ller, Roland;   and Lucas, Jochen:                      Tech. Paper 901248, July 1990.
+      Design and Development      Status of the Columbus   Orbital             66.   Martin, Charles     E.; and DaLee, Robert C.: Spacecraft         Fire
+      Facility Environmental   Control and Life Support  S/S and                     Detection    and Suppression     (FDS) Systems:       An Overview
+      Equipment.     SAE Tech. Paper 981663, July 1998.                              and Recommendations          for Future    Flights.     SAE Tech.
+58.   Jackson,   M.A.;   and Robins,    I.: Gas Sensing  for Fire                     Paper 932166, July 1993.
+      Detection:    Measurement     of CO, CO 2, H 2, 02, and Smoke            67.   Smith, Richard      L.; and Kashiwagi,     Takashi:     Expert  Sys-
+      Density    in European    Standard  Tests.   Fire Safety Jour.,                tems Applied     to Spacecraft   Fire Safety.      Jour. Appl. Fire
+      vol. 22, 1994, pp. 181-205.                                                     Sci., vol. 1, 1990-1991,   pp. 103-113.
+59.   Wilson,    Steve; Limero, Thomas     F.; Beck, Steve W.; and             68.    Rygh, Knut: Fire Safety Research        in Microgravity:     How to
+      James,      John T.: A Combustion      Products    Analyzer for                 Detect Smoke and Flames You Cannot See.                  Fire Tech-
+      Contingency       Use During Thermodegradation       Events  on                nol., vol. 31, 1995, pp. 175-185.
+      Spacecraft,     in Krishen, Kumar, ed.: Sixth    Annual   Work-          69.   Goldmeer,      Jeffrey S.; T'ien,   James    S.; and  Urban,
+       shop on Space Operations,        Applications,   and Research,                David L.: Combustion     and Extinction   of PMMA Cylinders
+       NASA CP 3187, vol. II, 1993, pp. 590-594.                                     during Depressurization      in Low-Gravity.     Fire Safety Jour.,
+60.    Milke, James A.; and McAvoy, Thomas J.: Analysis         of Sig-              vol. 32, 1999, pp. 61-88.
+       nature Patterns for Discriminating     Fire Detection with Mul-         70.   King, Merrill K.; and Ross, Howard           D.: Overview    of the
+      tiple Sensors.   Fire Technol., vol. 31, 1995, pp. 120-136.                    NASA      Microgravity    Combustion      Program.    AIAA    Jour.,
+61.    Diamant,   Bryce L.; and Humphries,        W.R.: Past and Pre-                vol. 36, 1998, pp. 1337-1343.
+       sent Environmental    Control and Life Support Systems        on        71.   McKinnie,     James    M.: ISS US ECLSS           Mission   Control
+       Manned    Spacecraft.     SAE Tech.        Paper 901210,    July              Operations.     SAE Tech. Paper 981664,    July 1998.
+       1990.                                                                   72.   Ross,    Rogard;     Williams, Teresa   A.J.;   and   Sargent,
+62.   Friedman,    Robert; and Dietrich,    Daniel L.: Fire Suppress-                Donald:    Post-Fire  Cleanup  on the Space Station.      SAE
+      ion in Human-Crew       Spacecraft.      Jour. Appl. Fire Sci.,                Tech. Paper 941606, June 1994.
+      vol. 1, 1991, pp. 243-258.
+
+
+
+
+ NASA/TM--          1999-209285                                           13
+                                       REPORT                       DOCUMENTATION                                                 PAGE                                                                               Fo_Approved
+                                                                                                                                                                                                                     OMB No. 0704-0188
+ Public    reporting      burden        for this collection    of   information    is estimated       to average       1 hour    per     response,           including     the time   for reviewing         instructions,      searching        existing     data   sources,
+ gathering     and      maintaining        the data    needed,      and completing      and    reviewing      the   collection    of    information.             Send     comments      regarding      this    burden     estimate      or    any other      aspect     of this
+ collection      of information,          including       suggestions      for reducing     this burden,    to Washington        Headquarters               Services,   Directorate      for     Information       Operations     and Reports,             1215    Jefferson
+ Davis      Highway,      Suite       1204,    Arlington,      VA     22202-4302,       and   to the Office   of Management         and    Budget,            Paperwork      Reduction         Project     (0704-0188),       Washington,   DC              20503.
+
+
+ 1. AGENCY USE ONLY (Leave blank)                                                 2. REPORT DATE                                                       3.     REPORT           TYPE      AND        DATES         COVERED
+
+
+                                                                                                     July       1999                                                                      Technical               Memorandum
+ 4. TITLE AND SUBTITLE                                                                                                                                                                           5. FUNDING NUMBERS
+
+
+           Fire        Safety           in the Low-Gravity                    Spacecraft            Environment
+
+                                                                                                                                                                                                         WU-962-22-00-00
+ 6. AUTHOR(S)
+
+           Robert           Friedman
+
+
+ 7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)                                                                                                                                              8. PERFORMING ORGANIZATION
+                                                                                                                                                                                                    REPORT NUMBER
+           National             Aeronautics                 and Space           Administration
+           John         H. Glenn              Research           Center         at Lewis          Field                                                                                                  E-11754
+           Cleveland,                  Ohio        44135-3191
+
+
+ 9. SPONSORING/MONITORING                                      AGENCY NAME(S) AND ADDRESS(ES)                                                                                                     10. SPONSORING/MONITORING
+                                                                                                                                                                                                      AGENCY REPORT NUMBER
+
+           National             Aeronautics                 and Space           Administration
+           Washington,                    DC       20546-0001                                                                                                                                            NASA             TM--1999-209285
+
+
+
+ 11. SUPPLEMENTARY NOTES
+
+           Prepared                for the 29th             International             Conference              on Environmental                               Systems           cosponsored               by SAE             Aerospace,                   ASME,            AIAA,
+           Aerospace                   Medical         Association,              and AIChE,               Denver,           Colorado,                  July          12-15,       1999.          Responsible                person.            Robert           Friedman,
+           organization                   code       6711,       (216)       433-5697.
+
+
+
+ 12a. DISTRIBUTION/AVAILABILITY                                        STATEMENT                                                                                                                12b.        DISTRIBUTION CODE
+
+           Unclassified                   - Unlimited
+
+           Subject           Category:                16                                                                  Distribution:                        Nonstandard
+
+
+           This publication                   is available      from the NASA Center for AeroSpace                                  Information.                  (301) 621-0390.
+ 13.     ABSTRACT                  (Maximum           200     words)
+
+
+
+           Research                in microgravity                  ('low-gravity)             combustion               promises              innovations                   and improvements                        in fire prevention                        and
+           response                for human-crew                   spacecraft.           Findings           indicate            that material                    flammability                 and fire spread                 in microgravity                      are
+           significantly                  affected          by atmospheric                 flow      rate,     oxygen            concentration,                          and diluent           composition.                This        information                  can        lead
+           to modifications                       and correlations                 to standard            material-assessment                                tests       for prediction              of fire       resistance                in space.             Research
+           on smoke-particle                         changes           in microgravity                promises            future         improvements                         and increased                 sensitivity               of smoke              detectors             in
+           spacecraft.                 Research             on fire suppression                 by extinguishing                       agents               and      venting      can yield             new       information                  on effective
+           control           of the rare,             but serious            fire events          in spacecraft.
+
+
+
+
+ 14. SUBJECT TERMS                                                                                                                                                                                                  15. NUMBER OF PAGES
+                                                                                                                                                                                                                                 19
+           Aerospace                   safety:       Fire detection:               Fire extinguishers:                    Fire      prevention;                      Flammability:
+                                                                                                                                                                                                                    16. PRICE CODE
+           Ignition;               Microgravity               application
+                                                                                                                                                                                                                                 A03
+ 17. SECURITY CLASSIFICATION                                           18. SECURITY CLASSIFICATION                                          19. SECURITY CLASSIFICATION                                             20. LIMITATION OF ABSTRACT
+     OF REPORT                                                             OF THIS PAGE                                                         OF ABSTRACT
+                       Unclassified                                                       Unclassi          fled                                                     Unclassified
+
+NSN 7540-01-280-5500                                                                                                                                                                                         Standard Form 298 (Rev. 2-89)
+                                                                                                                                                                                                            Prescribed           by    ANSI       Std.     Z39-1     8
+                                                                                                                                                                                                            298-102
+

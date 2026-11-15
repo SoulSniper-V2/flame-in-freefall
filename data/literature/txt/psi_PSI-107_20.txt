@@ -1,0 +1,3656 @@
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+      SPICE Flight Safety Data Package, Phase III
+
+
+        Smoke Point in Co-flow Experiment
+             Flight Project (SPICE)
+
+
+
+ May 2008
+
+
+
+
+  Prepared For:
+  National Aeronautics and Space Administration
+  John H. Glenn Research Center at Lewis Field
+  Exploration Systems Division
+  Cleveland, Ohio 44135
+  Prepared By:
+  ZIN Technologies, Incorporated
+  2001 Aerospace Parkway
+  Brook Park, Ohio 44142
+  Under Contract NAS3-99155, 60107-DO-086
+
+
+
+
+May 2008
+                                                  i
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+                                      SPICE-SDP-003
+
+                    SPICE FLIGHT SAFETY DATA PACKAGE PHASE III
+
+
+
+
+  Prepared by:                                            Date:
+                   Debra Lyden
+                   System Safety Engineer
+                   Zin Technologies, Inc.
+
+
+  Approved by:
+                   Tibor Lorik                            Date:
+                   SPICE
+                   Task Lead
+                   Zin Technologies, Inc.
+
+
+
+  Accepted by:     Robert Hawersaat                       Date:
+                   SPICE Project Manager
+                   NASA GRC
+
+
+
+  Concurred by:    William Schoren                        Date:
+                   Lead Safety Engineer
+                   NASA GRC
+
+
+                                                          Date:
+                   Gary Kelm
+                   Chief, System Safety and Reliability
+                   NASA GRC
+
+
+
+
+May 2008
+                                              i
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+                                                        TABLE OF CONTENTS
+
+1      INTRODUCTION...................................................................................................... 1
+
+1.1        Applicable Documents .................................................................................................................. 1
+
+1.2        Acronyms and Abbreviations ....................................................................................................... 2
+
+1.3        Experiment Overview .................................................................................................................... 4
+
+1.4     Payload and Mission Overview .................................................................................................... 4
+   1.4.1 SPICE Payload Hardware ........................................................................................................... 4
+
+1.5     Microgravity Science Glovebox (MSG) Interfaces...................................................................... 5
+   1.5.1 Structural Interfaces with MSG.................................................................................................... 5
+   1.5.2 Power Interfaces to MSG ............................................................................................................ 8
+   1.5.3 Fire Detection and Suppression ................................................................................................ 10
+   1.5.4 Communications Interfaces with MSG ...................................................................................... 10
+   1.5.5 MSG Thermal Interfaces ........................................................................................................... 11
+   1.5.6 MSG Working Volume and Air Filtration System....................................................................... 11
+   1.5.7 Crew Interfaces.......................................................................................................................... 11
+
+
+2      SPICE HARDWARE & SOFTWARE DESCRIPTION ............................................ 11
+
+2.1        Experiment Assembly.................................................................................................................. 12
+
+2.2        Video Titler Box............................................................................................................................ 15
+
+2.3        Power Conditioning Box ............................................................................................................. 15
+
+2.4        Video Camera Assembly ............................................................................................................. 17
+
+2.5        Still Camera Assembly ................................................................................................................ 17
+
+2.6        SPICE Component Case.............................................................................................................. 19
+
+2.7        Gas Bottle Assembly Storage Case ........................................................................................... 20
+
+2.8        SPICE Gas Bottle Assemblies .................................................................................................... 22
+
+2.9        Cable Assemblies ........................................................................................................................ 25
+
+2.10       Software Summary ...................................................................................................................... 25
+
+
+3      SPICE FLIGHT OPERATION................................................................................. 25
+
+3.1        Detailed Operations ..................................................................................................................... 26
+
+3.2        Test Matrix .................................................................................................................................... 26
+
+
+4      SAFETY ASSESSMENT OF SPICE ...................................................................... 28
+
+May 2008
+                                                                             ii
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+4.1        Safety assessment approach for SPICE.................................................................................... 29
+
+4.2     Standard Hazards (JSC Form 1230)........................................................................................... 29
+   4.2.1 Structural Failure ....................................................................................................................... 30
+   4.2.2 Structural Failure of Sealed Containers .................................................................................... 30
+   4.2.3 Structural Failure of Vented Containers .................................................................................... 30
+   4.2.4 Sharp Edges .............................................................................................................................. 31
+   4.2.5 Shatterable Material Release .................................................................................................... 32
+   4.2.6 Flammable Materials ................................................................................................................. 34
+   4.2.7 Materials Offgassing .................................................................................................................. 35
+   4.2.8 Non-Ionizing Radiation (EMI) .................................................................................................... 35
+   4.2.9 Battery Failure ........................................................................................................................... 35
+   4.2.10   Touch Temperatures .............................................................................................................36
+   4.2.11   Electrical Power Distribution ................................................................................................. 36
+   4.2.12   Ignition of Flammable Atmospheres in the Payload Bay ...................................................... 38
+   4.2.13   Rotating Equipment............................................................................................................... 38
+   4.2.14   Mating/Demating of Power Connectors ................................................................................ 38
+   4.2.15   Contingency Return and Rapid Safing.................................................................................. 39
+   4.2.16   Release of Mercury from Bulbs into Crew Habitable Environment....................................... 39
+
+4.3      Other Safety Hazards................................................................................................................... 39
+   4.3.1 Pressurized Systems ................................................................................................................. 39
+   4.3.2 Collision ..................................................................................................................................... 40
+   4.3.3 On-Orbit Maintenance ............................................................................................................... 40
+   4.3.4 Fire Detection and Suppression ................................................................................................ 41
+   4.3.5 Crew Interaction......................................................................................................................... 41
+   4.3.6 Release of Experiment Materials............................................................................................... 45
+   4.3.6.1   Unburned Fuel Release ........................................................................................................ 45
+   4.3.6.2   Combustion By-Product Release .......................................................................................... 49
+   4.3.7 Acoustic Noise ........................................................................................................................... 50
+   4.3.8 Stowage ..................................................................................................................................... 50
+
+4.4        SPICE TEST FAILURES, ANOMALIES AND ACCIDENTS ........................................................ 50
+
+4.5        Agreements from phase 0/1 review and subsequent reviews ................................................ 50
+
+
+ATTACHMENT A : SPICE HMST ...............................................................................................60
+
+ATTACHMENT B : SPICE STANDARD HAZARD REPORT ......................................................63
+
+ATTACHMENT C: SPICE UNIQUE HAZARD REPORTS ........................................................111
+
+ATTACHMENT D: SPICE FIRE DETECTION & SUPPRESSION ............................................112
+
+ATTACHMENT E: SPICE SVTL ..............................................................................................114
+
+ATTACHMENT F: SPICE CERTIFICATE OF SAFETY COMPLIANCE ..................................115
+
+
+
+
+May 2008
+                                                                            iii
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+1 INTRODUCTION
+
+The Smoke Point in Co-flow Experiment (SPICE) Investigation will be operated onboard the
+International Space Station (ISS) in the Microgravity Science Glovebox (MSG). A previous
+version of the SPICE design was called the Enclosed Laminar Flames (ELF) experiment, which
+flew in the Middeck Glovebox on the Space Shuttle STS-87. The Enclosed Laminar Flames
+(ELF) experiment objective was to study fundamental phenomena related to the mechanisms
+controlling the stability and extinction of jet diffusion flames. The design modifications made as
+a result of a carrier change (Middeck GBX to ISS MSG) are considered significant enough that
+the SPICE Hardware is not considered Series Flight Hardware of the original ELF design.
+
+This Phase III Flight Safety Data Package (SDP) documents the hazards assessed for SPICE.
+This SDP documents compliance to NSTS/ISS 1700.7B and is prepared in accordance with
+NSTS/ISS 13830C. A brief overview of the experiment hardware and MSG interfaces is
+presented first, followed by a brief description of crew procedures. Finally, a safety assessment
+of SPICE Hazards is presented. Hazards that have not been eliminated by design have been
+addressed and documented in the Standard Hazard Form (JSC 1230 Form) or in a Unique
+Hazard Report (JSC 542B Form). Refer to Section 4 of this document for the SPICE Safety
+Assessment. Refer to Attachment B for the SPICE Standard Hazard Reporting Form, (JSC
+1230 Form). Refer to Attachment C for the SPICE Unique Hazard Reporting Forms, (JSC 542B)
+that support the SPICE safety assessment.
+
+
+1.1 APPLICABLE DOCUMENTS
+(Latest versions available on the PSRP webpage or the PALS webpage)
+
+NSTS/ISS 13830 - Payload Safety Review and Data Submittal Requirements, REV C
+
+NSTS 1700.7 - Safety Policy and Requirements for Payloads Using the STS
+
+NSTS 1700.7 Addendum - Safety Policy Requirements for Payloads Using the International
+                       Space Station (ISS Addendum)
+
+NSTS/ISS 18798 - Interpretations of NSTS/ISS Payload Safety Requirements, REV B
+
+NASA-STD-3000 - Man-Systems Integration Standards
+
+NASA-STD-5003 – Fracture Control Requirements for Payloads Using the Space Shuttle
+
+NASA-STD-6001 - Flammability, Odor, Off-gassing, and Compatibility Requirements and Test
+                Procedures for Materials in Environments that Support Combustion (same
+                as NHB 8060.1)
+
+NASA-STD-7001 – Payload Vibroacoustic Test Criteria
+
+NSTS 22648 - Flammability Configuration Analysis for Spacecraft Applications
+
+SSP 30233 – Space Station Requirements for Materials and Processes
+
+SSP 30237 - Space Station Electromagnetic Emission and Susceptibility Requirements
+
+May 2008
+                                                1
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+SSP 30240 – Space Station Grounding Requirements
+
+SSP 30245 – Space Station Electrical Bonding Requirements
+
+SSP 50005 - International Space Station Flight Crew Integration Standard (NASA-STD-3000/T)
+
+SSP 52005 - International Space Station Payload Flight Equipment Requirements and
+             Guidelines for Safety Critical Structures
+
+SSP 57000 - Pressurized Payloads Interface Requirements
+
+MSFC-RQMT-2888 - Microgravity Science Glovebox (MSG) Investigation Interface
+                 Requirements Document
+
+MSFC-ICD-3270 – Interface Control Document for SPICE
+
+MSFC-SPEC-527 / JSC 09604 - Materials Selection List for Space Hardware Systems
+
+
+1.2 ACRONYMS AND ABBREVIATIONS
+AI              Action Item
+COTS            Commercial Off-The-Shelf
+CM              Combustion Module (CM-1 and CM-2)
+DC              Direct Current
+EA              Experiment Assembly
+ECLSS           Environmental Control & Life Support System
+ELF             Enclosed Laminar Flames
+EMI             Electromagnetic Interference
+FDS             Fire Detection and Suppression
+FSDC-3          Fiber Supported Droplet Combustion
+SPICE           Smoke Point in Co-flow Experiment
+GRC             Glenn Research Center
+HR              Hazard Report
+Hz              Hertz
+ID              Inner diameter
+I/O             Input/Output
+I/F             Interface
+ISS             International Space Station
+IVA             Internal Vehicular Activity
+JSC             Johnson Space Center
+KSC             Kennedy Space Center
+LED             Light Emitting Diode
+
+
+May 2008
+                                                 2
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+LFL             Lower Flammability Limit
+MFC             Mass Flow Controller
+M&P             Materials & Processes
+MIUL            Material Identification and Usage List
+MSFC            Marshall Space Flight Center
+MSG             Microgravity Science Glovebox
+MUA             Material Usage Agreement
+NASA            National Aeronautics and Space Administration
+NCR             Non-Conformance Report
+NSTS            National Space Transportation System
+SMAD            Safety and Mission Assurance Directorate
+PSRP            Payload Safety Review Panel
+QA              Quality Assurance
+QC (QD)         Quick Connect. A form of QD.
+SDP             Safety Data Package
+SSP             Space Station Program
+STD             Standard
+STS             Space Transportation System
+SVTL            Safety Verification Tracking Log
+UFL             Upper Flammability Limit
+WV              Working Volume
+
+
+
+
+May 2008
+                                                   3
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+1.3 EXPERIMENT OVERVIEW
+The predecessor investigation to Smoke Point in Co-flow Experiment (SPICE) was called
+Enclosed Laminar Flames (ELF) and was developed by NASA/GRC for flight on the Shuttle
+Spacelab during the Fourth United States Microgravity Payload (USMP-4 / STS-87) mission in
+November 1997.
+
+SPICE continues to study fundamental phenomena related to understanding the mechanisms
+controlling the stability and extinction of jet diffusion flames. SPICE will stabilize an enclosed
+laminar flame, measure the overall flame shape to validate the theoretical and numerical
+predictions, measure the flame stabilization heights, and measure the temperature field to verify
+flame structure predictions.
+
+The differences in ELF and SPICE hardware are the following:
+
+       The Gas Bottle Assembly size increased from 75 ml to 150 ml, and maximum pressure
+was reduced from 350 psi to 230 psi. ELF bottles were open on both ends with a plug placed in
+one end and the valve in the other. For SPICE only one end of the bottle has an opening.
+
+        The original fuel was 50/50 % methane. Propane, Ethylene, Propylene have been added
+as fuels. The increase in bottle size and decrease in pressure cause the worst case SPICE
+bottle to have three times the energy of an ELF bottle due to fuel. Also the number of bottles
+increased from 6 to 12.
+
+        For the Experiment Assembly (EA) the Mass Flow Controller model was changed.
+
+      There is a new Electronics power video box power box, a new video camera, a new still
+camera and there is an interface with MSG video drawer.
+
+
+1.4 PAYLOAD AND MISSION OVERVIEW
+The SPICE payload is currently scheduled to fly on the International Space Station (ISS) in the
+Microgravity Science Glovebox (MSG). The ascent flight on the NSTS is tentatively scheduled
+to be ULF2. All SPICE hardware will be returned to earth at the same time on a future shuttle
+flight.
+
+
+
+1.4.1 SPICE Payload Hardware
+
+SPICE payload hardware is all new hardware that has been developed from the ELF
+experiment hardware design.
+
+SPICE consists of an Experiment Assembly (EA), 12 Gas Bottle Assemblies, a Nikon camera, a
+Video Camera, associated structural support for the cameras, Video Power Unit, and a number
+of stowage cases for the hardware and harnessing which includes a Control Box. SPICE is
+providing two bottle stowage cases, a component stowage case, and 2 tape bags. The rest of
+the hardware will be packed by JSC/MSFC. See figures 1 and 2 for hardware and figure 9b for a
+case diagram respectively.
+
+May 2008
+                                                4
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+1.5 MICROGRAVITY SCIENCE GLOVEBOX (MSG)
+    INTERFACES
+SPICE will interface with the MSG for structural support, containment and filtering, conditioned
+power and science data retrieval / storage / downlink.
+
+
+1.5.1 Structural Interfaces with MSG
+
+All SPICE hardware (see Figure 1) except the Control Box (see Figures 2 & 2A) will be mounted
+inside the MSG Working Volume. All components are stowed for launch. The SPICE
+components mounted in the MSG are the Power-Video Unit, the Experiment Assembly, the
+Nikon Digital Still Camera & Mount and the Video Camera. All of the brackets are anodized
+aluminum. The SPICE Experiment Assembly (see section 2.1 for components) is mounted to
+the floor of the MSG. The SPICE Experiment Assembly has three aluminum angle brackets,
+each having one captive, M6 thumbscrew. One bracket attaches the 70mm grid on the MSG
+Airlock Lid and one to the 70mm grid on the MSG Cold Plate. The third bracket will be attached
+to the mid-section side of the Still Camera Mount.
+
+The Still Camera Mount base is attached to the 70mm grid on the MSG Cold Plate by an
+aluminum angle bracket that has two captive, M6 thumbscrews. The mid-section of the Still
+Camera Mount is then attached to the third bracket on the Experiment Assembly mentioned
+above.
+
+The Video Camera Mount Base is attached to the 70mm grid on the MSG Cold Plate by three
+captive, M6 thumbscrews.
+
+The SPICE Power-Video Unit comprised of a Power Conditioning Box Assembly and Video
+Titler Box Assembly that are mounted to an Adapter Plate which is mounted to the 70mm grid
+on the rear wall of MSG using two captive, M6 thumbscrews.
+
+A drawing of the SPICE engineering model inside the MSG is shown in Figure 2.
+
+
+
+
+May 2008
+                                                5
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+               Figure 1 – Layout of SPICE Hardware in the MSG Top View
+
+
+
+
+                      Window
+                                                           Housing with Heat
+    Experiment Assembly                                    Sink and Filter
+
+Fan w/ Flow
+Straightener
+
+
+
+
+      Fuel Nozzle
+
+       Fuel Bottle
+                                                                  Hand valve
+
+
+
+
+May 2008
+                                             6
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+                         Adapter Plate
+                                                              Nikon D100 Camera
+                                         Video TItler Box
+              Power Box
+
+
+
+
+                                                              Chamber
+
+
+
+
+              Video Camera w/ Turning Mirror
+
+                                        Controller Assembly (outside MSG)
+
+
+                               Figure 2 SPICE inside the MSG
+
+
+
+
+May 2008
+                                             7
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+                                     Figure 2A Mounting hardware
+
+
+
+
+                                                                                  Nikon
+                                                                                  Digital Still
+                                                                                  Camera
+
+
+
+
+                                                                                    Control
+                                                                                    Box
+
+            Still
+            Camera
+            Mount
+            Base
+
+
+
+
+                                                                               Thumb screw
+           Two Thumb                                                           attachment for
+           screws on Still                                                     Experiment
+           Camera Mount                                                        Assembly to Still
+           base                                                                Camera mount
+
+
+
+
+1.5.2 Power Interfaces to MSG
+
+SPICE to MSG Electrical Interface Diagram is shown in Figure 3.
+
+SPICE will receive conditioned power of +5, +/-12, and + 28 VDC from MSG. MSG conditioned
+power source will provide circuit protection to SPICE. SPICE will also provide additional circuit
+protection in the Power Conditioning Box (5 ampere fast-acting cartridge fuses) on the +28 VDC
+and +5 VDC power lines, See Figure 6.
+
+Nominal power consumption is 27 W with maximum power intake from the MSG of about 42 W
+during ignition (< 10 seconds typical).
+
+
+May 2008
+                                                8
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+                     Figure 3 – SPICE Electrical Interfaces with MSG
+
+
+
+
+May 2008
+                                             9
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+Figure 3a Control Box
+1.5.3 Fire Detection and Suppression
+
+SPICE will receive fire detection and suppression capability from MSG and Crew during
+experiment operations. This is discussed further in Section 4.3.4.
+
+
+1.5.4 Communications Interfaces with MSG
+SPICE will use the MSG Video Drawer containing two video recorders and two monitors to
+record science data. SPICE Experiment video and digital photos are required to be down linked
+as soon as possible either during or immediately after each flame test run. The interface with
+MSG is through the MSG W301 Video Extension. Requirements for SPICE Data & Video
+handling are defined in the MSG ICD for SPICE Document, MSFC-ICD-3270 Rev A, para. 3.3.
+
+SPICE requests that MSG Working Volume Ambient Temperature be down linked during
+experiment operations.
+
+SPICE does not interface to the MSG Command and Data Handling (C&DH) System. SPICE
+does interface to the MSG Video Drawer.
+
+SPICE does not require uplink.
+
+
+
+May 2008
+                                              10
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+The SPICE experiment uses the MSG J403 connector to interface the SPICE Control Box
+located external to the MSG Working Volume and the SPICE hardware inside the Working
+Volume (see figure 3a)
+1.5.5 MSG Thermal Interfaces
+Although the SPICE Experiment Assembly is mounted to the MSG Cold Plate. Cooling service
+provided by the Cold Plate is not required for SPICE operations. The heat dissipated by the
+burning process will raise the temperature of the air flowing through the Experiment Assembly
+only a few degrees. The heat will be then dissipated to the surroundings.
+1.5.6 MSG Working Volume and Air Filtration System
+The SPICE experiment combustion process is run with the MSG Working Volume configured in
+the normal mode (MSG Fans on lowest setting) with the side loading ports and glove ports
+installed. This mode provides one level of containment for combustion by-products (all by-
+products are tox level 0). At the end of the combustion process the MSG fans maybe changed
+to a higher speed and run for a 5-minute period in order to re-circulate the Working Volume air
+and clean-up combustion byproducts using the Working Volume Air Filtration System.
+1.5.7 Crew Interfaces
+The crew interfaces with SPICE consist of set up, nozzle change out, video tape change out,
+IBM micro drive change out, fuel bottle change out, ignition, smoke point setting, still camera
+shots, and tear down. Section 3.0 describes the operations in more detail.
+
+2 SPICE HARDWARE & SOFTWARE DESCRIPTION
+
+The SPICE experiment will use the Microgravity Science Glove Box (MSG) facility in the
+International Space Station. The SPICE payload consists of the following hardware:
+
+   •   One (1) Experiment Assembly, which is comprised of:
+       - Interchangeable nozzles (0.4, 0.8 & 1.6 mm) - radiometer
+       - Fan for Co-flow                              - anemometer
+       - Exchangeable hot-wire Igniter                - quick-connect fuel inlet
+       - heat sink/hand guard                         - mass flow controller
+       - Pressure regulator
+       - Tattletale Model 8 data logger (anemometer, fan voltage, fuel flow rate, radiometer)
+   •   One (1) Power-Video Unit, which is comprised of:
+       - Power Conditioning Box
+       - Video Titler Box
+       - Adapter Plate
+   •   One (1) Control Box, which is comprised of:
+       - Igniter enable switch                     - fuel enable switch
+       - Data enable switch                        - radiometer gain switch
+       - Fuel flow pot                             - fan velocity pot
+
+   •   Twelve (12) Fuel Bottle Assemblies comprised of:
+       - 150 cc DOT bottle with hand valve and quick connect for attachment to Experiment
+       Assembly.
+       - Gas Bottle fuels are propane, ethylene, methane, propylene (100%), and nitrogen
+       diluted propylene (75%, and 50%).
+
+   •   Four (4) Cables:
+       - Power Cable                         - Still Camera Cable
+May 2008
+                                                11
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+       - Control Box Cable                   - Video Cable
+
+   •   Data Acquisition and Video System:
+       - Panasonic WV-CP 654 video camera (side view of flame)
+       - Nikon D100 35 mm Camera (top view of flame)
+       - 6 IBM Micro-drives used to store digital images taken by the Nikon D100 Camera.
+       - Horita SCT-50 Video-Titler (overlay data displays on video) and two Horita VDA-50
+          Video- Amplifiers.
+       - 30 Digital Video Tapes that are stowed in two bags each bag containing 15 tapes.
+
+   •   Stowage Cases
+       - Two (2) bottle cases
+       - Component Case
+
+SPICE utilizes the MSG power supply; two color monitors, two video recorders, and the MSG’s
+Working Volume containment capability since the SPICE experiment combustion process is run
+with the MSG Working Volume configured in the normal mode.
+
+SPICE is powered off MSG Secondary Power (+28, +12, -12 and +5 VDC). The total power
+consumption is 27 W nominal with a peak of 42 W for less than 10 seconds (typical) during
+ignition.
+
+The following sections provide the description of the various SPICE components.
+
+
+2.1 EXPERIMENT ASSEMBLY
+The Experiment Assembly (see Figure 4) is composed of an aluminum rectangular chamber
+34.6cm X 17.0cm X 26.2cm with a ¼ inch polycarbonate Lexan 9034 window cover and the
+associated stainless steel plumbing system that regulates the flow of gas. A commercial three
+(3) inch diameter fan at the inlet to the chamber provides the air Co-flow. The fans are Panaflo
+FBA08A12HIA axial fans with a nominal speed of 2950 RPM with plastic housing and blades.
+The fan is placed in an aluminum housing and metal screens are located at the inlet and exit of
+the fan, and at the exhaust end of the chamber. A ceramic (Cordierite) flow straightener is also
+located in the fan housing. It is contained in a housing with a 100 mesh screen over it. A heat
+sink/hand guard is also placed at the exhaust end of the Experiment Assembly. The heat sink is
+a piece of copper with holes in it. It is contained in an aluminum box with corrugated bronze
+mesh over the opening. The experiment Assembly is also equipped with a data logger and
+PCMCIA (data card type of digital storage) storage. The Experiment Assembly Cover opens to
+facilitate Nozzle and Igniter hardware installation and change-out operations. The thermal mass
+of the Experiment Assembly precludes the potential to exceed touch temperature limits.
+
+The Experiment Assembly also includes the Fuel Delivery System (See Figure 4A), which
+consists of stainless steel assemblies and component parts such as the Fuel Bottle Assembly
+(1-7), a male half Quick Disconnect (8), Filter (10), Pressure Regulator (13), Mass Flow
+Controller (15), and applicable stainless steel tubing and adapter fittings (9,11,12,14,16). See
+table 1 attached to Hazard Report SPICE-U2 for the Maximum Design Pressures (MDP) and
+other information concerning these components. .
+
+
+
+
+May 2008
+                                               12
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+                         Figure 4 – SPICE Experiment Assembly
+
+
+
+
+                                                                170 mm
+
+
+  262.7 mm
+
+
+
+
+                                             345.8 mm
+
+
+
+
+May 2008
+                                             13
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+                          Figure 4A – SPICE Plumbing Diagram
+
+
+
+
+                                    Figure 4A Parts List
+
+1    SAMPLE CYLINDER, 150 CC SINGLE END           9        MALE ADAPTER, 1/4 NPT TO 1/4 TUBE
+        SWAGELOK No. 304L-05SMS6-150                          SWAGELOCK NO. SS-4-TA-1-4
+2    SAE/MS MALE CONNECTOR ¼ TUBE TO              10              FILTER, 7 MICRON
+       9/16-18 SAE/MS STRAIGHT THREAD,                       SWAGELOK NO. SS-4FW-TA18-7
+           SWAGELOK No. SS-400-1-6ST
+3    PORT CONNECTOR, ¼ TUBE SWAGELOK              11         UNION ELBOW, 1/4" TUBE
+                   No. SS-400-1-PC                           SWAGELOK NO. SS-400-9
+4      DIAPHRAGM VALVE, 1/4 SWAGELOK              12   MALE ADAPTER, 1/4" TUBE TO 1/8" NPT
+                NUPRO NO. SS-DLS4                           SWAGELOK NO. SS-4-TA-1-2
+5               QD PROTECTOR PLUG                 13     PRESSURE REGULATOR, 0-50 PSIG
+            SWAGELOK No. SS-QC4-BP                         GO INC NO. CPR1-1B01A3E178
+6        1/4" S.S. TUBING .035 INCH WALL          14   MALE ADAPTER, 1/8" TUBE TO 1/8" NPT
+                     THICKNESS                              SWAGELOK NO. SS-2-TA-1-2
+7             QUICK CONNECT BODY                  15        MASS FLOW CONTROLLER
+         SWAGELOCK NO. SS-QC4-B-400                             MKS 1179A52CS1BV
+8      QUICK CONNECT, DESO STEM, 1/4"             16   MALE CONNECTOR 9/16" STRAIGHT THD
+                       SWGLOK                                      TO 1/8" TUBE
+          SWAGELOK NO. SS-QC4-D-400                        SWAGELOCK NO SS-200-1-6ST
+
+
+
+
+May 2008
+                                             14
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+2.2 VIDEO TITLER BOX
+The Video Titler Box is mounted on an aluminum adapter plate along with the Power
+Conditioning Box (see Section 2.3). The complete assembly is called the Power-Video Unit (See
+Figure 5).
+
+This Video Titler Box receives camera video and superimposes SPICE text messages on it.
+Experiment data is presented on the video for tape recording and for display to crewmembers.
+
+The Video Titler Box is an aluminum enclosure approximately 8 in. x 5.5 in. x 3 in. The Video
+Titler Box has six (6) connections: Power from Power Conditioning Box, Control (RS-232), two
+(2) video inputs, one each from the SPICE Video camera and D100 Digital camera and two (2)
+video outputs which are connected to the MSG Video Drawer via a MSG Working Volume front
+feed-through connector.
+
+Internal to the Video Titler Box are three (3) conformal coated printed circuit boards and
+associated wiring. The circuit receives the two (2) video signals from the SPICE Video camera
+and Digital Camera adds text and outputs the appropriate video format to the MSG Video
+Drawer. The MSG Video Drawer contains the video monitoring equipment that will recorder the
+SPICE video signals received onto SPICE provided digital video tapes.
+
+Video Titler Box power is provided from the SPICE Power Conditioning Box (see section 2.3).
+Control of the Video Titler Box is via (RS-232) link to the SPICE Experiment Assembly.
+
+
+
+
+2.3 POWER CONDITIONING BOX
+This box is located in the Power/Video Assembly and is attached to the adapter plate. It
+provides SPICE with power conditioning elements required for proper SPICE operation with the
+MSG. These include wire gauge/routing sites and additional circuit protection Fuses and spares
+(see Figure 5). Two captive Thumb Screws secure the lid of the box. Backing off the screws and
+removing the lid accomplish access to the fuses. Fuses can be replaced within the Power
+Conditioning Box without having to remove the Box from MSG.
+
+Power conditioning elements are housed in an aluminum enclosure (with lid) very similar to the
+Video Titler Box. The Power Conditioning Box includes a power input cable that is connected to
+the MSG Working Volume J303 Power Connector. A terminal board inside the Power
+Conditioning Box provides power distribution for +/-12, +5, and +28 VDC power provided from
+MSG. The Power Conditioning Box also contains a 28VDC to 9VDC Converter and Filter that
+provides 9VDC power to the NIKON D100 Camera. The filter, capacitors, and a resistor are to
+limit the inrush current when the camera snaps a picture.
+
+Two (2) 5 Amp Cartridge Fuses with one wired to the +5 VDC power and the other wired to +28
+VDC power are also located inside the Power Conditioning Box. The fuses provide additional
+circuit protection to the SPICE Experiment Hardware that is wired to the +5 and +28 VDC
+power. The SPICE Experiment Hardware that uses +/- 12VDC power does not require
+additional circuit protection.
+
+
+
+
+May 2008
+                                              15
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+Figure 5 Video/Power Assembly
+
+                                     Video Out &                           Video In & Still
+                   Power In          Still Camera                          Camera In
+                                     Out
+
+
+
+
+     Captive
+     Thumb
+     screws for                Power                          Video                           Serial
+     Lid removal               Conditioning                   Titler Box                      Connection
+                               Box                                                            to
+                                                                                              Experiment
+                                                                                              Assembly
+    Power out to
+    Experiment
+    Assembly
+
+
+
+
+                                                                                 Power for
+                                                    Adapter                      Video Box
+                                                    Plate
+
+
+
+
+May 2008
+                                             16
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+2.4 VIDEO CAMERA ASSEMBLY
+The Video Camera Assembly is comprised of a Panasonic WV-CP 654 Video Camera with
+8mm lens and Aluminum Mirror assembly that is attached to the Camera Mount. The Camera
+Mount is attached to the 70mm grid on the MSG Cold Plate using 3 M6 thumbscrews (See
+Figure 7). The mount itself is made up of anodized aluminum pieces bolted together. The
+camera is attached to the Video Camera Mount by fasteners. The camera is COTS which has
+not been modified. The mirror is polished aluminum and is attached to the mount by fasteners.
+
+
+2.5 STILL CAMERA ASSEMBLY
+The Still Camera Assembly is comprised of an off the shelf Nikon D100 35 mm Camera with
+35mm Lens attached to the Still Camera Mount. It is clamped in position over the Experiment
+Assembly (See Figure 1).
+
+The Still Camera Mount (Figure 8) is made up of anodized aluminum pieces bolted together.
+The Still Camera Mount Base attaches to the 70mm grid on the MSG cold plate using 2 M6
+thumbscrews. The Still Camera Mount is also side attached to the Experiment Assembly using 1
+M6 thumbscrew. The camera is mounted to the Still Camera Mount by two steel pins with a
+quick disconnect feature of a spring-loaded pin. The camera is COTS equipment, which has
+been modified by removing the 9VDC battery. Power is not provided to the camera via the
+connector normally used for power from an AC power adapter. SPICE provides power to the
+camera from a 9VDC converter located inside the Power Converter Box. The 9VDC Converter
+now provides the power to the camera for flash and shutter action.
+
+                               Figure 6 – SPICE Still Camera
+
+
+
+
+May 2008
+                                              17
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+                        Figure 7 – SPICE Video Camera Assembly
+
+
+
+
+                           Figure 8 – SPICE Still Camera Mount
+
+
+
+
+                                                                 Still
+                                                                 Camera
+                                                                 Mounting
+                                                                 points
+
+
+
+
+May 2008
+                                             18
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+2.6 SPICE COMPONENT CASE
+The SPICE Component Stowage Case is made out of anodized aluminum and is 36.7 cm X
+46.2 cm X 15.7 cm (see Figure 9 & 9a). Inside the Component Stowage Case packed in foam
+is:
+
+   •   Control Box Assembly
+   •   Video Camera Assembly
+   •   Still Camera Assembly
+   •   Still Camera Cable Assembly
+   •   Power Cable Assembly
+   •   Video Cable Assembly
+   •   Feed-through Cable Assembly
+   •   6-Ignitor Assemblies (Stowed in SPICE Ignitor Stowage Case)
+   •   3-Burner Tube Assemblies, 0.4mm, 0.8mm, 1.6mm (Stowed in SPICE Ignitor Stowage
+       Case)
+
+The Experiment Assembly, Power Box, and Video Box will be stowed in soft stowage.
+
+                           Figure 9 – SPICE Component Case
+
+
+
+
+May 2008
+                                             19
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+                        Figure 9a – SPICE Ignitor Component Case
+
+
+
+
+2.7 GAS BOTTLE ASSEMBLY STORAGE CASE
+Two Fuel Bottle Storage Cases will be used for SPICE. Each storage case holds 6 Gas Bottle
+Assemblies. Storage Case No. 1 contains Gas Bottle Assemblies 1-6 and Storage Case No. 2
+contains Gas Bottle Assemblies 7-12. Each Storage Case is made out of anodized aluminum
+and is 36.7” X 46.2” X 15.7” (see Figures 9c and 9d). Gas Bottle Assemblies when they are not
+in use by SPICE will be stored in their applicable Storage Case in closed cell foam.
+
+
+
+
+May 2008
+                                              20
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+           Figure 9b Gas Bottles Stowage Case. (Aluminum Tape Not Installed)
+
+
+
+
+May 2008
+                                             21
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+                     Figure 9b – SPICE Gas Bottle & Component Cases
+
+
+
+
+                                            462 mm
+
+
+
+
+                                                                                          367 mm
+
+
+
+
+  157 mm
+
+
+
+
+2.8 SPICE GAS BOTTLE ASSEMBLIES
+Each Gas Bottle Assembly (See Figure 10a) is comprised of a DOT 150cc Stainless Steel Bottle
+with a Diaphragm Valve, Quick Connect with a Cap Plug that can be connected to the SPICE
+Experiment Assembly Fuel Delivery System Plumbing once the Cap Plug is removed. There are
+12 individual Gas Bottle Assemblies each labeled and containing their applicable fuel mixtures
+listed in Table 1.
+
+The bottles will have the handles tie wrapped such that the handles can not be opened
+inadvertently or by launch loads. See Figure 10b. This figure is not the flight configuration. For
+flight the tie wrap will be installed to prevent sharp edges. The assemblies will also be placed in
+a case with foam cut outs for the handles which will prevent them from rotating.
+
+
+
+
+May 2008
+                                                22
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+                              Table 1: Gas Bottle Assemblies
+
+
+                         Gas Bottle Assemblies
+                                                                                  Part #
+       Full Name            Fuel Bottle Label/Fuel Type & Percentage
+
+Smoke Point In Co-flow      E1/Ethylene 100% @ 210 psi.                      60054MAFH090-1
+Experiment Gas Bottle       (Note: Stowed inside SPICE Gas Bottle Case 1)
+Assembly 1
+Smoke Point In Co-flow      E2/ Ethylene 100% @ 210 psi.                     60054MAFH090-2
+Experiment Gas Bottle       (Note: Stowed inside SPICE Gas Bottle Case 1)
+Assembly 2
+Smoke Point In Co-flow      M1/Methane 100% @ 210 psi.                       60054MAFH090-3
+Experiment Gas Bottle       (Note: Stowed inside SPICE Gas Bottle Case 1)
+Assembly 3
+Smoke Point In Co-flow      M2/Methane 100% @ 210 psi.                       60054MAFH090-4
+Experiment Gas Bottle       (Note: Stowed inside SPICE Gas Bottle Case 1)
+Assembly 4
+Smoke Point In Co-flow      P1/Propane 100% @ 110 psi.                       60054MAFH090-5
+Experiment Gas Bottle       (Note: Stowed inside SPICE Gas Bottle Case 1)
+Assembly 5
+Smoke Point In Co-flow      P2/Propane 100% @ 110 psi                        60054MAFH090-6
+Experiment Gas Bottle       (Note: Stowed inside SPICE Gas Bottle Case 1)
+Assembly 6
+Smoke Point In Co-flow      PR1/Propylene 100% @ 135 psi.                    60054MAFH090-7
+Experiment Gas Bottle       (Note: Stowed inside SPICE Gas Bottle Case 2)
+Assembly 7
+Smoke Point In Co-flow      PR2/Propylene 100% @ 135 psi.                    60054MAFH090-8
+Experiment Gas Bottle       (Note: Stowed inside SPICE Gas Bottle Case 2)
+Assembly 8
+Smoke Point In Co-flow      PR75-1/Propylene 75%, Diluent GN2 @ 180          60054MAFH090-9
+Experiment Gas Bottle       psi.
+Assembly 9                  (Note: Stowed inside SPICE Gas Bottle Case 2)
+Smoke Point In Co-flow      PR75-2/Propylene 75%, Diluent GN2 @ 180          60054MAFH090-10
+Experiment Gas Bottle       psi.
+Assembly 10                  (Note: Stowed inside SPICE Gas Bottle Case 2)
+Smoke Point In Co-flow      PR50-1/Propylene 50%, Diluent GN2 @ 180          60054MAFH090-11
+Experiment Gas Bottle       psi.
+Assembly 11                 (Note: Stowed inside SPICE Gas Bottle Case 2)
+Smoke Point In Co-flow      PR50-2/Propylene 50%, Diluent GN2 @ 180          60054MAFH090-12
+Experiment Gas Bottle       psi.
+Assembly 12                 (Note: Stowed inside SPICE Gas Bottle Case 2)
+
+
+
+
+May 2008
+                                               23
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+                        Figure 10a – SPICE Gas Bottle Assembly
+
+
+
+
+                        Figure 10b Bottle Assembly with tie wrap.
+
+
+
+
+May 2008
+                                             24
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+2.9 CABLE ASSEMBLIES
+SPICE has the following cable assemblies, Power Cable Assembly, Video Cable assembly, Still
+Camera Cable Assembly, and Feed-through Cable Assembly. These are all stowed in the
+SPICE Component Stowage Case. The wires are Teflon wires rated for 200 C and are bundled
+together with expandable cable mesh. See SPICE Wire Derating Analysis 60054-ANA-017.
+
+The Power Cable Assembly consists of the cables which run from the Power/Video Unit to the
+Experiment Assembly, to the Video Camera, and to the Still Camera. This cable supplies power
+to these units.
+
+The Video Cable assembly is a video data cable which connects the Video Camera to the
+Power/Video Unit for signals.
+
+The Still Camera Cable Assembly. This cable connects the Power/Video unit to the Still Camera
+for signal.
+
+The Feed-through Cable Assembly has 4 ends and is used for signals except for one 12 volt
+wire to the experiment assembly. One end connects to the MSG feed through connector to
+provide communication to the SPICE Control Box. The control box itself has a cable and
+connector which is permanently attached to the Control Box. The control box consists of two 10
+turn pots, three toggle switches, a feed through, a multi-positional switch which switches
+resistors to set the radiometer gain. Another end of the cable connects to the Still Camera to
+snap pictures. Another end connects to the Experiment Assembly to start data collection,
+enable fuel flow, set the radiometer, set the fuel flow, set the fan flow, and enable the ignitor.
+The fourth end connects to the Power/Video Unit.
+
+
+2.10 SOFTWARE SUMMARY
+
+Data gathering software resides in the Experiment Assembly’s Data Logger. The Control Box
+Assembly is equipped with switches for controlling the fan speed and fuel flow rate, and
+activates the Ignitor and data acquisition. Video images are taken with a Video Camera. The
+video data is recorded on a MSG provided video recorder. Digital pictures are also taken of the
+top view through the Experiment Assemblies Lexan window cover. The video images, together
+with the digital data output of the data logger, are sent to a video box, which writes the digital
+data (air flow velocity, fuel flow, fan voltage, and time) on the video signal. The video signal
+from this box is then recorded by the MSG video recorder and down linked.
+The SPICE experiment will fail-safe in the event of total or partial power loss, i.e., the hardware
+will not be damaged or pose any hazard in the event of a power disruption. In the event of a
+total power loss, the SPICE experiment cannot be operated and the normally closed MFC will
+shut, cutting off fuel flow. Experiment sequencing is controlled by the crew. Software is only
+used for data recording in the SPICE Experiment.
+
+
+3 SPICE FLIGHT OPERATION
+The SPICE experiment currently has a CEF submitted for launch on ULF-2. This manifest is
+currently being reviewed. The experiment will be performed inside the Microgravity Science
+Glove-box (MSG) on the International Space Station. On-orbit operations will consist of SPICE
+Hardware Set-up and Stowage, SPICE Operations, Fuel Purges, along with Bottle, Burner
+Tube, and Ignitor Assembly exchanges. Instructions for off-nominal activities are being
+
+May 2008
+                                                25
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+developed. Flight Operational Procedures are listed in Table 3 of section 3.1 The SPICE
+hardware including the Component Stowage Case will be soft stowed in the MPLM for launch
+and landing. The Gas Bottle Stowage Cases with 6 bottles in each case will be delivered at
+approximately L-48 hours and launched in the Middeck. The hardware configuration for
+stowage during launch and landing is still under development. The safety aspects of launch and
+landing will be covered in the safety section.
+
+
+3.1 DETAILED OPERATIONS
+The SPICE SET UP procedure provides instructions to install SPICE hardware in the MSG WV,
+configure the SPICE Control Box Assembly outside the MSG Facility, perform an ignitor test,
+and perform a still camera test.
+
+The SPICE STOW procedure provides instructions to disassemble and stow the SPICE
+Experiment after SPICE Operations have been completed.
+
+SPICE OPERATIONS procedure provides instructions to conduct combustion experiment tests
+according to the Test Matrix of Table 4 in section 3.2.
+
+The SPICE GAS BOTTLE EXCHANGE procedure provides instructions to remove and replace
+Gas Bottle Assemblies from the Experiment Assembly as required by the Test Matrix of Table 4.
+This includes configuring the MSG video recorders and SPICE Still Camera Assembly,
+activating the experiment, performing a flame test, powering down, and logging test data.
+
+The SPICE FUEL PURGE procedure provides instructions to conduct a fuel purge of the SPICE
+Fuel Delivery System so that any unburned gas remaining from the previous combustion
+experiment test is purged out and replaced with the next combustion test gas.
+
+The SPICE BURNER TUBE EXCHANGE procedure provides instructions to change out the
+previous Burner Tube diameter size with a new Burner Tube diameter size as required to
+support the Test Matrix of Table 4.
+
+The SPICE IGNITOR EXCHANGE procedure provides instructions to remove the used ignitor
+and install a new ignitor in the SPICE Experiment Assembly.
+
+Table 3 lists the flight operation procedures for the SPICE experiment and figure 11 provides
+the experiment flow.
+                                     Table 3- Flight Operations
+SPICE Flight Procedures                          Summary
+MGUEMSGSPCEN001                                 SPICE SET UP
+MGUEMSGSPCEN002                                 SPICE STOW
+MGUEMSGSPCEN003                                 SPICE OPERATIONS
+MGUEMSGSPCEN004                                 SPICE FUEL PURGE
+MGUEMSGSPCEN005                                 SPICE GAS BOTTLE EXCHANGE
+MGUEMSGSPCEN006                                 SPICE BURNER TUBE EXCHANGE
+MGUEMSGSPCEN007                                 SPICE IGNITOR EXCHANGE
+
+
+
+3.2 TEST MATRIX
+The SPICE Combustion Experiment Test Matrix is shown below in Table 4.
+
+May 2008
+                                               26
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+                                  Table 4- SPICE Test Matrix
+
+                                                                                  BURNER
+TEST POINT        AIR COFLOW RATE (% MAX               FUEL FLOW RATE (%
+                                                                                 DIAMETER
+ NUMBER              COFLOW VELOCITY)                LAMINAR SMOKE POINT)
+                                                                                  (MM I.D.)
+
+   1                        50%                              100%                   0.4
+
+   2                        50%                              50%                    0.4
+
+   3                       100%                              100%                   0.4
+
+   4                        50%                              100%                   0.8
+
+   5                        50%                              50%                    0.8
+
+   6                       100%                              100%                   0.8
+
+   7                        50%                              100%                   1.6
+
+   8                        50%                              50%                    1.6
+
+   9                       100%                              100%                   1.6
+
+ 10~14*                  50%-100%                          50%-100%             0.4, 0.8, 1.6
+
+
+Test Points 10-14 represent flame tests that will be repeated. They are not pre-determined.
+•  Fuels 1-6: methane, propane, ethylene, and propylene (0, 75%, and 50% nitrogen dilution)
+•  The test matrix above is representative of a single fuel.
+•  There are nine (9) specified test points plus ~ 5 selected repeat tests per fuel. Thus the
+   SPICE test matrix will include 54 predetermined flames plus ~ 30 “repeat” flames.
+
+
+
+
+                             Figure 11 SPICE Experiment Flow
+
+
+May 2008
+                                              27
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+                   Unstow the                     Install in MSG:
+                                                     Power/Video Unit
+                                                     Still Camera Mount
+                   Set up the                        Experiment
+                                                  Assembly
+                                                     Still Camera
+                                                     Video Camera
+                    Power up                         Cables
+                                                     Nozzle & Ignitor
+
+             Perform SPICE tests
+
+                   Run MSG
+                                                  Set Fan Flow
+                Clean up Loop&                    Set initial fuel flow
+                 Perform Fuel                     Set initial radiometer setting
+                                                  Start Data Recording
+               Sample O2                          Enable fuel flow (on
+                                                  Controller)
+                                                  Enable ignitor (on Controller)
+                                                  Turn on fuel flow (on EA)
+                      Power                       Ignite (Switch on EA)
+                      Down                        Set fuel flow for smoke point
+                                                  Set radiometer
+                Change out                        Take 3 Pictures
+                                                  Don Glove
+             Fuel Assemblies,                     Disable fuel (on Controller)
+             micro drive and/or                   Stop Data Recorder
+            Nozzle through MSG                    Disable Ignitor (on Controller)
+                Glove Port                        Turn off fuel flow (on EA)
+                                                  Run MSG circulation
+                                                  Run next test
+
+                 Disconnect
+                 all
+
+               Stow
+
+
+
+4 SAFETY ASSESSMENT OF SPICE
+
+
+May 2008
+                                             28
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+This section addresses the hazards investigated for SPICE. If the hazard has not been
+eliminated by design with its rationale captured in this section, its controls are documented in
+either the JSC 1230 Form or in unique hazard reports developed for the SPICE experiment.
+The SPICE Flight Payload Standardized Hazard Control Report (STD-SPICE-01) is discussed
+in Section 4.2 and the JSC 1230 form is provided in Attachment D. Unique Hazards Reports
+(SPICE-U1, SPICE-U2, SPICE-U3, SPICE-U4, SPICE-U5, SPICE-U6, and SPICE U8) are
+provided in Attachment E.
+
+This section is comprised of three parts, as follows:
+
+       Section 4.1 – Discussion of the safety assessment approach for SPICE.
+       Section 4.2 – Discussion of each section of the JSC Form 1230.
+       Section 4.3 – Discussion of other safety hazards.
+       Section 4.4 – Discussion of hazard report verification classifications.
+       Section 4.5 – Discussion of SPICE test failures, anomalies and accidents.
+
+
+4.1 SAFETY ASSESSMENT APPROACH FOR SPICE
+Since SPICE is similar in functional design and operation with its predecessor ELF, this SPICE
+Phase II Safety Data Package was developed using the hazard reports documented in MSFC
+Document JA-2378 which was the ELF Phase III SDP for the USMP-4/STS-87 Shuttle Middeck
+Glovebox (MGBX) mission.
+
+The SPICE experiment also uses new fuels and mixtures and a revised Test Matrix than that of
+its predecessor ELF and a new hazardous material and combustion By-Product list has been
+submitted to JSC Toxicology for hazard evaluation and assessment. The new fuel mixtures and
+combustion By-Products applicable to SPICE experiment are provided in the JSC HMST
+Attachment A.
+
+
+4.2 STANDARD HAZARDS (JSC FORM 1230)
+This section discusses each Standard Hazard applicable to SPICE as shown in the STD-
+SPICE-01 Hazard report (JSC Form 1230) Attachment B.
+
+
+
+
+May 2008
+                                               29
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+4.2.1 Structural Failure
+
+SPICE hardware is designed to meet the expected launch, on-orbit and return loads specified in
+MSFC-RQMT-2888, Paragraph 3.1.1.1, and Table 1 which is consistent with SSP 57000
+requirements. The stowage loads in MSFC-RQMT-2888 are based on a worst case condition of
+the Middeck and MPLM stowage loads. SPICE hardware will be stowed in soft transfer bags
+and transported in the MPLM for transfer to the ISS. All the SPICE hardware will be soft stowed
+for return. ZIN Tech Engineering has performed an analysis of test levels specified in NASA-
+STD-7001 (NASA Payload Vibration Test Criteria) and MSFC-RQMT-2888 to define vibration
+test levels to encompass the launch and landing load levels the hardware will be exposed to
+and has created a composite vibration loading profile to envelope the levels defined in both
+MSFC-RQMT-2888 and NASA-STD-7001. The SPICE flight hardware has undergone
+acceptance vibration testing at these levels. A test report has been prepared to confirm that the
+test was successfully completed.
+
+The SPICE hardware is also designed to meet the expected on-orbit loads during operation in
+the MSG. SPICE hardware will be fastened to the MSG working volume using captive,
+threaded fasteners. This will meet the on orbit load requirements as specified in SSP 57000 and
+MSFC-RQMT-2888. The hardware inside the MSG will not be exposed to on-orbit kick loads
+during operation. The control box is subjected to crew induced loads and is capable of
+withstanding the loads per SSP 57000 and MSFC-RQMT-2888.
+
+The Gas Bottle Assembly Stowage Case and the SPICE component cases have two latches
+which keep them from opening in stowage. The case itself is packed in foam and placed in the
+stowage volume which will prevent the case from opening during launch, therefore they are not
+safety critical.
+
+SPICE structural failure is addressed in Section 1 of STD-SPICE-01.
+
+
+4.2.2 Structural Failure of Sealed Containers
+
+Structural failure of sealed containers containing hazardous materials are addressed in Unique
+Hazard report SPICE-U2 for Rupture/Leakage of the SPICE pressurized fuel delivery system.
+Contamination Hazard for release of hazardous sample fluids is addressed in Unique Hazard
+Report SPICE-U1. The SPICE Fuel Delivery System is designed to meet the requirements of
+NASA-STD-5003 for Fracture Control of pressure vessels and pressurized components.
+
+
+4.2.3 Structural Failure of Vented Containers
+
+The Experiment Assembly is open on each end (fan end and screen end) and has a removable
+polycarbonate Lexan Window Cover; therefore it will not contain an internal atmosphere and is
+not hermetically sealed. The design of the Experiment Assembly will be reviewed to verify that
+it can maintain structural integrity in the event of a rapid depressurization / re-pressurization per
+SSP 52005B, Para. 4.1.12. (See Table 5). The window on the top of the EA is polycarbonate
+and is held on by two screws. The window cover is held on the bottom by a metal hinge and on
+the top by two gun bolt type sliding latches.
+
+The designs of the Nikon Digital Camera, Video Camera, Gas Bottle Assembly and Component
+Parts Cases will also be reviewed to verify that they can maintain structural integrity in the
+May 2008
+                                                 30
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+event of a rapid depressurization / re-pressurization scenario per SSP 52005B, Par. 4.1.12.
+(See Table 5) These enclosures are not hermetically sealed and have gaps between the
+mating edges of the enclosure structure.
+
+The designs of the Control Box, Video Control Box, Power Control Box, will also be reviewed to
+verify that they can maintain structural integrity in the event of a rapid depressurization / re-
+pressurization scenario per SSP 52005B, Par. 4.1.12. (See Table 5) These aluminum boxes
+are not hermetically sealed and have a gap between the box base and window cover.
+
+
+Structural Failure of Vented Containers is addressed in Section 3 of STD-SPICE-01.
+
+  Table 5 – Depressurization Times for SPICE Vented Containers from SPICE-ANA-001
+            Enclosed Volume            Depressurizatio   Final Pressure          Depressurization
+           Description SPICE                 n                                          /
+                                                            Pa (psi)             Repressurization
+                                          (Time in                                    Rate
+                                          seconds)
+                                                                                 Pa/sec (psi/min)
+                                                                 160.5
+        Experiment Assembly                 0.03                                 3371315 (29353)
+                                                                (.0233)
+        Power/Video Unit                                         160.5
+                                            0.03                                 3371315 (29353)
+        (total: 2 enclosures)                                   (.0233)
+
+        Igniter/Burner Tube                                      160.5
+                                            0.01                                 10113946 (88060)
+        Case                                                    (.0233)
+                                                                 160.5
+        Control Box Assembly                0.03                                 3371315 (29353)
+                                                                (.0233)
+                                                                 160.5
+        Still Camera Assembly               0.13                                  777996 (6774)
+                                                                (.0233)
+        Video Camera                                             160.5
+                                            0.04                                 2528486 (22015)
+        Assembly                                                (.0233)
+        Stowage Boxes                                            160.5
+                                            0.17                                  594938 (5180)
+        (total: 3 enclosures)                                   (.0233)
+
+                                                                 160.5
+        Component Case                      0.17                                  594938 (5180)
+                                                                (.0233)
+
+
+
+
+4.2.4 Sharp Edges
+
+The SPICE hardware is designed to meet the intent of SSP 50005 / NASA-STD-3000. The
+flight drawings will incorporate instructions to break all corners and edges to remove any
+potential sharp edge. A sharp edge inspection will be performed on all exposed sub-assemblies
+as well as the total integrated assemblies.
+
+Sharp Edges are addressed in Section 4 of STD-SPICE-01.
+
+
+May 2008
+                                               31
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+4.2.5 Shatterable Material Release
+
+Use of frangible material is limited to the fuses, flow straightener, Still Camera lens and Video
+Camera lens. The SPICE Experiment Assembly Window cover is made out of Polycarbonate
+Lexan 9034 and is not shatterable.
+
+The camera lenses will be launched with protective covers on since the glass of the Still and
+Video Camera lens are recessed in their respective housings. During SPICE set-up Crew
+procedure the cameras will be installed into the MSG Working Volume before the protective
+covers are removed from the camera lens. The crew will assess/inspect the lens for damage at
+the time of removal. Once the caps are removed and assessment is acceptable the MSG
+Working Volume enclosure will then provide containment when the protective covers have been
+removed from the cameras during experiment operations. These items have also been
+vibration tested and inspected.
+
+The flow straightener is made of Cordierite which is a ceramic and is contained inside the fan
+housing on the Experiment Assembly (EA). Similar to acceptable controls for optical glass, the
+EA is also packaged in a clear plastic bag and inspected by the crew after launch. If it were to
+break, the pieces could be seen through the window of the EA. The EA is inside MSG when
+removed from the bag and when operating. If any particles are fine enough to get through the
+screens they will be ingested in the MSG HEPA filters. Since intake and outlets are screened
+and inside EA there are no identifiable failure modes on orbit to damage the ceramic. The 3 X 3
+X 1 inch piece of Cordierite is also bound along the 3 X 3 perimeter which will prevent damage
+and break up of this honey comb type material. Similar to control of optical glass such as lenses
+(form 1230 section 5) the item is vibration tested and inspected for damage afterwards. See
+figures 13a and 13b.
+
+The fuses in the Power Box are also glass. They are wrapped in Kapton tape, which is never
+removed, to contain any breakage that might occur. They are contained inside the Power
+Conditioning Box. The crew does not have access to the interior of the Power Conditioning
+Box.
+
+
+
+
+May 2008
+                                                32
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+                          Figure 13a Cordierite Characteristics
+
+
+
+
+May 2008
+                                             33
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+                      Figure 13b Cordierite Location and Containment.
+
+
+All frangible components will undergo a vibration test at workmanship levels in a soft stowed
+configuration followed by a post-test visual inspection and functional test to verify ability to
+survive launch/landing loads. Shatterable Material Release is addressed in Section 5 of STD-
+SPICE-01.
+
+
+4.2.6 Flammable Materials
+
+"A" rated materials in accordance with MSFC-SPEC-527/JSC 09604F are selected for
+experiment hardware to control the hazard associated with the use of flammable materials. Any
+non-"A" rated materials will be used in a non-flammable configuration in accordance with NSTS
+22648, Flammability Configuration Analysis for Spacecraft Applications, or justified for usage via
+a Materials Usage Agreement (MUA). Materials usage is documented on a Materials
+Identification and Usage List (MIUL). Materials usage will be analyzed by NASA/GRC/SMAD
+M&P and certified for flight via the GRC/JSC Materials and Processes Intercenter Agreement.
+Flammability of fuels is addressed in paragraph 4.3.6.1.
+
+Flammable Materials are addressed in Section 6 of STD-SPICE-01.
+
+
+
+
+May 2008
+                                                34
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+4.2.7 Materials Offgassing
+
+Representative SPICE hardware, flight-like cables and other miscellaneous items have been
+toxic off-gas tested in accordance with NASA-STD-6001, Test 7. See letter ED36B(03-060)
+attached to 1230 form. Offgas test results will be analyzed by NASA/GRC/SMAD and certified
+for flight via the GRC/JSC Materials and Processes Inter-center Agreement.
+
+Materials Off-gassing is addressed in Section 7 of STD-SPICE-01.
+
+
+4.2.8 Non-Ionizing Radiation (EMI)
+
+4.2.8.1    Non-Transmitters
+
+SPICE is designed for compliance with the radiated and conducted emissions requirements
+specified in MSFC-RQMT-2888 as defined in SSP 30237, Space Station Electromagnetic
+Emission and Susceptibility Requirements. All electronic assemblies have been tested for
+conformance to this specification including the determination of the maximum ripple voltage
+emissions appearing on the SPICE input power leads. The power conversion box contains a
+filter to meet the requirements of MSFC RQMT-2888. This filter reduces the step from milliamp
+draw to 3 amp draw by the still camera when taking a picture. See figure 14. SPICE will only be
+operated inside of the MSG working volume. The test results have been submitted to
+NASA/MSFC MSG personnel for their review and approval. An ISS Electromagnetic Emissions
+Panel approved Technical Interface Agreement has been sought for RE02 exceedance.
+
+EMI Radiation is addressed in Section 8.1 of STD-SPICE-01.
+
+
+4.2.8.2    Lasers
+
+There are no lasers in the SPICE experiment.
+
+
+4.2.9 Battery Failure
+
+The Batteries used in the SPICE experiment meet the criteria of small commercial batteries
+stated in Section 9.2 of the JSC Standardized Hazard Report JSC 1230. The following
+SPICE hardware contains small commercial batteries that are verified as permanently soldered
+into their respective electrical circuits and have completed successful verification of in circuit
+voltage measurements and verification of circuit isolation from external power sources.
+
+The NIKON D100 Digital Camera contains Button Cell 20mmX3.2mm, type Li-Mn-O2, 3 Volts
+DC 65mAh, Maxell Model No.: ML2032T6. The battery is fully contained within the Digital
+Camera and cannot be accessed unless complete Camera disassembly is performed. The
+purpose of the camera battery is to maintain date, time and camera operational settings. The
+cell is soldered to board.
+
+The Horita Video Titler Card Cell consists of two cells in series. The cells are 15.5 X6.3 mm
+Rechargeable Nickel Metal Hydride cells 1.2 VDC each, 60mAh, Model Number GP60BVH,
+Manufacturer GP Batteries International LTD. The cells will not be charged and are prevented
+
+May 2008
+                                                35
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+from doing so by a pull up resistor. The battery is soldered to the board, fully contained with in
+the Video Control Box and cannot be accessed unless the Video Control Box is disassembled.
+The purpose of the Video Titler Card Cell is to maintain Video Titler operational settings.
+
+The Dallas Tattle-Tale Card I-Button Data Device, Model Number DS1994, contains a
+12.5mmX2.5mm Li-CFx Battery, 3VDC, 50mAh, Model No. BR1225, Manufacturer RAYOVAC.
+The Lithium Battery is soldered to the boards and fully contained within the I Button Data Device
+and the I Button Data Device is contained inside the Experiment Assembly. The purpose of the I
+Button Data Device Lithium (Li-CFx) Battery is to maintain experiment data memory when
+external power is removed from the Experiment Assembly. The documents for the I-Button Data
+Device state that it does not use any power to charge the lithium battery. It has a limited life of
+greater than10 years based on the low power required to sit idle. Specifically there is a
+statement on page 46 that the ROM logic can be operated by the parasite power even after the
+lithium cell is exhausted in 10 years or more. This implies that the other sections of memory
+may not be operational if the lithium battery dies. When data is being exchanged with the I-
+Button Data Device, the data line is used to charge a capacitor internal to the I-Button Data
+Device and that capacitor is used to power the read write operations. Parasite power is an
+internal I-Button Data Device capacitor that is charged by the data line (converted RS-232).
+
+
+Battery Failure is addressed in Section 9.2 of STD-SPICE-01.
+
+
+4.2.10      Touch Temperatures
+
+SPICE hardware and electronics have been designed and tested to meet touch temperature
+limits of 49°C specified in the Interpretation Letter MA2-95-048. Also during on-orbit operation,
+the SPICE hardware is enclosed inside the MSG working volume with no direct crew contact
+with the SPICE Experiment Assembly during ignition or combustion processes (experiment
+runs). Also during post experiment runs the airflow provided by the MSG Air Handling Unit
+(AHU) during by-product clean up will also aid in the dissipation of any residual heated air within
+the MSG working volume. SPICE by design does not require external cooling during experiment
+operations.
+
+A thermal test has been conducted to verify that the touch temperature limits of MA2-95-048 are
+met. The fuel nozzles were tested and found that the worst case nozzle reached 89 degrees C
+but cooled to 33 degrees C in less than 60 seconds after flame off. This was without EA air flow
+which will be present at the end of a burn decreasing cooling time. A wait time will be imposed
+before EA chamber access after flame off.
+
+Touch Temperature is addressed in hazard report U6.
+
+
+4.2.11     Electrical Power Distribution
+
+The electrical power distribution system meets station interface circuit protection requirements
+of SSP 57000 (through the MSG Working Volume secondary power sources) and payload wire
+sizing and circuit protection requirements of Interpretation Letter TA-92-038. The SPICE
+hardware will receive circuit protection from the MSG conditioned power sources (28VDC @ 7
+Amps), (+/-12VDC @ 2 Amps) and (5VDC @ 4 Amps). SPICE will provide additional circuit
+protection in the Power Conditioning Box (5-Amp fast-acting cartridge fuses) on the +28 VDC
+and +5 VDC power lines. The SPICE +/- 12VDC power line does not require additional circuit
+
+May 2008
+                                                36
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+protection (fusing) since the wire sizing is appropriately de-rated for the provided MSG
+conditioned power source.
+
+Besides the circuit protection provided by the MSG circuit breakers and SPICE Fuses, the
+DC/DC converters also provide additional protection by current limiting their output in the event
+of an over-current condition. See schematic of the SPICE Power Distribution System attached
+to hazard report STD-SPICE-01, Section 11. See SPICE Wire De-rating Analysis 60054-ANA-
+017.
+
+SPICE does not meet the Power Distribution Single Point Grounding requirements of MSFC-
+RQMT-2888. The Hitachi Video Camera HV-C20U-S4 video camera, (PN )7009.80.AA
+(specially modified for the MSG Program), the Nikon D100 Digital SLR Camera and other
+similar commercial off-the-shelf (COTS) cameras (modified or unmodified) violate SSP30240,
+3.2.1.2, Secondary and Tertiary Electrical Power (single point grounding) by connecting the
+incoming 12 Vdc power return to camera structure (the second time the 12 Vdc is grounded to
+structure). SPICE has submitted a Tailoring Interpretation Agreement for these occurrences.
+See schematics attached to hazard report STD-SPICE-01, Section 11.
+
+SPICE meets the bonding and grounding requirements of SSP 30245 and SSP 30240. Bonding
+and grounding of the SPICE hardware is accomplished via several different methods; via the
+chassis conductor pin provided via Pin L at the P303 Power Connector (i.e., conductor bond
+path), via the overall shield on the P303 Power Cable (i.e., using a grounded backshell), and via
+the metal-to-metal bond of SPICE structure to the MSG mounting plate. See schematic attached
+to hazard report STD-SPICE-01, Section 11.
+
+The SPICE experiment will fail-safe in the event of total or partial power loss, i.e., the hardware
+will not be damaged or pose any hazard in the event of a power disruption. In the event of a
+total power loss, the SPICE Experiment cannot be operated. The MFC is normally closed, so
+power loss will stop fuel flow. See Hazard Report SPICE-U5 for loss of power case effect on
+fuel flammability control.
+
+Power into SPICE is filtered to prevent surges on the MSG power supply. See Figure 14 for the
+28 volt power filter schematic.
+
+A temporary or intermittent loss of power will cause the SPICE control software to "reboot" (the
+unit will act as if it was being turn "ON" for the first time).
+
+Electrical Power Distribution is addressed in Section 11 of STD-SPICE-01.
+
+
+
+
+May 2008
+                                                 37
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+                AT1
+             MI-A22-MU                                    DC1
+                                                       MI-J21-MY
+
+                                                                         +
+                                         +                                            C6
+                                  C4
+    1                             4700 pF                            5   -            0.01uF
+    O +IN                 5             -       1              + OUT O
+                   + OUT O                      O +IN                6
+    2                     6                     2            +SENSE O
+    O +IN         GATE IN O                     O GATE IN            7                                      +
+                                                                                                +   C3
+                          7   +
+                                                                             R2                                 C1         R2
+                                  C2                            TRIM O                              0.1uF       220 uF
+                PARALLEL O                                                                      -           -            16 Ohm
+                              -   120 uF                             8   30K Ohm
+                          8                     3            -SENSE O
+     3          GATE OUT O                      O GATE OUT           9
+     O -IN                9                     4               -OUT O
+                    -OUT O                      O -IN
+     4
+                                                                                  +   C7
+     O -IN                              +
+                                  C5                                              -   0.01 uF
+                                  4700 pF-
+
+
+
+
+                                             Figure 14 28 volt power filter
+
+
+
+4.2.12         Ignition of Flammable Atmospheres in the Payload Bay
+Not applicable, as the SPICE hardware is not mounted/transported in the the Shuttle Payload
+Bay.
+4.2.13         Rotating Equipment
+
+The SPICE Experiment Assembly has one internal Fan to (1) study convective flow during
+combustion and (2) to remove combustion byproducts from the Experiment Assembly in
+between tests. The fan is DC-powered and is made of fiberglass-reinforced plastic (See
+Sections 6 and 7 of STD-SPICE-01 for materials requirements). The fan diameter is 3 inches,
+with a speed of 2950 RPM. It is a brushless DC motor provided with 12 V. Although the Fan
+shroud is plastic it is also fully enclosed in aluminum housing with stainless steel mesh (Type
+304ss, 71% of open area) covering the fan inlet and outlet openings. Analysis shows that this
+fan has a low kinetic energy level (<<<19, 310 J) and is fully contained with the Experiment
+Assembly according to NASA-STD-5003 requirements.
+
+Rotating Equipment is addressed in Section 13 of STD-SPICE-01.
+
+
+4.2.14         Mating/Demating of Power Connectors
+
+SPICE meets the requirements of Letter MA2-99-170. The worst-case voltage that would be
+encountered during mating/demating of SPICE power connector P303 is 29 VDC maximum
+which is lower than 32 VDC with a corresponding current of 1.0 Amp. The highest current drawn
+during SPICE ignition is 2.8 Amps on the +5 VDC power line. Crew procedures require that the
+MSG circuit breakers that provide power to the MSG J303 connector be turned off prior to any
+crew interface with the SPICE Experiment.
+
+To prevent connector mismating, all SPICE electrical connectors are of different shell sizes
+and/or keying. In addition, they will all be labeled to help identify the connector interface in
+
+May 2008
+                                                             38
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+accordance with MSFC-RQMT-2888. The connector and associate harness will also be
+inspected for proper pin assignment per MSFC-RQMT-2888.
+
+Normal operating power draw of the Experiment is 27 Watts with a maximum power draw, which
+only occurs during ignition, of approximately 42 Watts for < 10 sec.
+
+All power connectors utilized by SPICE conform to the MIL-C-38999 Series I standard which
+feature a scoop-proof design that completely encloses the pin/socket contacts during mating
+and de-mating operations. Additionally, the powered side of the cable connectors on SPICE are
+terminated in sockets to provide protection against inadvertent shorting that could be caused by
+external debris.
+
+Mating/Demating of Power Connectors is addressed in Section 14 of STD-SPICE-01.
+
+
+4.2.15     Contingency Return and Rapid Safing
+
+The SPICE experiment is not in operation mode while stowed in Shuttle for launch and landing.
+While on orbit the SPICE hardware will be either stowed in the ISS stowage, or in operation in
+the MSG. In either case, the SPICE hardware will not interfere with the IVA envelope or impede
+emergency IVA egress to the remaining contiguous pressurized volumes.
+
+Design analysis will be performed for the SPICE hardware and planned flight operations for
+compliance to MA2-96-190.
+
+Contingency Return and Rapid Safing is addressed in Section 15 of STD-SPICE-01.
+
+
+4.2.16     Release of Mercury from Bulbs into Crew Habitable
+           Environment
+
+There is no mercury in any of the SPICE components.
+
+
+4.3 OTHER SAFETY HAZARDS
+The previous sections close discussion on the SPICE Flight Payload Standardized Hazard
+Control Report (STD-SPICE-01). Additional potential hazards and SPICE unique hazards are
+discussed below.
+
+
+4.3.1 Pressurized Systems
+
+SPICE pressurized components are the Gas Bottle Assemblies and the Experiment Assembly
+Fuel Delivery System. These components do not interface with the nitrogen or vacuum sources
+of the MSG.
+
+Even though all of the components are rated for pressures well above 230 psi, the system MDP
+is determined by the point at which the fuel can turn to liquid. This pressure also considered the
+maximum temperature that the bottle could experience. SPICE pressurized lines and fittings will
+be designed to a factor of safety of 4.0 X System MDP of 230psid. SPICE Pressurized system
+components will be designed to a factor of safety of greater than or equal to 2.5 X System MDP
+
+May 2008
+                                                39
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+of 230 psid. The gas bottles are DOT bottles with a rated pressure of 500 psi which will be
+pressurized to a maximum of 230 psi. To prevent overpressurization this will be verified after
+filling that the bottles are the correct mixture and at the correct pressure. The bottles have been
+proof tested to 1000 psi. The Experiment Assembly is not sealed and will not pressurize in the
+event of full open flow from the mass flow controller. The maximum flow rate of the fuel system
+is 20 liters per minute. The fan that is used to cause flow is capable of 1120 liters per minute
+with a pressure drop of parts of a psi. Therefore the flow rate through the chamber is orders of
+magnitude greater than the maximum fuel flow into the chamber. Therefore the chamber will
+have no significant increase in pressure. See hazard Report SPICE U5 for analysis of pressure
+due to burning of worst case fuel load in the EA. In the event of power loss the Mass Flow
+Controller is normally closed, therefore fuel flow will stop.
+Materials will be selected and evaluated for stress corrosion and/or fluid compatibility in
+accordance with SSP 30233, Space Station Requirements for Materials and Processes.
+Hardware will be built in conformance with approved design drawings and specifications. The
+gas bottles will be filled to approved procedures to insure that the proper mixture of gas is
+placed in the correct bottle and each bottle is filled to the correct pressure.
+The Gas Bottle Assemblies and the pressurized portions of the Experiment Assembly Fuel
+Delivery System will be proof pressure tested to 1.5 X MDP and Helium Leak tested for an
+acceptable leak rate of 1x10E-4 scc/sec Helium in order to validate structural integrity and
+containment by design.
+
+During on orbit operations, procedures will be provided to instruct the crew on proper Gas Bottle
+Exchange, Experiment Set-up and Operation to prevent Gas Bottle and Experiment Assembly
+Fuel Delivery System leakage.
+
+Reference Unique Hazard Report SPICE-U2. Flammability issues of the fuels are covered
+in SPICE-U4 and SPICE U5. Projectile issues are covered in SPICE-U3.
+
+
+4.3.2 Collision
+
+Calculations show that for the bottle under full pressure, the propulsive force of the worst case,
+a break off of a tube, only create 0.6 lbs of force for 0.23 seconds. The force required to break
+off the tube is 10 lbs at the worst case moment arm with all factors of safety. If the bottle is
+being held such that 10 lbs of force is on the bottle, the 0.6 lb propulsive force can easily be
+withstood. Each Gas Bottle Assembly by design incorporates a single fault tolerant design. The
+Diaphragm Valve and Quick Disconnect are in series on the Gas Bottle Assembly. Should the
+Diaphragm Valve fail the Quick Disconnect will contain the gas. The failure of the Quick
+Disconnect is backed up by the containment of the Diaphragm Valve. Both the Diaphragm Valve
+and Quick Disconnect would need to fail simultaneously in order for the Gas Bottle Assembly to
+become a projectile. In addition there is a cap on the QC which although is not a radial vent cap
+it will restrict the flow and disperse it at an angle reducing the force. Even if both failures
+occurred the Gas Bottle Tubing at the QD end incorporates a 90 degree bend that would
+prevent the Gas Bottle assembly from gaining any significant speed (<1.5m/s), and force
+(<0.6lbf) or direction that would present a collision hazard.
+Reference Unique Hazard Report SPICE-U3.
+
+
+
+4.3.3 On-Orbit Maintenance
+
+
+May 2008
+                                                40
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+The SPICE experiment hardware does not contain limited life items. No on-orbit maintenance is
+planned.
+
+
+4.3.4 Fire Detection and Suppression
+
+SPICE does not have any computer control of any FD& S functions and cannot interface directly
+with the ISS caution and warning system. SPICE flammability hazards are controlled by
+material selection, containment, and wire de-rating and circuit protection, (See Section 4.2.6
+and 4.2.11). SPICE unburned Fuel contamination hazard is controlled under unique Hazard
+Report SPICE-U1. Structural Integrity of the SPICE Experiment Fuel Delivery System is
+controlled under unique Hazard Report SPICE-U2.
+SPICE will receive Fire Detection capability from MSG through its Working Volume Rear Wall
+Temperature Sensor. The crew is required to be present during any burn per MSFC-RQMT-
+2888. Fire Suppression capability is provided by MSG through the use of a station Portable Fire
+Extinguisher (PFE) expelling CO2 into the MSG Working Volume. See Attachment D for the
+completed Fire Detection and Suppression Reporting Form 1428 for the SPICE Experiment.
+
+4.3.5 Crew Interaction
+
+SPICE is designed such that any required access to SPICE hardware during flight or ground
+operations can be accomplished with minimum risk of injury to personnel. SPICE hardware
+components are designed to provide enough clearance for crew interface and usage and do not
+create a pinch or accessibility hazard.
+
+The SPICE experiment complies with the requirements for Electrostatic Discharge (ESD)
+compatibility as specified in MSFC-RQMT-2888 document. An analysis will be prepared to
+demonstrate that that electrical equipment and any parts susceptible to damage by ESD will fail-
+safe when exposed to an Electrostatic Discharge (ED) equal or less than 4,000 Volts to the
+case or any pin on the external contacts. These (ED) voltages might be the result of charges
+accumulated and then discharged from ground personnel or crewmembers during equipment
+installation or removal. Reference unique hazard SPICE-U8.
+
+Table 5 provides a listing of the SPICE Standard and Unique Hazards that are controlled by
+operating procedures.
+
+
+
+
+May 2008
+                                              41
+   SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+   SPICE-SDP-003
+
+Hazard Number       Hazard Control                           Hazard Verification
+SPICE STD 01:       Shatterable Material Release – All       ZIN Tech Engineering will review
+5a.3                materials are contained.                 crew procedure inputs
+                                                             to ensure that checks of
+                                                             containment and assessment of
+                                                             status prior to utilizing frangible
+                                                             hardware are included, and prepare
+                                                             a report confirming inclusion in the
+                                                             crew procedure inputs.
+
+SPICE STD 01:       Mating/demating powered                  ZIN Tech Quality will Inspect Crew
+14b.1               connectors                               Procedure inputs to ensure that step
+                                                             is in place to remove power from the
+                                                             MSG using the Control and
+                                                             Monitoring Panel (CMP). Reference
+                                                             PHR MSG-G2 control 6.2. and
+                                                             control 4.3.
+
+SPICE U2: 6.1.1     Experiment Set-up and Operations         ZIN QA will review crew procedure
+                    on orbit are conducted per approved      inputs to ensure adequate
+                    procedures to minimize risk of Gas       instructions are provided for on-orbit
+                    Bottle Assembly damage. 1) One           Gas Bottle Assembly Experiment
+                    bottle unstowed at a time; 2) Crew       set-up and Experiment Operations.
+                    maintains control at all times; 3) QC    Specifically these are assembly
+                    caps installed during transit and        sequence, description of mating
+                    stowage; 4) Gas bottle installed last.   parts, transfer/handling instructions,
+                                                             removal/replacement of QC cap
+                                                             instructions, and installation
+                                                             instructions.
+
+SPICE U4: 1.3.3     Each Gas Bottle Assembly will have       ZIN Safety to verify that the crew
+                    a Main Valve and a QC to prevent         procedure inputs include valve
+                    fuel flow and approved crew              restraint mechanism engagement
+                    procedures will ensure tie wrap          before removal from MSG.
+                    valve restraint is in place before
+                    stowage.
+
+SPICE U5: 1.2.1.1   Only approved crew procedures will       ZIN QA to inspect the crew
+                    be used to turn on ignitor before fuel   procedure inputs will be inspected to
+                    flow which will eliminate fuel built     insure proper sequence.
+                    up.
+
+SPICE U5: 1.2.3.1   Fuel flow is a two step process to       ZIN QA to inspect the crew
+                    enable fuel to flow for which            procedure inputs will be inspected to
+                    approved crew procedures will be         insure proper sequence.
+                    used.
+
+SPICE U5: 1.3.3.1   Only approved crew procedures            ZIN QA to inspect the crew
+                    specifying turning off flue flow after   procedure inputs for instructions on
+                    flame out will be used to monitor        turning off fuel flow after a flame out.
+                    burn to adjust flame
+
+
+   May 2008
+                                                   42
+   SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+   SPICE-SDP-003
+
+Hazard Number       Hazard Control                          Hazard Verification
+SPICE U5: 2.1.2.1   Only approved crew procedures will      ZIN QA to inspect crew procedure
+                    be used which state bottle valve will   inputs to stipulate closing Gas Bottle
+                    be closed before first power up and     Assembly Valve before leaving set
+                    before crew “steps” away from MSG       up.
+                    (any time unattended).
+
+SPICE U5: 2.1.5.1   Only approved crew procedures will      ZIN QA to inspect crew procedure
+                    be used stating only one bottle will    inputs to stipulate only one bottle in
+                    be used in the MSG at a time.           a time is in the MSG
+
+
+SPICE U5: 2.2.2.2   Only approved crew procedures will      ZIN QA to inspect crew procedure
+                    be used to insure MSG air flow will     inputs to stipulate that MSG air flow
+                    keep the MSG volume below LFL.          is on during crew access to MSG
+                                                            while bottle is present.
+
+SPICE U6: 2.1.3     The hardware (nozzles) inside the       ZIN Tech QA will inspect the crew
+                    Experiment Assembly will cool from      procedure inputs for a 1 minute wait
+                    89 degrees C worst case to a            time before accessing nozzle.
+                    temperature below 49C before crew
+                    access which is limited by the use of
+                    approved crew procedures.
+
+SPICE U8: 1.1.2     SPICE designed with Fuel Enable         ZIN Tech QA will verify that crew
+                    Switch on the Controller Box which      procedure inputs specify Fuel
+                    is turned on by the crew using only     Enable Switch only on during
+                    approved crew procedures before         desired combustion.
+                    each burn sequence.
+
+SPICE U8: 1.2.2     SPICE designed with Fuel Switch         ZIN Tech QA will verify that crew
+                    on the Experiment Assembly which        procedure inputs specify Fuel
+                    is turned on by the crew using only     Switch is only on during desired
+                    approved crew procedures before         combustion.
+                    each burn sequence.
+
+SPICE U8: 1.4.1     SPICE Gas Bottle Assembly Valve         ZIN Tech QA will verify crew
+                    will be closed by crew using only       procedures specify Gas Bottle
+                    approved crew procedures when           Assembly Valve closed before
+                    accessing EA chamber.                   access to EA chamber.
+
+SPICE U8: 2.1.2     SPICE designed with Ignition            ZIN Tech QA will verify crew
+                    Enable Switch on the Controller Box     procedure inputs specify Ignition
+                    which is turned on by the crew using    Enable Switch on only during time
+                    only approved crew procedures           ignition is required.
+                    before each burn sequence.
+
+SPICE U8: 2.2.2     SPICE designed with Ignitor Switch      ZIN Tech QA will verify that crew
+                    on the EA which is activated by the     procedure inputs specify Ignitor
+                    crew using only approved crew           Switch is only on during time ignition
+                    procedures before each burn             is required.
+                    sequence.
+
+   May 2008
+                                                 43
+   SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+   SPICE-SDP-003
+
+Hazard Number      Hazard Control                         Hazard Verification
+
+SPICE U8: 2.3.2    SPICE designed such that if window     ZIN Tech QA will verify crew
+                   access to flame area is open power     procedure inputs specify window is
+                   to ignitor is cut off and crew using   closed during the time when ignition
+                   only approved crew procedures will     is required.
+                   ensure it is closed.
+
+SPICE U8: 3.4.2    MSG air flow verified on by crew       ZIN Tech QA will inspect crew
+                   using only approved crew               procedure inputs to stipulate that
+                   procedures will keep the MSG           MSG air flow is on during crew
+                   volume below LFL.                      access to MSG while bottle is
+                                                          present.
+
+SPICE U8: 3.5.1    Crew using only approved crew          ZIN Tech QA will inspect crew
+                   procedures will ensure only one        procedure inputs to stipulate only
+                   bottle will be used in the MSG at a    one bottle in a time is in the MSG
+                   time.
+
+   Table 5- Hazards Controlled by Procedures.
+
+
+
+
+   May 2008
+                                                44
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+
+
+
+4.3.6 Release of Experiment Materials
+4.3.6.1 Unburned Fuel Release
+JSC toxicologist assessment of the fuels used in SPICE have a toxicity rating of 0 and a
+flammability rating of 4, See Attachment A, SPICE Hazardous Material Summary Table (HMST).
+Also see table 6 for levels of fuel in the lab module.
+
+A concern was raised at the Phase 0/I review concerning effects on the ECLSS due to leaks of
+these fuels. The action item to determine any issues with these gases in the quantities from
+SPICE was given. The results of the analysis are that leakage of the total amounts of these
+fuels is not an issue for ECLSS. Reference the March 25, 2004 email from Tim Smith which is
+attached to hazard report SPICE-U1. Leakage of fuel from SPICE is being controlled by design
+and verified by Helium leak testing of the Fuel Delivery System and the bottle assemblies. The
+gases that have been analyzed for ECLSS will be used to fill the bottle assemblies by using
+approved procedures, by labeling each bottle assembly for contents, and then by sampling each
+bottle to test for the correct contents.
+
+Reference Attachment E Unique Hazard Report SPICE-U1.
+
+Flammability in the US Lab. Lean Flammability Limit (LFL) Calculations conducted on the
+HMST listed SPICE Fuel Concentrations that could be released inside the United States Lab
+(USL) Volume show that all 12 SPICE Gas Bottles could leak their entire contents into the USL
+Volume and still be below the LFL for the applicable Fuel. The MSG will be in the Columbus
+module at the time SPICE is run. This module has a smaller volume than the US Lab. A new
+HMST has been requested and new calculations were performed based on the volume of 64 m3
+that is being used by toxicology. See table 6 for the calculations.
+
+Flammability in Stowage. The bottles are launched packed in foam in stowage cases which
+are in turn packed in foam. The bottles have all been vibration tested in the stowage
+configuration and leak tested. The fittings are all commercial fittings rated for over 3000 psi.
+Also each Gas Bottle Assembly incorporates a single fault tolerant design, which would require
+the Diaphragm Valve and Quick Disconnect to fail simultaneously in order for the Gas Bottle
+Assembly to leak unburned fuel through the normal flow path. This fault tolerance is
+accomplished by having the Diaphragm Valve and Quick Disconnect in series on the Gas Bottle
+Assembly. Should the Diaphragm Valve fail the Quick Disconnect will contain the gas. The
+failure of the Quick Disconnect is backed up by the containment of the Diaphragm Valve. There
+will be no ignition sources in the Gas Bottle Assembly stowage cases (no electronics or
+batteries). The bottles will be electrically connected to the aluminum case by two redundant
+strips of aluminum tape attached to the foam which will contact each bottle. A calculation will be
+performed providing the necessary volume in stowage which must be clear of ignition sources
+assuming two worst case bottles leak. This is based on being below the LFL. See table 6. The
+current calculation with a 75 % packing factor (there is only 25 % void space) is 156 liters or a
+54 cm cube. This size is easily accommodated considering the amount of foam used. Once the
+fuel leaks into the MPLM or ISS stowage volume it was agreed that it will dissipate rapidly.
+
+Stowage for landing utilizes the same controls, including valve handle restraints. The restraint (a
+tie-wrap) is capable of withstanding 50 lbs of force, which is sufficient to prevent turning of the
+valve during launch and to prevent inadvertent turning during handling. See figure 10b for a
+May 2008
+                                                45
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+picture of the valve with the restraint. This picture is for demonstration of the concept, the flight
+version will be installed with considerations for the crew (e.g. sharp edges) They will be cut by
+the crew once the bottle is inside the MSG. The bottles are expected to be used to the point
+where no gas is available to leak out, therefore for landing there should be less fuel, but the tie
+wrap will be installed by the crew when the bottle is removed from the MSG. In addition to the
+tie wrap the foam cut outs for the bottles includes cut outs for the handles which will prevent
+them from turning.
+
+Reference Attachment E Unique Hazard Report SPICE-U4
+
+
+Flammability in the MSG. This concern is divided into three concerns, fuel build up in the EA
+igniting, fuel leak into the MSG igniting and gas leak impinging on a crew member’s hand.
+
+For the concern of the EA filling with fuel and igniting during times with out crew access to the
+inside of the EA, the MFC has been leak tested at MDP to demonstrate that it will not leak into
+chamber when off, preventing fuel in the chamber from building up or flowing in quantities that
+could ignite. Air flow from the EA fans keep the EA internal fuel percentage below the LFL. The
+EA fan is on automatically upon power up of SPICE. Also the air flow rate is verified by the crew
+from the laptop which has a measured value of air flow rate displayed. The only ignition source
+in the EA chamber is the ignitor and the ignitor is not turned on until after the EA fan is verified
+on. The crew will turn on the ignitor before fuel flow which will eliminate fuel build up. In the
+event that the fan fails, the crew fails to verify the fan speed and there was an ignition source
+the total energy content of the EA chamber is well below the 14,240 ft-lb limit for a pressure
+vessel at worst case fuel mixture. See table 6.
+
+A flame out condition has been proposed to cause fuel build up if the fuel is not turned off or fuel
+is not ignited. For this condition to occur the EA fan would also have to be off. Large amounts
+of air in the line could cause flame out. An air bubble caused by changing bottles has been
+hypothesized as causing a flame out. The QC from manufacturer is “drip-less” meaning it has
+minimal air entrainment (0.3 cc). This air bubble would be pushed out in the first 2 seconds of
+operation before ignition was confirmed (before steady state operation), therefore the situation
+of a flame out or failure to ignite in 2-3 seconds would not be a surprise situation for the crew, it
+would be part of the ignition sequence. Only approved crew procedures will be used to monitor
+burn to adjust flame. In addition it has been shown that the air bubble would mix in the fuel line
+filter to a percentage of fuel/air that would not be an issue. See attachments to hazard report
+SPICE-U5 for analysis.
+
+For the MSG concern, in general Lean Flammability Limit (LFL) Calculations conducted on the
+HMST listed SPICE Fuel Concentrations that could be released inside the MSG Working
+Volume show that 2 SPICE Gas Bottles could leak their entire contents into the MSG Working
+Volume and still be below the LFL for the applicable Fuel, see table 6. Note only one bottle at a
+time will be permitted in the MSG. This assumes total mixing which is realistic considering that
+there is a minimum of 180 liters/sec of air flowing in the MSG caused by the MSG fans. The
+MSG fans are capable of the fuel concentrations below the LFL, and in addition the EA fan will
+mix the air in the MSG WV. See attachments to hazard report SPICE-U5 for analysis. There are
+no ignition sources inside MSG to ignite any leak from the gas bottles. The switches used for
+the SPICE inhibits and ignition will not produce any sparks or electrical ignition sources. SPICE
+is designed to minimize the potential for leaks, and with the use of approved crew procedures to
+ensure the MSG fans are running and only one bottle is permitted in MSG at a time there should
+not be fuel ignition in MSG. See unique hazard SPICE-U8.
+
+
+
+May 2008
+                                                  46
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+SPICE-SDP-003
+
+In the case of MSG being powered down or power failing there is a concern that a pool of fuel
+which leaks out of the Bottle Assembly or EA will ignite when the MSG is powered on. This is
+addressed in the attachment to hazard report SPICE-U5 which shows that in the worst case the
+fuel will dissipate due to molecular action in less than 28 minutes, but other factors reduce that
+time. A slow leak would mean less fuel to dissipate or allow a longer dilution time. A fast leak
+would increase mixing due to gas velocity. Since the crew is necessary for the total operation of
+SPICE, when the crew leaves the MSG it will be required that the crew turn off the hand valve
+reducing the leak potential. In the event of a power loss, when power is restored to the lab,
+racks must be individually turned back on, this includes the MSG. If a wait time of ½ hour were
+implemented it would insure adequate dilution of the fuel.
+
+In the case of impingement the leak controls mentioned before for the bottles are still valid. In
+addition, the pressurized area of the EA will be leak tested to insure that it does not leak. The
+Quick Connects (QC) softgood seal resides on the bottle side of the connection which will be
+used only once. The EA side which will mate 12 times (once for each bottle) is the metal side,
+thus reducing the risk of leakage due to seal wear. Electronics are contained inside the EA. The
+only exposed item is a switch which is a 5 volt switch. 5 volt systems are frequently used in
+flammable atmospheres (mines) due to their inability to ignite them. In addition this switch is
+sealed. The ignitor throw is a lever that the crew moves to insert the ignitor into the fuel path
+and turn on the ignitor. It is a lever on a rod which goes inside the EA to move the ignitor. There
+is a hall effect sensor (digital) which senses the proximity of the ignitor to the nozzle area and
+electronically turns on the ignitor. Therefore there are no sparks associated with turning on the
+ignitor. There are also no sparks in the proximity of the crew’s hand to light a fuel impingement.
+See figure 16.
+
+Each Gas Bottle Assembly will be filled per approved procedure which will ensure all bottles are
+filled with the proper fuel mixtures to appropriate pressures and labeled to identify filled bottle
+contents. Structural Integrity of the Gas Bottle Assemblies including the Experiment Assembly
+Fuel Delivery System is verified by conducting proof pressure to 1.5 X system MDP of 230 psid.
+The Gas Bottle Assemblies will meet a leak rate of less than 1X10E-4 scc/sec Helium. The
+Experiment Assembly Fuel Delivery System will be verified by a decay pressure test
+
+Reference Unique Hazard Report SPICE-U5.
+
+In the case of the crew having access to the inside of the EA and fuel leaking into it and igniting,
+the fuel is controlled by the MFC which is inhibited by the window switch (open circuit when the
+EA window is open), fuel enable on control box is off, and the fuel switch is off. All of these
+inhibit the MFC. In addition the Gas Bottle Assembly valve will be turned off. There are no
+ignition sources other than the ignitor itself. The inhibit switches are all 5 volt and the hall effect
+switch for the ignitor is solid state digital. The ignitor is inhibited by a window switch, the control
+box ignitor inhibit and the fact that the ignitor throw is not thrown. Also when ever there is power
+to the experiment the EA fan will be on, which keeps the chamber below the LFL. See figure 17.
+Reference Unique Hazard Report SPICE-U8.
+
+
+
+
+May 2008
+                                                  47
+   SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+   SPICE-SDP-003
+
+
+
+  Table 6
+Gas           Pressure      Volume      MW      Mass     MSG        Lab          SMAC       % in   LFL       UFL    Critical   Critical   ft-lbs      ft-        NRG in
+              (psi)         (liters)    fuel    (g)      Conc,      Conc         mg/m3      MSG    %                Volume     radius     energy      lb/liter   EA $
+                            ***                          mg/m3      mg/m3*                  **                      #          ##                                (1710
+                                                         **                                                         liters     cm                                cc)
+                                                                                                                                                                 14,240
+                                                                                                                                                                 limit
+
+Methane               210         2.1    16.4     1.45     7250.           23        3800   1.05         5    15       84.00     27.09    58800       28000        4536
+Propane               110         1.1    44.1     2.04   10209.            32        900    0.55     2.1      9.5     104.76     29.16    78100       71000        4899
+Propylene             135         1.4    42.1     2.48   12401.            38        860     0.7     2.4      11      116.67     30.22    89600       64000        4864
+Ethylene              210         2.1    28.1     2.48   12400.            38         340   1.05     2.7      36      155.56     33.26    92820       44200      4950.4
+Propylene/            180         1.4    42.1     2.48   12401.            38        860     0.7     2.4      11                          89600       64000        4864
+GN2
+75/25%                                                                                                                116.67     30.22
+Propylene/            180       0.92     42.1     1.63     8149.           25        860    0.46     2.4      11                          58880       64000        4864
+GN2
+50/50%
+                                                                                                                       76.67     26.28
+
+    * Assumes 64 m3 lab volume
+    ** Assumes 200 liter free volume in MSG
+    *** Fuel volume only at standard pressure assuming all gas released from bottle (none is left in bottle).
+    # volume of gas in liters to reach LFL diluting 2 bottles
+   ## distance from center of leak to outside of sphere volume (sphere radius) required to dilute below LFL
+   $ UFL was not used for this calculation, there will not be enough O2 to burn this amount of fuel. Therefore stoichiometric quantities were used.
+
+
+
+
+   May 2008
+                                                                                48
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+Figure 16 EA side view.
+
+
+
+
+Figure 17
+
+4.3.6.2 Combustion By-Product Release
+JSC toxicologist assessments of the combustion by-products of Carbon Monoxide and Carbon Dioxide
+produced by the SPICE experiment have been given a toxicity rating of 0. See Attachment A, SPICE
+Hazardous Material Summary Table HMST. To ensure that the combustion by-products are compatible
+with ECLSS, SPICE will ensure that the correct gases, mixtures, and pressure are used to fill the test
+bottles.
+
+The SPICE Experiment is operated inside the Working Volume of the Micro-gravity Science Glove Box
+(MSG) Facility. The MSG Facility provides a level of containment for SPICE Combustion By-Products.
+The amount of soot which may be created by SPICE is 2-10 mg total. This is based on ELF and ground
+testing. MSG filtering will contain any soot by-products that are produced.
+
+Reference Attachment E Unique Hazard Report SPICE-U1.
+May 2008
+                                                 49
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+4.3.7 Acoustic Noise
+Acoustic noise generated by the small fan in the Experiment Assembly will not be a hazard. The SPICE
+Experiment will be in compliance to the Acoustic requirements of the MSFC-RQMT-2888.
+
+4.3.8 Stowage
+The Gas Bottle assemblies shown in Figure 10 will be pre-packed using two Gas Bottle Storage Cases,
+shown in figure 9. Each Gas Bottle Storage Case will contain 6 Gas Bottle Assemblies and a third
+storage Case will be used for SPICE Component storage. See sections 2.6 and 2.7.
+The SPICE Experiment Assembly along with the Gas Bottle and Component Cases will be soft stowed
+in the MPLM for launch and landing. Stowage for launch is planned at L-48 hours. The hardware
+configuration for stowage during launch and landing is still under development and is in work in
+conjunction with MSG.
+
+
+
+4.4 SPICE TEST FAILURES, ANOMALIES AND ACCIDENTS
+SPICE has had no safety related test failures, anomalies and accidents involving Qualification or Flight
+Hardware. The only test failure is related to EMI susceptibility of the camera.
+
+
+4.5 AGREEMENTS FROM PHASE 0/1 REVIEW AND
+    SUBSEQUENT REVIEWS
+The following agreements/action items were taken at phase 0/1. After each action item is an answer or
+reference to the SDP text or hazard report which addresses the comment.
+
+
+
+
+May 2008
+                                                   50
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+Phase 0/1 Agreements
+3.1 The PO agreed to perform a maintenance safety assessment to encompass fuse replacement in the
+Power Conditioning Box, and other nominal equipment changeouts. A maintenance safety assessment
+has been completed and is included as an attachment to unique Hazard Report U-7.
+3.2 The PO agreed to note that the hardware transfer case latches are not safety-critical, since the case
+will be soft stowed and packed in foam. This information is now included in section 4.2.1.
+3.3 The PO agreed to provide more information and pictures, along with a safety assessment, for the
+valve handle tie-wrap. Figure 10 b shows the valve handle tie-wrap constraint as well as figures
+attached to the Hazard Report SPICE U-3. An assessment of the restraint is covered in paragraph
+4.3.6.1.
+3.4 The PO agreed to confirm that there would still be airflow if the Control Box Assembly fan setting
+were set to zero. The airflow is wired to be on whenever the experiment is powered. Also the
+procedures require the crew to confirm the air flow by reading the measured air flow value off the
+laptop. See hazard report U-5.
+3.5 The PO agreed to attach a shatterable materials matrix to the 1230 hazard reporting form. This has
+been attached to the 1230 form.
+
+3.6 The PSEs agreed to provide a shatterable materials matrix example to the PO. This was provided
+by Daniel Porter and was used to generate the matrix for SPICE.
+
+3.7 The PO agreed to determine if they could use a flow straightener made of non-frangible materials.
+This was investigated. Substitute materials did not have the same properties and replacement of
+this item would be difficult. It would also cause the acceptance vibration test to be voided. See
+controls provided in the 1230 form section 5.
+
+3.8 The PO agreed to send correspondence from Nikon to the PSEs and coordinate with the PSEs to set
+up a working group meeting to discuss COTS battery systems and schematics with EP5. This has been
+initiated (there have been a few interactions with Nikon) Removal of the battery from the camera
+before flight will be done. The SPICE Project has determined that the removal of the battery
+reduces the reliability of the Camera and is seeking to keep the battery in place for flight.
+
+3.9 The PO agreed to provide the EMI waiver and all bonding, grounding, power, and wire sizing
+schematics as attachments to the 1230 hazard reporting form at Phase II. These items have been added
+to the end of the 1230 form.
+
+3.10 MSFC/FD31/T. Smith agreed to provide to the PO input from ECLSS concerning the effects of
+unburned fuels and combustion byproducts on the air scrubbers of Shuttle and ISS. Tim Smith
+provided this information and its conclusion has been included in 4.3.6.1 of the SDP.
+
+3.11 The PSEs agreed to compare SPICE to its predecessor, ELF, and other similar payloads to see how
+similar hazards were handled previously and how it may apply to SPICE. This was provided by John
+Fonner.
+
+
+May 2008
+                                                    51
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+3.12 The PO agreed to provide better rationale on the projectile assessment for the pressurized bottle
+assemblies. This analysis has been updated and attached to the hazard report U-3.
+
+3.13 The PO agreed to develop a unique hazard report to address fuel leakage in the bottle stowage
+cases and the MPLM: SPICE-U4, Fire and Detonation in MPLM and ISS Stowage. The hazard report
+has been updated to include controls reflecting the concerns raised from the 0/1 review on fuel
+leakage in the bottle stowage cases stowed both in MPLM and ISS.
+
+3.14 The PO agreed to develop a unique hazard report to address premature/inadvertent fuel ignition, as
+well as failure to ignite fuel: SPICE-U5, Fire and Detonation in MSG. The hazard report has been
+updated to include controls reflecting the concerns raised from the 0/1 review.
+
+3.15 The PO agreed to develop a unique hazard report for Touch Temperature, providing a wait time for
+cool-down of the burner tube prior to changeout: SPICE-U6, Touch Temperature. This hazard report
+has been created and added to the unique hazard reports. A wait time has been added.
+
+Post Phase 0/1Comments
+
+Create operational hazard controls matrix for Phase II per the 13830 requirements. Many operational
+controls were identified in the hazard reports, but they will need to be listed individually in a hazard
+control matrix as well. Table 5 has been updated to include this information.
+
+Sequentially number the pages of your HR attachments for Phase II, especially the 1230 attachments.
+Hand-written numbers are fine. Page numbering has been done using Adobe on the finished
+converted file.
+
+At Phase II please provide the following:
+1. Updated information on the progress/success of removing the battery from the Nikon D100 camera.
+The battery was removed from an engineering camera and as a result the camera does not
+function properly. The battery is now planned to remain in the camera.
+2. Value of Vcc depicted in the schematic for the Horita Titler. Power to Vcc is supplied by a
+regulator U6 (lower middle of schematic) which is an LM7805. This is a 5Volt regulator.
+3. If the I-Button reader is not to be used on-orbit, there are no other power sources that can charge the
+battery. If the reader is to be used, information on the "Parasite Power" voltage and current protection
+for the cell will be required. Information was added to the STD SPICE 01 hazard report
+information with the rest of the battery information.
+
+As noted at the Phase 0/1 review, please do not state “adequate instructions.” At Phase II add the
+appropriate details that are required to be in the procedures to Hazard Control 6.1. This will make it
+clear to the PSRP what you will verify and easier on you to complete your verifications. Have added
+details to SPICE-U2 hazard control 6.1 and hazard control.
+
+
+
+
+May 2008
+                                                    52
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+Phase II Agreements
+
+MINUTES FOR SMOKE POINT IN CO-FLOW EXPERIMENT PHASE II FLIGHT SAFETY REVIEW ON
+JANUARY 27,
+
+                                            NASA JSC
+                                   Payload Safety Review Panel
+                                 Smoke Point in Co-flow Experiment
+                                   Phase II Flight Safety Review
+
+                                          Minutes of Meeting
+                                           January 27, 2005
+
+1.0 INTRODUCTION
+1.1 General: The Payload Safety Review Panel (PSRP), chaired by JSC/NA3/S. Wolf, met on January,
+2005, with representatives of GRC, the Payload Organization (PO), and MSFC at the Regents Park III
+Conference Facility for a Smoke Point in Co-flow Experiment (SPICE) Phase II Flight Safety Review
+(FSR). JSC/NC44/J. Fonner and M. Highsmith, the supporting Payload Safety Engineers (PSEs),
+introduced the meeting and attendees (see Attachment 1).
+1.2 Background: The Phase 0/I FSR was held March 3, 2004.
+1.3 Scope: This meeting focused on the Phase II FSR. The PSRP assigned no previous Action Items
+(AIs) to this payload. The PO also summarized the Phase 0/I agreement disposition.
+1.4 Conclusion: One agreement and one action item resulted from this meeting (see Attachment 2). All
+nine Hazard Reports (HRs) were signed and approved for Phase II. This meeting completed the Phase II
+FSR.
+
+2.0 SIGNIFICANT SAFETY DISCUSSION
+2.1 SPICE Science and Hardware Overview: SPICE continues to study fundamental phenomena to
+understand the mechanisms controlling the stability and extinction of jet diffusion flames. SPICE will
+stabilize an enclosed laminar flame, measure the overall flame shape to validate the theoretical and
+numerical predictions, measure the flame stabilization heights, and measure the temperature field to
+verify flame structure predictions. The objective of the SPICE experiment is to find the laminar
+smokepoint properties of nonbuoyant jet diffusion flames (i.e., the properties of the largest laminar jet
+diffusion flames that do not emit soot) for several fuels under different nozzle diameter/ co-flow velocity
+configurations. Luminous flame shape measurements would also be made to verify models of the flame
+shapes under co-flow conditions. The soot point is a simple measurement that has been found useful to
+study the influence of flow and fuel properties on the sooting propensity of flames. This information
+would help support current understanding of soot processes in laminar flames and by analogy in
+turbulent flames of practical interest. Unfortunately, while the laminar smoke-point properties of
+buoyant jet diffusion flames at normal gravity (ng) are well known, corresponding information for
+nonbuoyant flames is limited and questionable. Thus, the measurements of the laminar smoke-point
+properties proposed here would also reduce the risk of future experiments involving hydrocarbon-fueled
+laminar jet diffusion flames in spacecraft.
+2.2 SPICE Hardware Overview: Hardware soft stowed in during launch and landing includes:
+May 2008
+                                                    53
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+   •   Experiment Assembly: Chamber for combustion, Hot-Wire Igniter Arm, Window, Flow
+       Straightener, Heat Sink/Filter, Fuel Delivery System, Nozzle, Fan, Data Logger, Radiometer.
+   •   Fuel Bottle Assembly: Commercial DOT bottle with Diaphragm Valve, SS tubing, QC fitting.
+   •   Controller Box: External to MSG, controls: radiometer, Data Recording, Fuel Enable, Ignitor
+       Enable, Fuel Flow set point, Fan Flow set point and camera shutter.
+   •   Image Acquisition Nikon Digital still camera and a Panasonic WV-CP 654 Video Camera
+       System
+   •   Power-Video Unit: Video Titler and Power Conditioning Assemblies.
+   •   Cables: Power Cable Assembly, Video Cable Assembly, Still Camera Cable Assembly, and Feed
+       Through Cable Assembly.
+   •   Video Tapes: 30 Digital Video tapes.
+   •   Data Storage: 6 IBM micro drives 1 GB.
+The PO indicated that the radiometer measures the temperatures of the flames.
+2.3 Integration and Operations: The PO indicated that the fan will operate for chamber cooling on-
+orbit. The crew can verify that the igniter is on prior to turning on the gas. The PO anticipates 10-14
+hours total operational time for the experiment with a set-up time of 45-60 minutes. Each experiment
+run lasts just a few minutes. The PO is hoping for use of the hardware and the Microgravity Science
+Glovebox (MSG) for several hours at a time. The PO clarified that the fuel nozzle changeout is manual.
+The crew procedure hazards are listed in a table.
+2.4 Safety Assessment:
+2.4.1 Form 1428, Fire Detection and Suppression Reporting Form: Approved as discussed in the
+meeting.
+2.4.2 Form 622 - Reflown and Series Payload Hardware Reflight Assessment Reporting Sheet: Not
+applicable to this payload.
+2.5 Hazard Report Discussion: The PO provides crew procedure inputs to the Payload Operations Data
+File (PODF) at MSFC.
+2.5.1 Form 1230, Flight Payload Standardized Hazard Control Report: Approved as modified in this
+meeting. The MSG integrated/series assessment will appear at Phase III. The PO indicated that the
+controller box is velcroed in place inside the MSG and that there are no crew entanglement concerns
+with the cables associated with the hardware package. Associated with Shatterable Material Release, the
+PO indicated that the flow straightener is made of Cordierite (a ceramic) and is contained inside the fan
+housing on the Experiment Assembly (EA) with a 100 mesh screen over it. The EA will be packaged in
+a clear plastic bag and will be inspected for particles before use. Any particles that escape the EA mesh
+should be captured by the MSG filter and the MSG HEPA filter. The PO clarified that the minor
+electromagnetic exceedences affect the cameras, but this is a performance issue, not a safety issue. The
+PSRP recommended that the PO match the voltage rating of the fan with the power supply to the fan
+(12V supply).
+2.5.2 SPICE-U1, Contamination of Orbiter/ISS Habitable Areas by SPICE Unburned Fuels or
+Combustion By-Products Results in Injury/Illness: Approved as modified in this meeting. The PO stated
+that the by-products consist of carbon dioxide and water, both scrubbed by the MSG filters. The
+Hazardous Materials Summary Table (HMST) is attached and under review. The PO analyzed the
+amounts, kinds, and release rates of the fuel bottle contents and determined that the contamination
+
+May 2008
+                                                   54
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+hazards are reasonably benign in this payload. The PO also stated that each bottle is individually proof
+tested.
+2.5.3 SPICE-U2, Pressure System Rupture: Approved as modified in this meeting. The PO indicated that
+each gas bottle has been leak tested and filled to an appropriate pressure corresponding to the fuel
+mixtures. The PO keeps a pressure vessel log on each bottle. The QC caps will be installed during
+stowage and transit to MSG.
+2.5.4 SPICE-U3, Projectile Hazard Gas Bottle: Approved as modified in this meeting. The PO deleted
+hazard cause 2 and controls 1.2, 1.3, and 1.4 as a result of the discussion.
+2.5.5 SPICE-U4, Fire and Detonation in MPLM and ISS Stowage: Approved as modified in this meeting.
+Crew procedures have the crew marking spent bottles to prevent the crew from grabbing an empty gas
+bottle for installation. The PO described the aluminum strip inside the bottle case that is the bonding
+strap to preclude electrostatic discharge inside the bottle case: the aluminum strip is stuck to the interior
+of the top of the case in such a way that it touches the metal of the bottles when the case is closed. The
+PO indicated that any labels on the bottles will be positioned to assure the metal-to-metal contact
+between the bottles and the grounding strip. Discussion of the temporary aisle stowage of the bottle case
+led the PSRP to assign AI 1 to the PO to determine if the Station-supplied fuel stowage location
+complies with the SPICE flammability assessment restrictions. The PO will provide more details at
+Phase III.
+2.5.6 SPICE-U5, Fire in MSG: Approved as modified in this meeting. The PSRP recommended that the
+PO delete the 14,242 foot pounds reference in favor of the estimates in the table as the limits of released
+energy from the gas bottles. The pressure release exceeds the MSG interface control document limit,
+which makes this a catastrophic hazard rather than the usual critical designation.
+2.5.7 SPICE-U6, Touch Temperature Injury: Approved as modified in this meeting.
+2.5.8 SPICE-U7, Maintenance Assessment Hazard Controls: Approved as modified in this meeting.
+2.5.9 SPICE-U8, Flame Impingement During Crew Access: Approved as modified in this meeting. The
+PO clarified that the igniter cools down within less than 30 seconds. The PO has not seen the nozzles
+work loose due to gas flow –a matter of running torque versus seating torque—and indicated that gas
+flow pressure is not high enough to cause a problem. The PO has four inhibits on fuel flow and three
+inhibits on ignition. The PO agreed to provide a logic diagram depicting all of the inhibits that prevent
+fuel ignition at Phase III (Agreement 3.1).
+
+3.0 AGREEMENTS
+3.1 The PO agreed to provide a logic diagram depicting all of the inhibits that prevent fuel ignition at
+Phase III.
+
+
+Original Signed by M. Highsmith for:                  Original Signed by:
+________________________________                      _________________________________
+JSC/NC44/J. Fonner                                    JSC/NC44/W. Stauffer
+Payload Safety Engineer                               Technical Writer
+
+
+Original Signed by:
+May 2008
+                                                     55
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+________________________________
+JSC/NC44/M. Highsmith
+Payload Safety Engineer
+
+
+
+
+                                Status of Hazard Reports Presented
+                            (Note: See the text of the minutes for more details.)
+
+Number                                                                          Status          Comments
+            TITLE
+Form 1230   Form 1230, Flight Payload Standardized Hazard Control Report        Approved/mods   2.5.1
+Form 1428   Form 1428, Fire Detection and Suppression Reporting Form            Approved        2.4.1
+SPICE-U1    Contamination of Orbiter/ISS Habitable Areas by SPICE               Approved/mods   2.5.2
+            Unburned Fuels or Combustion By-Products Results in
+            Injury/Illness
+SPICE-U2    Pressure System Rupture                                             Approved/mods   2.5.3
+SPICE-U3    Projectile Hazard Gas Bottle                                        Approved/mods   2.5.4
+SPICE-U4    Fire and Detonation in MPLM and ISS Stowage                         Approved/mods   2.5.5
+SPICE-U5    Fire in MSG                                                         Approved/mods   2.5.6
+SPICE-U6    Touch Temperature Injury                                            Approved/mods   2.5.7
+SPICE-U7    Maintenance Assessment Hazard Controls                              Approved/mods   2.5.8
+SPICE-U8    Flame Impingement During Crew Access                                Approved/mods   2.5.9
+
+                                  Previous Action Item Status
+                        The PSRP assigned no previous AIs for this payload.
+
+
+
+
+May 2008
+                                                     56
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+                                             ATTACHMENT 1
+                      Payload Safety Review Attendance Log
+Payload: SPICE Phase II Flight Safety Review
+Meeting Date: January 27, 2005
+
+ Mail Code     Name               Phone 281      X
+                 CHAIRMAN
+ NA3           Wolf, S.           483-4096       X
+
+ SUPPORT PERSONNEL
+ CB            Rickard, J.        483-3760       X
+ DA8/USA       Knutson, D.        483-4405       X
+ EA441         Henning, G.N.      483-5502       X
+ MS3/USA       Kunkel, S.         280-6844       X
+ NA3           Moreland, D. W.    483-5549       X
+ MSFC/JS-      Johnson, P.T.      256-961-4646   X
+ 20
+ SM            Spann, R.          483-3807       X
+ EP4/LMES      Manha, W.          483-6439       X
+ LMES/C20      Russell, D.        333-6892       X
+ NC44/SAIC     Fonner, J.         483-3790       X
+ NC44/SAIC     Highsmith, H.      244-1822       X
+ NC44/SAIC     Rehm, R.           244-1819       X
+ NC44/SAIC     Sobota, A.         244-1839       X
+ NC44/SAIC     Stauffer, P. W.    483-6066       X
+
+
+ Name          Mail         Employe     Phone               Technical      Internet Address
+               Code         r           Number              Discipline
+ W. Schoren                 GRC         216.433.2356                       William.r.schoren@grc.nasa.go
+                                                                           v
+ S. Burchell                USA         256.961.4393        POIC Safety    Steven.D.Burchell@msfc.nasa.g
+                                                                           ov
+ S. James                   MSFC
+ J.                         ZIN         216.977.0365        Safety         Jon.wetherholt@zin-tech.com
+ Wetherholt
+ E. Selent                  ZIN         216.977.0415        Task Lead      Edward.selent@zin-tech.com
+ D. Truong                  GRC         216.433.8394        Project Lead   Duc.truong@grc.nasa.gov
+ C. Azzarita   CB           NASA        281.244.8609        Crew Office    Cynthia.j.azzarita1@jsc.nasa.go
+                                                                           v
+
+
+
+
+May 2008
+                                                       57
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+                                    ATTACHMENT 2
+
+                                      NASA JSC
+                             Payload Safety Review Panel
+                           Smoke Point in Co-flow Experiment
+                             Phase II Flight Safety Review
+
+Summary of Action Items
+                                     January 27, 2005
+
+ AI                  Action                                                    Date Due
+ 1                   Determine if the Station-supplied fuel stowage location   Date: Phase
+ Assigned to:        complies with the SPICE flammability assessment           III
+ GRC/D. Truong       restrictions.                                             Mandatory
+                                                                               Reviewer(s):
+ HR: SPICE-U4                                                                  PSRP
+
+
+
+Original Signed by:
+________________________                          January 27, 2005
+JSC/NA3/S. Wolf                                   Date
+PSRP Chairman
+
+
+Original Signed by:
+________________________                          January 27, 2005
+GRC/D. Truong                                     Date
+Payload Organization
+
+
+
+
+May 2008
+                                             58
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+Response to the agreement from the SPICE Phase II safety review
+Agreement: The PO agreed to provide a logic diagram depicting all of the inhibits that prevent fuel
+ignition at Phase III.
+
+Two diagrams are attached to SPICE unique hazard SPICE-U8 that show all of the ignition inhibits that
+prevent fuel ignition.
+
+Response to Action Item from the SPICE Phase II safety review
+Action Item: Determine if the Station-supplied fuel stowage location complies with the SPICE
+flammability assessment restrictions.
+
+
+
+
+May 2008
+                                                   59
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                      ATTACHMENT A : SPICE HMST
+              SPICE Hazardous Material Summary Table
+                              HMST
+
+
+
+
+May 2008
+                                             60
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+May 2008
+                                             61
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+May 2008
+                                             62
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+    ATTACHMENT B : SPICE STANDARD HAZARD REPORT
+                        SPICE STANDARD HAZARD
+                         REPORTING FORM 1230
+
+
+
+
+May 2008
+                                             63
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                                                                                    A. NUMBER                       B. PHASE                         C. DATE
+
+         FLIGHT PAYLOAD STANDARDIZED HAZARD CONTROL                                                 STD-   SPICE-01                               III                         May 2008
+                           REPORT
+ D. PAYLOAD, DTO, DSO or RME (Include Part Number(s), if applicable)                                HAZARD TITLE                                  E. VEHICLE
+
+ Smoke Points In Co-flow Experiment (SPICE)                                                                STANDARD HAZARDS          STS/ISS
+ F. DESCRIPTION OF                     G. HAZARD CONTROLS: (complies with)                          H.      I. VERIFICATION METHOD, REFERENCE, AND STATUS:
+    HAZARD:                                                                                         APP.
+ 1.   Structural Failure (payloads       Designed to meet the standard modular locker                      1a.1 ZIN Tech Engineering will review pre-launch stowage list and re-stow procedure to
+      must comply with the listed        stowage requirements of NSTS 21000-IDD-MDK or                     confirm that SPICE experiment and associated hardware complies with NSTS 2100-IDD-
+      requirements for all phases of     equivalent IDD _____.                                             MDK and ISS-MPLM-IDD-006 for launch and landing.
+      flight)                                                                                              Status – Closed to VTL.
+ Note: Locker and Soft Stowage
+ items only.
+ 2. Structural Failure of Sealed                                                                           N/A- SPICE Gas Bottle Assemblies and pressurized section of the Experiment Assembly
+      Containers                                                                                           contain hazardous materials and are documented under Unique Hazard Reports SPICE-
+                                          Sealed containers must meet the criteria of NASA-                U1 for Contamination Hazard and SPICE-U2 for Rupture/Leak hazard of the Pressurized
+ Note 1: Only sealed containers           STD-5003, Para. 4.2.2.4.2.3a, contain a substance                Fuel Delivery System. All other containers are vented.
+ made of conventional metal               which is not a hazard if released, be made of
+ (metal alloy) can use the 1230           conventional metals (e.g. Al, inconel, monel, steel or
+ form. Sealed containers made             titanium), contain less than 14,240 foot-pounds
+ of unconventional metals or              (19,130 Joules) of stored energy due to pressure,
+ non-metallic materials shall be          and have a maximum delta pressure of 1.5 atm.
+ documented on Unique Hazard
+ Reports.
+
+ Note 2: The 1230 form is not
+ applicable for “sealed
+ container”(s) employed in levels
+ of containment control of
+ hazardous fluid.
+ APPROVAL                                  PAYLOAD ORGANIZATION                                                                                  SSP/ISS
+      PHASE I
+      PHASE II
+      PHASE III
+
+
+
+
+                                                                                               64
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+                                                                                                         A. NUMBER                        B. PHASE                          C. DATE
+
+       FLIGHT PAYLOAD STANDARDIZED HAZARD CONTROL                                                        STD-   SPICE-01                                  III                        May 2008
+                         REPORT
+ D. PAYLOAD, DTO, DSO or RME (Include Part Number(s), if applicable)                                     HAZARD TITLE                                     E. VEHICLE
+
+ Smoke Points In Co-flow Experiment (SPICE)                                                                     STANDARD HAZARDS          STS/ISS
+ F. DESCRIPTION OF                   G. HAZARD CONTROLS: (complies with)                                 H.      I. VERIFICATION METHOD, REFERENCE, AND STATUS:
+    HAZARD:                                                                                              APP.
+ 3.   Structural Failure of Vented        For intentionally vented containers, vents are sized                  3b.1 Analysis. ZIN Engineering will perform an analysis to verify that the SPICE vented
+      Containers                          to maintain a 1.4 factor of safety for Shuttle or a 1.5               containers will maintain structural integrity in the event of rapid
+                                                                                                                depressurization/repressurization with a factor of safety of 1.5 per SSP 52005.
+                                          factor of safety for Station with respect to pressure
+                                                                                                                Status - Closed to VTL.
+                                          loads. Meets all of the applicable pressure rates
+                                          defined for one or more of the following.                             See Vented Container Table (table B-1).
+
+                                     a)   Shuttle payload bay – ICD 2-19001, Para. 10.6.1
+
+                                     b)   Station environment – SSP 52005, paragraph
+                                          4.3 or equivalent payload specific ICD ____.
+
+                                     c)   Station PFE discharge – SSP 57000, Para.
+                                          3.1.1.4K, or equivalent payload specific ICD
+                                          _____.
+
+                                     d)   Shuttle Middeck – NSTS 21000-IDD-MDK, Section
+                                          6.1.
+
+ 4.   Sharp Edges, Corners,               Meets the intent of one or more of the following:                     4a.1 Analysis . ZIN Tech Engineering will conduct drawing review to ensure the
+      and/or Protrusions.                                                                                       requirements to remove sharp edges, corners, and protrusions have been met and
+                                     a)   NASA-STD-3000 / SSP 50005                                             prepare a report confirming design requirements.
+                                                                                                                Status – Closed 12/10/03. 60054-ANA-021. Sharp Edge Analysis
+                                     b)   SLP 2104
+                                                                                                                4a.2 Inspection. ZIN Tech Quality will perform a sharp edge inspection of the SPICE
+                                     c)   NSTS 07700 Vol. XIV App. 7 (EVA hardware)                             hardware and record results in an inspection report.
+                                                                                                                Status – Closed to VTL.
+                                     d)   NSTS 07700 Vol. XIV App. 9 (IVA hardware) / SSP
+                                          57000
+
+                                     e)   SSP 41163, Para. 3.3.6.12.3 (EVA), Para.
+                                          3.3.6.12.4 (IVA).
+
+
+
+
+                                                                                                    65
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+                                                                                                          A. NUMBER                        B. PHASE                           C. DATE
+
+       FLIGHT PAYLOAD STANDARDIZED HAZARD CONTROL                                                         STD-   SPICE-01                                 III                           May 2008
+                         REPORT
+ D. PAYLOAD, DTO, DSO or RME (Include Part Number(s), if applicable)                                      HAZARD TITLE                                    E. VEHICLE
+
+ Smoke Points In Co-flow Experiment (SPICE)                                                                      STANDARD HAZARDS          STS/ISS
+ F. DESCRIPTION OF                   G. HAZARD CONTROLS: (complies with)                                  H.      I. VERIFICATION METHOD, REFERENCE, AND STATUS:
+    HAZARD:                                                                                               APP.
+ 5.   Shatterable Material Release   a)   All materials are contained.                                           5a.1 Analysis. ZIN Tech Engineering will ensure that SPICE design provides for
+                                                                                                                 containment of all shatterable materials (see list below) and prepare a report confirming
+                                     b)   Optical glass (i.e. lenses, filters, etc.) components                  design requirements have been met.
+                                          of crew cabin experiment hardware that are non-                        Status – Closed 08/07/03. 60054-ANA-026, Containment of Shatterable Materials
+                                          stressed (no delta pressure) and have passed both                      Analysis.
+                                          a vibration test at flight levels and a post-test visual
+                                          inspection.                                                            5a.2 Inspection. ZIN Tech Quality will verify that the as-built flight hardware conforms to
+                                                                                                                 the approved drawings and record results in an inspection report.
+                                     c)   Payload bay hardware shatterable material                              Status – Closed 03/01/07. SPICE-INS-020-R1, As-Built Inspection Report
+                                          components that weigh less than 0.25 lb and are
+                                          non-stressed (no delta pressure) or non-structural.                    5a.3 Inspection. ZIN Tech Engineering will review crew procedure inputs to ensure that
+                                                                                                                 checks of containment and assessment of status prior to utilizing frangible hardware are
+                                                                                                                 included, and prepare a report confirming inclusion in the crew procedure inputs.
+                                                                                                                 Status - Closed to VTL.
+
+                                                                                                                 5b.1 Test. ZIN Tech Engineering will arrange for SPICE flight hardware to undergo
+                                                                                                                 acceptance vibration testing and prepare a test report confirming test was successfully
+                                                                                                                 completed and passed inspection for no breakage. Note even though this control is for
+                                                                                                                 Optics, the flow straightener has been tested, see list of all items in table B-2.
+                                                                                                                 Status - Closed to 02/07/07. SPICE-TST-007-R1. Stowed Vibration Test Report
+
+                                                                                                                 See shatterable materials table, table B-2.
+
+ 6.   Flammable Materials            a)   A-rated materials selected from MAPTIS, or                             6ab.1 Analysis. ZIN Tech Quality will compile a MIUL that records materials specified in
+                                                                                                                 approved design documents, evaluate the materials identified per NSTS 1700.7B / ISS
+                                     b)   Flammability assessment per NSTS 22648                                 Addendum requirements and current MAPTIS material ratings, and generate MUAs to
+                                                                                                                 substantiate usage of all non-A-rated materials. Any required flammability assessment
+                                                                                                                 per NSTS 22648 will be included in usage rationale of the MUAs.
+                                                                                                                 Status – Closed to VTL.
+
+                                                                                                                 6ab.2 Analysis. NASA/GRC SMAD reviews the MIUL and MUAs and when approved
+                                                                                                                 provides a material certification memorandum in accordance with intercenter agreements.
+                                                                                                                 Status - Closed to VTL.
+
+
+ 7.   Materials Offgassing                Offgassing tests of assembled article per NASA-                        7a.1 Test . ZIN Tech Engineering will arrange offgas testing in accordance with NASA-
+                                          STD-6001 (previously published as NHB 8060.1C).                        STD-6001, Test 7 and prepares a report.
+                                                                                                                 Status – Closed 2/09/07. SPICE-RPT-001. Toxic Off-gas Test Report
+
+                                                                                                                 7a.2 Analysis. NASA/GRC SMAD reviews offgas test report and when approved provides
+                                                                                                                 material certification memorandum in accordance with intercenter agreements.
+                                                                                                                 Status – Closed to VTL.
+
+
+
+                                                                                                     66
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+                                                                                                       A. NUMBER                       B. PHASE                         C. DATE
+
+       FLIGHT PAYLOAD STANDARDIZED HAZARD CONTROL                                                      STD-   SPICE-01                               III                         May 2008
+                         REPORT
+ D. PAYLOAD, DTO, DSO or RME (Include Part Number(s), if applicable)                                   HAZARD TITLE                                 E. VEHICLE
+
+ Smoke Points In Co-flow Experiment (SPICE)                                                                   STANDARD HAZARDS          STS/ISS
+ F. DESCRIPTION OF                      G. HAZARD CONTROLS: (complies with)                            H.      I. VERIFICATION METHOD, REFERENCE, AND STATUS:
+    HAZARD:                                                                                            APP.
+ 8.    Nonionizing Radiation                 Meets all that apply:                                            8.1.a.1 Test. ZIN Tech Engineering performs EMI/EMC test per SSP 30238 using the
+                                                                                                              requirement of MSFC-REQ-2888 and prepares a report confirming requirements have
+ 8.1   Non-transmitters                 a)   Pass ICD-2-19001, 10.7.3.2.2 / SSP 30238 EMI                     been met.
+                                             compatibility testing, or                                        Status – Closed 09/30/03. GRC-EMI-RPT-201
+
+                                        b)   NSTS/USA approved analysis ICD Section 20, or                    8.1c.1 Analysis. NASA ISS/EMEP will review and approve a TIA based on EMI test
+                                                                                                              results. Waivers and deviations have been submitted and a TIA has been requested.
+                                        c)   ISS/EMEP approved TIA                                            Status – Closed to VTL.
+
+                                        d)   Meets SSP 41163, Para. 3.3.6.6 and SSP 50094,
+                                             Para. 3.4.                                                       The power box and the video titler (together know as the power/video unit), the two
+                                                                                                              cameras, the control box and the experiment assembly are all powered and were tested
+                                                                                                              for EMI emissions.
+
+ 8.2   Lasers                                Meet ANSI Z136.1-2000 for class 1, 2, or 3a Lasers
+                                             (as measured at the source).                                     N/A- No Lasers.
+ NOTE: Lasers operating at
+ class levels 3b and 4, meeting
+ ANSI Z136.1, shall be
+ documented on Unique Hazard
+ Reports.
+ 9. Battery Failure                     a)
+ 9.1 Alkaline cells and batteries       Cells and batteries pass acceptance tests that include                N/A
+     made of alkaline cells,            loaded and open circuit voltage measurements, visual
+     connected in series or in          examination, and leakage check under vacuum (e.g. 6
+     parallel, up to 12 V and with      hours at 0.1 psia).
+     up to 60 Watt-hours capacity,
+     no potential charging source
+     and cells are not in a gas-tight                                                                         Submission of EP-Form-03(including the form’s approved reference number) for EP5
+     compartment.                                                                                             approval
+
+                                                                                                              Information to be included on the EP5 reviewed/approved Form-03: application and
+                                                                                                              protective circuit schematics
+
+
+
+
+                                                                                                  67
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+                                                                                                        A. NUMBER                        B. PHASE                           C. DATE
+
+       FLIGHT PAYLOAD STANDARDIZED HAZARD CONTROL                                                       STD-   SPICE-01                                 III                          May 2008
+                         REPORT
+ D. PAYLOAD, DTO, DSO or RME (Include Part Number(s), if applicable)                                    HAZARD TITLE                                   E. VEHICLE
+
+ Smoke Points In Co-flow Experiment (SPICE)                                                                    STANDARD HAZARDS          STS/ISS
+ F. DESCRIPTION OF                     G. HAZARD CONTROLS: (complies with)                              H.      I. VERIFICATION METHOD, REFERENCE, AND STATUS:
+    HAZARD:                                                                                             APP.
+ 9.2 Primary button cells such as       Cells and batteries pass acceptance tests that include                 9.2.a.1 Test. Since all batteries are soldered to the boards, ZIN Tech Engineering will
+      Li-(CF)x, Li-iodine, LiV2O5,     loaded and open circuit voltage measurements, visual                    conduct an acceptance functional test on each item and prepare reports confirming
+      LiMnO2, Ag-Zn and                examination, and leakage check under vacuum (e.g. 6                     requirements have been met.
+      rechargeable button cells        hours at 0.1 psia).                                                      Status – Closed to VTL.
+      such as LiV2O5, Li-ion, Ni-
+      Cd, Ni-MH, Ag-Zn cells or
+      batteries, which have a          Note: Above acceptance testing for button cells in                      NIKON D100 Digital Camera Button Cell 20mmX3.2mm, type Li-Mn-O2, 3 Volts DC
+      capacity of 300 mAh or less      Section 9.2 which are soldered to a circuit board in                    65mAh, Maxell Model No.: ML2032T6. (This battery will be removed before flight.)
+      and no more than 3 cells per     commercial equipment (not applicable to those button
+      common circuit, and cells        cells in a spring-loaded clip) is limited to a functional               Dallas I-Button data device Cell, 12.5mm X 2.5mm, type Li-CFx, 3 Volt DC, 50mAh, Model
+      are not in a gas-tight           check of the equipment utilizing the subject battery.                   No. BR1225, Manufacturer: RAYOVAC.
+      compartment.
+                                                                                                               The Horita Video Titler card contains two cells in series. The cells are 15.5 X6.3 mm
+                                                                                                               Rechargeable Nickle Metal Hydride cells, 1.2 VDC each, 60mAh, Model Number
+                                                                                                               GP60BNK, Manufacturer GP Batteries International LTD
+
+
+
+
+                                                                                                               EP-Form-03 submitted for each battery. As submitted forms attached.
+
+
+                                                                                                               Submission of EP-Form-03(including the form’s approved reference number) for EP5
+                                                                                                               approval
+
+                                                                                                               Information to be included on the EP5 reviewed/approved Form-03: application and
+                                                                                                               protective circuitry.
+ 9.3 COTS NiMH, NiCd and Ag/Zn         Cells and batteries purchased in one lot; pass
+     cells and batteries for IVA use   acceptance tests that include loaded and open circuit                   N/A
+     up to 20 V and 60 Wh              voltage measurements, visual examination, leakage
+                                       check under vacuum (e.g 6 hours at 0.1psia) and
+                                       vibration to workmanship levels with functional checks                  Submission of EP5 Form-03(including the form’s approved reference number) for approval
+                                       which include charge/discharge cycles for rechargeable
+                                       batteries.                                                              Information to be included on the EP5 reviewed/approved Form-03: manufacturer’s
+                                                                                                               specification, battery protective features and charger schematics
+
+ 9.4 COTS Li-ion batteries up to 10    Batteries and charger shall be from a single lot; shall
+     V and 60 Wh for IVA use           show one-fault tolerance at battery level and shall pass                .N/A
+                                       acceptance tests that include loaded and open circuit
+                                       voltage measurements, visual examination, leakage
+                                       check under vacuum (e.g 6 hours at 0.1psia) and
+                                       vibration to environment or double the workmanship
+                                       level, whichever is higher; and functional checks which
+                                       include charge/discharge cycles.
+
+
+                                                                                                   68
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+                                                                                                     A. NUMBER                          B. PHASE                            C. DATE
+
+       FLIGHT PAYLOAD STANDARDIZED HAZARD CONTROL                                                    STD-   SPICE-01                                   III                            May 2008
+                         REPORT
+ D. PAYLOAD, DTO, DSO or RME (Include Part Number(s), if applicable)                                 HAZARD TITLE                                     E. VEHICLE
+
+ Smoke Points In Co-flow Experiment (SPICE)                                                                 STANDARD HAZARDS          STS/ISS
+ F. DESCRIPTION OF                   G. HAZARD CONTROLS: (complies with)                             H.      I. VERIFICATION METHOD, REFERENCE, AND STATUS:
+    HAZARD:                                                                                          APP.
+ 10. Touch Temperature               a)   Within IVA touch temperature range of –18                         See unique HR SPICE-U6
+                                          Degrees C. (0 Degrees F.) and 49 Degrees C.
+                                          (120 Degrees F.) and satisfies the intentional
+                                          contact constraints of letter MA2-95-048 (if
+                                          applicable).
+
+                                     b)   Meets EVA touch temperature criteria of NSTS
+                                          07700 Vol. XIV App. 7.
+
+ 11. Electrical Power Distribution   a)   Shuttle-powered payloads – Meets all circuit                      11b.1 Analysis . ZIN Tech Engineering will perform an analysis of the SPICE design to
+                                          protection requirements of Letter TA-92-038.                      verify proper wire sizing for circuit protection provided by MSG and prepare a report
+                                                                                                            confirming design requirements have been met.
+                                     b)   Station-powered payloads – Meets station interface                 Status – Closed 6/3/03. Report 60054-ANA-017, SPICE Wire Derating Analysis
+                                          circuit protection requirements of SSP 57000 and                  demonstrates that wire size is adequate for the fusing.
+                                          payload circuit protection requirements of Letter
+                                          TA-92-038.                                                        11b.2 Analysis . ZIN Tech Engineering will perform an analysis to verify that the SPICE
+                                                                                                            design incorporates proper circuit protective devices in accordance with SSP 57000 and
+                                                                                                            TA-92-038 and prepare a report confirming design requirements have been met.
+                                                                                                            Status – Closed 6/3/03. 60054-ANA-017, SPICE Wire Derating Analysis
+
+                                                                                                            11b.3 Analysis. JSC/EP5 review and approval of integrated schematic indicating
+                                                                                                            bonding and grounding methodology for compliance with SSP 30245 and SSP 30240.
+                                                                                                            Status – Closed 6/3/03 Schematic is provided as an attachment to the 1230 Form. 60054-
+                                                                                                            ANA-015, Grounding & Cable Analysis. SPICE-TST-016-R1, As-Run Grounding Test
+                                                                                                            Report. See SPICE-NCR-003 and SPICE-DEV-001.
+
+                                                                                                            11b.4 Inspection. ZIN Tech Quality will verify that the as-built electrical circuitry is in
+                                                                                                            accordance with approved drawings and parts lists and record results in an inspection
+                                                                                                            report.
+                                                                                                            Status – Closed 3/01/07. SPICE-INS-027-R1, As-Built Electrical Circuitry Inspection
+                                                                                                            Report
+
+                                                                                                            Note: See attached figures on the electrical system: B-3, B-4 and B-5.
+
+ 12. Ignition of Flammable                All ignition sources in the Payload bay, for launch               N/A- SPICE will not be transported to ISS in Payload Bay.
+     Atmospheres in Payload Bay           and landing, are controlled as required in Letter
+                                          NS2/81-MO82, and MLI grounded per ICD 2-
+                                          19001.
+
+
+
+
+                                                                                                69
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+                                                                                                 A. NUMBER                        B. PHASE                         C. DATE
+
+      FLIGHT PAYLOAD STANDARDIZED HAZARD CONTROL                                                 STD-   SPICE-01                                III                          May 2008
+                        REPORT
+ D. PAYLOAD, DTO, DSO or RME (Include Part Number(s), if applicable)                             HAZARD TITLE                                  E. VEHICLE
+
+ Smoke Points In Co-flow Experiment (SPICE)                                                             STANDARD HAZARDS          STS/ISS
+ F. DESCRIPTION OF             G. HAZARD CONTROLS: (complies with)                               H.      I. VERIFICATION METHOD, REFERENCE, AND STATUS:
+    HAZARD:                                                                                      APP.
+ 13. Rotating Equipment             Rotating equipment meets criteria of NASA-STD-                      13.1 Analysis . ZIN Tech Engineering will review SPICE design to ensure that the rotating
+                                    5003 for obvious containment.                                       component which is the 3 inch, 2950 rpm Fan located in the Experiment Assembly meets
+                                                                                                        the criteria of NASA-STD-5003 for containment and prepare a report confirming design
+                                                                                                        requirements have been met.
+                                                                                                        Status – Closed 8/1/03. 60054-ANA-028, Rotating Components Compliance Analysis.
+
+
+ 14. Mating/demating powered   a)   Meets the low power criteria of letter MA2-99-170                   14b.1 Inspection. ZIN Tech Quality will Inspect Crew Procedure inputs to ensure that
+     connectors                     or,                                                                 step is in place to remove power from the MSG experiment power connector prior to
+                                                                                                        mate/demate of connectors.
+                               b)   Meets the paragraph 1 criteria of letter MA2-99-170                  Status – Closed to VTL.
+                                    (e.g., IVA and open circuit voltage no greater than                 14b.2 Inspection. ZIN Tech Quality will Inspect electrical connectors to comply with
+                                    32 volts).                                                          MSFC-RQMT-2888 connection requirements for 28 volt connections.
+                                                                                                        Status – Closed 2/13/07. SPICE-INS-011-R1, Electrical Connectors and Pin Assignment
+                                                                                                        Inspection Report.
+                                                                                                        14b.3 Inspection. ZIN Tech Quality will Inspect the SPICE hardware for design features
+                                                                                                        that completely enclose or shroud the pins and sockets.
+                                                                                                        Status – Closed 4/19/07. SPICE-INS-003 Connector Protection and Shape Design
+                                                                                                        Inspection.
+                                                                                                        14b.4 Inspection. ZIN Tech Quality will Inspect the SPICE connectors for powered side
+                                                                                                        terminating in sockets rather than pins.
+                                                                                                        Status – Closed to 4/19/07. SPICE-INS-003 Connector Protection and Shape Design
+                                                                                                        Inspection.
+ 15. Contingency Return and         Shuttle Environment:                                                15a.1 Analysis. ZIN Tech Engineering will perform an analysis to show that hardware can
+     Rapid Safing              a)   If middeck payload – can be stowed within 50 min.                   be stowed in allowed time.
+                                    (see paragraph 3 of letter MA2-96-190).                             Status – Closed 12/10/03. 60054-ANA-030, ISS Emergency Egress Compliance Analysis
+
+                               b)   If SPACEHAB transfer item – can establish a safe                    15c.1 Analysis. ZIN Tech Engineering will perform design analysis of SPICE hardware
+                                    for return configuration within 3 min. (see paragraph               to show the design does not impede emergency IVA egress to adjacent pressurized
+                                    5 of letter MA2-96-190).                                            volumes and prepare a report confirming design requirements have been met.
+                                                                                                        Status – Closed 12/10/03. 60054-ANA-030, ISS Emergency Egress Compliance Analysis
+                                    Station Environment:
+                               c)   Payload design does not impede emergency IVA
+                                    egress to the remaining adjacent pressurized
+                                    volumes.
+
+
+
+
+                                                                                            70
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+                                                                                               A. NUMBER                      B. PHASE                          C. DATE
+
+       FLIGHT PAYLOAD STANDARDIZED HAZARD CONTROL                                              STD-   SPICE-01                              III                      May 2008
+                         REPORT
+ D. PAYLOAD, DTO, DSO or RME (Include Part Number(s), if applicable)                           HAZARD TITLE                                 E. VEHICLE
+
+ Smoke Points In Co-flow Experiment (SPICE)                                                           STANDARD HAZARDS          STS/ISS
+ F. DESCRIPTION OF               G. HAZARD CONTROLS: (complies with)                           H.      I. VERIFICATION METHOD, REFERENCE, AND STATUS:
+    HAZARD:                                                                                    APP.
+ 16. Release of Mercury from     a)   Mercury vapor bulbs contain less than 30 mg of
+     bulbs into crew habitable        Mercury per bulb, and                                           N/A-There is no mercury in any of the SPICE components.
+     environment.
+                                 b)   No more than one bulb could break due to a single
+                                      failure.
+
+
+
+
+                                                                                          71
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+Vented Container Table B-1 (for STD SPICE-01 Description of Hazard 3)
+ Container              Housing      Size              Energy           Container Volume    Vent Size
+                        Material                       contained (ft-   (in3) No packing    (in2 )
+                                                       lbs) $           factor
+ Control Box            Aluminum     4.8X2.6X1.4       20               16.8                0.3
+                                     inches
+ Digital Camera         Plastic      *8X 5X8           370              320                 0.32
+ Video Camera           Aluminum     * 5.9X2.6X2.1     37               32.3                0.31
+ Power Control Box      Aluminum     8.1X5.7X2.4       128              111                 0.86
+                                     inches
+ Video Control Box      Aluminum     8.1X5.7X 3        160              139                 0.86
+                                     inches
+ Gas Bottle Assembly    Aluminum     18.2X14.5X6.2     1891             1636                1.20
+ Cases                               inches
+ Component Parts Case   Aluminum     18.2X14.5X6.2     1891             1636                1.20
+                                     inches
+ Experiment Assembly    Aluminum     13.6X10.4X6.7     1095             947                 19.5
+                        and Lexan
+ Ignitor/Burner case    Aluminum     6.1X3.5X1.1       24.9             21.5                0.30
+
+Note none of these contain any chemicals other than air except the Gas Bottle Assembly Cases which will contain the Fuel Bottles which are tox
+level 0 if they are all released.
+
+*The camera is not a box, these are the extreme outside dimensions and includes the lens, they are used for conservatism.
+
+@ This is based on depressurization. For the gas bottle assembly case, although any individual bottle if dumped instantly would increase the
+pressure in the box by 4.4 psi if the box were sealed, this occurring at the same time as a depressurization does not seem credible.
+
+$ This is based on the container being sealed and at 14.7 psi differential pressure due to depressurization.
+
+
+
+
+                                                                        72
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+Shatterable Materials/Components Table B-2 (for STD SPICE-01 Description of Hazard 5)
+
+System (or          Material   Location/use      Protection &     # of levels of   Rationale for acceptance
+Subsystem)          name/type                    containment      containment
+Video Camera        Glass lens In MSG            Non stressed     1                The glass lens parts are small and not stressed. The
+Lens                                             lens                              camera was tested in vibration in stowage configuration.
+                                                                                   Item is contained during launch (stowed item) and is in
+                                                                                   MSG during use. Camera will be packed inside transparent
+                                                                                   bag and will be examined for glass splinters by the crew
+                                                                                   before unpacking. Verification shall be done by review and
+                                                                                   approval of inputs to crew procedures.
+Still Camera Lens   Glass lens   In MSG          Non stressed     1                The glass lens parts are small and not stressed. The
+                                                 lens                              camera was tested in vibration in stowage configuration.
+                                                                                   Item is contained during launch (stowed item) and is in
+                                                                                   MSG during use. Camera will be packed inside transparent
+                                                                                   bag and will be examined for glass splinters by the crew
+                                                                                   before unpacking. Verification shall be done by review and
+                                                                                   approval of inputs to crew procedures.
+Flow Straightener   Cordierite   In MSG          Non stressed,    1
+                    (ceramic)                    bound 4 sides,                    The part is small and not stressed. The EA was tested in
+                                                 and contained                     vibration in stowage configuration. Item is stowed during
+                                                                                   launch. Item is contained between 100 mesh screens at all
+                                                                                   times. The item is 1 inch thick honey comb which is bound
+                                                                                   on 4 sides (3 inch sides) exposing only the ends of the
+                                                                                   square tubes formed by the ceramic.
+
+
+
+
+                                                                      73
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+Reference letter for STD SPICE-01 hazard 7
+
+
+
+
+                                             74
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+EP-FORM-03 forms as submitted for STD SPICE 01 Hazard 9.2
+
+
+
+
+                                             75
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             76
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             77
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             78
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             79
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             80
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             81
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             82
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             83
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             84
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             85
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             86
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             87
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             88
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             89
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             90
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             91
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             92
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             93
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             94
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             95
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             96
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             97
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             98
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             99
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             100
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             101
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             102
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             103
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             104
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             105
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             106
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             107
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                       Power Distrubution Schematic Figure B-3 (for STD SPICE-01 Description of Hazard 11)
+
+
+
+
+                                                                                                                                                          Remot e Shut ter
+                                                                                                                                    (26 awg)              (closed cont act,
+                                 J303
+                                 P 303                                                                                                                    no power)
+                                                            To MSG Vi deo Drawer
+                    +12V, +5V                               (MSG Cables)                                                                            Controller Assembly
+                    +28V, Rtns                                                     +12V       Vid eo                                                (no power, Switches
+                    (12awg)                                                        Rt n
+                                                                                   (26awg)
+                                                                                              Camera                                                 & Trim resistors )
+
+                                                                                                                                               (20 awg)
+
+                                                                                         Vi deo
+
+                              Power                                                                50 ohm coax cable
+                                                                                         Vi deo
+                               Box
+                         (Contains Fusing,
+                              Filter,                     VideoTitler                                                   (26
+                                                                                                                                        J403
+                                                                                                                                                            MGS WV
+                         28V to 9V DC/DC
+                            Converter)
+                                                             Box                    +9V                                awg)
+                                                                                    Rt n          Still Camera                      (20 & 26 awg)
+                          28v & 5 v lines                                           (20awg)
+                            Fused with
+                            5 amp fuse
+
+                                                                                       Serial Communications
+                                                                                       (20awg)
+                                                                                                                (20 awg)
+                         J1                                J1
+                         P1                                P1
+                                             +12V, Rt n                                                                                  Experiment
+                                             (20 awg)                                                                         P J         Assembly
+                                                                                                                              2 2
+                              +12V, +5V                                                                 +12V, +5V             1 1
+                              +28V, +9V, Rtns                                                           +28V, Rtns
+                              (26 & 20 awg)                                                             (20awg)
+
+
+
+
+                                                                                             108
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+              Figure B-4 Bonding and Grounding (For STD SPICE-01 Hazard 11)
+
+
+
+
+                                                             109
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+Figure B-5 Connection Diagram (for STD SPICE-01 Description of Hazard 11)
+
+
+
+
+                                                           110
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+      ATTACHMENT C: SPICE UNIQUE HAZARD REPORTS
+                          SPICE UNIQUE HAZARDS
+SPICE-U1, SPICE-U2, SPICE-U3, SPICE-U4, SPICE-U5, SPICE-
+                       U6, SPICE-U8
+
+
+                            Submitted under separate cover.
+
+
+
+
+                                             111
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+                    ATTACHMENT D: SPICE FIRE DETECTION & SUPPRESSION
+                                  REPORTING FORM 1428
+
+
+
+
+                                             112
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             113
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             ATTACHMENT E: SPICE SVTL
+                              SPICE SAFETY VERIFICATION TRACKING LOG
+
+
+                                                Submitted under separate cover.
+
+
+
+
+                                                            114
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+       ATTACHMENT F: SPICE CERTIFICATE OF SAFETY
+                      COMPLIANCE
+
+
+
+
+                                             115
+SPICE PHASE III FLIGHT SAFETY DATA PACKAGE
+ SPICE-SDP-003
+
+
+
+
+                                             116
+

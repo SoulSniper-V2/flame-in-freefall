@@ -1,0 +1,1026 @@
+                         Smoke Experiment
+                                 aka
+                Characterization of Smoke Particulate
+                    for Spacecraft Fire Detection
+
+                        Engineering Report
+
+            Characterization of Ignitor Wire Candidates
+
+
+
+
+Submitted by:
+ZIN Technologies, Inc
+Len Miller
+April 2002
+                                                                           SMOKE Experiment
+                                                             Ignitor WIre Characterization Study
+                                                                                     April 2002
+
+Purpose:
+The purpose of this report is to document the results of a study conducted in search of the
+ideal type of wire to be used for the hot wire ignitors for the Smoke Experiment.
+
+Objective:
+The objective of this study was to find a wire with a consistent, linear resistance versus
+temperature characteristic and with a “significant” slope.
+
+Scope:
+This study was conducted in the Phase A Laboratory (Bldg 77, Room 154A) on
+commercially available wire. The ignitor manufacturing technique and the pyrolization
+of samples is beyond the scope of this study.
+
+Procedure:
+Each type of wire was mounted on a test fixture. The test fixture was then placed into a
+ThermCraft laboratory oven. The oven was programmed to ramp up to a set point, hold
+the set point for fifteen minutes, and then ramp to the next set point until the final
+temperature of approximately 800 oC was attained. (See oven cycle graph in Appendix
+C.) Resistance readings were taken near the end of each “dwell” period. Several of the
+wire types were subjected to additional tests to examine the effects of the previous
+thermal cycle(s).
+
+The test fixture held approximately thirty-four inches (0.86 meters) of wire.
+
+A stainless steel sheathed type-k thermocouple (Omega Part No. KQSS-116U-24) was
+placed inside the oven in close proximity to the wire under test.
+
+Leads of high temperature furnace wire (#18 AWG) were brought out of the oven to
+enable the test conductor to measure the resistance of the wire under test.
+The resistance of the leads and the terminations was characterized by subjection the
+fixture and leads to a thermal cycle with a copper bus bar shorting the terminals of the
+fixture.
+
+The fixture resistance was subtracted from the total resistance reading for each test point
+to determine the net resistance of the wire under test.
+
+The results were recorded in an Excel Workbook. Several different data plots were
+prepared and studied.
+                                                                          SMOKE Experiment
+                                                            Ignitor WIre Characterization Study
+                                                                                    April 2002
+
+
+
+Summary and Conclusions:
+This study examined the characteristics of eight types of wire: anodized mild steel, pure
+iron, Alomega (similar to Alumel), -Stainless steel, pure platinum, platinum-rhodium,
+tungster-5%rhenium, and tungsten-26%rhenium. Traditional heating wires, Nichrome
+and Kanthal were also included for comparison.
+
+Pure platinum has close-to-ideal characteristics. However the cost of the material may be
+prohibitive.
+
+Alomega and stainless steel ran a close second.
+
+Mild steel, iron and tungsten-composites oxidized in the oven and their characteristics
+changed significantly from one thermal cycle to the next.
+
+Nichrome and Kanthal have too flat a slope to meet the objectives.
+
+Further testing will be conducted to determine the optimum wire type and wire diameter.
+Representative test samples will by pyrolized using various ignitor configurations. The
+quality and quantity of the smoke will be visually evaluated.
+
+Test Results:
+The tests were conducted in the Phase A Lab from February 6, 2002 through March 20
+2002, by Len Miller and Nathan Funk of Zin Technologies, Inc.
+
+The individual results for each test were tabulated and plotted. For those wires subjected
+to more than one thermal cycle, the comparative results were plotted. Finally, an overall
+plot of the combined results was prepared.
+
+The entire Excel Workbook, with tabulated test results and plots thereof, is included in
+Appendix A of this report.
+
+Photographs of the laboratory apparatus are in Appendix B and a graph of the thermal
+cycle is in Appendix C.
+Appendix A
+Test Results
+                                                    SMOKE Experiment
+                                                      Ignitor Wire
+                                                      Comparison
+16.0                                                                                  26.0
+           Nichrome use right axis                                                           Stl Test 1
+                                                                                             Stl Test 2
+14.0                                                                                  24.0
+                                                                                             Stl Test 3
+                                                                                             Fe Test 4
+                                                                                             Fe Test 5
+12.0                                                                                  22.0
+                                                                                             Fe Test 6
+                                                                                             Al Test 7
+                                                                                             Al Test 8
+10.0                                                                                  20.0
+                                                                                             Al Test 9
+                                                                                             SW Test 10
+
+Ohms
+                                                                                             SW Test 11
+ 8.0                                                                                  18.0
+                                                                                             SW Test 12
+                                                                                             Kanthal
+                                                                                             Platinum
+ 6.0                                                                                  16.0
+                                                                                             PtRh
+                                                                                             W5Re Test 15
+ 4.0                                                                                  14.0   W26Re Test 15
+                                                                                             W5Re Test 16
+                                                                                             Nichrome
+ 2.0                                                                                  12.0   W5Re Test 16
+
+
+
+ 0.0                                                                                  10.0
+       0   100         200           300   400           500   600     700   800   900
+                                                 Deg C
+              Temp Deg Temp Deg            Resistance   Net                                Polynomial
+Test Point     Celsius   Kelvin Resistance of Holder Resisance            R5/R1             Res Calc Ohms/cm            Fixture
+         1         54.7    327.7     1.485       0.198    1.287                                 1.282   0.015   m           b
+         2          248      521     2.647       0.268    2.379                                 2.400   0.027   3.6205E-04 1.7777E-01
+         3          446      719      4.41       0.339    4.071                                 4.038   0.046
+         4          608      881      6.38       0.398    5.982                                 6.002   0.068                 Wire Polynomial
+         5          797     1070      9.75       0.466    9.284             7.211               9.287   0.106   a3        a2          a1         a0
+         6          849     1122     10.91       0.485  10.425                                 10.419   0.119   7.8300E-09 4.9887E-07 5.0209E-03 1.0048E+00
+
+
+
+                                      0.014 Mild Steel
+                                           Test 1
+                                                                      3                2
+                                                        y = 7.8300E-09x + 4.9887E-07x +
+                16.0 y = 0.0116x - 0.2254                   5.0209E-03x + 1.0048E+00
+                14.0
+                12.0
+                10.0                                                  0.014 Mild Steel
+         Ohms    8.0
+                 6.0                                                  Linear (0.014 Mild
+                 4.0                                                  Steel)
+                 2.0
+                                                                      Poly. (0.014 Mild
+                 0.0
+                                                                      Steel)
+                     0      200    400    600     800
+                                  Deg C
+
+
+
+
+                                  0.014 Mild Steel Wire
+                                      Comparison
+
+              20.0
+
+              15.0
+                                                                                  Test 1
+       Ohms   10.0                                                                Test 2
+                                                                                  Test 3
+                5.0
+
+                0.0
+                      0    200       400        600       800     1000
+                                        Deg C
+             Temp Deg Temp Deg              Resistance  Net                                                    Polynomial
+Test Point    Celsius   Kelvin  Resistance of Holder Resistance                                 R5/R1           Res Calc Ohms/cm          Fixture
+         1        23.8      297        2.17       0.186     1.98                                                      1.98  0.023      m          b
+         2         286      559        4.68       0.281     4.40                                                      4.41  0.050 3.6205E-04 1.7777E-01
+         3         477      750        7.37       0.350     7.02                                                      7.00  0.080
+         4         646      919       10.59       0.412    10.18                                                     10.19  0.116
+         5         807     1080        14.7       0.470     14.2                                    7.185            14.23  0.162 Polynomial
+                                                                                                                                              a3        a1         a0
+                                                                                                                                  8.0858E-09 3.2148E-06 7.5409E-03 1.7979E+00
+                                             0.014 Mild Steel Wire
+                                                    Test 2                        3                2
+                                                                    y = 8.0858E-09x + 3.2148E-06x + 7.5409E-
+                            y = 0.0154x + 0.6635                                 03x + 1.7979E+00
+                                                                                0.014 Mild Steel #2
+                 16.0
+                 14.0
+                 12.0                                                          Linear (0.014 Mild Steel
+                 10.0
+          Ohms
+                                                                               #2)
+                  8.0
+                  6.0                                                          Poly. (0.014 Mild Steel
+                  4.0                                                          #2)
+                  2.0
+                  0.0
+                        0        200      400      600        800     1000
+                                              Deg C
+
+
+
+
+Readings After Test
+Temp      Res         Fixture    Net
+      772        14.2      0.457                      13.74
+      438        8.26      0.336                       7.92
+      124        3.45      0.223                       3.23
+       72        3.56      0.204                       3.36
+       40        2.92      0.192                       2.73
+
+Reading at fixture ignoring wire leads
+??                2.08
+               Temp Deg Temp Deg            Resistance   Net                                        Polynomial
+Test Point      Celsius   Kelvin Resistance of Holder Resistance     R5/R1                           Res Calc  Ohms/cm               Fixture
+         1          25.4      299      2.10      0.187      1.91                                          1.91    0.0218          m           b
+         2           181      454      3.49      0.243      3.24                                          3.26    0.0370      3.6205E-04 1.7777E-01
+         3           443      716      6.98      0.338      6.64                                          6.66    0.0758
+         4           623      896     10.52      0.403     10.12                                         10.21    0.1154
+         5           803     1076     15.46      0.468     14.99         7.837                           15.11    0.1711 a4   a3         a2         a1         a0
+                                                                                                                              8.7634E-09 4.4236E-06 7.4749E-03 1.7151E+00
+
+                                         0.014 Mild Steel
+                               y = 0.0165x + 0.5527
+                                                Test 3
+                                                y = 8.7643E-09x3 + 4.2355E-06x2 + 7.4749E-03x +
+               16.0                                               1.7151E+00
+               14.0
+               12.0                                                      0.014 Mild Steel #3
+               10.0
+
+        Ohms    8.0                                                      Linear (0.014 Mild Steel
+                                                                         #3)
+                6.0
+                                                                         Poly. (0.014 Mild Steel
+                4.0                                                      #3)
+                2.0
+                0.0
+                      0       200        400          600          800
+                                           Deg C
+              Temp Deg Temp Deg            Resistance   Net                                    Polynomial
+Test Point     Celsius   Kelvin Resistance of Holder Resisance               R5/R1              Res Calc Ohms/cm                     Fixture
+         1         60.6    333.6     1.184       0.200    0.984                                     0.984   0.011            m           b
+         2          177      450     1.733       0.242    1.491                                     1.491   0.017             3.6205E-04 1.7777E-01
+         3          450      723      3.71       0.341    3.369                                     3.369   0.038
+         4          624      897      5.51       0.404    5.106                                     5.106   0.058                            Wire Polynomial
+         5          801     1074      9.26       0.468    8.792                 8.933               8.792   0.100 a4         a3          a2          a1         a0
+                                                                                                                  5.0734E-11 -6.5732E-08 3.3664E-05 -1.0603E-03 9.3886E-01
+
+
+
+                                       0.015 Iron                    4
+                                                       y = 5.0734E-11x - 6.5732E-08x +
+                                                                                        3
+
+                y = 0.0099x - 0.2407     Test 4          3.3664E-05x2 - 1.0603E-03x +
+                                                                  9.3886E-01
+                16.0
+                14.0
+                12.0
+                10.0
+         Ohms    8.0
+                 6.0
+                 4.0                                                     0.015 Iron
+                 2.0                                                     Linear (0.015 Iron)
+                 0.0                                                     Poly. (0.015 Iron)
+                          0    200     400     600     800
+                                       Deg C
+
+
+
+
+                                           0.015 Iron Wire
+                                            Comparison
+              15.0
+
+                                                                               Iron Test 5
+              10.0
+       Ohms
+                                                                               Iron Test 4
+                                                                               Iron Test 6
+                5.0
+
+
+                0.0
+                      0       200    400     600     800     1000
+                                       Deg C
+             Temp Deg Temp Deg            Resistance   Net                               Polynomial
+Test Point    Celsius   Kelvin Resistance of Holder Resisance           R5/R1             Res Calc Ohms/cm                     Fixture
+         1        44.7    317.7     1.427       0.194    1.233                                1.233   0.014            m           b
+         2         176      449     2.194       0.241    1.953                                1.953   0.022             3.6205E-04 1.7777E-01
+         3         441      714      4.72       0.337    4.381                                4.380   0.050
+         4         617      890      6.97       0.401    6.570                                6.570   0.075                            Wire Polynomial
+         5         801     1074     11.07       0.468  10.602             5.328              10.602   0.121 a4         a3          a2         a1        a0
+                                                                                                            4.4273E-11 -5.9868E-08 3.4180E-05 5.8800E-05 1.1673E+00
+
+
+
+                                      0.015 Iron     y = 4.4273E-11x4 - 5.9868E-08x3 +
+               y = 0.0119x - 0.0116     Test 5                     2
+                                                       3.4180E-05x + 5.8800E-05x +
+                                                                1.1673E+00
+               16.0
+               14.0
+               12.0
+               10.0
+        Ohms    8.0
+                6.0
+                4.0                                                0.015 Iron
+                2.0                                                Linear (0.015 Iron)
+                0.0                                                Poly. (0.015 Iron)
+                      0    200        400     600   800
+                                      Deg C
+             Temp Deg Temp Deg            Resistance   Net                             Polynomial
+Test Point    Celsius   Kelvin Resistance of Holder Resisance         R5/R1             Res Calc Ohms/cm                     Fixture
+         1        31.8    304.8     1.692       0.189    1.503                              1.503   0.017            m           b
+         2         182      455     2.670       0.244    2.426                              2.426   0.028             3.6205E-04 1.7777E-01
+         3         442      715      6.00       0.338    5.662                              5.662   0.065
+         4         620      893      9.12       0.402    8.718                              8.718   0.099                            Wire Polynomial
+         5         805     1078     14.22       0.469  13.751           9.151              13.751   0.157 a4         a3          a2          a1         a0
+                                                                                                          4.5096E-11 -6.5306E-08 4.3306E-05 -8.3135E-04 1.4874E+00
+
+
+
+                y = 0.0155x - 0.0246 0.015 Iron
+                                     Test 6                       4               3
+                                                    y = 4.5096E-11x - 6.5306E-08x +
+                                                                  2
+                                                      4.3306E-05x - 8.3135E-04x +
+                16.0
+                14.0                                           1.4874E+00
+                12.0
+                10.0
+         Ohms    8.0
+                 6.0
+                 4.0                                             0.015 Iron
+                 2.0                                             Linear (0.015 Iron)
+                 0.0                                             Poly. (0.015 Iron)
+                       0   200     400      600   800
+                                    Deg C
+               Temp Deg Temp Deg            Resistance   Net                                           Polynomial
+Test Point      Celsius   Kelvin Resistance of Holder Resisance               R5/R1                     Res Calc Ohms/cm                         Fixture
+         1          82.1    355.1     2.280       0.207    2.073                                            2.268       0.024            m           b
+         2           162      435     2.730       0.236    2.494                                            2.494       0.029             3.6205E-04 1.7777E-01
+         3           440      713      3.41       0.337    3.073                                            3.073       0.036
+         4           618      891      3.76       0.402    3.358                                            3.358       0.039                             Wire Polynomial
+         5           799     1072      4.12       0.467    3.653                1.763                       3.653       0.042 a4         a3          a2           a1        a0
+                                                                                                                              -1.7747E-11 3.7664E-08 -2.8477E-05 1.0652E-02 1.3739E+00
+                                                                                                                                          1.8372E-09 -3.3172E-06 3.5501E-03 1.9974E+00
+                                                                                                                  Fixture 1
+                                     0.015 Alumel
+                y = 0.0021x + 2.048     Test 7y = -1.7747E-11x4 + 3.7664E-08x3 - 2.8477E-
+                                                           2
+                                                      05x + 1.0615E-02x + 1.3729E+00
+                16.0
+                14.0
+                12.0
+                10.0                                                           0.015 Alumel
+        Ohms     8.0
+                 6.0                                                           Linear (0.015
+                 4.0                                                           Alumel)
+                 2.0
+                                                                               Poly. (0.015
+                 0.0
+                                                                               Alumel)
+                         0    200        400         600         800
+                                            Deg C
+
+
+
+        y = 0.0018x + 2.2276
+                                     0.015 Alumel             3             2                                          0.015 Alumel
+                                               y = 1.8372E-09x - 3.3172E-06x + 3.5501E-
+                                        Test 7             03x + 1.9974E+00                                              Compare
+                                   ignnore point #1
+               4.0                                                                                    5.0
+
+               3.0                                                                                    4.0
+                                                                               0.015 Alumel
+        Ohms                                                                                   Ohms
+                                                                                                      3.0
+               2.0
+                                                                                                      2.0                                                        Test 7
+                                                                               Linear (0.015
+               1.0                                                                                                                                               Test 8
+                                                                               Alumel)                1.0
+               0.0                                                             Poly. (0.015                                                                      Test 9
+                                                                                                      0.0
+                     0       200      400      600         800         1000    Alumel)
+                                                                                                            0    200      400           600   800    1000
+                                         Deg C                                                                                  Deg C
+             Temp Deg Temp Deg            Resistance   Net                            Polynomial
+Test Point    Celsius   Kelvin Resistance of Holder Resisance        R5/R1             Res Calc Ohms/cm                     Fixture
+         1        86.8    359.8     2.290       0.209    2.081                             2.081   0.024            m           b
+         2         165      438     2.730       0.238    2.492                             2.492   0.029             3.6205E-04 1.7777E-01
+         3         435      708      3.42       0.335    3.085                             3.085   0.036
+         4         618      891      3.80       0.402    3.398                             3.399   0.039                             Wire Polynomial
+         5         796     1069      4.17       0.466    3.704         1.780               3.704   0.043 a4         a3          a2           a1        a0
+                                                                                                         -1.8228E-11 3.8397E-08 -2.8850E-05 1.0804E-02 1.3363E+00
+
+                                                                                               Fixture 1
+                                 0.015 Alumel
+                                                          4             3
+               y = 0.0022x + 2.033  Test 8y = -1.8228E-11x + 3.8397E-08x - 2.8850E-
+                                               05x2 + 1.0804E-02x + 1.3363E+00
+               16.0
+               14.0
+               12.0
+               10.0                                                   0.015 Alumel
+        Ohms    8.0
+                6.0                                                   Linear (0.015
+                4.0                                                   Alumel)
+                2.0
+                                                                      Poly. (0.015
+                0.0
+                                                                      Alumel)
+                      0    200       400      600      800
+                                      Deg C
+             Temp Deg Temp Deg            Resistance   Net                                   Polynomial
+Test Point    Celsius   Kelvin Resistance of Holder Resisance             R5/R1               Res Calc                                  Fixture
+         1        33.9    306.9     2.100       0.190    1.910                                    1.910        0.022            m           b
+         2         172      445     2.800       0.240    2.560                                    2.560        0.030             3.6205E-04 1.7777E-01
+         3         440      713      3.49       0.337    3.153                                    3.153        0.037
+         4         619      892      3.95       0.402    3.548                                    3.548        0.041                             Wire Polynomial
+         5         799     1072      4.31       0.467    3.843               2.012                3.843        0.045 a4         a3          a2           a1        a0
+                                                                                                                     -1.6982E-11 3.1959E-08 -2.1337E-05 8.0389E-03 1.6607E+00
+
+                                                                                                          Fixture 1
+
+       y = 0.0024x + 1.9951        0.015 Alumel
+                                                            4
+                                      Test 9y = -1.6982E-11x  + 3.1959E-08x3 - 2.1337E-
+                                                     2
+                                                     05x + 8.0389E-03x + 1.6607E+00
+                16.0
+                14.0
+                12.0
+                10.0                                                        0.015 Alumel
+        Ohms     8.0
+                 6.0                                                        Linear (0.015
+                 4.0                                                        Alumel)
+                 2.0
+                                                                            Poly. (0.015
+                 0.0
+                                                                            Alumel)
+                       0     200       400       600         800
+                                        Deg C
+
+
+
+
+                                    0.015 Alumel                    y = 398.03x - 782.41
+                                       Test 9
+
+                1000.0
+                  800.0
+                  600.0
+
+         Ohms
+                                                                             0.015 Alumel
+                  400.0
+                  200.0                                                      Linear (0.015
+                                                                             Alumel)
+                       0.0
+                                                                             Poly. (0.015
+                 -200.0 0      1         2           3      4       5
+                                                                             Alumel)
+                                             Deg C
+              Temp Deg Temp Deg            Resistance   Net                                Polynomial
+Test Point     Celsius   Kelvin Resistance of Holder Resisance               R5/R1          Res Calc Ohms/cm                     Fixture
+         1         82.2    355.2     3.430       0.208    3.222                                 3.228   0.037            m           b
+         2          171      444     3.760       0.240    3.520                                 3.574   0.040             3.6205E-04 1.7777E-01
+         3          440      713      4.60       0.337    4.263                                 5.177   0.049
+         4          620      893      4.99       0.402    4.588                                 7.145   0.052                            Wire Polynomial
+         5          802     1075      5.31       0.468    4.842                1.503           10.376   0.055 a4         a3          a2          a1        a0
+                                                                                                               3.4188E-12 5.3641E-09 8.4567E-07 3.3774E-03 2.9420E+00
+
+                                                                                                    Fixture 2
+                                   0.020 Safetyy =Wire        4
+                                                   3.4188E-12x - 5.3641E-
+      y = 0.0023x + 3.1238
+                                        Test 10 09x3 + 8.4567E-07x2 +
+                                                  3.3774E-03x + 2.9420E+00
+                 16.0
+                 14.0
+                 12.0
+                 10.0                                             0.020 Safety Wirel
+          Ohms    8.0
+                  6.0                                             Linear (0.020
+                  4.0                                             Safety Wirel)
+                  2.0
+                                                                  Poly. (0.020 Safety
+                  0.0
+                                                                  Wirel)
+                        0   200     400     600   800
+                                    Deg C
+
+
+
+
+                                  0.020 Safety Wire
+                                     Comparison
+
+              6.0
+              5.0
+              4.0
+       Ohms   3.0
+              2.0                                                                Test 10
+              1.0                                                                Test 11
+              0.0
+                    0       200      400      600       800   1000
+                                          Deg C
+             Temp Deg Temp Deg            Resistance   Net                                Polynomial
+Test Point    Celsius   Kelvin Resistance of Holder Resisance           R5/R1              Res Calc Ohms/cm                      Fixture
+         1        31.9    304.9     3.220       0.189    3.031                                 3.031   0.035             m           b
+         2         186      459     3.780       0.245    3.535                                 3.535   0.040              3.6205E-04 1.7777E-01
+         3         445      718      4.56       0.339    4.221                                 4.221   0.048
+         4         622      895      4.98       0.403    4.577                                 4.577   0.052                              Wire Polynomial
+         5         801     1074      5.31       0.468    4.842            1.598                4.842   0.055 a4          a3          a2           a1        a0
+                                                                                                              -1.3840E-13 2.4865E-10 -1.6250E-06 3.6168E-03 2.9170E+00
+
+
+
+                                0.020 Safety Wire
+                                     Test 11   y = -1.3840E-13x4 + 2.4865E-10x3 -
+                y = 0.0024x + 3.0528
+                                               1.6250E-06x2 + 3.6168E-03x + 2.9170E+00
+                 16.0
+                 14.0
+                 12.0
+                 10.0                                               0.020 Safety Wire
+         Ohms     8.0
+                  6.0                                               Linear (0.020
+                  4.0                                               Safety Wire)
+                  2.0                                               Poly. (0.020 Safety
+                  0.0                                               Wire)
+                        0     200      400      600      800
+                                       Deg C
+             Temp Deg Temp Deg            Resistance   Net                                              Polynomial
+Test Point    Celsius   Kelvin Resistance of Holder Resisance                      R/R1    alpha         Res Calc Ohms/cm                      Fixture
+         1        81.8    354.8     3.420       0.207    3.213                       1.000                   3.202   0.037             m           b
+         2         172      445     3.740       0.240    3.500                       1.089 0.00099           3.492   0.040              3.6205E-04 1.7777E-01
+         3         443      716      4.57       0.338    4.232                       1.317 0.00088           4.217   0.048
+         4         619      892      4.99       0.402    4.588                       1.428 0.00080           4.572   0.052                              Wire Polynomial
+         5         797     1070      5.32       0.466    4.854                       1.511 0.00071           4.837   0.055 a4          a3          a2           a1        a0
+                                                                                                                            -1.3840E-13 2.4865E-10 -1.6250E-06 3.6168E-03 2.9170E+00
+
+
+                                                                                                                  Fixture 2
+                                            0.020 Safety Wire
+                                                 Test 12
+        y = 0.0023x + 3.0937                              y = 4.6420E-13x4 - 9.2826E-10x3 -
+                                                            8.6243E-07x2 + 3.4470E-03x +
+                    16.0                                            2.9369E+00 0.020 Safety
+                    14.0                                                           Wire
+                    12.0
+
+             Ohms
+                    10.0                                                            Linear (0.020
+                     8.0                                                            Safety Wire)
+                     6.0
+                     4.0                                                            Poly. (0.020
+                     2.0                                                            Safety Wire)
+                     0.0
+                             0        200      400      600       800
+                                                Deg C
+
+
+
+
+                                               0.020 Safety Wire
+                                                    Test 12
+                                                                        y = 423.41x - 1303.8
+
+                             1000.0                                                     0.020 Safety
+                              800.0                                                     Wire
+
+                     Deg C
+                              600.0                                                     Linear (0.020
+                              400.0                                                     Safety Wire)
+                              200.0                                                     Poly. (0.020
+                                0.0                                                     Safety Wire)
+                                      0           2           4             6
+                                                      Ohms
+             Temp Deg Temp Deg            Resistance   Net                            Polynomial
+Test Point    Celsius   Kelvin Resistance of Holder Resisance      R5/R1               Res Calc Ohms/cm                      Fixture
+         1        47.0    320.0   24.480        0.195  24.285                              3.083   0.282             m           b
+         2         177      450   24.560        0.242  24.318                              3.508   0.282              3.6205E-04 1.7777E-01
+         3         458      731     24.78       0.344  24.436                              4.250   0.284
+         4         627      900     25.14       0.405  24.735                              4.586   0.287                              Wire Polynomial
+         5         802     1075     25.39       0.468  24.922         1.026                4.843   0.289 a4          a3          a2           a1        a0
+                                                                                                          -1.3840E-13 2.4865E-10 -1.6250E-06 3.6168E-03 2.9170E+00
+
+                                                                                                Fixture 1
+                 y = 0.0009x + 24.179         y = -1.6573E-11x4 + 2.6153E-08x3 -
+                             0.020 Nichrome Wire
+                                          1.1558E-05x2 + 1.8722E-03x + 2.4220E+01
+                                    Test 13a
+
+                25.0
+                20.0
+                                                                0.020 Safety Wire
+         Ohms
+                15.0
+                10.0                                            Linear (0.020
+                 5.0                                            Safety Wire)
+                                                                Poly. (0.020 Safety
+                 0.0                                            Wire)
+                       0     200        400     600   800
+                                        Deg C
+             Temp Deg Temp Deg            Resistance   Net                            Polynomial
+Test Point    Celsius   Kelvin Resistance of Holder Resisance       R5/R1              Res Calc Ohms/cm                      Fixture
+         1        47.0    320.0     4.924       0.195    4.729                             3.083   0.054             m           b
+         2         177      450     5.060       0.242    4.818                             3.508   0.055              3.6205E-04 1.7777E-01
+         3         458      731      5.43       0.344    5.086                             4.250   0.058
+         4         627      900      5.47       0.405    5.065                             4.586   0.058                              Wire Polynomial
+         5         802     1075      5.47       0.468    5.002         1.058               4.843   0.057 a4          a3          a2           a1        a0
+                                                                                                          -1.3840E-13 2.4865E-10 -1.6250E-06 3.6168E-03 2.9170E+00
+
+                                                                                                Fixture 2
+                             0.010 Kanthal Wire
+             y = 0.0004x + 4.7626                       4             3
+                                  Test 13b
+                                         y = 1.0612E-11x - 1.9165E-08x + 9.9697E-
+                                              06x2 - 8.2665E-04x + 4.7480E+00
+                16.0
+                14.0
+                12.0
+                10.0                                            0.020 Safety Wire
+         Ohms    8.0
+                 6.0                                            Linear (0.020
+                 4.0                                            Safety Wire)
+                 2.0                                            Poly. (0.020 Safety
+                 0.0                                            Wire)
+                       0    200     400      600     800
+                                     Deg C
+                       Temp Deg Temp Deg            Resistance   Net                                                Polynomial
+Test Point              Celsius   Kelvin Resistance of Holder Resisance             R/R1    alpha         alpha 20   Res Calc Ohms/cm                     Fixture
+         1                  22.7    295.7     2.090       0.186    1.904              1.000                              1.904   0.022            m           b
+         2                   199      472     3.310       0.250    3.060              1.607    0.00344     0.003477      3.060   0.035             3.6205E-04 1.7777E-01
+         3                   519      792      5.35       0.366    4.984              2.618    0.00326     0.003289      4.984   0.057
+         4                   628      901      6.00       0.405    5.595              2.938    0.00320     0.003230      5.595   0.064                            Wire Polynomial
+         5                   801     1074      7.11       0.468    6.642              3.489    0.00320     0.003225      6.642   0.076 a4         a3          a2          a1        a0
+                              20      293                 0.185    1.886                  1                              1.887   0.022 5.1818E-12 -6.8636E-09 1.7624E-06 6.4275E-03 1.7573E+00
+
+                                                                                                                             Fixture 2
+                                      0.010 Platinum Wire
+                                                   y = 5.1818E-12x4 - 6.8636E-09x3 + 1.7624E-
+                                            Test 14a
+                        y = 0.0061x + 1.8097                  2
+                                                         06x + 6.4275E-03x + 1.7573E+00
+                        16.0
+                        14.0
+                        12.0
+                        10.0                                                       0.010 Platinum
+                Ohms     8.0
+                         6.0                                                       Linear (0.010
+                         4.0                                                                             0.00320378
+                                                                                   Platinum)
+                         2.0                                                       Poly. (0.010
+                         0.0                                                       Platinum)
+                                0     200      400      600       800
+                                                Deg C
+
+
+
+
+                                             0.010 Platinum Wire
+                                                                        y = 165.09x - 298.6
+                       1000.0
+
+
+
+
+       Temperature C
+                        800.0
+                        600.0                                                    Inverse
+                        400.0                                                    Linear (Inverse)
+                        200.0
+                          0.0
+                                0.0    2.0       4.0      6.0       8.0
+                                                Ohms
+             Temp Deg Temp Deg            Resistance   Net                                                  Polynomial
+Test Point    Celsius   Kelvin Resistance of Holder Resisance                   R/R1    alpha     alpha 20   Res Calc Ohms/cm                      Fixture
+         1        22.7    295.7     3.620       0.186    3.434                    1.000                          3.434   0.040             m           b
+         2         199      472     4.580       0.250    4.330                    1.261 0.00148    0.001486      4.330   0.050              3.6205E-04 1.7777E-01
+         3         519      792      6.26       0.366    5.894                    1.716 0.00144    0.001449      5.894   0.068
+         4         628      901      6.80       0.405    6.395                    1.862 0.00142    0.001430      6.395   0.074                             Wire Polynomial
+         5         801     1074      7.63       0.468    7.162                    2.086 0.00139    0.001400      7.162   0.083 a4          a3          a2          a1        a0
+                    20      293                 0.185    3.420                    0.996                          3.420          9.1678E-13 -1.7442E-09 5.0514E-07 5.0409E-03 3.3193E+00
+
+                                                                                                                     Fixture 1
+                             0.010 Platinum/Rhodium Wire
+                                        Test 14b              4             3
+                                               y = 9.1678E-13x - 1.7442E-09x + 5.0514E-
+       y = 0.0048x + 3.3571
+                                                              2
+                                                         07x + 5.0409E-03x + 3.3193E+00
+                 16.0
+                 14.0
+                 12.0
+                 10.0                                                       0.010 PtRh
+         Ohms     8.0
+                  6.0                                                       Linear (0.010
+                  4.0                                                       PtRh)
+                  2.0                                                       Poly. (0.010 PtRh)
+                  0.0
+                        0         200       400         600       800
+                                             Deg C
+
+
+
+
+                            0.010 Platinum/Rhodium Wire
+                                       Test 14b
+                            y = 207.9x - 697.7
+                 1000.0
+                  800.0
+                                                                            0.010 PtRh
+         Deg C
+                  600.0
+                  400.0                                                     Linear (0.010
+                  200.0                                                     PtRh)
+                                                                            Poly. (0.010 PtRh)
+                    0.0
+                            0           2         4           6         8
+                                                 Ohms
+                        Temp Deg Temp Deg            Resistance   Net                                                  Polynomial
+Test Point               Celsius   Kelvin Resistance of Holder Resisance              R/R1    alpha        alpha 20     Res Calc Ohms/cm                    Fixture
+         1                   24.3    297.3     2.380       0.187    2.193               1.000                               2.193   0.025           m           b
+         2                    195      468     3.380       0.248    3.132               1.428    0.00251      0.002533      3.132   0.036            3.6205E-04 1.7777E-01
+         3                    441      714      4.72       0.337    4.383               1.998    0.00240      0.002420      4.383   0.051
+         4                    625      898      5.85       0.404    5.446               2.483    0.00247      0.002495      5.447   0.063                            Wire Polynomial
+         5                    801     1074      7.25       0.468    6.782               3.092    0.00269      0.002725      6.783   0.079 a4        a3          a2           a1        a0
+                               20      293                 0.185    2.170               0.989                               2.168   0.025 1.6970E-12 2.1485E-09 -2.9729E-06 6.0416E-03 2.0484E+00
+
+                                                                                                                                     Fixture 1
+                                     0.010 Tungsten 5% Rhenium
+                       y = 0.0058x + 1.9774   Test 15a
+                                                     y = 1.6970E-12x4 + 2.1485E-09x3 - 2.9729E-
+                                                             06x2 + 6.0406E-03x + 2.0484E+00
+                        16.0
+                        14.0
+                        12.0
+                        10.0                                                           0.010 W5Rh
+
+         Ohms            8.0
+                                                                                       Linear (0.010
+                         6.0
+                         4.0                                                           W5Rh)
+                         2.0                                                           Poly. (0.010
+                         0.0                                                           W5Rh)
+                                0       200      400       600         800
+                                                  Deg C
+
+
+
+                                                       0.010 W5Rh                  y = 172.13x - 337.89                      0.010 Tungsten 5% Rhenium
+                                                                                                                                     Comparison
+                       900.0
+                       800.0
+                                                                                                                  16.0                                       8.000
+                       700.0
+
+
+
+
+       Temperature C
+                                                                                                                  14.0                                       7.000
+                       600.0                                                                                                                                         0.010 W5Rh
+                                                                                      Inverse
+                                                                                                                  12.0                                       6.000   #1
+                       500.0
+                                                                                                                  10.0                                       5.000
+                                                                                                           Ohms
+                       400.0                                                          Linear (Inverse)
+                       300.0                                                                                       8.0                                       4.000   0.010 W5Rh
+                       200.0                                                                                       6.0                                       3.000   #2
+                       100.0                                                                                       4.0                                       2.000
+                         0.0                                                                                       2.0                                       1.000
+                               0.0       2.0        4.0          6.0         8.0                                   0.0                                       0.000
+                                                   Ohms                                                                  0     200    400        600   800
+                                                                                                                                       Deg C
+                       Temp Deg Temp Deg            Resistance   Net                                                        Polynomial
+Test Point              Celsius   Kelvin Resistance of Holder Resisance                      R/R1    alpha        alpha 20   Res Calc Ohms/cm                     Fixture
+         1                  24.3    297.3     5.150       0.187    4.963                       1.000                             4.963   0.057           m             b
+         2                   195      468     6.190       0.248    5.942                       1.197    0.00115    0.001160      5.942   0.068              3.6205E-04 1.7777E-01
+         3                   441      714      7.59       0.337    7.253                       1.461    0.00111    0.001112      7.253   0.083
+         4                   625      898      8.72       0.404    8.316                       1.675    0.00112    0.001130      8.316   0.095                            Wire Polynomial
+         5                   801     1074     11.28       0.468  10.812                        2.178    0.00152    0.001527     10.812   0.123 a4        a3            a2          a1       a0
+                              20      293                 0.185    4.939                           1                             4.945   0.056 4.3064E-11 -5.2003E-08 1.8967E-05 3.4609E-03 4.8689E+00
+
+                                                                                                                                           Fixture 2
+                                    0.010 Tungsten 26% Rhenium
+                                              Test 15by = 4.3064E-11x4 - 5.2003E-08x3 + 1.8967E-
+                          y = 0.007x + 4.5213                          2
+                                                                    05x + 3.4609E-03x + 4.8689E+00
+                        15.0
+
+                        10.0                                                                  0.010 W26Rh
+                 Ohms
+                         5.0                                                                  Linear (0.010
+                                                                                              W26Rh)
+                                                                                              Poly. (0.010
+                         0.0
+                                                                                              W26Rh)
+                                0        200         400      600            800
+                                                     Deg C
+
+
+
+
+                                         0.010 Tungsten 26% Rhenium                                                                        0.010 Tungsten 26% Rhenium
+                                                                           y = 135.16x - 590.68                                                    Comparison
+                       1000.0
+
+
+
+
+       Temperature C
+                        800.0                                                                                             16.0
+                                                                                                                          14.0
+                        600.0                                                                                                                                           0.010 W26Rh #1
+                                                                                          Inverse                         12.0
+                                                                                                                          10.0
+                                                                                                                   Ohms
+                        400.0                                                             Linear (Inverse)
+                                                                                                                           8.0
+                        200.0                                                                                              6.0                                          0.010W26Rh #2
+                                                                                                                           4.0
+                          0.0
+                                                                                                                           2.0
+                                0.0            5.0           10.0              15.0                                        0.0
+                                                     Ohms                                                                        0   200        400      600   800
+                                                                                                                                                 Deg C
+                       Temp Deg Temp Deg            Resistance   Net                                            Polynomial
+Test Point              Celsius   Kelvin Resistance of Holder Resisance          R/R1    alpha        alpha 20   Res Calc Ohms/cm                     Fixture
+         1                  24.8    297.8      4.02       0.187    3.833           1.000                             3.833   0.045            m           b
+         2                   195      468      4.28       0.248    4.032           1.052    0.00030    0.000305      4.032   0.047             3.6205E-04 1.7777E-01
+         3                   454      727      5.86       0.342    5.518           1.439    0.00102    0.001029      5.518   0.064
+         4                   628      901      7.05       0.405    6.645           1.733    0.00122    0.001223      6.645   0.077                            Wire Polynomial
+         5                   806     1079         8       0.470    7.530           1.964    0.00123    0.001242      7.530   0.087 a4         a3          a2          a1         a0
+                                                                                                                     3.897   0.000 6.4755E-12 -2.3264E-08 2.4067E-05 -3.1680E-03 3.8974E+00
+
+                                                                                                                         Fixture 1
+                                 0.010 Tungsten 5% Rhenium
+                        y = 0.005x + 3.3928 Test 16a              4             3
+                                                   y = 6.4755E-12x - 2.3264E-08x + 2.4067E-
+                                                            2
+                                                       05x - 3.1680E-03x + 3.8974E+00
+                        16.0
+                        14.0
+                        12.0
+                        10.0                                                     0.010 W5Rh
+                 Ohms    8.0
+                         6.0                                                     Linear (0.010
+                         4.0                                                     W5Rh)
+                         2.0                                                     Poly. (0.010
+                         0.0
+                                                                                 W5Rh)
+                                0     200    400      600       800
+                                              Deg C
+
+
+
+
+                                               0.010 W5Rh
+                                                                        y = 194.02x - 647.83
+                       1000.0
+
+
+
+
+       Temperature C
+                        800.0
+                        600.0                                                Inverse
+                        400.0                                                Linear (Inverse)
+                        200.0
+                          0.0
+                                0.0    2.0     4.0      6.0       8.0
+                                              Ohms
+                       Temp Deg Temp Deg            Resistance   Net                                               Polynomial
+Test Point              Celsius   Kelvin Resistance of Holder Resisance             R/R1    alpha        alpha 20   Res Calc Ohms/cm                     Fixture
+         1                  24.8    297.8     5.150       0.187    9.290              1.000                             9.290   0.106           m             b
+         2                   195      468     6.190       0.248  11.100               1.195    0.00114    0.001151     11.100   0.127              3.6205E-04 1.7777E-01
+         3                   454      727      7.59       0.342  13.690               1.474    0.00110    0.001109     13.690   0.156
+         4                   628      901      8.72       0.405  15.170               1.633    0.00105    0.001055     15.171   0.173                            Wire Polynomial
+         5                   806     1079     11.28       0.470  20.910               2.251    0.00160    0.001614     20.911   0.239 a4        a3            a2          a1       a0
+                                                                                          0                             9.237   0.000 1.5272E-10 -2.0208E-07 8.1327E-05 2.4753E-04 9.2369E+00
+
+                                                                                                                           Fixture 2
+                         0.010 Tungsten 26% Rhenium
+             y = 0.0135x + 8.3295                         4             3
+                                   Test 16by = 1.5272E-10x - 2.0208E-07x + 8.1327E-
+                                                                 2
+                                                             05x + 2.4753E-04x + 9.2369E+00
+
+                        15.0
+
+                        10.0                                                        0.010 W26Rh
+                 Ohms
+                         5.0                                                        Linear (0.010
+                                                                                    W26Rh)
+                                                                                    Poly. (0.010
+                         0.0                                                        W26Rh)
+                                0     200     400          600       800
+                                               Deg C
+
+
+
+
+                                            0.010 Platinum Wire
+                                                                      y = 67.839x - 530.36
+                       1000.0
+
+
+
+
+       Temperature C
+                        800.0
+                        600.0                                                   Inverse
+                        400.0                                                   Linear (Inverse)
+                        200.0
+                          0.0
+                                0.0   5.0   10.0    15.0     20.0     25.0
+                                              Ohms
+                 Temp Deg       Temp Deg
+ Test Point       Celsius         Kelvin    Resistance Delta T    Delta R    Alpha                            Calc Res
+           1               21           294       0.178         0      0.000                                     0.18537
+           2              275           548       0.267       254      0.089 0.0019685 0.0003504                 0.27733
+           3              423           696       0.353       402      0.175 0.0024456 0.0004353                 0.33092
+           4              598           871       0.406       577      0.228 0.0022199 0.0003951                 0.39428
+           5              796         1069        0.460       775      0.282 0.0020442 0.0003639                 0.46596
+           6              849         1122        0.475       828      0.297 0.0020151 0.0003587                 0.48515
+                                                                             0.0021387
+
+
+m          b
+3.6205E-04         1.7777E-01
+
+
+Temp           Res w/Bar      Res w/o bar
+       -273           0.07893
+       -240           0.09088
+          0           0.17777
+        100           0.21398
+        200           0.25018
+        300           0.28639                                                                    Test Fixture  with Copper Bar
+                                                                                                        y = 3.6205E-04x + 1.7777E-
+        400           0.32259
+        500           0.35880                                                                                         01
+                                                                                                                 2
+        600           0.39500                                                      0.600                        R = 9.8621E-01
+        700           0.43121                                                      0.500
+
+
+
+                                                                      Resistance
+        800           0.46741
+                                                                                   0.400
+        900           0.50362                                                                                                        Series1
+         21           0.18537     0.18536                                          0.300                                             Linear (Series1)
+        275           0.27733     0.27731                                          0.200
+        423           0.33092     0.33089
+                                                                                   0.100
+        598           0.39428     0.39424
+        796           0.46596     0.46592                                          0.000
+        849           0.48515     0.48510                                                  0       500            1000
+                                                                                               Temp Celsius
+Alpha for copper at 20 C =         0.00393
+Alpha for copper at 21.4 C=        0.00391
+Calcualted Res of bar at 20C      1.08E-05
+
+Temp           Res of Bar
+       21.4        0.00001075
+       275         0.00002141
+       423         0.00002762
+       598         0.00003498
+       796         0.00004330
+       849         0.00004552
+Appendix B
+Photographs
+  Photo 1
+Test fixture.
+        Photo 2
+Test fixture with wire.
+                                     Photo 3
+                                  Overall Test Setup
+
+From left to right:
+       Resistance measurement equipment
+       Oven
+       Control Unit and sample temperature indicator
+      Photo 4
+Test Fixture in Oven
+Appendix C
+Oven Cycle
+                                               Oven Cycle
+
+                      800
+                      700
+
+
+
+
+Temperature Celsius
+                      600
+                      500
+                      400                                                Oven Cycle
+                      300
+                      200
+                      100
+                       0
+                            0   25   50   75    100    125   150   175
+                                          Minutes
+

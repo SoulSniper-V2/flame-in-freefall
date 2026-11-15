@@ -1,0 +1,53 @@
+{
+ "generated": "2026-11-15T00:07:22.695285Z",
+ "habitats": {
+  "spacecraft": {
+   "label": "Spacecraft cabin",
+   "o2": 0.21,
+   "p_atm": 1.0,
+   "g": 0.0,
+   "note": "Nominal 21% O2 / 14.7 psia cabin (exploration vehicles may adopt 8.2 psia / 34%)."
+  },
+  "iss": {
+   "label": "ISS",
+   "o2": 0.21,
+   "p_atm": 1.0,
+   "g": 0.0,
+   "note": "21% O2 at 14.7 psia, microgravity."
+  },
+  "lunar": {
+   "label": "Lunar base",
+   "o2": 0.3,
+   "p_atm": 0.6940664126292868,
+   "g": 0.166,
+   "note": "~30% O2 at 10.2 psia (challenge brief), 1/6 g."
+  },
+  "mars": {
+   "label": "Mars base",
+   "o2": 0.3,
+   "p_atm": 0.6940664126292868,
+   "g": 0.38,
+   "note": "Assumed same exploration atmosphere as lunar base (no NASA Mars habitat standard in sources), 0.38 g."
+  },
+  "rover": {
+   "label": "Pressurized rover",
+   "o2": 0.34,
+   "p_atm": 0.5579749591725639,
+   "g": 0.166,
+   "note": "8.2 psia / 34% O2 exploration atmosphere named in ACME BRE objectives; within the brief's '30%+ at <=10.2 psi'."
+  }
+ },
+ "categoryWeights": {
+  "prevention": 0.35,
+  "suppression": 0.25,
+  "detection": 0.2,
+  "modeling": 0.2
+ },
+ "excluded": {
+  "PSI-108": "STDCE-1 - thermocapillary fluid physics (matched 'combustion' only in text)",
+  "PSI-181": "Solder microstructure (materials science; matched 'combustion' only in text)"
+ },
+ "count": 24,
+ "testPoints": 1186,
+ "tableRows": 2009
+}

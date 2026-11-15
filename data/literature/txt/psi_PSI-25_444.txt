@@ -1,0 +1,307 @@
+ iss040e017991          18:39:37    iss040e017992          18:39:37    iss040e017993          18:39:37    iss040e017994          18:39:38    iss040e017995          18:39:38    iss040e017996          18:39:39    iss040e017997          18:39:39    iss040e017998          18:39:40    iss040e017999          18:39:40
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/50 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018000          18:39:46    iss040e018001          18:39:46    iss040e018002          18:39:46    iss040e018003          18:39:47    iss040e018004          18:39:47    iss040e018005          18:39:47    iss040e018006          18:39:48    iss040e018007          18:39:48    iss040e018008          18:39:49
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/25 sec at f / 2.0      -5 EV    1/400 sec at f / 2.0      -9 EV    1/250 sec at f / 2.0      -8 EV    1/100 sec at f / 2.0      -7 EV    1/50 sec at f / 2.0       -6 EV    1/13 sec at f / 2.0       -4 EV     1/6 sec at f / 2.0      -3 EV      1/4 sec at f / 2.0      -2 EV      0.6 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018009          18:39:54    iss040e018010          18:39:54    iss040e018011          18:39:55    iss040e018012          18:39:55    iss040e018013          18:39:55    iss040e018014          18:39:56    iss040e018015          18:39:56    iss040e018016          18:39:57    iss040e018017          18:39:58
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/25 sec at f / 2.0      -5 EV    1/400 sec at f / 2.0      -9 EV    1/320 sec at f / 2.0      -8 EV    1/100 sec at f / 2.0      -7 EV    1/50 sec at f / 2.0       -6 EV    1/15 sec at f / 2.0       -4 EV     1/8 sec at f / 2.0      -3 EV      1/3 sec at f / 2.0      -2 EV      0.6 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018018          18:40:01    iss040e018019          18:40:01    iss040e018020          18:40:02    iss040e018021          18:40:02    iss040e018022          18:40:03    iss040e018023          18:40:03    iss040e018024          18:40:03    iss040e018025          18:40:04    iss040e018026          18:40:05
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/30 sec at f / 2.0      -5 EV    1/500 sec at f / 2.0      -9 EV    1/250 sec at f / 2.0      -8 EV    1/100 sec at f / 2.0      -7 EV    1/50 sec at f / 2.0       -6 EV    1/40 sec at f / 2.0       -4 EV     1/6 sec at f / 2.0      -3 EV      1/4 sec at f / 2.0      -2 EV      0.6 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                           1
+ iss040e018027          18:40:08     iss040e018028          18:40:08     iss040e018029          18:40:09      iss040e018030          18:40:09      iss040e018031          18:40:10    iss040e018032          18:40:10    iss040e018033          18:40:10    iss040e018034          18:40:11    iss040e018035          18:40:11
+ GMT 176              06-25-2014     GMT 176              06-25-2014     GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/40 sec at f / 2.0      -5 EV    1/1250 sec at f / 2.0       -9 EV    1/400 sec at f / 2.0      -8 EV      1/160 sec at f / 2.0      -7 EV      1/160 sec at f / 2.0      -6 EV    1/50 sec at f / 2.0       -4 EV    1/13 sec at f / 2.0       -3 EV    1/15 sec at f / 2.0       -2 EV     1/3 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)        (Date/Time set to BASS Hdwr)        (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018036          18:40:14     iss040e018037          18:40:14     iss040e018038          18:40:15      iss040e018039          18:40:15      iss040e018040          18:40:15    iss040e018041          18:40:16    iss040e018042          18:40:16    iss040e018043          18:40:17    iss040e018044          18:40:17
+ GMT 176              06-25-2014     GMT 176              06-25-2014     GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+ 1/160 sec at f / 2.0      -5 EV    1/1600 sec at f / 2.0       -9 EV    1/800 sec at f / 2.0      -8 EV      1/640 sec at f / 2.0      -7 EV      1/320 sec at f / 2.0      -6 EV    1/40 sec at f / 2.0       -4 EV    1/40 sec at f / 2.0       -3 EV    1/25 sec at f / 2.0       -2 EV    1/10 sec at f / 2.0       -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)        (Date/Time set to BASS Hdwr)        (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018045          18:40:19     iss040e018046          18:40:20      iss040e018047          18:40:20      iss040e018048          18:40:20     iss040e018049          18:40:21    iss040e018050          18:40:22    iss040e018051          18:40:23    iss040e018052          18:40:24    iss040e018053          18:40:25
+ GMT 176              06-25-2014     GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014     GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+ 1/250 sec at f / 2.0      -5 EV    1/2500 sec at f / 2.0       -9 EV    1/2000 sec at f / 2.0       -8 EV    1/1000 sec at f / 2.0       -7 EV    1/640 sec at f / 2.0      -6 EV    1/160 sec at f / 2.0      -4 EV    1/80 sec at f / 2.0       -3 EV    1/20 sec at f / 2.0       -2 EV    1/10 sec at f / 2.0       -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)        (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)        (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018054          18:40:27    iss040e018055          18:40:28      iss040e018056          18:40:28      iss040e018057          18:40:29      iss040e018058          18:40:30    iss040e018059          18:40:31    iss040e018060          18:40:32    iss040e018061          18:40:33    iss040e018062          18:40:34
+ GMT 176              06-25-2014    GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+ 1/160 sec at f / 2.0      -5 EV    1/640 sec at f / 2.0      -9 EV      1/500 sec at f / 2.0      -8 EV      1/125 sec at f / 2.0      -7 EV      1/80 sec at f / 2.0       -6 EV    1/160 sec at f / 2.0      -4 EV    1/13 sec at f / 2.0       -3 EV     1/5 sec at f / 2.0      -2 EV      1/4 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                 2
+ iss040e018063          18:40:37    iss040e018064          18:40:37    iss040e018065          18:40:38      iss040e018066          18:40:39      iss040e018067          18:40:39    iss040e018068          18:40:41    iss040e018069          18:40:42    iss040e018070          18:40:42    iss040e018071          18:40:43
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+ 1/125 sec at f / 2.0      -5 EV    1/500 sec at f / 2.0      -9 EV    1/200 sec at f / 2.0      -8 EV      1/160 sec at f / 2.0      -7 EV      1/50 sec at f / 2.0       -6 EV    1/15 sec at f / 2.0       -4 EV     1/8 sec at f / 2.0      -3 EV     1/13 sec at f / 2.0       -2 EV     1/3 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018072          18:40:47    iss040e018073          18:40:47    iss040e018074          18:40:48       iss040e018075          18:40:48     iss040e018076          18:40:49    iss040e018077          18:40:50    iss040e018078          18:40:51    iss040e018079          18:40:51    iss040e018080          18:40:52
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014       GMT 176              06-25-2014     GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/40 sec at f / 2.0      -5 EV    1/640 sec at f / 2.0      -9 EV    1/320 sec at f / 2.0      -8 EV      1/1000 sec at f / 2.0       -7 EV    1/160 sec at f / 2.0      -6 EV    1/60 sec at f / 2.0       -4 EV    1/50 sec at f / 2.0       -3 EV     1/6 sec at f / 2.0      -2 EV      1/3 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)          (Date/Time set to BASS Hdwr)        (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018081          18:40:59    iss040e018082          18:40:59     iss040e018083          18:41:00     iss040e018084          18:41:00      iss040e018085          18:41:00    iss040e018086          18:41:01    iss040e018087          18:41:01    iss040e018088          18:41:02    iss040e018089          18:41:03
+ GMT 176              06-25-2014    GMT 176              06-25-2014     GMT 176              06-25-2014     GMT 176              06-25-2014      GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/60 sec at f / 2.0      -5 EV    1/500 sec at f / 2.0      -9 EV    1/2000 sec at f / 2.0       -8 EV    1/100 sec at f / 2.0      -7 EV      1/50 sec at f / 2.0       -6 EV    1/13 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      1/4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)        (Date/Time set to BASS Hdwr)        (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018090          18:41:08    iss040e018091          18:41:08    iss040e018092          18:41:09      iss040e018093          18:41:09      iss040e018094          18:41:09    iss040e018095          18:41:10    iss040e018096          18:41:10    iss040e018097          18:41:11    iss040e018098          18:41:12
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/200 sec at f / 2.0      -8 EV      1/80 sec at f / 2.0       -7 EV      1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                               3
+ iss040e018099          18:41:15    iss040e018100          18:41:16    iss040e018101          18:41:16    iss040e018102          18:41:17    iss040e018103          18:41:17    iss040e018104          18:41:17    iss040e018105          18:41:18    iss040e018106          18:41:18    iss040e018107          18:41:19
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018108          18:41:23    iss040e018109          18:41:23    iss040e018110          18:41:24    iss040e018111          18:41:24    iss040e018112          18:41:24    iss040e018113          18:41:25    iss040e018114          18:41:26    iss040e018115          18:41:27    iss040e018116          18:41:27
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/100 sec at f / 2.0      -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018117          18:41:31    iss040e018118          18:41:31    iss040e018119          18:41:32    iss040e018120          18:41:32    iss040e018121          18:41:32    iss040e018122          18:41:34    iss040e018123          18:41:35    iss040e018124          18:41:35    iss040e018125          18:41:36
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018126          18:41:40    iss040e018127          18:41:41    iss040e018128          18:41:41    iss040e018129          18:41:42    iss040e018130          18:41:42    iss040e018131          18:41:43    iss040e018132          18:41:44    iss040e018133          18:41:44    iss040e018134          18:41:45
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/50 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/6 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.6 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                           4
+ iss040e018135          18:41:49    iss040e018136          18:41:49    iss040e018137          18:41:50    iss040e018138          18:41:50    iss040e018139          18:41:51    iss040e018140          18:41:51    iss040e018141          18:41:52    iss040e018142          18:41:53    iss040e018143          18:41:54
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/100 sec at f / 2.0      -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      1/3 sec at f / 2.0      -2 EV      0.6 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018144          18:41:57    iss040e018145          18:41:58    iss040e018146          18:41:58    iss040e018147          18:41:59    iss040e018148          18:41:59    iss040e018149          18:42:00    iss040e018150          18:42:01    iss040e018151          18:42:02    iss040e018152          18:42:03
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/25 sec at f / 2.0      -5 EV    1/400 sec at f / 2.0      -9 EV    1/200 sec at f / 2.0      -8 EV    1/100 sec at f / 2.0      -7 EV    1/50 sec at f / 2.0       -6 EV    1/15 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018153          18:42:08    iss040e018154          18:42:08    iss040e018155          18:42:09    iss040e018156          18:42:09    iss040e018157          18:42:10    iss040e018158          18:42:10    iss040e018159          18:42:10    iss040e018160          18:42:11    iss040e018161          18:42:12
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018162          18:42:16    iss040e018163          18:42:17    iss040e018164          18:42:17    iss040e018165          18:42:18    iss040e018166          18:42:18    iss040e018167          18:42:18    iss040e018168          18:42:19    iss040e018169          18:42:19    iss040e018170          18:42:20
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                           5
+ iss040e018171          18:42:23    iss040e018172          18:42:23    iss040e018173          18:42:24    iss040e018174          18:42:24    iss040e018175          18:42:25    iss040e018176          18:42:26    iss040e018177          18:42:27    iss040e018178          18:42:27    iss040e018179          18:42:28
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018180          18:42:30    iss040e018181          18:42:31    iss040e018182          18:42:32    iss040e018183          18:42:32    iss040e018184          18:42:33    iss040e018185          18:42:34    iss040e018186          18:42:35    iss040e018187          18:42:36    iss040e018188          18:42:37
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018189          18:42:41    iss040e018190          18:42:41    iss040e018191          18:42:42    iss040e018192          18:42:42    iss040e018193          18:42:43    iss040e018194          18:42:43    iss040e018195          18:42:44    iss040e018196          18:42:45    iss040e018197          18:42:45
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018198          18:42:50    iss040e018199          18:42:50    iss040e018200          18:42:51    iss040e018201          18:42:51    iss040e018202          18:42:52    iss040e018203          18:42:52    iss040e018204          18:42:53    iss040e018205          18:42:53    iss040e018206          18:42:54
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                           6
+ iss040e018207          18:42:58    iss040e018208          18:42:59    iss040e018209          18:42:59    iss040e018210          18:42:59    iss040e018211          18:43:00    iss040e018212          18:43:00    iss040e018213          18:43:01    iss040e018214          18:43:02    iss040e018215          18:43:03
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018216          18:43:07    iss040e018217          18:43:08    iss040e018218          18:43:08    iss040e018219          18:43:08    iss040e018220          18:43:09    iss040e018221          18:43:09    iss040e018222          18:43:10    iss040e018223          18:43:10    iss040e018224          18:43:11
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018225          18:43:15    iss040e018226          18:43:15    iss040e018227          18:43:16    iss040e018228          18:43:16    iss040e018229          18:43:16    iss040e018230          18:43:17    iss040e018231          18:43:18    iss040e018232          18:43:19    iss040e018233          18:43:20
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018234          18:43:23    iss040e018235          18:43:23    iss040e018236          18:43:24    iss040e018237          18:43:24    iss040e018238          18:43:25    iss040e018239          18:43:26    iss040e018240          18:43:27    iss040e018241          18:43:27    iss040e018242          18:43:28
+ GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014    GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV    1/320 sec at f / 2.0      -9 EV    1/160 sec at f / 2.0      -8 EV    1/80 sec at f / 2.0       -7 EV    1/40 sec at f / 2.0       -6 EV    1/10 sec at f / 2.0       -4 EV     1/5 sec at f / 2.0      -3 EV      0.4 sec at f / 2.0      -2 EV      0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600   Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)       (Date/Time set to BASS Hdwr)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                           7
+ iss040e018243          18:43:38      iss040e018244          18:43:38      iss040e018245          18:43:39      iss040e018246          18:43:39      iss040e018247          18:43:40      iss040e018248          18:43:40      iss040e018249          18:43:40      iss040e018250          18:43:41      iss040e018251          18:43:42
+ GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014
+  1/25 sec at f / 2.0      -5 EV      1/320 sec at f / 2.0      -9 EV      1/160 sec at f / 2.0      -8 EV      1/80 sec at f / 2.0       -7 EV      1/40 sec at f / 2.0       -6 EV      1/10 sec at f / 2.0       -4 EV       1/5 sec at f / 2.0      -3 EV        0.4 sec at f / 2.0      -2 EV        0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)
+
+
+
+
+ iss040e018252          18:43:49      iss040e018253          18:43:50      iss040e018254          18:43:50      iss040e018255          18:43:51      iss040e018256          18:43:51      iss040e018257          18:43:52      iss040e018258          18:43:52      iss040e018259          18:43:53      iss040e018260          18:43:54
+ GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014
+  1/20 sec at f / 2.0      -5 EV      1/320 sec at f / 2.0      -9 EV      1/160 sec at f / 2.0      -8 EV      1/80 sec at f / 2.0       -7 EV      1/40 sec at f / 2.0       -6 EV      1/10 sec at f / 2.0       -4 EV       1/5 sec at f / 2.0      -3 EV        0.4 sec at f / 2.0      -2 EV        0.8 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600
+ (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)
+
+
+
+
+  iss040e018261          18:45:42      iss040e018262          18:45:42      iss040e018263          18:45:42      iss040e018264          18:45:43      iss040e018265          18:45:43      iss040e018266          18:45:54      iss040e018267          18:45:55      iss040e018268          18:45:55      iss040e018269          18:45:56
+  GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014
+ 1/8000 sec at f / 2.0       -5 EV    1/8000 sec at f / 2.0       -9 EV    1/8000 sec at f / 2.0       -8 EV    1/8000 sec at f / 2.0       -7 EV    1/8000 sec at f / 2.0       -6 EV    1/8000 sec at f / 2.0       -4 EV    1/8000 sec at f / 2.0       -3 EV    1/8000 sec at f / 2.0       -2 EV    1/4000 sec at f / 2.0       -1 EV
+Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600
+  (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)
+
+
+
+
+  iss040e018270          18:46:20      iss040e018271          18:46:20      iss040e018272          18:46:21      iss040e018273          18:46:21      iss040e018274          18:46:22      iss040e018275          18:46:22      iss040e018276          18:46:22     iss040e018277          18:46:23      iss040e018278          18:46:23
+  GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014     GMT 176              06-25-2014      GMT 176              06-25-2014
+ 1/5000 sec at f / 2.0       -5 EV    1/8000 sec at f / 2.0       -9 EV    1/8000 sec at f / 2.0       -8 EV    1/8000 sec at f / 2.0       -7 EV    1/8000 sec at f / 2.0       -6 EV    1/2500 sec at f / 2.0       -4 EV    1/1250 sec at f / 2.0       -3 EV    1/640 sec at f / 2.0      -2 EV      1/320 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600
+  (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)        (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                             8
+  iss040e018279          18:46:54      iss040e018280          18:46:54      iss040e018281          18:46:54      iss040e018282          18:46:55      iss040e018283          18:46:55      iss040e018284          18:46:56      iss040e018285          18:46:56      iss040e018286          18:46:57     iss040e018287          18:46:59
+  GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014      GMT 176              06-25-2014     GMT 176              06-25-2014
+ 1/8000 sec at f / 2.0       -5 EV    1/8000 sec at f / 2.0       -9 EV    1/8000 sec at f / 2.0       -8 EV    1/8000 sec at f / 2.0       -7 EV    1/8000 sec at f / 2.0       -6 EV    1/3200 sec at f / 2.0       -4 EV    1/2000 sec at f / 2.0       -3 EV    1/1250 sec at f / 2.0       -2 EV    1/500 sec at f / 2.0      -1 EV
+Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600     Mode: Aperture priority ISO 1600
+  (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)         (Date/Time set to BASS Hdwr)        (Date/Time set to BASS Hdwr)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                           9
+

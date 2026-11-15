@@ -1,0 +1,440 @@
+        CFI-G Round 1, day 10, with 30% n-butane (C4H10)
+             Chamber filled to 0.5 atm with ~40% O2 (balance N2)
+   Extinction detection effectively turned off so tests were ended ‘manually’
+
+Test 21174A1 (test 1 of 16, hot flame 1 of 16) – sustained ignition, run as
+planned (with no changes to the parameters)
+
+
+
+
+                                         1
+Test 21174A1, continued
+
+
+
+
+                          2
+Test 21174A1, continued
+
+
+
+
+After test: 945 on lowest valve safety timer, 1525 psia in oxidizer bottle, 60 psia
+in fuel bottle
+
+
+
+
+                                         3
+Test 21174A2 (test 2 of 16, hot flame 2 of 16) – sustained ignition, run with
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.310
+
+
+
+
+                                        4
+Test 21174A2, continued
+
+
+
+
+                          5
+Test 21174A2, continued
+
+
+
+
+After test: 882 on lowest valve safety timer, 1527 psia in oxidizer bottle, 59 psia
+in fuel bottle
+
+
+
+
+                                         6
+Test 21174A3 (test 3 of 16, hot flame 3 of 16) – sustained ignition, run with
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.233
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                       7
+Test 21174A3, continued
+
+
+
+
+                          8
+Test 21174A3, continued
+
+
+
+
+After test: 799 on lowest valve safety timer, 1530 psia in oxidizer bottle, 56 psia
+in fuel bottle
+
+
+
+
+                                         9
+Test 21174A4 (test 4 of 16, hot flame 4 of 16) – sustained ignition, run with
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.155
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                       10
+Test 21174A4, continued
+
+
+
+
+                          11
+Test 21174A4, continued
+
+
+
+
+After test: 559 on lowest valve safety timer, 1530 psia in oxidizer bottle, 52 psia
+in fuel bottle
+
+
+
+
+                                         12
+Test 21174B1 (test 5 of 16, hot flame 5 of 16) – sustained ignition, run with
+fuelFlowIgnitionDeltaMs=0, fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.155
+dataCamera Zoom=45000, dataCamera Focus=10025
+
+
+
+
+                                       13
+Test 21174B1, continued
+
+
+
+
+                          14
+Test 21174B1, continued
+
+
+
+
+After test: 420 on lowest valve safety timer, 1530 psia in oxidizer bottle, 48 psia
+in fuel bottle
+
+
+
+
+                                         15
+           Chamber vented, resetting valve safety timers, and filled to
+                      2 atm with ~40% O2 (balance N2)
+
+Test 21174C1 (test 6 of 16, hot flame 6 of 16) – sustained ignition, run with
+pmt1Gain=4.5, pmt2Gain=pmt3Gain=5, fuelFlowIgnitionDeltaMs=500,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.499
+dataCamera Zoom=40000, dataCamera Focus=11525
+
+
+
+
+                                        16
+Test 21174C1, continued
+
+
+
+
+                          17
+Test 21174C1, continued
+
+
+
+
+After test: 941 on lowest valve safety timer, 275 psia in oxidizer bottle, 45 psia
+in fuel bottle
+
+
+
+
+                                         18
+Test 21174C2 (test 7 of 16, hot flame 7 of 16) – sustained ignition, run with
+pmt1Gain=5, pmt2Gain=pmt3Gain=5.5, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.310
+dataCamera Zoom=35000, dataCamera Focus=12700
+
+
+
+
+                                        19
+Test 21174C2, continued
+
+
+
+
+                          20
+Test 21174C2, continued
+
+
+
+
+After test: 881 on lowest valve safety timer, 275 psia in oxidizer bottle, 44 psia
+in fuel bottle
+
+
+
+
+                                         21
+Test 21174C3 (test 8 of 16, hot flame 8 of 16) – sustained ignition, run with
+pmt1Gain=5.5, pmt2Gain=pmt3Gain=6, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.233
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                        22
+Test 21174C3, continued
+
+
+
+
+                          23
+Test 21174C3, continued
+
+
+
+
+After test: 816 on lowest valve safety timer, 275 psia in oxidizer bottle, 42 psia
+in fuel bottle
+
+
+
+
+                                         24
+Test 21174C4 (test 9 of 16, hot flame 9 of 16) – sustained ignition, run with
+pmt1Gain=5.5, pmt2Gain=pmt3Gain=6, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.155
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                        25
+Test 21174C4, continued
+
+
+
+
+                          26
+Test 21174C4, continued
+
+
+
+
+After test: 696 on lowest valve safety timer, 276 psia in oxidizer bottle, 39 psia
+in fuel bottle
+
+
+
+
+                                         27
+Test 21174D1 (test 10 of 16, hot flame 10 of 16) – sustained ignition, run with
+pmt1Gain=5.5, pmt2Gain=6, pmt3Gain=5.5, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.155
+dataCamera Zoom=45000, dataCamera Focus=10025
+
+
+
+
+                                        28
+Test 21174D1, continued
+
+
+
+
+                          29
+Test 21174D1, continued
+
+
+
+
+After test: 583 on lowest valve safety timer, 275 psia in oxidizer bottle, 38 psia
+in fuel bottle
+
+
+
+
+                                         30
+Test 21174F1 (test 11 of 16, hot flame 11 of 16) – sustained ignition, run with
+pmt1Gain=5.5, pmt2Gain=6, pmt3Gain=6, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.233
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                        31
+Test 21174F1, continued
+
+
+
+
+                          32
+Test 21174F1, continued
+
+
+
+
+After test: 503 on lowest valve safety timer, 276 psia in oxidizer bottle, 36 psia
+in fuel bottle
+
+
+
+
+                                         33
+Test 21174C5 (test 12 of 16, hot flame 12 of 16) – sustained ignition, run with
+pmt1Gain=6, pmt2Gain=pmt3Gain=6.5, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.078
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                        34
+Test 21174C5, continued
+
+
+
+
+                          35
+Test 21174C5, continued
+
+
+
+
+After test: 453 on lowest valve safety timer, 276 psia in oxidizer bottle, 36 psia
+in fuel bottle
+
+
+
+
+                                         36
+Test 21174C6 (test 13 of 16, hot flame 13 of 16) – sustained ignition, run with
+pmt1Gain=6, pmt2Gain=pmt3Gain=6.5, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.116
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                        37
+Test 21174C6, continued
+
+
+
+
+                          38
+Test 21174C6, continued
+
+
+
+
+After test: 174 on lowest valve safety timer, 276 psia in oxidizer bottle, 32 psia
+in fuel bottle
+
+
+
+
+                                         39
+Test 21174F2 (test 14 of 16, hot flame 14 of 16) – sustained ignition, run with
+igniterPreheatPowerV=2.7, igniterIgnitionPowerV=2.9, pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=6, flowTimeoutSec=150, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.233, constantFlowTime1Sec=120
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                        40
+Test 21174F2, continued
+
+
+
+
+                          41
+Test 21174F2, continued
+
+
+
+
+After test: 121 on lowest valve safety timer, 276 psia in oxidizer bottle, 30 psia
+in fuel bottle
+
+
+
+
+                                         42
+Test 21174F3 (test 15 of 16, hot flame 15 of 16) – sustained ignition, run with
+igniterPreheatPowerV=2.6, igniterIgnitionPowerV=2.8, pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=6, flowTimeoutSec=95, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.233, constantFlowTime1Sec=65
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+                                        43
+Test 21174F3, continued
+
+
+
+
+                          44
+Test 21174F3, continued
+
+
+
+
+After test: 65 on lowest valve safety timer, 276 psia in oxidizer bottle, 30 psia in
+fuel bottle
+
+
+
+
+                                         45
+Test 21174F4 (test 16 of 16, hot flame 16 of 16) – sustained ignition, run with
+igniterPreheatPowerV=2.5, igniterIgnitionPowerV=2.7, pmt1Gain=5.5,
+pmt2Gain=pmt3Gain=6, flowTimeoutSec=50, fuelFlowIgnitionDeltaMs=0,
+fuelIgnitionFlowSlpm=fuelTestFlow1Slpm=0.233, constantFlowTime1Sec=30
+dataCamera Zoom=25000, dataCamera Focus=14600
+
+
+
+
+It appears that the fuel flow rate may have been slightly dropping due to
+diminishing pressure in the fuel bottle.
+                                        46
+Test 21174F4, continued
+
+
+
+
+                          47
+Test 21174F4, continued
+
+
+
+
+After test: 0 on lowest valve safety timer, 276 psia in oxidizer bottle, 29 psia in
+fuel bottle
+Unfortunately, flowTimeoutSec was too short and the valve safety time reached
+zero causing an off-nominal end to the test.
+
+
+
+
+                                        48
+

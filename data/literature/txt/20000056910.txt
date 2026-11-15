@@ -1,0 +1,371 @@
+°
+                                This is a prepdnt or reprint of a paper intende,d for presentation at a conference.
+                                Because changes may be made before formal publication, this is made available with the
+                                understanding that it will not be cited or reproduced without the permission of the author.
+
+
+
+           Flame        Spread          Along        Free Edges           of Thermally                 Thin     Samples          In Microgravity
+
+
+                                             W.E.     Mell',        S.L. Olson*',          and T. Kashiwagi*'*
+
+
+                                             'Chemical             and Fuels       Engineering            Department
+                                        University           of Utah, Salt Lake                City,    UT84112,              USA
+                                              '*Microgravity              Combustion             Science         Branch
+                                NASA         Glenn         Research       Center,        Cleveland,           OH 44135,             USA
+                                                  '"Building           and Fire Research                Laboratory
+              National         Institute      of Standards             and Technology,                 Gaithersburg,            MD20899,             USA
+
+                                                                              Abstract
+    The      effects      of imposed              flow      velocity       on flame            spread     along         open     edges       of a thermally
+    thin cellulosic            sample        in microgravity              are studied           experimentally                and theoretically,           In this
+    study,     the sample              is ignited         locally     at the middle            of the 4 cm wide sample                      and subsequent
+    flame      spread         reaches        both     open edges             of the sample.             The     following           flame       behaviors         are
+    observed           in the         experiments             and      predicted        by      the     numerical         calculation:            in order         of
+    increased           imposed          flow velocity;             (1) ignition        but subsequent              flame        spread      is not attained,
+    (2) flame          spreads         upstream           (opposed        mode)         without         any downstream                 flame,     and     (3) the
+    upstream           flame      and two separate                  downstream           flames         traveling        along        the two open           edges
+    (concurrent           mode).         Generally,           the upstream             and downstream                  edge     flame       spread      rates     are
+    faster     than      the central          flame         spread       rate for an imposed                    flow     velocity         of up to 5 cm/s.
+    This is due to greater oxygen supply                                 from the outer free stream to the edge                                   flames        than
+    the central flames. For the upstream                                 edge flame, the greater oxygen   supply                                   results       in a
+    flame      spread         rate that is nearly              independent             of, or decreases             gradually,           with the imposed
+    flow      velocity.         The     spread       rate of the downstream                      edge,        however,          increases        significantly
+    with the imposed                  flow    velocity.
+
+    Introduction
+    Fire      safety      precautions               are     especially         vital     for     the     longer         duration         and     increasingly
+    complex    space missions in the future International Space Station                                                       and the planned manned
+    flight mission to Mars (three years). For this reason, many flame                                                         spread experiments over
+    combustible               solid      surfaces           have      been      conducted              in microgravity                environments.              For
+    example,        over a thermally   thin cellulosic   sample    with                                       external   flows [1,2];                at various
+    ambient        pressures  in a quiescent    environment     [3,4];                                         in a three-dimensional                   spread-
+    pattern            from       a        localized            spot         ignition          [5];       and          over       a      thermally              thick
+    polymethylmethacrylate,                           PMMA,     sample                 in quiescent,                high oxygen     concentration
+    environments     [6,7].                All      these experiments                  were conducted                over the center part of the
+    sample       to avoid             the effects          of the sample           edges        as much          as possible,           However,          limited
+    published  studies on flame spread along thin sample edges                                                      in normal gravity  show that
+    flame spread    rate along free edges tends to be faster than                                                   that along the center of the
+    sample       [8,9].        Since     faster      flame      spread        rate means          more rapid            fire growth,           measurements
+    of spread          rates     along       free edges             in microgravity             are needed.            It has     been      observed         that a
+    slow external    flow, which    simulates ventilation flow in a spacecraft                                                               and the Space
+    Station, has significant effects on flame spread in mierogravity  [1,2,10].                                                             Thus, the focus
+    of this paper              is to determine               the effects         of a slow             imposed         flow      on both        flame        spread
+about 1.5 cm (at a much later time than the 3.5 cm/s and5 cm/s air flow cases).This
+delay was causedby the larger distancefrom the flame front to the free edgesdueto a
+smallerinternal angleof the fan-shapedupstreamflame at 2 cm/scomparedto 3.5 cm/s
+and 5 cm/s air-flow velocities [11]. When the flame front reachedthe free edges,a
+sudden, rapid flame spread occurred. However, the edge flame spread rates were
+reasonablysteady after the initial acceleration in both upstream and downstream
+directions.The edgeflamespreadrates,determinedfrom theslopesof the nearlystraight-
+line part of the plots in Figure2, areshownin Figure3 asa functionof externalair flow
+velocity. The upstreamedge flame spreadrate decreasesslightly with an increasein
+external flow velocity. This trend is significantly different from that of the upstream
+centralflame spreadrate,which significantlyincreaseswith externalflow velocity in this
+rangeof velocities[11]. However,theseedgeflamesarepropagatingmuch fasterthana
+normal-gravity,downward,free-edgeflame over the samesample,which propagatesat
+approximately0.13 cm/s againstbuoyancyinduced air flow. This suggeststhat edge
+flamespreadratewould continueto decreasegraduallywith externalflow velocityabove
+5 cm/s.However,downstreamedgeflame spreadrate increasesrapidly with an increase
+in externalflow velocity.
+
+In order to provide a perspectiveon edge flame spreadingrelative to central flame
+spreading,the edgeflame spreadratesare normalizedby the centralflame spreadrates
+obtainedfrom the sampleswithout the free edges,which weredeterminedduring other
+seriesof RITSI tests [11]. The upstreamanddownstreamcentralflame spreadratesat
+eachflow areusedto normalizetheupstreamanddownstreamedgeflame spreadratesat
+the correspondingflow velocity, respectivelylThe normal gravity downwardedgeflame
+spreadrate is alsonormalizedby thenormal gravity downwardcentralflame spreadrate.
+As is seenin the insert of Figure 3, at low velocitiesthe upstreamedgeflames spread
+fasterthan the upstreamcentralflame.However,as imposedflow velocity increasesthe
+oxygen supply to the centralflame becomessufficient andthe upstreamcentralflame
+spreadsat the same rate as the upstreamedge flame. This would be a minimum
+normalizedupstreamedge flame spreadrate,becauseat normal gravity the normalized
+downwardspreadingedgeflamesareagainfasterthanthe centraldownwardpropagating
+flame. The downstreamnormalized edge flame spreadrates increasesrapidly with
+imposedflow, dueto enhancements    in both oxygensupplyandconvectiveheating.
+
+Theoretical          Model
+Since       a more      detailed    description        of the mathematical           model      has been       given        in Refs.
+[10,12],    only a brief           summary    is given here. The                gas phase is formulated                  with the
+conservation     equations           of mass, full Navier-Stokes                 form of the momentum                    (without
+gravity),      energy,       and   species     (fuel     and     oxygen)    under    the     low-Mach-number                limit.     A
+global one-step reaction   {Fuel Gas} + vo2 {Oxygen}                            _       Product with an Arrhenius                    rate
+is used. The pre-exponential     factor in the reaction                             rate is 5.0 x 109 cm3/(g.s);                      the
+activation       energy      is 67    kJ/mol;      the    heat     of combustion           is 35kJ/g;    the      stoichiometric
+constant   Vo2 is 3.57. These values were chosen to match roughly flame spread rates with
+the experiments     of Olson [1]. In addition the same values have been used in our previous
+theoretical       studies     [5,10,12,13].       Ignition       is initiated   by an external          radiant      flux     on the
+sample       surface,     and radiative       emission     and absorption       in the gas are neglected.
+with decreasingimposedflow velocity. There is an initial accelerationin the edgeflame
+spreadfollowed by a nearlysteady(linear) spreadfor 2 cm/sand3 crn/simposedflows.
+For 1 crn/simposedflow, the downstreamedgeflamespreadratedoesnot reacha steady
+statewith the samplesize usedin this study.For longersamplesit is possiblethat this
+flame might extinguish.The steadyedgeflame spreadrateis determinedby the slopeof
+the nearly linear part of the curvesin Figure 5, and alsofrom a similar plot for 29%
+oxygen concentration(not shown).The results are plottedwith respectto the imposed
+flow velocity in Figure 6. This figure shows the same trends as observed in the
+experimentsin Figure 3; downstreamedge flame spreadrate increasesrapidly with an
+increasein the imposedflow velocity, but upstreamedgeflame spreadrate is nearly
+independentor decreases lightly with the imposedflow velocityin the rangeusedin this
+study.
+
+Discussion
+The spreadrateof the upstreamedgeflame is greaterthanthe upstreamcenterflamedue
+to improvedoxygensupply alongedges.The oxygenmassflux vectorsclearly showthis
+in Figure4. Also, the lower half of Figure 7 showsthat the amountof oxygen massflux
+to the upstreamedgeflames is roughly two times higher thanthat to the central flame.
+Note that the upstreamedgeflame spreadrate is nearly independentof, or decreases
+slightly, with imposedflow velocity. Sincethe upstreamedgeflame doesnot spreadin
+quiescentconditions(for both 29%and33% ambientoxygenconcentrations)andblows
+out at sufficiently high velocities, it is expectedthat a maximumspreadrate exists. In
+Figure 5 show that the upstreamedge flame spread rate increaseswith oxygen
+concentrationand tends to occur at a higher imposed velocity in lower oxygen
+concentration.This trendis similar to that observedfor the centerflame spread[1]. The
+calculatedgasphasetemperatureof the upstreamedgeflame, asshownin Figure7, does
+not increasewith the flow velocity.This indicatesthatthereis a sufficient oxygensupply
+to the edgeflame, and further increasein the velocity graduallycools the flame. Thus,
+upstreamedge flame spreadrate startsto decreasewith the imposedvelocity at much
+ lower velocity comparedto the centerflame spread[1]. However,oxygen supply to the
+downstreamedgeflames muchexceedsthat to the centerpart of the downstreamflame
+spread,     as shown           in Figures     4 and 7. Because              the supply         continues       to increase       with   the
+imposed   flow velocity, the downstream                           edge      flame       spread     rate     increases      significantly
+with the imposed flow velocity.
+
+
+The      next   question          is why     the     flame     separates        into     upstream         flame      and   downstream
+flame/flames            as    observed       in the     experiment             and     also    in the       calculation.        When       an
+upstream        flame        is present,    the downstream             flame    can fail to spread           because       the upstream
+flame     consumes           too much       oxygen     [5,10,13].          This can be seen             in Figures      4 and    7. When
+the imposed flow velocity    is reduced, oxygen  supply to the downstream     flame becomes
+less but still a sufficient amount of oxygen    can be supplied    to the downstream    edge
+flames from the outer free stream mainly by diffusion.   This is seen in Figures 7 and 8. In
+Figure      8, the      difference         between      the    total     oxygen        mass      flux     vector     (upper     plot)   and
+convective oxygen                mass flux vector            (lower plot) is the oxygen supply flux vector to the
+flames by diffusion.              The convective             oxygen  mass flux to the downstream    edge flame is
+very small       as shown           in the figure.     Although          the oxygen           supply     by diffusion         to the flame
+
+
+
+
+                                                                       5
+,oMcGrattan,K.B., Kashiwagi,T., Baum,H.R., andOlson,S.L., Combust.                                       Flame,
+106:377-391      (1996).
+_ Olson,      S.L., Kashiwagi,     T., Fujita,      O., Kikuchi,      M., and Ito, K.,"Spot        Radiative
+Ignition and Subsequent          Three Dimensional            Flame    Spread      Over Thin     Cellulose      Fuels"   to
+be submitted  to Combust          Flame.
+,2 Nakabe,     K., McGrattan,      K.B.,     Kashiwagi,      T., Baum,     H.R.,    Yamashita,         H., and Kushida,
+G., Combust.      Flame,   98:361-374(1994).
+_3Mell, W.E.      and Kashiwagi,       T., Twenty-Seventh             Symposium      (International)       on
+Combustion,       The Combustion           Institute,   Pittsburgh,     1998, pp.2635-2641.
+_4Kashiwagi,      T. and Nambu,       H., Combust.          Flame,     88:345-368(1992).
+         •   i
+    a)
+                 Z   _
+
+
+
+
+    b)
+
+
+
+    c)
+
+
+
+i   d)
+
+
+
+    e)
+
+
+
+    f_
+ E                   I
+
+
+
+
+ 0              5-                                        m/s
+
+ C              4
+ 0
+                          5cm/s                                 2 cm/s
+                3
+ (3                                                Upstreom                -
+ o              2
+ 0
+--              1
+
+ c              0
+ 0
+ L
+_--       --1
+ ©
+ E        -2                                   Downstream
+ ©        -3                                              3.5    cm/s
+ ©        -4
+ O_       -5                                      5cm/s
+-0
+I,I
+                         10       15      2O       25           30        55
+      Time,          sec onds          from    first      Iomp          glow
+          0.35
+
+                      D
+          0.30
+
+
+
+
+    E     0.25
+    O
+
+
+                                                  "1-1                                    \
+    n" 0.15                              "O
+
+
+    "O                         D         _.2.0
+    (I_   0.10                           U)
+                                                                                              lg
+                                         "O
+    ¢_
+                                         N¢ 1.5
+
+
+                                         E 1.0
+                                                            I    I   I
+                                                                                 ,_-
+          0.00
+                                   I-_   Z            -6   -4   -2   0   2       4.   6
+                                              Imposed Flow Velocity, cm/s
+
+                 -6       -4       -2             0              2           4            6
+
+
+                      Imposed            Flow Velocity,                               cm/s
+
+
+
+
+3
+tl
+3
+
+
+
+
+::3
+      6   I    I   I   I       I        I   !    I   i          i    I   |   I   |
+
+
+
+
+ E
+ <0
+          Upstream                 __
+
+ 0
+                                            ._              _ _kI cm/s
+ o    2
+ 0             D-O                                          O0
+              nO                    L_
+                                    A_k                     O 13         cm/s
+      0
+N--
+              mo
+               me                               _A
+
+
+                       %....                                        -,,,
+                           •                %,
+-0
+ _J                                                      II--
+          ,D°,_nstreolm,,,,                                     n ,      ,   ,   ,
+
+                           I0                             15                         2O
+                                    time,            s
+        i,5
+                                            • center             flame
+                                            0 up-tream                 edge-flame
+                                  []        [] downstream                       edge-flame
+
+                                            x denotes                 29_       02,      4<m         _ide
+  O3                                        + denotes                 29_       02,      2cm         wide
+
+        1.0
+  E
+  _J
+
+  dJ
+-l-.a
+
+
+                                            []
+
+                                                                                0
+  0                                                                   o                  o
+  d_
+  __ 0.5
+
+
+
+
+                                                                      0
+
+
+              ,   ,   ,   I   ,   ,    ,    I    i   ,   ,   I    ,    ,    ,    I   ,   ,   ,   I   ,   ,   i
+
+                      -4                   -2                0                  2                4               6
+                      imposed                    flow        velocity,                   cm/s
+                                    ................................   :   .....   : :.2 :   .: .
+
+
+                                                                                                    I
+
+
+
+
+.................................
+
+
+
+
+......
+    :T22.12:::LT.-_:
+               Y-
+               ,5.2E-05   1.BE-04   Z6E-04       3.BE-04   4.7E-04   ,5.7E-04   6.t_E-04   7.t_E-04
+
+
+
+           2
+
+
+
+
+     E
+     i="
+
+
+
+
+     I     0
+
+
+t:
+in
+
+     0
+     i=
+
+
+
+
+                     3          2            1         0        -1         -2
+                                    x, distance along paper, cm
+

@@ -1,0 +1,210 @@
+                      S P A C t C R A F l MAltRlAL FLAMMABILITY TESTING AND C O N F I G U R A T I O N S
+
+                                                   Paul W . Ledoux
+                                       McDonnell Douglas A s t r o n a u t i c s Company
+                                                 Houston Operations
+
+
+I                                                             BACKGROUND
+
+              A s a r e s u l t o f t h e A p o l l o AS204 f i r e , NASA made a commitment t o t h e
+    Congress t h a t t h e agency would be aware o f t h e t y p e and q u a n t i t y o f each mate-
+    r i a l i n t h e h a b i t a b l e a r e a o f manned s p a c e c r a f t . NASA a l s o committed t o con-
+    d u c t f l a m m a b i l i t y t e s t s on m a t e r i a l and c o n f i g u r a t i o n t o v e r i f y t h e f i r e s a f e t y
+    o f manned space v e h i c l e s . Major p o i n t s r e s u l t i n g f r o m i n v e s t i g a t i o n s were t o
+    ( 1 ) c o n t r o l t h e l a u n c h environment ( i . e . , c o n t r o l oxygen c o n c e n t r a t i o n ) ,
+    ( 2 ) have onboard a f i r e e x t i n g u i s h i n g system, ( 3 ) have a s t a n d a r d and con-
+    t r o l l e d s e t o f f l a m m a b i l i t y r e q u i r e m e n t s , and ( 4 ) conduct c o n f i g u r a t i o n and
+    full-scale flammability tests.
+
+              S i n c e t h e AS204 f i r e , NASA has had o t h e r a c c i d e n t s t h a t caused a r e e v a l u -
+    a t i o n o f m a t e r i a l s f l a m m a b i l i t y i n h i g h - p r e s s u r e oxygen systems. The f i r s t
+    was t h e A p o l l o 13 i n c i d e n t , which was an i n - f l i g h t f i r e i n a c r y o g e n i c p r e s -
+    s u r e v e s s e l t h a t r e s u l t e d j n t h e v e s s e l r u p t u r e and caused an a b o r t o f a l u n a r
+    l a n d i n g m i s s i o n . The second i n c i d e n t was a S h u t t l e ground t e s t , where an
+    E x t r a v e h i c u l a r M o b i l i t y U n i t oxygen f i r e d e s t r o y e d a t e s t u n i t and a s p a c e s u i t
+    and s e r i o u s l y i n j u r e d a t e c h n i c i a n .
+
+
+                                           PRESENT REQUIREMtNTS AND TRACKING
+
+               As a r e s u l t o f these a c c i d e n t s , NASA has imposed s t a n d a r d f l a m m a b i l i t y
+     r e q u i r e m e n t s on a l l s p a c e c r a f t m a t e r i a l . The r e q u i r e m e n t s a r e p r e s c r i b e d a t
+     L e v e l I (NASA H Q ) v i a NHB 8060.18 ( r e f . 4 ) . A t L e v e l I 1 ( S T S Program O f f i c e )
+    JSC 07/00, v o l . X , paragraph 3.5.2.1, s t a t e s " M a t e r i a l s and processes s h a l l be
+    s e l e c t e d i n accordance w i t h JSC-S€-R-0006." T h i s document imposes t h e NHB
+    8060.1 r e q u i r e m e n t s i n a d d i t i o n t o o t h e r m a t e r i a l s r e q u i r e m e n t s such as c o r -
+    r o s i o n , s t r e s s c o r r o s i o n , f r a c t u r e c o n t r o l , age l i f e , and vacuum s t a b i l i t y .
+    l h e JSC-S€-R-0006 a l s o r e q u i r e s t h a t each element and major c o n t r a c t o r p r e p a r e
+    a m a t e r i a l s c o n t r o l and v e r i f i c a t i o n p l a n . The O r b i t e r p r o j e c t p l a n i s i n JSC
+    11739 " S h u t t l e O r b i t e r P r o j e c t M a t e r i a l s C o n t r o l and V e r i f i c a t i o n Program
+    Management Procedures.
+
+              l h e m a t e r i a l c o n t r o l procedures f o r t h e O r b i t e r a r e accomplished by t h e
+    M a t e r i a l s A n a l y s i s T r a c k i n g and C o n t r o l ( M A T C O ) system. T h i s system i s essen-
+    t i a l l y a c e n t r a l computerized system where a l l m a t e r i a l s used i n t h e O r b i t e r
+    i n b o t h t h e o r i g i n a l d e s i g n and t h e a s - b u i l t d e s i g n (changes by M a t e r i a l Review
+    ( M R ) , Discrepancy Reports ( D R ' s ) , and T e s t and Checkout Procedures ( T C P ) ) a r e
+    recorded. l h e documentation r e q u i r e m e n t s t r a c k e d by MA'ICO i n c l u d e m a t e r i a l
+    usage, f l a m m a b i l i t y a c c e p t a b i l i t y , t o x i c i t y , age l i f e , vacuum s t a b i l i t y , and
+    f l u i d c o m p a t i b i l i t y a c c e p t a b i l i t y . T h i s system assures t h a t a l l m a t e r i a l s a r e
+    reviewed, approved, and have t h e i r w a i v e r s t r a c k e d . F i g u r e 1 has a f l o w d i a -
+    gram f o r t h i s procedure.
+
+
+                                                                     95
+          The p h i l o s o p h y NASA uses i n f i r e p r e v e n t i o n i s ( 1 ) assume an i g n i t i o n
+source e x i s t s and a f i r e can s t a r t , and ( 2 ) r e q u i r e t h a t any f i r e once s t a r t e d
+s h a l l be s e l f - e x t i n g u i s h i n g w i t h i n a s h o r t d i s t a n c e . T h i s i s accomplished i n
+t h e d e s i g n by a s s u r i n g t h a t exposed m a t e r i a l s a r e s e l f - e x t i n g u i s h i n g as a
+m a t e r i a l o r when t e s t e d i n t h e use c o n f i g u r a t i o n . Flammable m a t e r i a l s must be
+stowed i n a nonflammable c o n t a i n e r , have f i r e breaks a l o n g t h e m a t e r i a l t o
+p r e v e n t p r o p a g a t i o n , o r be p r o t e c t e d w i t h a f l a m m a b i l i t y b a r r i e r . There i s
+a l s o e x t e n s i v e use o f f i r e breaks as w e l l as p r o p e r housekeeping d u r i n g t h e
+m i s s i on.
+
+          M a t e r i a l and c o n f i g u r a t i o n t e s t i n g f o r t h e S h u t t l e i s m a i n l y a t 30 p e r c e n t
+oxygen c o n c e n t r a t i o n a t 70 kPa (10.2 p s i a ) . T h i s i s t h e worst-case atmosphere
+d u r i n g a m i s s l o n and occurs 1 0 h r p r i o r t o an e x t r a v e h i c u l a r a c t i v i t y (space
+w a l k ) . The p r e s s u r e i s reduced f r o m t h e nominal 101 kPa ( 1 4 . 7 p s i a ) and t h e
+oxygen c o n c e n t r a t i o n i s i n c r e a s e d t o 30 p e r c e n t f o r m e d l c a l reasons t o p r e v e n t
+t h e "bends" d u r i n g an EVA.
+
+           l h e nominal atmosphere i s 101 kPa (14.7 p s i a ) w i t h a 23.8 mass-percent
+oxygen c o n c e n t r a t i o n . However, t h e maximum oxygen c o n c e n t r a t i o n t h a t can occur
+b e f o r e t h e C a u t i o n and Warning system w i l l i n i t i a t e an a l a r m i s 25.9 p e r c e n t .
+NASA has t e s t e d many m a t e r i a l s a t t h e 23.8-, 25.9-, and 30-percent-oxygen
+ l e v e l s f o r t h e S h u t t l e program. I n a d d i t i o n , NASA has a l a r g e d a t a base a t
+100 p e r c e n t oxygen a t 35 kPa ( 5 p s i a ) and 115 kPa (16.5 p s i a ) . l h e d a t a i n
+f i g u r e 2 show how f l a m m a b i l i t y o f m a t e r i a l i s a f f e c t e d by percentage o f oxygen
+f o r those m a t e r i a l s t h a t would be c o n s i d e r e d f o r s p a c e c r a f t a p p l i c a t i o n s .
+l h i s may r e p r e s e n t t h e whole p o p u l a t i o n o f m a t e r i a l s .
+
+
+                                        FLAMMABILITY CONlROL I N P R A C T I C E
+
+          One method used i n t h e S h u t t l e v e h i c l e t o reduce f l a m m a b i l i t y i s t o con-
+t r o l spacing o f flammable m a t e r i a l s such as V e l c r o and w i r e t i e s . The V e l c r o
+'IS flammable, b u t NASA has a spacing r e q u i r e m e n t t h a t a l l V e l c r o usage should
+be n o t more t h a n 25 cm2 ( t y p i c a l l y 2 by 2 i n . ) and each p i e c e must be sepa-
+r a t e d by 5 cm ( 2 i n . ) f r o m each o t h e r p i e c e i n t h r e e dimensions. The w i r e t i e
+s p a c i n g s t a t e s t h a t a l l w i r e t i e s must be 5 cm ( 2 i n . ) a p a r t u n l e s s a nonflam-
+mable t i e such as T e f l o n - c o a t e d g l a s s t i e s a r e used.
+
+          Flammable m a t e r i a l s must be stowed i n nonflammable c o n t a i n e r s such as
+m e t a l boxes o r t h e p o l y c a r b o n a t e stowage boxes used i n t h e O r b i t e r . Other
+nonflammable bags may be used, such as bags made o f d o u b l e l a y e r Nomex ( a t
+l e a s t 230 g/m ( 7 . 5 oz/yd) each) w i t h a l e f l o n - c o a t e d g l a s s f a b r i c i n between.
+NASA used T e f l o n - c o a t e d b e t a c l o t h f o r stowage bags i n A p o l l o , b u t t h e s e were
+n o t d u r a b l e enough f o r a reuse v e h i c l e l i k e t h e S h u t t l e . Nonflammable bags
+f o r wet stowage have been made by making a bag o u t o f two l a y e r s o f Nomex
+f a b r i c (230 g/m ( 7 . 5 o z / y d ) ) w i t h an i n s i d e l a y e r o f neoprene-coated n y l o n .
+
+       The i n s i d e o f t h e O r b i t e r i s a d d i t i o n a l l y p r o t e c t e d f r o m a m a j o r f i r e by
+compartmentation o f t h e e l e c t r o n i c s . For example, t h e many e l e c t r o n i c areas
+a r e each i n t h e i r own compartment t o m i n i m i z e t h e spread o f a f i r e . Each com-
+partment has e i t h e r f i r e e x t i n g u i s h e r n o z z l e s f r o m t h e c e n t r a l f i r e e x t i n g u i s h -
+i n g system o r has f i r e e x t i n g u i s h e r access p o r t s i n f r o n t o f t h e panel f o r t h e
+hand-held f i r e e x t i n g u i s h e r t o be used t o p u t o u t a f i r e . I n a d d i t i o n , w i r e
+bundles a r e r o u t e d I n t r a y s when exposed t o t h e c a b i n t o ensure t h a t t h e w i r e
+bundles cannot be damaged.
+
+                                                                96
+             NASA has used s e v e r a l techniques t o p r o t e c t flammable m a t e r i a l s o r compo-
+I   n e n t s t h a t must be used e i t h e r i n t h e d e s i g n o r t h e o p e r a t i o n s o f t h e S h u t t l e .
+    Examples i n c l u d e wrapping p l a s t i c s w i t h aluminum tape as a f i r e b a r r i e r . T h i s
+I   has been used on many s m a l l o f f - t h e - s h e l f i t e m s such as power s c r e w d r i v e r s ,
+    c a l c u l a t o r s , and o t h e r hand-held d e v i c e s . A l s o employed a r e nonflammable
+    sleeves made o f b e t a c l o t h o r double l a y e r s o f Nomex, nonflammable c o a t i n g s ,
+    etc.
+
+               There have been over 30 t e s t s on e l e c t r o n i c " b l a c k boxes". These range
+I   f r o m h e r m e t i c a l l y s e a l e d u n i t s b a c k f i l l e d w i t h an i n e r t gas t o a i r - c o o l e d
+1
+    e l e c t r o n i c boxes. Most o f t h o s e made o f a nonflammable c o n t a i n e r passed t h e
+    c o n f i g u r a t i o n t e s t . Those t h a t f a i l e d had flammable m a t e r i a l s on t h e o u t s i d e
+    o r used u r e t h a n e foam i n t h e box w i t h a l a r g e v o i d space. The boxes t h a t were
+    a i r c o o l e d had t o meet t h e f o l l o w i n g c o n d i t i o n s t o pass a c o n f i g u r a t i o n t e s t
+    ( i . e . , no flames o u t s i d e t h e b o x ) : ( 1 ) have a i r f l o w s below 3.7 m/sec
+    ( 1 2 f t / s e c ) o r above 9 m/sec ( 3 0 f t / s e c ) , ( 2 ) have t h e v e n t h o l e s covered w i t h
+    a s t e e l screen o f 100 mesh o r g r e a t e r , and ( 3 ) assure t h a t t h e f l o w i n g a i r d i d
+    n o t c r e a t e a "chimney e f f e c t " by h a v i n g a s t r a i g h t p a t h f r o m t h e i n l e t t o
+    outlet.
+
+
+                                                         FUTURE NF.LDS
+
+              There a r e s t i l l some f l a m m a b i l i t y problem areas o r a p p l i c a t i o n s t h a t c o u l d
+    be improved. One o f t h e areas t h a t c o u l d be improved i s t h e f i r e e x t i n g u i s h e r .
+    The p r e s e n t e x t i n g u i s h e r medium i s Halon 1301. T h i s m a t e r i a l has s e v e r a l
+    shortcomings, i n c l u d i n g (1) t h e p r o d u c t s produced i n f i g h t i n g a f i r e a r e c o r -
+    r o s i v e t o e l e c t r o n i c s and a r e t o x i c , ( 2 ) i t has l i m i t e d e f f e c t i v e n e s s above
+    33 p e r c e n t oxygen c o n c e n t r a t i o n , ( 3 ) i t r e q u i r e s c a r e i n usage t o ensure t h a t
+    s u f f i c i e n t q u a n t i t y i s p u t on t h e f i r e .
+
+         The w a t e r emulsion system used on A p o l l o was v e r y e f f e c t i v e , b u t t h e r e
+    was always t h e concern about w a t e r on e l e c t r i c a l systems.
+
+              Other areas t h a t c o u l d use some i n n o v a t i o n a r e ( 1 ) c l o t h i n g f o r t h e crew
+    d u r i n g t h e m i s s i o n , ( 2 ) nonflammable foams f o r cushions, and ( 3 ) paper and
+    cardboard f o r f l i g h t d a t a f i l e s and cuecards.
+
+
+
+
+                                                                97
+                                                           PRELIMINARY DESIGN
+                                                           MATER I AL SELECT I ON
+
+                                                                                          REJECT
+
+
+
+
+                                                              ACCEPT
+                                                                                  I
+                                                                                                     MATERIAL REVIEW
+             RETURN TO                                        D E T A I L DES I GN
+                                                                                                     DRAW1 NG S I GNOFF
+             CONTRACTOR                                                                               ACCEPT
+                  I                                                                                             I
+                                                                                                                I
+                                  NASA WAIVER     a
+                                     REV I EW                                                       WAIVER REQUIRED
+              REDESIGN                 I                                                                  kin   I
+                                        1
+                  L                                                                                      MATER 1AL
+
+                              REJECT
+
+
+
+              Figure 1.       -    Review l o g i c for S h u t t l e m a t e r i a l a c c e p t a n c e .
+
+
+
+
+                                                                                      0
+                                                                                  /
+                                                                              I
+
+                                                                         p’
+                                                                         I
+              PERCENT OF             60
+                                                                     I
+              MATER 1ALS                                         I
+              THAT BURN
+                                      40                     i                             IEXTENSIVE DATA
+                                                                                           0 VERY LIMITED DATA
+
+
+
+                                            0         20                     40           60       80               100
+                                                            OXYGEN CONCENTRATION, PERCENT
+
+
+Figure 2 .   -   D a t a on m a t e r i a l f l a m m a b i l i t y as f u n c t i o n o f oxygen c o n c e n t r a t i o n .
+
+
+                                                              98
+

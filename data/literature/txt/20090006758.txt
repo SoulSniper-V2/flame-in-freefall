@@ -1,0 +1,338 @@
+                                                Journal of ASTM International, October 2009, Vol. XX No. XX
+                                                                                                   Paper ID
+                                                                           Available online at www.astm.org
+
+
+
+S. Peralta 1 , Keisa R. Rosales, 2 and Joel M. Stoltzfus 3
+
+
+
+Liquid Oxygen Rotating Friction Ignition Testing of
+Aluminum and Titanium with Monel® and Inconel® for Rocket
+Engine Propulsion System Contamination Investigation
+      ABSTRACT: Metallic contaminant was found in the liquid oxygen (LOX) pre-valve screen of the shuttle
+      main engine propulsion system on two orbiter vehicles. To investigate the potential for an ignition, NASA
+      Johnson Space Center White Sands Test Facility performed (modified) rotating friction ignition testing in
+      LOX. This testing simulated a contaminant particle in the low-pressure oxygen turbo pump (LPOTP) and the
+      high-pressure oxygen turbo pump (HPOTP) of the shuttle main propulsion system. Monel® K-500 and
+      Inconel® 718 samples represented the LPOTP and HPOTP materials. Aluminum foil tape and titanium foil
+      represented the contaminant particles. In both the Monel® and Inconel® material configurations, the
+      aluminum foil tape samples did not ignite after 30 s of rubbing. In contrast, all of the titanium foil samples
+      ignited regardless of the rubbing duration or material configuration. However, the titanium foil ignitions did
+      not propagate to the Monel and Inconel materials.
+
+      KEYWORDS: Rotating friction ignition testing; liquid oxygen environment; aluminum; titanium; metallic
+      contaminant particles
+
+List of Notations
+Abbreviations
+HPOTP        High-pressure oxygen turbo pump
+LOX          Liquid oxygen
+LPOTP        Low-pressure oxygen turbo pump
+WSTF         NASA White Sands Test Facility
+
+
+
+
+1
+  Mechanical Engineer, NASA Test and Evaluation Contract, P.O. Box 20, Las Cruces, New Mexico 88004.
+2
+  Chemical Engineer, NASA Test and Evaluation Contract, P.O. Box 20, Las Cruces, New Mexico 88004.
+3
+  Project Manager, NASA White Sands Test Facility, P.O. Box 20, Las Cruces, New Mexico 88004.
+2 JOURNAL OF ASTM INTERNATIONAL
+
+
+Introduction
+
+     NASA Johnson Space Center White Sands Test Facility (WSTF) performed (modified) rotating
+
+friction ignition testing in liquid oxygen (LOX). The testing was performed because metallic contaminant
+
+particles were found lodged in the LOX pre-valve screen of the shuttle main engine propulsion system on
+
+two orbiter vehicles. The contaminant was considered, as worst case, to be either aluminum or titanium.
+
+Particle size was estimated to be approximately 1.8 x 1.8 x .08 mm (0.070 by 0.070 by 0.003 in.). The
+
+concern was that a contaminant particle could cause an ignition if it were to become dislodged from the
+
+screen and travel downstream into either the low-pressure oxygen turbo pump (LPOTP) or the high-
+
+pressure oxygen turbo pump (HPOTP). This paper summarizes the testing performed to determine if the
+
+contaminant was vulnerable to frictional ignition in the presence of LOX, and if it could lead to ignition
+
+of the turbo pump materials of construction.
+
+     Rotating friction ignition testing was one of four phases of testing performed to support the
+
+investigation of contaminant in the pre-valve LOX screen. Promoted combustion, modified mechanical
+
+impact, and frictional testing were also performed in support of this effort.
+
+
+
+Test Materials and Sample Preparation
+
+     Simulated particle samples were constructed from aluminum foil tape and titanium foil, materials
+
+similar to those used on and around the shuttle main engine. The sample length was determined by a cut
+
+strip of the material with a measured mass between 0.3 and 0.4 mg for the aluminum tape and between
+
+0.5 and 0.6 mg for the titanium foil. The width of the strip was 1.8 ± .08 mm (0.070 ± 0.003 in.). Once the
+
+sample length was determined, a blank piece with a tail was cut. The tail would be used to fasten the
+
+particle sample to the stationary friction sample. The tail was no longer than 6.4 mm (0.25 in.) and no
+
+shorter than 2.54 mm (0.1 in.). To simulate the “crumpled” shape of the particle found on the orbiter pre-
+
+valve screen, the strip was folded into an “accordion” shape approximately 0.90 mm (0.035 in.) long.
+
+Using tweezers, the tail end was twisted 90 degrees (Figures 1 and 2). Each simulated particle was then
+
+fastened to a stationary sample using a brass flathead screw (Figure 3). The rotating and stationary
+                                                 PERALTA ET AL. ON LOX FRICTION IGNITION TESTING 3
+
+
+samples were fabricated from Monel®4 K-500 and Inconel®4 718 to represent the LPOTP and HPOTP
+
+materials of construction. The stationary sample was made of Inconel; and the rotating samples varied,
+
+being Monel or Inconel. Figure 4 depicts the rotating and stationary samples.
+
+
+
+Test Procedures and Conditions
+
+       The rotating frictional tests were conducted using the WSTF LOX frictional heating test system to
+
+simulate what could occur inside the LPOTP and HPOTP if contaminant were to reach those parts. The
+
+location and configuration of the samples in the test system is depicted in Figure 5. The test chamber was
+
+assembled and installed in the test system, and the data acquisition system was activated. After
+
+pressurizing the test system, the chamber was pressurized and checked for leaks, then vented to ambient
+
+pressure. With flowing LOX, the test chamber was chilled down and pressurized to the target pressure of
+
+approximately 400 psia. Once the LOX pressure stabilized, the drive motor was turned on. The rotational
+
+speed of the rotating sample was approximately 30,000 r/min to represent the linear velocities found in
+
+the turbo pumps. The data acquisition program operated a pneumatic cylinder that controlled the linear
+
+travel of the rotating sample to and from the stationary sample. This allowed the foil sample to be
+
+“crushed” to a target gap of 0.51 mm (0.02 in.) for Monel and 0.76 mm (0.03 in.) for Inconel. These crush
+
+heights were the gaps found in the turbo pumps where the particle could become lodged and possibly
+
+ignite.
+
+       Each test with the aluminum foil tape was terminated after rubbing for a maximum duration of 30 s.
+
+Tests with the titanium foil were terminated at ignition, which was 1 s in most cases (see Table 1).
+
+       Because the Monel K-500 was not considered flammable at the test conditions, only one titanium
+
+with Monel sample was tested. However, several tests were run for titanium with Inconel samples,
+
+because it was not certain whether the titanium foil would propagate to the Inconel material.
+
+       At each test termination, the acquisition program reversed the motion of the pneumatic cylinder,
+
+pushing the rotating sample away from the stationary sample and foil test sample. After the test system
+
+4
+    Monel® and Inconel® are registered trademarks of Inco Alloys International, Inc., Huntington, West Virginia.
+4 JOURNAL OF ASTM INTERNATIONAL
+
+
+was shut down and the test chamber vented to ambient pressure, the sample specimens were removed,
+
+visually inspected, and photographed. Observations were recorded, and the test results were analyzed.
+
+
+
+Test Results
+
+    For the aluminum foil tape with the Monel and Inconel samples, five tests were performed with each
+
+sample material in 100 % LOX. The aluminum did not ignite after being rubbed for 30 s (Figures 6
+
+through 9). For the titanium foil with the Monel sample, one test was performed. The titanium ignited
+
+after being rubbed for 30 s (Figure 10). For the titanium foil with the Inconel sample, five tests were
+
+performed. In all five of the tests, the titanium ignited (Figures 11 through 15).
+
+    In both the Monel and Inconel material configurations, the aluminum foil tape samples did not ignite.
+
+In contrast, all of the titanium foil samples ignited regardless of the rubbing duration or material
+
+configuration. However, the titanium foil ignitions did not propagate to the Monel and Inconel materials.
+                                         PERALTA ET AL. ON LOX FRICTION IGNITION TESTING 5
+
+
+
+
+                    TABLE 1—Summary of results for rotating friction testing.
+
+   Sample       Simulated    Target Gap      Pressure        Rub           Speed    Sample
+
+Configuration   Location                                   Duration                 Ignition
+
+                              mm (in.)        (psia)          (s)         (r/min)
+
+Titanium/        LPOTP       0.51 (0.02)       512            30           30,100     Yes
+
+  Monel – 1
+
+Aluminum/        LPOTP       0.51 (0.02)       446            30           30,300     No
+
+  Monel – 1
+
+Aluminum/        LPOTP       0.51 (0.02)       400            30           30,500     No
+
+  Monel – 2
+
+Titanium/       HPOTP        0.76 (0.03)       430            5a           30,600     Yes
+
+  Inconel – 1
+
+Titanium/       HPOTP        0.76 (0.03)       480             1           30,200     Yes
+
+  Inconel – 2
+
+Titanium/       HPOTP        0.76 (0.03)       440             1           30,000     Yes
+
+  Inconel – 3
+
+Titanium/       HPOTP        0.76 (0.03)       420             1           30,200     Yes
+
+  Inconel – 4
+
+Titanium/       HPOTP        0.76 (0.03)       356             1           30,000     Yes
+
+  Inconel – 5
+
+Aluminum/       HPOTP        0.76 (0.03)       445            30           30,300     No
+
+  Inconel – 1
+
+Aluminum/       HPOTP        0.76 (0.03)       443            30           30,000     No
+6 JOURNAL OF ASTM INTERNATIONAL
+
+
+     Inconel – 2
+
+Aluminum/               HPOTP          0.76 (0.03)           446        30   29,800   No
+
+     Inconel – 3
+
+Aluminum/               HPOTP          0.76 (0.03)           448        30   30,300   No
+
+     Inconel – 4
+
+Aluminum/               HPOTP          0.76 (0.03)           435        30   30,200   No
+
+     Inconel – 5
+
+Aluminum/               LPOTP          0.51 (0.02)           421        30   29,900   No
+
+     Monel – 3
+
+Aluminum/               LPOTP          0.51 (0.02)           492        30   30,000   No
+
+     Monel – 4
+
+Aluminum/               LPOTP          0.51 (0.02)           410        30   29,900   No
+
+     Monel – 5
+ a
+     Bearing failure caused the rub duration to last longer than 1 s.
+                         PERALTA ET AL. ON LOX FRICTION IGNITION TESTING 7
+
+
+
+
+FIG. 1—Aluminum foil tape sample (top); titanium foil sample (bottom).
+
+
+
+
+FIG. 2—Aluminum (top) and titanium (bottom) foil samples, second view.
+8 JOURNAL OF ASTM INTERNATIONAL
+
+
+
+
+       FIG. 3—Aluminum foil tape simulated particle mounted to Inconel stationary sample.
+
+
+
+
+         FIG. 4— Rotating sample (left); stationary sample (with particle holder) (right).
+               PERALTA ET AL. ON LOX FRICTION IGNITION TESTING 9
+
+
+
+
+FIG. 5—Location of sample holders in test system.
+10 JOURNAL OF ASTM INTERNATIONAL
+
+
+                     FIG. 6—Aluminum/Inconel – 1 (no ignition).
+
+
+
+
+                     FIG. 7—Aluminum/Inconel – 2 (no ignition).
+
+
+
+
+                      FIG. 8—Aluminum/Monel – 1 (no ignition).
+         PERALTA ET AL. ON LOX FRICTION IGNITION TESTING 11
+
+
+
+
+FIG. 9—Aluminum/Monel – 2 (no ignition).
+
+
+
+
+ FIG. 10—Titanium/Monel – 1 (ignition).
+12 JOURNAL OF ASTM INTERNATIONAL
+
+
+
+
+                       FIG. 11—Titanium/Inconel – 1 (ignition).
+
+
+
+
+                       FIG. 12—Titanium/Inconel – 2 (ignition).
+         PERALTA ET AL. ON LOX FRICTION IGNITION TESTING 13
+
+
+FIG. 13—Titanium/Inconel – 3 (ignition).
+14 JOURNAL OF ASTM INTERNATIONAL
+
+
+
+
+                       FIG. 14—Titanium/Inconel – 4 (ignition).
+
+
+
+
+                       FIG. 15—Titanium/Inconel – 5 (ignition).
+

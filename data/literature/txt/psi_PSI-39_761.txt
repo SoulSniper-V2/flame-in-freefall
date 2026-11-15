@@ -1,0 +1,68 @@
+                                                                                                                              3
+                  35                                                                                           12 x10
+                                                                            Mon, May 15, 2017
+                                                                            FLEX-1261
+                  30                                                        F135A05
+                                                                            P = 3777.606 mmHg                  10
+
+
+
+
+                                                                                                                      Peak Cool Flame Grayscale
+                                                                            YO2 = 0.210
+                  25                                                        YN2 = 0.790
+                                                                            YCO2 = 0.000                       8
+
+
+Df, cool ( mm )
+                  20                                                        YHe = 0.000
+                                                                            Dodecane
+                                                                            D0 = 5.646 mm                      6
+                  15                                                        D0 = nan mm
+                                                                                             2
+                                                                            kavg = 0.618 mm /sec
+                  10                                                                             2             4
+                                                                            kavg, cool = 0.564 mm /sec
+
+                   5
+                                                                                                               2
+
+
+                                                                     Droplet History
+                                                                     Hot-Flame Diameter                                                           6
+                                                                     Hot-Flame FSR                             30                                 5
+                  1.0
+                                                                     Cool Flame Diameter (FWHM)                                                   4
+                                                                     Cool Flame Grayscale
+                                                                                                                                                  3
+                                                                                                               25
+                  0.8                                                                                                                             2
+
+
+
+
+                                                                                                                                                           Flame Radiance ( W )
+                                                                                                                    Df ( mm ) , Df / Dd
+2                                                                                                              20
+                                                                                                                                                      10
+( D / D0 )
+                  0.6
+                                                                                                                                                  8
+                                                                                                                                                  7
+                                                                                                               15                                 6
+                                                                                                                                                  5
+                  0.4
+                                                                                                                                                  4
+
+                                                                                                               10                                 3
+
+                  0.2                                                                                                                             2
+
+                                        Visible hot-flame oscillations                                         5
+                                        Hot flame nearly invisible, but fiber glow indicates hot flame
+                  0.0                                                                                                                                 1
+
+                        0.0   0.5        1.0                 1.5                  2.0                    2.5
+                                         2        2
+                                    t / D0 ( s / mm )
+
